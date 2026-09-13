@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**77** Prompts · Latest addition: **2026-09-13**
+**79** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,78 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099089929439531390"></a>
+
+### 15s, 16:9, 4K multi-scene travel vlog prompt featuring a consistent young woman exploring a European city across four timestamped shots with dialogue.
+
+Author：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Source](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Cinematic / Film Still · Character · Published
+
+**Summary:** 15s, 16:9, 4K multi-scene travel vlog prompt featuring a consistent young woman exploring a European city across four timestamped shots with dialogue.
+
+<img src="covers/2099089929439531390.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15s, 16:9, 4K, cinematic realistic travel vlog. Keep the same young woman consistent throughout all scenes: long hair, white cropped top, lightweight oversized jacket, beige shorts.
+
+00:00–00:04 — HISTORIC CITY WALK
+
+A young woman confidently walks through a beautiful cobblestone street in a historic European city during golden hour. Colorful historic buildings, cozy cafés, warm streetlights and realistic pedestrians in the background.
+
+She looks directly into the camera while walking and says:
+
+"Hey everyone! I'm exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can't wait to show you what I find!"
+
+Smooth handheld travel-vlog tracking shot, shallow depth of field, golden side backlight, subtle cinematic lens flare.
+
+00:04–00:07 — LOCAL BAKERY
+
+Cut to a small local bakery. She picks up a fresh local pastry, smiles and holds it toward the camera.
+
+She says:
+
+"This looks absolutely delicious. I had to try it!"
+
+Close-following camera movement, natural hand gestures, warm bakery window lighting, realistic environment.
+
+00:07–00:10 — OUTDOOR CAFÉ
+
+She sits at a charming outdoor café, takes a sip of coffee and watches people walking by.
+
+She smiles naturally and says:
+
+"Sometimes the best part of traveling is simply slowing down and enjoying the moment."
+
+Slow cinematic push-in, warm café ambience, shallow depth of field, realistic pedestrians in the background.
+
+00:10–00:15 — SUNSET VIEWPOINT
+
+She walks toward a scenic viewpoint overlooking the entire city.
+
+The golden sunset illuminates the skyline. She turns toward the camera, opens her arms and gestures toward the view.
+
+She says:
+
+"Okay, this view is definitely the highlight of my day. Would you come here?"
+
+Slow upward camera tilt revealing the panoramic city view, glowing golden horizon and natural lens flare.
+
+STYLE:
+
+Cinematic realism, 35mm anamorphic, shallow depth of field, realistic skin texture, natural hair movement, cinematic golden-hour lighting, warm side key light, soft rim light, subtle lens flare, teal and orange color grading, subtle 35mm film grain, authentic handheld vlog camera, smooth tracking, realistic background people, highly detailed, natural motion, premium travel-film aesthetic.
+
+AVOID:
+
+Camera shake, character identity drift, distorted limbs, unnatural anatomy, lip-sync errors, subtitles, watermarks, or text appearing inside the video.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2885,6 +2957,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099148058256716100"></a>
+
+### the flippers move only when the ball is near them, the score reels only turn on a hit
+
+Author：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Source](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Other · Published
+
+**Summary:** the flippers move only when the ball is near them, the score reels only turn on a hit
+
+<img src="covers/2099148058256716100.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+the flippers move only when the ball is near them, the score reels only turn on a hit
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098982502006489324"></a>
 

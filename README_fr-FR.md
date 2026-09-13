@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**77** Prompts · Dernier ajout: **2026-09-13**
+**79** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099089929439531390"></a>
+
+### Traduction en cours
+
+Auteur：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publication originale](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Image cinématographique / Photogramme de film · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099089929439531390.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2117,22 +2139,64 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Traduction en cours
+
+Auteur：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publication originale](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099148058256716100.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Vidéo amateur style MiniDV du début des années 2000 d'une jeune femme coréenne arrosant accidentellement trop des plantes en pot sur le balcon d'un appartement sous la pluie à Séoul.
 
 Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo amateur style MiniDV du début des années 2000 d'une jeune femme coréenne arrosant accidentellement trop des plantes en pot sur le balcon d'un appartement sous la pluie à Séoul.
 
 <img src="covers/2098982502006489324.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sujet principal : Jeune femme coréenne, 24 ans, naturellement attirante, peau réaliste, maquillage minimal, longs cheveux foncés détachés de manière décontractée. Portant un simple t-shirt oversize couleur lavande délavée et un pantalon d'intérieur ample gris. Préserver son identité exacte, ses traits du visage, sa coiffure, ses proportions corporelles et son apparence tout au long.
+
+Emplacement : Petit balcon d'un vieil appartement de Séoul au petit matin sombre et pluvieux. Plusieurs petites plantes en pot reposent le long de la balustrade, avec un sol en béton mouillé, une balustrade métallique, des immeubles résidentiels voisins et des toits couverts de pluie visibles au-delà. La pluie continue de tomber régulièrement dehors.
+
+Éclairage et atmosphère : Ambiance chaleureuse et sombre de l'heure bleue. Une lumière froide bleu-gris provenant du ciel nuageux et pluvieux illumine doucement le balcon, avec une faible lueur chaude provenant de l'appartement derrière elle. Les surfaces mouillées reflètent la faible lumière. Atmosphère calme, endormie et intime d'un Séoul pluvieux.
+
+Style : Vidéo amateur ultra-réaliste sur Sony MiniDV du début des années 2000 filmée par une autre personne tenant le caméscope. Complètement pris sur le vif et non mis en scène, comme un membre de la famille la filmant avec désinvolture. Mouvement naturel caméra à l'épaule/au poing, légers tremblements humains, cadrage imparfait, légers recadrages, recherche occasionnelle de l'autofocus, légères variations d'exposition, couleurs délavées, contraste doux, compression DV authentique, léger bruit numérique en basse lumière et bruit de micro. Mouvement continu et fluide en temps réel tout du long. Pas de saccades, de vacillements, de sauts d'images, d'images dupliquées, d'effet stop-motion, de flou de mouvement excessif, de changements de vitesse ou d'aspect à faible fréquence d'images. Pas de stabilisation ni de mouvements cinématiques modernes.
+
+00:00–00:04 : Elle se tient sur le petit balcon en tenant un arrosoir simple. Elle arrose délicatement l'une des plantes en pot tout en regardant ses feuilles.
+
+00:04–00:08 : Elle dirige l'arrosoir vers une autre plante et verse accidentellement trop d'eau. L'eau déborde rapidement par-dessus le rebord du pot et s'étend sur le sol du balcon.
+
+00:08–00:11 : Elle remarque immédiatement la flaque d'eau et se fige un instant. Elle baisse les yeux vers l'eau, puis regarde à nouveau la plante avec une expression légèrement embarrassée.
+
+00:11–00:15 : Elle regarde vers le caméscope et esquisse un petit sourire coupable, rit discrètement et hausse les épaules comme pour admettre son erreur. Elle pose l'arrosoir et contourne prudemment la flaque.
+
+Audio : Son direct naturel uniquement : pluie régulière, eau coulant de l'arrosoir, eau éclaboussant le béton, circulation lointaine, faibles bruits d'appartement, doux froissement des vêtements et son rire discret. Pas de musique, de narration ni d'effets sonores ajoutés.
+
+Objectif : Donner l'impression d'une petite erreur inoffensive capturée accidentellement sur une caméra MiniDV familiale du début des années 2000. Mignon, ordinaire et spontané plutôt que comique ou exagéré. Sa réaction doit être subtile et authentique, l'atmosphère du balcon pluvieux restant l'ambiance visuelle principale.
+
+Qualité du mouvement : Conserver tous les mouvements du personnage et de la caméra fluides, continus et physiquement réalistes. L'eau doit couler naturellement sans changements brusques ni éclaboussures artificielles. Éviter les mouvements rapides. L'esthétique vintage MiniDV doit provenir du grain de l'image, de l'autofocus, du comportement de l'exposition, des couleurs atténuées et de la manipulation à la main, et non d'une fréquence d'images réduite ou de mouvements saccadés.
 ```
 
 [↑ Retour aux catégories](#catalog)

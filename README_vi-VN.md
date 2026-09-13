@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**77** Prompt · Bổ sung mới nhất: **2026-09-13**
+**79** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2099089929439531390"></a>
+
+### Đang dịch
+
+Tác giả：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Bài gốc](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099089929439531390.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2219,22 +2241,64 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 ## Khác
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Đang dịch
+
+Tác giả：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Bài gốc](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099148058256716100.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Video gia đình phong cách MiniDV đầu những năm 2000 về một phụ nữ trẻ Hàn Quốc vô tình tưới quá nhiều nước cho các chậu cây trên ban công căn hộ ở Seoul vào một ngày mưa.
 
 Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video gia đình phong cách MiniDV đầu những năm 2000 về một phụ nữ trẻ Hàn Quốc vô tình tưới quá nhiều nước cho các chậu cây trên ban công căn hộ ở Seoul vào một ngày mưa.
 
 <img src="covers/2098982502006489324.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ thể chính: Người phụ nữ trẻ Hàn Quốc, 24 tuổi, ngoại hình cuốn hút tự nhiên, làn da chân thực, trang điểm tối giản, mái tóc đen dài buông xõa tự nhiên. Mặc chiếc áo phông dáng rộng màu tím oải hương bạc màu đơn giản và quần dài mặc nhà màu xám rộng rãi. Giữ nguyên danh tính, các đường nét khuôn mặt, kiểu tóc, tỷ lệ cơ thể và diện mạo chính xác của cô ấy trong suốt video.
+
+Bối cảnh: Ban công căn hộ cũ nhỏ ở Seoul vào một buổi sáng sớm trời mưa và tối. Vài chậu cây nhỏ đặt dọc theo lan can, với sàn bê tông ướt, lan can kim loại, các tòa nhà chung cư lân cận và những mái nhà ướt đẫm nước mưa có thể nhìn thấy phía xa. Bên ngoài trời vẫn mưa đều đặn.
+
+Ánh sáng & Không khí: Bầu không khí giờ xanh tối ấm cúng. Ánh sáng xám xanh lạnh lẽo từ bầu trời mưa nhiều mây nhẹ nhàng chiếu sáng ban công, cùng ánh sáng ấm áp mờ nhạt phát ra từ căn hộ phía sau cô. Các bề mặt ướt phản chiếu ánh sáng mờ ảo. Không khí Seoul ngày mưa yên tĩnh, mơ màng và thân mật.
+
+Phong cách: Video gia đình quay bằng máy quay Sony MiniDV đầu những năm 2000 cực kỳ chân thực do một người khác cầm máy quay. Hoàn toàn tự nhiên và không dàn dựng, giống như một người thân trong gia đình đang tình cờ quay lại cô ấy. Chuyển động cầm tay tự nhiên, độ rung lắc nhẹ của người cầm, bố cục không hoàn hảo, chỉnh lại khung hình nhẹ nhàng, thỉnh thoảng lấy nét tự động bị trượt, độ phơi sáng thay đổi nhẹ, màu sắc nhạt màu, độ tương phản mềm mại, độ nén DV chân thực, nhiễu kỹ thuật số tinh tế trong điều kiện thiếu sáng và tiếng ồn micrô. Chuyển động mượt mà liên tục theo thời gian thực xuyên suốt. Không giật, rung hình, bỏ khung hình, lặp khung hình, hiệu ứng stop-motion, nhòe chuyển động quá mức, thay đổi tốc độ hoặc giao diện tốc độ khung hình thấp. Không chống rung hoặc chuyển động điện ảnh hiện đại.
+
+00:00–00:04: Cô đứng trên ban công nhỏ cầm một chiếc bình tưới cây đơn giản. Cô nhẹ nhàng tưới một trong những chậu cây trong khi nhìn vào lá của nó.
+
+00:04–00:08: Cô di chuyển bình tưới sang một chậu cây khác và vô tình đổ quá nhiều nước. Nước nhanh chóng tràn qua mép chậu và loang ra khắp sàn ban công.
+
+00:08–00:11: Cô lập tức nhận ra vũng nước và khựng lại trong giây lát. Cô nhìn xuống vũng nước, rồi nhìn lại chậu cây với vẻ mặt hơi ngượng ngùng.
+
+00:11–00:15: Cô nhìn về phía máy quay và nở một nụ cười hối lỗi nhẹ, cười thầm và nhún vai như thừa nhận lỗi lầm của mình. Cô đặt bình tưới xuống và cẩn thận bước vòng qua vũng nước.
+
+Âm thanh: Chỉ có âm thanh thực tế tại hiện trường—tiếng mưa rơi đều, tiếng nước chảy từ bình tưới, tiếng nước bắn lên sàn bê tông, tiếng xe cộ xa xa, tiếng động căn hộ mờ nhạt, tiếng vải cọ xát nhẹ nhàng và tiếng cười thầm của cô. Không có âm nhạc, lời tường thuật hay hiệu ứng âm thanh thêm vào.
+
+Mục tiêu: Tạo cảm giác như một lỗi nhỏ, vô hại được ghi lại tình cờ trên một chiếc máy quay MiniDV gia đình đầu những năm 2000. Dễ thương, bình dị và tự nhiên thay vì hài hước hay phóng đại. Phản ứng của cô ấy phải tinh tế và chân thật, với không khí ban công ngày mưa vẫn là cảm xúc thị giác chủ đạo.
+
+Chất lượng chuyển động: Giữ cho mọi chuyển động của nhân vật và máy quay luôn mượt mà, liên tục và chân thực về mặt vật lý. Dòng nước phải chảy tự nhiên, không có thay đổi đột ngột hay bắn tung tóe bất thường. Tránh các chuyển động nhanh. Chất thẩm mỹ cổ điển của MiniDV phải đến từ kết cấu hình ảnh, cách lấy nét tự động, hiện tượng phơi sáng, màu sắc giảm sắc độ và thao tác cầm tay—không phải từ việc giảm tốc độ khung hình hay chuyển động ngắt quãng.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**77** Prompts · Adição mais recente: **2026-09-13**
+**79** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2099089929439531390"></a>
+
+### Tradução em curso
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicação original](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Cena de Cinema / Fotograma · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099089929439531390.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2111,22 +2133,64 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Tradução em curso
+
+Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicação original](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099148058256716100.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Vídeo caseiro ao estilo MiniDV do início dos anos 2000 de uma jovem coreana a regar acidentalmente em excesso vasos de plantas na varanda de um apartamento em Seul num dia de chuva.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Vídeo caseiro ao estilo MiniDV do início dos anos 2000 de uma jovem coreana a regar acidentalmente em excesso vasos de plantas na varanda de um apartamento em Seul num dia de chuva.
 
 <img src="covers/2098982502006489324.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Assunto Principal: Jovem mulher coreana, 24 anos, naturalmente atraente, pele realista, maquilhagem mínima, cabelo escuro e comprido solto casualmente. Vestindo uma t-shirt lavanda desbotada e oversized simples e calças de fato de treino cinzentas e largas. Preserve a identidade exata dela, traços faciais, penteado, proporções corporais e aparência do início ao fim.
+
+Localização: Pequena varanda de um apartamento antigo em Seul durante uma manhã chuvosa e escura. Vários pequenos vasos de plantas estão dispostos ao longo do parapeito, com chão de betão molhado, gradeamento metálico, edifícios residenciais vizinhos e telhados cobertos pela chuva visíveis ao fundo. A chuva cai continuamente lá fora.
+
+Iluminação e Atmosfera: Ambiente acolhedor de "hora azul" escura. A luz fria azul-acinzentada do céu nublado e chuvoso ilumina suavemente a varanda, com um ténue brilho quente vindo do apartamento atrás dela. Superfícies molhadas refletem a luz fraca. Atmosfera calma, sonolenta e íntima de Seul num dia de chuva.
+
+Estilo: Vídeo caseiro ultrarrealista em Sony MiniDV do início dos anos 2000, filmado por outra pessoa segurando a câmara. Totalmente espontâneo e não encenado, como um membro da família a filmá-la informalmente. Movimento natural de câmara à mão, tremor humano subtil, enquadramento imperfeito, reenquadramento suave, procura ocasional de foco automático, ligeiras variações de exposição, cores desbotadas, contraste suave, compressão autêntica de DV, ruído digital subtil de baixa luminosidade e ruído de microfone. Movimento suave e contínuo em tempo real durante todo o tempo. Sem solavancos, trepidação, salto de fotogramas, fotogramas duplicados, aspeto de stop-motion, desfoque de movimento excessivo, alterações de velocidade ou visual de baixa taxa de fotogramas. Sem estabilização ou movimento cinematográfico moderno.
+
+00:00–00:04: Ela permanece na pequena varanda a segurar um regador simples. Ela rega suavemente uma das plantas enquanto observa as suas folhas.
+
+00:04–00:08: Ela move o regador em direção a outra planta e derrama acidentalmente água a mais. A água transborda rapidamente a borda do vaso e espalha-se pelo chão da varanda.
+
+00:08–00:11: Ela repara imediatamente na poça e fica paralisada por um momento. Olha para o chão para a água, e depois de volta para a planta com uma expressão ligeiramente envergonhada.
+
+00:11–00:15: Ela olha para a câmara e dá um pequeno sorriso de culpa, ri baixinho e encolhe os ombros como quem admite o erro. Pousa o regador no chão e contorna a poça com cuidado.
+
+Áudio: Apenas som natural do local—chuva constante, água a ser despejada do regador, água a salpicar no betão, tráfego distante, sons ténues do apartamento, movimento suave de roupa e o riso discreto dela. Sem música, narração ou efeitos sonoros adicionados.
+
+Objetivo: Transmitir a sensação de um erro pequeno e inofensivo captado acidentalmente numa câmara MiniDV familiar do início dos anos 2000. Querido, banal e espontâneo, em vez de cómico ou exagerado. A reação dela deve ser subtil e genuína, com a atmosfera da varanda chuvosa a manter-se como o ambiente visual principal.
+
+Qualidade de movimento: Mantenha todo o movimento da personagem e da câmara suave, contínuo e fisicamente realista. A água deve cair de forma natural, sem mudanças bruscas ou salpicos não naturais. Evite movimentos rápidos. A estética vintage de MiniDV deve provir da textura da imagem, foco automático, comportamento da exposição, cores esbatidas e operação manual—não de uma taxa de fotogramas reduzida ou movimento aos solavancos.
 ```
 
 [↑ Voltar às categorias](#catalog)

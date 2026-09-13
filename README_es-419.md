@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**77** Prompts · Última incorporación: **2026-09-13**
+**79** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2099089929439531390"></a>
+
+### Traducción en curso
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicación original](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Cine / Fotograma · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099089929439531390.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2117,22 +2139,64 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Traducción en curso
+
+Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicación original](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099148058256716100.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Video casero al estilo MiniDV de principios de los 2000 de una joven coreana que riega de más accidentalmente unas plantas en maceta en el balcón de un departamento en Seúl durante un día lluvioso.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicación original](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video casero al estilo MiniDV de principios de los 2000 de una joven coreana que riega de más accidentalmente unas plantas en maceta en el balcón de un departamento en Seúl durante un día lluvioso.
 
 <img src="covers/2098982502006489324.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sujeto principal: Mujer coreana joven, de 24 años, naturalmente atractiva, piel realista, maquillaje mínimo, cabello oscuro largo y suelto de manera relajada. Viste una camiseta holgada sencilla de color lavanda desteñido y pantalones holgados grises de descanso. Conservar su identidad exacta, rasgos faciales, peinado, proporciones corporales y apariencia en todo momento.
+
+Ubicación: Balcón de un departamento viejo y pequeño de Seúl durante una madrugada oscura y lluviosa. Varias plantas pequeñas en maceta reposan a lo largo de la barandilla, con piso de concreto húmedo, barandilla de metal, edificios de departamentos vecinos y techos cubiertos de lluvia visibles más allá. La lluvia continúa constante en el exterior.
+
+Iluminación y atmósfera: Ambiente acogedor de hora azul oscura. Luz fría azul grisácea proveniente del cielo nublado y lluvioso ilumina suavemente el balcón, con un tenue resplandor cálido que proviene del departamento detrás de ella. Las superficies húmedas reflejan la tenue luz. Atmósfera tranquila, soñolienta e íntima de Seúl bajo la lluvia.
+
+Estilo: Video casero ultra realista en Sony MiniDV de principios de los 2000, grabado por otra persona que sostiene la videocámara. Completamente espontáneo y no preparado, como un familiar grabándola casualmente. Movimiento natural de cámara en mano, sutil temblor humano, encuadre imperfecto, reencuadres suaves, búsqueda ocasional de enfoque automático, ligeras variaciones de exposición, colores desvaídos, contraste suave, compresión DV auténtica, ruido digital sutil de poca luz y ruido de micrófono. Movimiento fluido y continuo en tiempo real en todo momento. Sin tirones, vibración, saltos de fotogramas, fotogramas duplicados, apariencia de stop-motion, desenfoque de movimiento excesivo, cambios de velocidad ni aspecto de baja tasa de fotogramas. Sin estabilización ni movimientos cinematográficos modernos.
+
+00:00–00:04: Está de pie en el pequeño balcón sosteniendo una regadera sencilla. Riega suavemente una de las plantas en maceta mientras mira sus hojas.
+
+00:04–00:08: Mueve la regadera hacia otra planta y accidentalmente vierte demasiada agua. El agua se desborda rápidamente por el borde de la maceta y se esparce por el piso del balcón.
+
+00:08–00:11: Nota el charco de inmediato y se queda inmóvil por un momento. Mira el agua hacia abajo, luego vuelve a mirar la planta con una expresión de leve vergüenza.
+
+00:11–00:15: Mira hacia la videocámara y esboza una pequeña sonrisa culpable, se ríe en voz baja y se encoge de hombros como admitiendo su error. Deja la regadera y esquiva con cuidado el charco.
+
+Audio: Solo sonido natural del lugar: lluvia constante, agua cayendo de la regadera, agua salpicando sobre el concreto, tráfico lejano, ruidos tenues del departamento, suave movimiento de la ropa y su risa silenciosa. Sin música, narración ni efectos de sonido añadidos.
+
+Objetivo: Transmitir la sensación de un error minúsculo e inofensivo capturado accidentalmente en una cámara MiniDV familiar de principios de los 2000. Tierno, cotidiano y espontáneo en lugar de cómico o exagerado. Su reacción debe ser sutil y genuina, manteniendo la atmósfera lluviosa del balcón como el ambiente visual principal.
+
+Calidad de movimiento: Mantener todo el movimiento del personaje y de la cámara suave, continuo y físicamente realista. El agua debe caer naturalmente sin cambios bruscos ni salpicaduras artificiales. Evitar movimientos rápidos. La estética vintage de MiniDV debe provenir de la textura de la imagen, el enfoque automático, el comportamiento de la exposición, los colores apagados y el manejo manual, no de una tasa de fotogramas reducida o movimientos entrecortados.
 ```
 
 [↑ Volver a categorías](#catalog)

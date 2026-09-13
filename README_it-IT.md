@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**77** Prompt · Ultima aggiunta: **2026-09-13**
+**79** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2099089929439531390"></a>
+
+### Traduzione in corso
+
+Autore：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Post originale](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099089929439531390.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2117,22 +2139,64 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Traduzione in corso
+
+Autore：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Post originale](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099148058256716100.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Video amatoriale in stile MiniDV dei primi anni 2000 di una giovane donna coreana che innaffia accidentalmente troppo le piante in vaso sul balcone di un appartamento di Seul sotto la pioggia.
 
 Autore：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Post originale](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video amatoriale in stile MiniDV dei primi anni 2000 di una giovane donna coreana che innaffia accidentalmente troppo le piante in vaso sul balcone di un appartamento di Seul sotto la pioggia.
 
 <img src="covers/2098982502006489324.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Soggetto principale: Giovane donna coreana, 24 anni, naturalmente attraente, pelle realistica, trucco minimale, lunghi capelli scuri sciolti in modo naturale. Indossa una semplice T-shirt oversize color lavanda sbiadito e pantaloni comodi da casa grigi e ampi. Mantenere l'esatta identità, i tratti del viso, l'acconciatura, le proporzioni corporee e l'aspetto per tutta la durata.
+
+Luogo: Balcone di un piccolo e vecchio appartamento di Seul durante una mattina presto buia e piovosa. Diverse piccole piante in vaso sono disposte lungo la ringhiera, con pavimento in cemento bagnato, ringhiera metallica, edifici residenziali vicini e tetti bagnati dalla pioggia visibili sullo sfondo. Fuori continua a piovere incessantemente.
+
+Illuminazione e atmosfera: Atmosfera accogliente e buia dell'ora blu. La luce fredda grigio-bluastra proveniente dal cielo nuvoloso e piovoso illumina delicatamente il balcone, con un debole bagliore caldo che proviene dall'appartamento dietro di lei. Le superfici bagnate riflettono la luce fioca. Atmosfera tranquilla, assonnata e intima di una Seul piovosa.
+
+Stile: Video amatoriale ultra-realistico su Sony MiniDV dei primi anni 2000, ripreso da un'altra persona che tiene la videocamera. Completamente spontaneo e non programmato, come un familiare che la riprende con disinvoltura. Movimento naturale a mano libera, lieve tremolio umano, inquadratura imperfetta, delicati riassetti dell'inquadratura, autofocus che occasionalmente cerca il fuoco, lievi variazioni di esposizione, colori sbiaditi, contrasto morbido, autentica compressione DV, sottile rumore digitale in condizioni di scarsa illuminazione e rumore del microfono. Movimento fluido e continuo in tempo reale per tutta la durata. Nessun rallentamento, scatto, salto di fotogrammi, fotogrammi duplicati, aspetto in stop-motion, motion blur eccessivo, variazioni di velocità o effetto a basso framerate. Nessuna stabilizzazione o movimento cinematografico moderno.
+
+00:00–00:04: È in piedi sul piccolo balcone con un semplice annaffiatoio in mano. Annaffia delicatamente una delle piante in vaso mentre ne osserva le foglie.
+
+00:04–00:08: Sposta l'annaffiatoio verso un'altra pianta e versa accidentalmente troppa acqua. L'acqua trabocca rapidamente oltre il bordo del vaso e si diffonde sul pavimento del balcone.
+
+00:08–00:11: Nota immediatamente la pozzanghera e si blocca per un istante. Guarda in basso verso l'acqua, poi di nuovo verso la pianta con un'espressione leggermente imbarazzata.
+
+00:11–00:15: Guarda verso la videocamera e accenna un piccolo sorriso colpevole, ride piano e fa spallucce come per ammettere il proprio errore. Poggia l'annaffiatoio a terra e aggira con attenzione la pozzanghera.
+
+Audio: Solo suono naturale d'ambiente: pioggia costante, acqua versata dall'annaffiatoio, acqua che schizza sul cemento, traffico in lontananza, deboli rumori dall'appartamento, leggero fruscio dei vestiti e la sua risata sommessa. Nessuna musica, voce narrante o effetto sonoro aggiunto.
+
+Obiettivo: Dare la sensazione di un piccolo errore innocuo catturato per caso con una videocamera MiniDV di famiglia dei primi anni 2000. Dolce, ordinario e spontaneo piuttosto che comico o esagerato. La sua reazione deve essere sottile e genuina, mantenendo l'atmosfera del balcone piovoso come tono visivo principale.
+
+Qualità del movimento: Mantenere tutti i movimenti del personaggio e della telecamera fluidi, continui e fisicamente realistici. L'acqua deve scorrere naturalmente senza cambiamenti improvvisi o schizzi innaturali. Evitare movimenti rapidi. L'estetica vintage da MiniDV deve derivare dalla texture dell'immagine, dall'autofocus, dal comportamento dell'esposizione, dai colori tenui e dall'uso a mano libera, non da una frequenza di fotogrammi ridotta o da movimenti a scatti.
 ```
 
 [↑ Torna alle categorie](#catalog)

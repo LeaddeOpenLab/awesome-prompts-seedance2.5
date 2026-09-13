@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**77** Prompts · Última incorporación: **2026-09-13**
+**79** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2099089929439531390"></a>
+
+### Traducción en curso
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicación original](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Cine / Fotograma de película · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099089929439531390.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2205,22 +2227,64 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Traducción en curso
+
+Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicación original](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099148058256716100.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Vídeo casero estilo MiniDV de principios de los 2000 de una joven coreana que riega de más accidentalmente unas plantas en maceta en el balcón de un apartamento en Seúl un día lluvioso.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicación original](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Vídeo casero estilo MiniDV de principios de los 2000 de una joven coreana que riega de más accidentalmente unas plantas en maceta en el balcón de un apartamento en Seúl un día lluvioso.
 
 <img src="covers/2098982502006489324.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sujeto principal: Mujer coreana joven, de 24 años, naturalmente atractiva, piel realista, maquillaje mínimo, cabello oscuro y largo suelto de forma relajada. Viste una camiseta holgada sencilla de color lavanda desteñido y pantalones de estar por casa grises y anchos. Conserva su identidad exacta, rasgos faciales, peinado, proporciones corporales y apariencia en todo momento.
+
+Ubicación: Balcón pequeño de un antiguo apartamento de Seúl durante una madrugada oscura y lluviosa. Varias plantas pequeñas en macetas descansan a lo largo de la barandilla, con el suelo de hormigón mojado, barandilla de metal, edificios de apartamentos vecinos y tejados cubiertos de lluvia visibles más allá. La lluvia continúa de forma constante en el exterior.
+
+Iluminación y atmósfera: Ambiente acogedor de hora azul oscura. La luz fría azul grisácea del cielo nublado y lluvioso ilumina suavemente el balcón, con un tenue resplandor cálido procedente del apartamento detrás de ella. Las superficies húmedas reflejan la tenue luz. Atmósfera tranquila, soñolienta e íntima de Seúl bajo la lluvia.
+
+Estilo: Vídeo casero ultra realista en Sony MiniDV de principios de la década de 2000 filmado por otra persona que sostiene la videocámara. Completamente espontáneo y sin preparar, como si un familiar la estuviera grabando de manera informal. Movimiento natural cámara en mano, leve temblor humano, encuadre imperfecto, reencuadres suaves, búsqueda ocasional de enfoque automático, ligeros cambios de exposición, colores desvaídos, contraste suave, auténtica compresión DV, sutil ruido digital en condiciones de poca luz y ruido de micrófono. Movimiento fluido y continuo en tiempo real en todo momento. Sin tirones, vibraciones, saltos de fotogramas, fotogramas duplicados, aspecto de stop-motion, desenfoque de movimiento excesivo, cambios de velocidad o apariencia de baja tasa de fotogramas. Sin estabilización ni movimientos cinematográficos modernos.
+
+00:00–00:04: Ella está de pie en el pequeño balcón sosteniendo una regadera sencilla. Riega con delicadeza una de las plantas en maceta mientras mira sus hojas.
+
+00:04–00:08: Mueve la regadera hacia otra planta y accidentalmente vierte demasiada agua. El agua se desborda rápidamente por el borde de la maceta y se extiende por el suelo del balcón.
+
+00:08–00:11: De inmediato nota el charco y se queda paralizada por un momento. Mira hacia abajo al agua, luego vuelve a mirar la planta con una expresión de ligera vergüenza.
+
+00:11–00:15: Mira hacia la videocámara y esboza una pequeña sonrisa de culpa, se ríe entre dientes y se encoge de hombros como admitiendo su error. Deja la regadera en el suelo y rodea con cuidado el charco.
+
+Audio: Solo sonido natural de la locación: lluvia constante, agua vertiéndose desde la regadera, agua salpicando sobre el hormigón, tráfico lejano, sonidos tenues del apartamento, suave movimiento de la ropa y su risa silenciosa. Sin música, narración ni efectos de sonido añadidos.
+
+Objetivo: Transmitir la sensación de un error pequeño e inofensivo capturado por accidente en una cámara MiniDV familiar de principios de los 2000. Tierno, cotidiano y espontáneo en lugar de cómico o exagerado. Su reacción debe ser sutil y genuina, manteniendo la atmósfera del balcón lluvioso como el estado de ánimo visual principal.
+
+Calidad del movimiento: Mantener todo el movimiento del personaje y de la cámara suave, continuo y físicamente realista. El agua debe verterse de manera natural sin cambios bruscos ni salpicaduras poco naturales. Evitar movimientos rápidos. La estética vintage de MiniDV debe provenir de la textura de la imagen, el enfoque automático, el comportamiento de la exposición, los colores apagados y el manejo cámara en mano, no de una tasa de fotogramas reducida ni de un movimiento entrecortado.
 ```
 
 [↑ Volver a categorías](#catalog)

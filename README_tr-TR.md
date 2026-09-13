@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**77** Prompt · Son eklenen: **2026-09-13**
+**79** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2099089929439531390"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Orijinal gönderi](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Sinematik / Film Karesi · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099089929439531390.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2111,22 +2133,64 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 ## Diğer
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Orijinal gönderi](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099148058256716100.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### 2000'lerin başı MiniDV tarzında, yağmurlu bir Seul apartman balkonunda saksı bitkilerini yanlışlıkla fazla sulayan genç bir Koreli kadının ev videosu.
 
 Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 2000'lerin başı MiniDV tarzında, yağmurlu bir Seul apartman balkonunda saksı bitkilerini yanlışlıkla fazla sulayan genç bir Koreli kadının ev videosu.
 
 <img src="covers/2098982502006489324.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ana Konu: 24 yaşında, doğal olarak çekici, gerçekçi ciltli, minimum makyajlı, uzun koyu renk saçları serbestçe dökülmüş genç Koreli kadın. Üzerinde sade, büyük beden, soluk lavanta rengi bir tişört ve bol gri ev pantolonu var. Başından sonuna kadar tam kimliğini, yüz hatlarını, saç modelini, vücut oranlarını ve görünümünü koruyun.
+
+Konum: Karanlık ve yağmurlu bir sabahın erken saatlerinde Seul'deki eski küçük bir apartman balkonu. Korkuluk boyunca dizilmiş birkaç küçük saksı bitkisi, ıslak beton zemin, metal korkuluk, komşu apartman binaları ve ötede görünen yağmurla kaplı çatılar. Dışarıda yağmur aralıksız yağmaya devam ediyor.
+
+Aydınlatma ve Atmosfer: Rahat, karanlık mavi saat ambiyansı. Bulutlu ve yağmurlu gökyüzünden gelen soğuk mavi-gri ışık balkonu hafifçe aydınlatıyor; arkasındaki daireden ise hafif, sıcak bir parıltı yayılıyor. Islak yüzeyler loş ışığı yansıtıyor. Sessiz, uykulu ve samimi yağmurlu Seul atmosferi.
+
+Tarz: El kamerasını tutan başka biri tarafından çekilmiş, 2000'lerin başlarına ait son derece gerçekçi Sony MiniDV ev videosu. Bir aile üyesinin onu rastgele çekmesi gibi tamamen samimi ve kurgusuz. Doğal el hareketi, ince insani sarsıntı, kusurlu kadrajlama, hafif yeniden kadrajlama, ara sıra otomatik odaklanma arayışı, hafif pozlama değişimleri, soluk renkler, yumuşak kontrast, otantik DV sıkıştırması, loş ışıkta ince dijital parazit ve mikrofon gürültüsü. Baştan sona pürüzsüz, sürekli, gerçek zamanlı hareket. Takılma, titreme, kare atlama, yinelenen kareler, stop-motion görünümü, aşırı hareket bulanıklığı, hız değişimleri veya düşük kare hızı görünümü yok. Sabitleme veya modern sinematik hareket yok.
+
+00:00–00:04: Elinde sade bir sulama kabı tutarak küçük balkonda duruyor. Yapraklarına bakarken saksı bitkilerinden birini nazikçe suluyor.
+
+00:04–00:08: Sulama kabını başka bir bitkiye doğru götürüyor ve yanlışlıkla çok fazla su döküyor. Su hızla saksının kenarından taşıyor ve balkon zeminine yayılıyor.
+
+00:08–00:11: Su birikintisini hemen fark ediyor ve bir anlığına donup kalıyor. Hafifçe utanmış bir ifadeyle önce suya, ardından tekrar bitkiye bakıyor.
+
+00:11–00:15: Kameraya doğru bakıyor ve hafif suçlu bir tebessüm sergiliyor; sessizce gülerek hatasını kabul edercesine omuz silkiyor. Sulama kabını yere bırakıyor ve birikintinin etrafından dikkatlice geçiyor.
+
+Ses: Yalnızca doğal ortam sesi—aralıksız yağmur, sulama kabından dökülen su, betona çarpan su sıçramaları, uzaktan gelen trafik, hafif daire sesleri, yumuşak kıyafet hışırtısı ve onun sessiz gülüşü. Müzik, dış ses veya eklenmiş ses efektleri yok.
+
+Amaç: 2000'lerin başlarına ait bir aile MiniDV kamerasına kazara yakalanmış küçük, zararsız bir hata gibi hissettirmesi. Komik veya abartılı olmaktan ziyade sevimli, sıradan ve spontane. Yağmurlu balkon atmosferi ana görsel ruh halini oluşturmaya devam ederken tepkisi ince ve içten olmalı.
+
+Hareket kalitesi: Tüm karakter ve kamera hareketlerini pürüzsüz, kesintisiz ve fiziksel olarak gerçekçi tutun. Su, ani değişiklikler veya doğal olmayan sıçramalar olmaksızın doğal bir şekilde dökülmeli. Hızlı hareketlerden kaçının. Nostaljik MiniDV estetiği, düşük kare hızından veya kesintili hareketten değil; görüntü dokusundan, otomatik odaktan, pozlama davranışından, soluk renklerden ve elde çekim hissiyatından kaynaklanmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**77** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**79** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2099089929439531390"></a>
+
+### Übersetzung läuft
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Originalbeitrag](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Kinematisch / Filmstill · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099089929439531390.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098797781792047191"></a>
 
@@ -2117,22 +2139,64 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 ## Sonstige
 
-<a name="prompt-2098982502006489324"></a>
+<a name="prompt-2099148058256716100"></a>
 
 ### Übersetzung läuft
+
+Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Originalbeitrag](https://x.com/GlennHasABeard/status/2099148058256716100)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099148058256716100.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098982502006489324"></a>
+
+### Homevideo im MiniDV-Stil der frühen 2000er Jahre von einer jungen Koreanerin, die auf einem regnerischen Balkon einer Wohnung in Seoul versehentlich Topfpflanzen überwässert.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2098982502006489324)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Homevideo im MiniDV-Stil der frühen 2000er Jahre von einer jungen Koreanerin, die auf einem regnerischen Balkon einer Wohnung in Seoul versehentlich Topfpflanzen überwässert.
 
 <img src="covers/2098982502006489324.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hauptmotiv: Junge Koreanerin, 24 Jahre alt, natürlich attraktiv, realistische Haut, minimales Make-up, langes dunkles Haar locker offen getragen. Sie trägt ein einfaches, übergroßes, verwaschenes lavendelfarbenes T-Shirt und eine weite graue Loungewear-Hose. Bewahren Sie ihre genaue Identität, Gesichtszüge, Frisur, Körperproportionen und ihr Aussehen durchgehend.
+
+Ort: Kleiner alter Balkon einer Wohnung in Seoul an einem dunklen, regnerischen frühen Morgen. Entlang des Geländers stehen mehrere kleine Topfpflanzen, mit nassem Betonboden, Metallgeländer, benachbarten Apartmentgebäuden und regenbedeckten Dächern im Hintergrund sichtbar. Draußen regnet es kontinuierlich weiter.
+
+Beleuchtung & Atmosphäre: Gemütliche, dunkelblaue Stimmung der blauen Stunde. Kaltes blaugraues Licht vom bewölkten, regnerischen Himmel beleuchtet sanft den Balkon, mit einem schwachen warmen Schein, der aus der Wohnung hinter ihr dringt. Nasse Oberflächen reflektieren das gedämpfte Licht. Ruhige, verschlafene und intime Atmosphäre eines regnerischen Seoul.
+
+Stil: Ultrarealistisches Sony MiniDV-Homevideo der frühen 2000er Jahre, gefilmt von einer anderen Person, die den Camcorder hält. Völlig ungezwungen und ungestellt, als würde ein Familienmitglied sie beiläufig filmen. Natürliche Handkamerabewegung, subtiles menschliches Zittern, unvollkommener Bildausschnitt, sanftes Nachführen, gelegentliches Suchen des Autofokus, leichte Belichtungsverschiebungen, verblasste Farben, weicher Kontrast, authentische DV-Kompression, subtiles digitales Rauschen bei schwachem Licht und Mikrofonrauschen. Durchgehend flüssige, kontinuierliche Echtzeitbewegung. Kein Stottern, Ruckeln, Überspringen von Frames, duplizierte Frames, Stop-Motion-Erscheinung, übermäßige Bewegungsunschärfe, Geschwindigkeitsänderungen oder Low-Framerate-Look. Keine Stabilisierung oder moderne filmische Bewegungen.
+
+00:00–00:04: Sie steht auf dem kleinen Balkon und hält eine einfache Gießkanne. Sie gießt vorsichtig eine der Topfpflanzen, während sie deren Blätter betrachtet.
+
+00:04–00:08: Sie bewegt die Gießkanne zu einer anderen Pflanze und gießt versehentlich zu viel Wasser ein. Das Wasser läuft schnell über den Rand des Topfes und breitet sich auf dem Balkonboden aus.
+
+00:08–00:11: Sie bemerkt die Pfütze sofort und erstarrt für einen Moment. Sie blickt hinunter auf das Wasser, dann zurück zur Pflanze mit einem leicht verlegenen Gesichtsausdruck.
+
+00:11–00:15: Sie schaut zum Camcorder und lächelt leicht schuldbewusst, lacht leise und zuckt mit den Schultern, als würde sie ihren Fehler eingestehen. Sie stellt die Gießkanne ab und tritt vorsichtig um die Pfütze herum.
+
+Audio: Nur natürlicher O-Ton: stetiger Regen, aus der Gießkanne fließendes Wasser, auf Beton spritzendes Wasser, entfernter Verkehr, leise Wohnungsgeräusche, sanfte Bewegung der Kleidung und ihr leises Lachen. Keine Musik, kein Kommentar oder hinzugefügte Soundeffekte.
+
+Ziel: Es soll sich wie ein winziger, harmloser Fehler anfühlen, der versehentlich mit einer familiären MiniDV-Kamera der frühen 2000er Jahre festgehalten wurde. Niedlich, alltäglich und spontan statt komödiantisch oder übertrieben. Ihre Reaktion sollte subtil und aufrichtig sein, während die regnerische Balkonatmosphäre die visuelle Hauptstimmung bleibt.
+
+Bewegungsqualität: Halten Sie alle Charakter- und Kamerabewegungen flüssig, kontinuierlich und physikalisch realistisch. Das Wasser sollte natürlich fließen, ohne plötzliche Änderungen oder unnatürliches Spritzen. Vermeiden Sie schnelle Bewegungen. Die Vintage-MiniDV-Ästhetik muss aus der Bildtextur, dem Autofokus, dem Belichtungsverhalten, den gedämpften Farben und der Handkameraführung resultieren – nicht aus einer reduzierten Bildrate oder ruckartigen Bewegungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
