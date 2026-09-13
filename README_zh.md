@@ -2285,20 +2285,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2099148058256716100"></a>
 
-### 翻译中
+### 弹球拍仅在球靠近时移动，计分轮仅在击中时转动
 
 作者：[@GlennHasABeard](https://x.com/GlennHasABeard) · [查看 X 原帖](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** 弹球拍仅在球靠近时移动，计分轮仅在击中时转动
 
 <img src="covers/2099148058256716100.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+弹球拍仅在球靠近时移动，计分轮仅在击中时转动
 ```
 
 [↑ 返回分类目录](#catalog)

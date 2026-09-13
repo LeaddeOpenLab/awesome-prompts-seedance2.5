@@ -2243,20 +2243,20 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2099148058256716100"></a>
 
-### Đang dịch
+### các cần gạt chỉ di chuyển khi quả bóng ở gần chúng, các guồng điểm chỉ quay khi có va chạm
 
 Tác giả：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Bài gốc](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** các cần gạt chỉ di chuyển khi quả bóng ở gần chúng, các guồng điểm chỉ quay khi có va chạm
 
 <img src="covers/2099148058256716100.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+các cần gạt chỉ di chuyển khi quả bóng ở gần chúng, các guồng điểm chỉ quay khi có va chạm
 ```
 
 [↑ Về danh mục](#catalog)

@@ -2283,20 +2283,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2099148058256716100"></a>
 
-### 翻譯中
+### 彈珠球拍僅在球靠近時移動，計分輪僅在擊中時轉動
 
 作者：[@GlennHasABeard](https://x.com/GlennHasABeard) · [查看 X 原帖](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** 彈珠球拍僅在球靠近時移動，計分輪僅在擊中時轉動
 
 <img src="covers/2099148058256716100.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+彈珠球拍僅在球靠近時移動，計分輪僅在擊中時轉動
 ```
 
 [↑ 返回分類目錄](#catalog)

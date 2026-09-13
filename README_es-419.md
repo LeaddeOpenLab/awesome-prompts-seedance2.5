@@ -2141,20 +2141,20 @@ Traducción en curso
 
 <a name="prompt-2099148058256716100"></a>
 
-### Traducción en curso
+### los flippers se mueven solo cuando la bola está cerca de ellos, los carretes de puntuación solo giran al haber un impacto
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicación original](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** los flippers se mueven solo cuando la bola está cerca de ellos, los carretes de puntuación solo giran al haber un impacto
 
 <img src="covers/2099148058256716100.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+los flippers se mueven solo cuando la bola está cerca de ellos, los carretes de puntuación solo giran al haber un impacto
 ```
 
 [↑ Volver a categorías](#catalog)

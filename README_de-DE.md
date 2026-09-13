@@ -2141,20 +2141,20 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2099148058256716100"></a>
 
-### Übersetzung läuft
+### die Flipper bewegen sich nur, wenn der Ball in ihrer Nähe ist, die Punkterollen drehen sich nur bei einem Treffer
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Originalbeitrag](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** die Flipper bewegen sich nur, wenn der Ball in ihrer Nähe ist, die Punkterollen drehen sich nur bei einem Treffer
 
 <img src="covers/2099148058256716100.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+die Flipper bewegen sich nur, wenn der Ball in ihrer Nähe ist, die Punkterollen drehen sich nur bei einem Treffer
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

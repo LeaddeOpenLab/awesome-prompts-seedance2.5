@@ -2135,20 +2135,20 @@ Tradução em curso
 
 <a name="prompt-2099148058256716100"></a>
 
-### Tradução em curso
+### os flippers movem-se apenas quando a bola está perto deles, os carretéis de pontuação rodam apenas quando há um impacto
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicação original](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** os flippers movem-se apenas quando a bola está perto deles, os carretéis de pontuação rodam apenas quando há um impacto
 
 <img src="covers/2099148058256716100.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+os flippers movem-se apenas quando a bola está perto deles, os carretéis de pontuação rodam apenas quando há um impacto
 ```
 
 [↑ Voltar às categorias](#catalog)

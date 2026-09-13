@@ -2141,20 +2141,20 @@ Traduzione in corso
 
 <a name="prompt-2099148058256716100"></a>
 
-### Traduzione in corso
+### i flipper si muovono solo quando la pallina è vicina a loro, i rulli segnapunti girano solo al momento dell'impatto
 
 Autore：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Post originale](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** i flipper si muovono solo quando la pallina è vicina a loro, i rulli segnapunti girano solo al momento dell'impatto
 
 <img src="covers/2099148058256716100.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+i flipper si muovono solo quando la pallina è vicina a loro, i rulli segnapunti girano solo al momento dell'impatto
 ```
 
 [↑ Torna alle categorie](#catalog)

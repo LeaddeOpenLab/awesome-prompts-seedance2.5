@@ -2135,20 +2135,20 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2099148058256716100"></a>
 
-### Çeviri sürüyor
+### paletler yalnızca top onlara yakın olduğunda hareket eder, skor makaraları yalnızca bir vuruşta döner
 
 Yazar：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Orijinal gönderi](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** paletler yalnızca top onlara yakın olduğunda hareket eder, skor makaraları yalnızca bir vuruşta döner
 
 <img src="covers/2099148058256716100.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+paletler yalnızca top onlara yakın olduğunda hareket eder, skor makaraları yalnızca bir vuruşta döner
 ```
 
 [↑ Kategorilere dön](#catalog)

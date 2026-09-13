@@ -2135,20 +2135,20 @@ Tradução em andamento
 
 <a name="prompt-2099148058256716100"></a>
 
-### Tradução em andamento
+### os flippers se movem apenas quando a bola está perto deles, os carretéis de pontuação só giram quando há um acerto
 
 Autor：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publicação original](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** os flippers se movem apenas quando a bola está perto deles, os carretéis de pontuação só giram quando há um acerto
 
 <img src="covers/2099148058256716100.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+os flippers se movem apenas quando a bola está perto deles, os carretéis de pontuação só giram quando há um acerto
 ```
 
 [↑ Voltar às categorias](#catalog)

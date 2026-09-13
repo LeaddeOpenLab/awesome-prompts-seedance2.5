@@ -2141,20 +2141,20 @@ Traduction en cours
 
 <a name="prompt-2099148058256716100"></a>
 
-### Traduction en cours
+### les batteurs ne bougent que lorsque la bille est près d'eux, les rouleaux de score ne tournent que lors d'un impact
 
 Auteur：[@GlennHasABeard](https://x.com/GlennHasABeard) · [Publication originale](https://x.com/GlennHasABeard/status/2099148058256716100)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** les batteurs ne bougent que lorsque la bille est près d'eux, les rouleaux de score ne tournent que lors d'un impact
 
 <img src="covers/2099148058256716100.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+les batteurs ne bougent que lorsque la bille est près d'eux, les rouleaux de score ne tournent que lors d'un impact
 ```
 
 [↑ Retour aux catégories](#catalog)
