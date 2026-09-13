@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**73** Prompts · Dernier ajout: **2026-09-12**
+**77** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,50 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2098797781792047191"></a>
+
+### Traduction en cours
+
+Auteur：[@MadMax\_Series](https://x.com/MadMax_Series) · [Publication originale](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098797781792047191.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Traduction en cours
+
+Auteur：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publication originale](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Image cinématographique / Photogramme de film · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098803826405089450.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Traduction en cours
@@ -336,6 +380,28 @@ Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction ·
 **Résumé:** Traduction en cours
 
 <img src="covers/2098777905010778507.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Traduction en cours
+
+Auteur：[@abulu8](https://x.com/abulu8) · [Publication originale](https://x.com/abulu8/status/2098791384392282330)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098791384392282330.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
@@ -2050,6 +2116,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098982502006489324"></a>
+
+### Traduction en cours
+
+Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098982502006489324.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

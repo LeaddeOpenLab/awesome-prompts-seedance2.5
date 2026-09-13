@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**73** 筆內容 · 最新收錄: **2026-09-12**
+**77** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -327,6 +327,50 @@ UGC風格
 
 ## 電影感 / 電影劇照
 
+<a name="prompt-2098797781792047191"></a>
+
+### 翻譯中
+
+作者：[@MadMax\_Series](https://x.com/MadMax_Series) · [查看 X 原帖](https://x.com/MadMax_Series/status/2098797781792047191)
+
+電影感 / 電影劇照 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098797781792047191.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### 翻譯中
+
+作者：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [查看 X 原帖](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+電影感 / 電影劇照 · 車輛 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098803826405089450.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### 翻譯中
@@ -338,6 +382,28 @@ UGC風格
 **概括:** 翻譯中
 
 <img src="covers/2098777905010778507.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### 翻譯中
+
+作者：[@abulu8](https://x.com/abulu8) · [查看 X 原帖](https://x.com/abulu8/status/2098791384392282330)
+
+電影感 / 電影劇照 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098791384392282330.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
@@ -2192,6 +2258,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098982502006489324"></a>
+
+### 翻譯中
+
+作者：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [查看 X 原帖](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098982502006489324.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

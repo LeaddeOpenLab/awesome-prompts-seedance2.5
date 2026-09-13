@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**73** Prompts · Adição mais recente: **2026-09-12**
+**77** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -311,6 +311,50 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2098797781792047191"></a>
+
+### Tradução em curso
+
+Autor：[@MadMax\_Series](https://x.com/MadMax_Series) · [Publicação original](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Cena de Cinema / Fotograma · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098797781792047191.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Tradução em curso
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicação original](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Cena de Cinema / Fotograma · Veículo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098803826405089450.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Tradução em curso
@@ -322,6 +366,28 @@ Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Publicado
 **Resumo:** Tradução em curso
 
 <img src="covers/2098777905010778507.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Tradução em curso
+
+Autor：[@abulu8](https://x.com/abulu8) · [Publicação original](https://x.com/abulu8/status/2098791384392282330)
+
+Cena de Cinema / Fotograma · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098791384392282330.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -2044,6 +2110,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098982502006489324"></a>
+
+### Tradução em curso
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098982502006489324.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

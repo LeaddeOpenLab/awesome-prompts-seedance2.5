@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**73** Prompt · Ultima aggiunta: **2026-09-12**
+**77** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,50 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2098797781792047191"></a>
+
+### Traduzione in corso
+
+Autore：[@MadMax\_Series](https://x.com/MadMax_Series) · [Post originale](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098797781792047191.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Traduzione in corso
+
+Autore：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Post originale](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Fermo immagine cinematografico / Still fotografico · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098803826405089450.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Traduzione in corso
@@ -336,6 +380,28 @@ Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Pubb
 **Riepilogo:** Traduzione in corso
 
 <img src="covers/2098777905010778507.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Traduzione in corso
+
+Autore：[@abulu8](https://x.com/abulu8) · [Post originale](https://x.com/abulu8/status/2098791384392282330)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098791384392282330.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2050,6 +2116,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098982502006489324"></a>
+
+### Traduzione in corso
+
+Autore：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Post originale](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098982502006489324.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

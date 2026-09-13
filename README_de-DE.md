@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**73** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**77** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,50 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2098797781792047191"></a>
+
+### Übersetzung läuft
+
+Autor：[@MadMax\_Series](https://x.com/MadMax_Series) · [Originalbeitrag](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098797781792047191.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Übersetzung läuft
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Originalbeitrag](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Kinematisch / Filmstill · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098803826405089450.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Übersetzung läuft
@@ -336,6 +380,28 @@ Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Veröffentlicht
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2098777905010778507.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Übersetzung läuft
+
+Autor：[@abulu8](https://x.com/abulu8) · [Originalbeitrag](https://x.com/abulu8/status/2098791384392282330)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098791384392282330.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
@@ -2050,6 +2116,28 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098982502006489324"></a>
+
+### Übersetzung läuft
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098982502006489324.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

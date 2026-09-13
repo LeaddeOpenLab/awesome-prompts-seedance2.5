@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**73** Prompt · Bổ sung mới nhất: **2026-09-12**
+**77** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -327,6 +327,50 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2098797781792047191"></a>
+
+### Đang dịch
+
+Tác giả：[@MadMax\_Series](https://x.com/MadMax_Series) · [Bài gốc](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098797781792047191.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Đang dịch
+
+Tác giả：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Bài gốc](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Điện ảnh / Ảnh tĩnh từ phim · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098803826405089450.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Đang dịch
@@ -338,6 +382,28 @@ Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/
 **Tóm tắt:** Đang dịch
 
 <img src="covers/2098777905010778507.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Đang dịch
+
+Tác giả：[@abulu8](https://x.com/abulu8) · [Bài gốc](https://x.com/abulu8/status/2098791384392282330)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098791384392282330.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -2152,6 +2218,28 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098982502006489324"></a>
+
+### Đang dịch
+
+Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098982502006489324.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

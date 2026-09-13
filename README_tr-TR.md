@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**73** Prompt · Son eklenen: **2026-09-12**
+**77** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -311,6 +311,50 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2098797781792047191"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MadMax\_Series](https://x.com/MadMax_Series) · [Orijinal gönderi](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098797781792047191.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Orijinal gönderi](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Sinematik / Film Karesi · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098803826405089450.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Çeviri sürüyor
@@ -322,6 +366,28 @@ Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2098777905010778507.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abulu8](https://x.com/abulu8) · [Orijinal gönderi](https://x.com/abulu8/status/2098791384392282330)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098791384392282330.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -2044,6 +2110,28 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098982502006489324"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098982502006489324.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

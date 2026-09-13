@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**73** 条内容 · 最新收录: **2026-09-12**
+**77** 条内容 · 最新收录: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -329,6 +329,50 @@ UGC风格
 
 ## 电影 / 电影剧照
 
+<a name="prompt-2098797781792047191"></a>
+
+### 翻译中
+
+作者：[@MadMax\_Series](https://x.com/MadMax_Series) · [查看 X 原帖](https://x.com/MadMax_Series/status/2098797781792047191)
+
+电影 / 电影剧照 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098797781792047191.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### 翻译中
+
+作者：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [查看 X 原帖](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+电影 / 电影剧照 · 车辆 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098803826405089450.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### 翻译中
@@ -340,6 +384,28 @@ UGC风格
 **概括:** 翻译中
 
 <img src="covers/2098777905010778507.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### 翻译中
+
+作者：[@abulu8](https://x.com/abulu8) · [查看 X 原帖](https://x.com/abulu8/status/2098791384392282330)
+
+电影 / 电影剧照 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098791384392282330.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
@@ -2194,6 +2260,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098982502006489324"></a>
+
+### 翻译中
+
+作者：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [查看 X 原帖](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098982502006489324.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

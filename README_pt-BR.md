@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**73** Prompts · Última adição: **2026-09-12**
+**77** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -311,6 +311,50 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cinematográfico / Imagem de Filme
 
+<a name="prompt-2098797781792047191"></a>
+
+### Tradução em andamento
+
+Autor：[@MadMax\_Series](https://x.com/MadMax_Series) · [Publicação original](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098797781792047191.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Tradução em andamento
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicação original](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Cinematográfico / Imagem de Filme · Veículo · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098803826405089450.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Tradução em andamento
@@ -322,6 +366,28 @@ Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Public
 **Resumo:** Tradução em andamento
 
 <img src="covers/2098777905010778507.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Tradução em andamento
+
+Autor：[@abulu8](https://x.com/abulu8) · [Publicação original](https://x.com/abulu8/status/2098791384392282330)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098791384392282330.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -2044,6 +2110,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098982502006489324"></a>
+
+### Tradução em andamento
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098982502006489324.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 

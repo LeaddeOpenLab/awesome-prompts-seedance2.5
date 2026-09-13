@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**73** Prompts · Latest addition: **2026-09-12**
+**77** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -392,6 +392,157 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 
 ## Cinematic / Film Still
 
+<a name="prompt-2098797781792047191"></a>
+
+### Create an exactly 20.00-second, native horizontal 16:9 monochrome video depicting a muscular wingless warrior fighting six winged wraiths in an ash-covered ravine.
+
+Author：[@MadMax\_Series](https://x.com/MadMax_Series) · [Source](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Cinematic / Film Still · Published
+
+**Summary:** Create an exactly 20.00-second, native horizontal 16:9 monochrome video depicting a muscular wingless warrior fighting six winged wraiths in an ash-covered ravine.
+
+<img src="covers/2098797781792047191.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an exactly 20.00-second, native horizontal 16:9 video at 24 fps, filling the frame with no permanent black bars.
+
+STRICT MONOCHROME PALETTE ONLY: pure black, charcoal, ash gray, metallic silver, brilliant white. No colored magic, red fire, blue lightning, warm skin tones, or colored lighting. Strong white rim light must keep bodies, muscles, feathers, and cloth readable inside the darkness.
+
+ENVIRONMENT:
+A huge ash-covered forest ravine with jagged black rock, twisted dead trees, dark gravel, broken stone, exposed roots, shallow mist pools, drifting ash, leaves, and debris. A massive circular storm vortex continuously rotates overhead while narrow brilliant-white light shafts pierce the clearing. Keep geography consistent: warrior in the central clearing, dead trees framing both sides, ravine rising behind him, storm directly overhead.
+WINGLESS WARRIOR:
+Exactly one adult male warrior. Tall, muscular athletic build, broad shoulders, shaved or very short hair, stern exhausted expression, correct human anatomy. Bare torso, weathered dark leather trousers, layered waist wrap, short torn cloth panel, fitted forearm wraps, heavy dark boots. Clothing is wet, ash-covered, and reacts naturally to wind.
+
+He has NO sword, spear, shield, gun, wings, feathers, cape, supernatural limbs, or magic. He fights only with hands, forearms, controlled kicks, body rotation, dodges, and grappling counters.
+WINGED WRAITHS:
+Exactly six adult-sized humanoid wraiths. Each has one head, one torso, two arms, two legs, and EXACTLY ONE symmetrical pair of black feathered wings attached only to its back. Lean coherent anatomy, charcoal-gray skin, clawed hands and feet, ragged black waist cloth.
+
+Wings use layered primary and secondary feathers and bend correctly during dives, power strokes, recovery strokes, braking, and takeoff.
+
+The lead wraith has a pale bone-like face and one short broken horn. The other five are darker. Maximum one or two wraiths attack the warrior at close range at any moment; the others remain clearly separated in the air.
+TIMELINE:
+
+0.00-2.20
+Begin inside fast-moving storm clouds. Camera dives downward through several separated flying wraith silhouettes. Show complete wing cycles: downward power stroke, folded recovery, feathered braking. One foreground wing passes close to camera and reveals the wingless warrior in the clearing below. He turns toward the descending threat and takes a stable defensive stance. White light shafts cut through the mist.
+
+2.20-4.20
+Low rear three-quarter shot behind the warrior. One wraith folds its wings and dives toward his left shoulder with claws extended. He sees the shadow, bends his knees, ducks below the attack, plants his right foot, rotates his hips, grabs both forearms, and redirects the creature sideways using its own momentum. It spreads its wings, recovers, and exits safely screen-right.
+
+At approximately 3.50 seconds, insert ONE near-black shutter impact frame at contact, immediately returning to visible action. No fade and no missing motion.
+
+4.20-6.40
+A second wraith skims low from screen-right. Fast side-tracking shot. It claws toward his chest. Warrior steps diagonally backward, blocks the wrist with his left forearm, redirects the claw outside his body line, and pushes the shoulder with his right hand. A nearby wing briefly wipes across foreground without intersecting him. The wraith passes and climbs back into the air.
+6.40-8.60
+Camera follows the departing creature upward, performs one controlled approximately 30-degree roll, then levels into a wide overhead storm reveal. All six wraiths circle the clearing at different heights while the warrior stands alone at center. Brilliant white shafts separate their silhouettes.
+
+Atmospheric movement briefly feels slightly slower, with feathers, ash, and mist suspended, but the warrior's breathing and foot adjustments remain natural speed.
+At approximately 6.40, while a wing obscures the lens, insert ONE single-frame near-black shutter transition, revealing the same geography.
+
+8.60-10.80
+Return to ground level. One wraith attacks clearly from the front while a second descends from behind and above; both paths remain readable.
+
+Warrior pivots away from the rear claw attack without jumping, shifts weight onto his left leg, and delivers one compact right-foot kick into the front attacker's torso. The front wraith recoils and opens its wings. The rear attacker misses, passes behind him, and climbs away. Remaining support wraiths stay separated high in the background.
+10.80-13.40
+The pale-faced lead wraith descends directly in front, performs two powerful braking wingbeats, briefly touches the ground, then grips the warrior's upper arms from the outside. Fingers, shoulders, neck, and arms remain visually separate with no merging.
+
+The lead wraith beats downward and lifts both bodies upward. The warrior's boots leave the ground ONLY after the grip is secure. Dust and ash expand outward below them. Camera spirals upward around the pair while the other wraiths circle at a safe distance.
+13.40-15.80
+Use SHORT SELECTIVE SLOW MOTION ONLY HERE.
+
+Warrior hooks his left forearm around the lead wraith's right wrist, pulls his knees inward, and rotates his hips. One support wraith attempts a passing claw strike; the warrior kicks it in the shoulder with his right boot, knocking it away.
+
+He then drives his right elbow into the lead wraith's chest. Its fingers visibly release one-by-one until it completely lets him go.
+
+At approximately 13.80, insert ONE single black impact frame at the elbow strike, immediately returning to visible action.
+Return to natural speed after approximately 15.20. Warrior begins falling naturally while the lead wraith opens its wings to stop its own descent.
+
+15.80-17.80
+Camera follows the warrior downward. He does NOT grow wings, fly, hover, or levitate. He falls through dense mist, rotates feet toward the ground, lands with bent knees, touches the ash-covered floor with his right hand for balance, then converts forward momentum into one shoulder roll across loose gravel.
+
+Dust expands with each contact. Waist cloth follows his body without clipping through his legs. He finishes on one knee, looks upward, and pushes himself back to standing.
+17.80-20.00
+Lead wraith makes one final low attack from screen-left, wings partly folded, claws extended. Hold a low frontal camera long enough to clearly see the complete approach.
+
+Warrior plants both boots, waits until it enters reach, grabs ONLY its extended wrist, rotates his torso, and redirects the wraith past his side instead of stopping it head-on.
+
+At approximately 18.90, a black wing passes close to camera and produces ONE near-black shutter frame before exiting screen-right.
+Reveal the warrior still standing in the SAME clearing, chest rising with heavy controlled breathing, arms in guarded posture. The other five wraiths circle separately overhead inside the white light shafts.
+
+End EXACTLY at 20.00 seconds on the unresolved standoff. No fade, freeze, title, logo, or end card.
+
+CAMERA:
+Aggressive but physically motivated cinematography: descending aerial push, low rear angle, ground-level side tracking, one controlled camera roll, wide storm reveal, spiral aerial grapple shot, and downward falling follow.
+
+Camera always follows a recognizable subject. No random shaking. Foreground wings may create brief wipes but must reveal the same continuous action and geography. Keep the warrior mostly inside the central safe framing area while using the 16:9 width to show the dead forest, surrounding attackers, and storm scale.
+
+ACTION:
+Most combat remains fast natural speed. NO global slow motion. Only 13.40-15.20 uses selective slow motion.
+
+Every move requires clear anticipation, contact, and follow-through. Impact holds maximum 2-3 frames; never freeze the full character. Fast wings and camera movement may use strong directional motion blur, but heads, torsos, hands, and attack paths must remain readable.
+AUDIO:
+Environmental and physical sound effects only. NO background music, score, rhythmic music, electronic music, melody, singing, choir, dialogue, narration, or intelligible voices.
+
+Use violent storm wind, distant thunder, layered wingbeats, individual feather flutter, claws cutting air, boots grinding gravel, cloth movement, body impacts, falling stone, displaced ash, and restrained non-verbal exertion breathing.
+
+During the slow-motion aerial grapple, briefly reduce the wind intensity. Restore full wind pressure during the warrior's fall. Final moment contains only storm wind, circling wings, and controlled breathing.
+STRICT CONTINUITY / ANTI-GLITCH RULES:
+Exactly ONE wingless human warrior and exactly SIX wraiths throughout.
+
+Never duplicate the warrior. Never give him wings or feathers. Never transform or identity-swap the warrior and wraiths.
+
+Every wraith always has exactly one connected pair of black feathered wings. No extra wings, broken anatomy, extra arms, missing legs, fused bodies, merged faces, duplicate heads, floating hands, or torso intersections.
+
+Warrior's feet remain grounded except when explicitly lifted by the lead wraith, falling, and landing.
+
+ONLY the lead wraith may lift the warrior. It grips his upper arms without merging into his shoulders. After release, he falls naturally and never floats independently.
+
+Maximum two close-range attackers at once. All support wraiths remain spatially separated.
+No gore, blood spray, dismemberment, organs, text, subtitles, interface, health bars, logos, social handles, watermarks, or end card.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### 15s vertical cinematic Hollywood monster battle featuring timed shots of helicopter strikes, armored vehicle smash, soldier attacks, close-up roar, and heavy explosive round finish.
+
+Author：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Source](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Cinematic / Film Still · Vehicle · Published
+
+**Summary:** 15s vertical cinematic Hollywood monster battle featuring timed shots of helicopter strikes, armored vehicle smash, soldier attacks, close-up roar, and heavy explosive round finish.
+
+<img src="covers/2098803826405089450.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15s, 9:16 vertical, 24fps, photorealistic Hollywood monster action film. Image 1 = monster, Image 2  = city, Image 3 = four-person squad. Keep them consistent.
+
+0–2.5s — Aerial view down a huge skyscraper-lined avenue. The giant monster advances between the buildings. A military helicopter sweeps across frame and fires rockets. Explosions hit its body, but it keeps advancing through smoke.
+
+2.5–5s — Low street-level shot. A heavy armored vehicle races toward the monster as the four soldiers fire rifles beside it. The helicopter attacks overhead. The monster suddenly smashes the vehicle with one massive arm, crushing and flipping it. Dust, glass and debris explode outward.
+
+5–8s — The squad advances through smoke, firing rapidly. One kneels while the others cover different angles. The monster charges and sweeps its huge arm across the street, violently throwing the soldiers aside and destroying the formation. Their weapons scatter.
+
+8–10.5s — Low-angle monster close-up. Its two orange-red eyes glow through smoke. It roars toward camera, opening its massive jaws as burning debris falls around its head. Make it enormous, terrifying and majestic.
+
+10.5–12.5s — Cut to a remote heavy grenade launcher several blocks away. It locks onto the monster and fires one powerful explosive round. Briefly track the projectile through the smoky city.
+
+12.5–15s — Wide aerial shot. The projectile strikes the monster's chest. A huge orange explosion erupts, followed by rapid secondary blasts. Fire and smoke engulf the monster, lighting the cold gray city orange. End with the blast filling frame.
+
+Fast, aggressive action, dynamic cinematic camera movement, realistic weight and destruction. No slow motion, duplicated soldiers, extra characters or limbs, teleportation, random background changes, white flashes or identity changes.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### A multi-shot cyberpunk rooftop chase between a runner and an armored enforcer in heavy neon rain.
@@ -408,6 +559,36 @@ Cinematic / Film Still · Cyberpunk / Sci-Fi · Published
 
 ```text
 6 shots, total 30s — 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Hard cuts, no dissolves. Normal speed throughout, no slow motion, no ramping.\n\nCAPTURE CADENCE — CRITICAL: native 24fps, true 180-degree shutter, real 1/48s exposure every frame. Fluid, continuous motion blur. Never choppy, never juddering. No interpolation, no ghosting, no video look.\n\nNO ON-SCREEN TEXT — CRITICAL: no text of any kind anywhere in frame. No captions, subtitles, titles, credits, watermarks, logos, timecode, UI overlays.\n\nNOBODY ELSE IN FRAME — CRITICAL: no pedestrians, no other rooftop figures, no extras. Only the runner, the enforcer, and one drone are ever visible.\n\nTHE NEON FLARE — CRITICAL: neon signage below strobes the rooftops in hard magenta and cyan flashes throughout. The stepped quality of any lit moment comes entirely from this signage-flicker, never from broken footage — camera motion stays smooth throughout. Falling rain streaks diagonally, screen-right to left.\n\nSubject Lock — the runner: lean wiry build, shaved head, sharp cheekbones, rain-slicked dark skin, clean face, no visible tattoos. Matte black tactical jacket over a compression base layer, fingerless gloves, worn parkour shoes. Carries nothing but bare hands. Sprints rooftop to rooftop toward the city's edge, never breaking stride mid-leap.\n\nSubject Lock — the enforcer: bulky armored build, a featureless matte-grey full-face helmet with a single red visor slit, reinforced shoulder plating, heavy boots. Carries a stun baton crackling with blue arcs. Pursues in a steady mechanical stride, never sprinting, always closing distance.\n\nWorld Plate: a dense cyberpunk rooftop skyline at night in rain — sheet-metal water tanks, tangled cable runs, a gap between towers spanned by a rusted service bridge, neon signage glowing far below through the haze. No other structures present.\n\nTHE ATMOSPHERE — CRITICAL, depth only: heavy rain-haze at high density — runner sharp near, enforcer softened mid-distance, distant towers near-erased far. Reads as thickened wet air only, never a fog-machine look.\n\nSHOT 1 — 0.0-5.0s. THE SPRINT. Low camera at rooftop level, cant 15°, tracking the runner forward. Runner sprints across gravel rooftop, enforcer's baton-glow closing from behind. Runner screen-left sprinting, enforcer screen-right pursuing. Diegetic sound.\n\nSHOT 2 — 5.0-10.0s. THE STRIKE. Camera orbits tight at chest height, cant swinging 15-35°, never square. Baton arcs crackle past the runner's shoulder, runner ducks and shoulder-checks the enforcer's plating. Both centered, rain scattering. Diegetic sound.\n\nSHOT 3 — 10.0-15.0s. THE WATCHER. Cut to a small surveillance drone hovering between towers, its red scan-light sweeping as wind gusts rock it sideways. It corrects and holds position. Drone centered against the neon-lit haze. Diegetic sound.\n\nSHOT 4 — 15.0-20.0s. THE COLLAPSE. Low static camera at the service bridge, whip-panning up as a rusted support strut gives way. The bridge section buckles and drops; the runner leaps clear across the widening gap. Bridge diagonal across frame, runner emerging low center. Diegetic sound.\n\nSHOT 5 — 20.0-25.0s. THE SURGE. Camera drops to rooftop height, rockets forward through a rain corridor lit by a fresh neon flare. Runner sprints hard, jacket soaked, closing the last stretch toward the city's edge. Runner screen-left driving right. Diegetic sound.\n\nSHOT 6 — 25.0-30.0s. THE AFTERMATH. Camera pulls back to a wide static rooftop frame, rain falling straight now, wind dying. The runner stands alone at the tower's edge, chest heaving, as the enforcer's red visor dims below the ledge and it stops advancing. Runner small and centered, collapsed bridge dark behind. Diegetic sound.\n\nCross-Frame Rules: runner's jacket and gloves never change. Enforcer's visor-glow never fully fades until Shot 6. Only runner, enforcer, and drone ever visible. Rain direction stays constant. Bridge keeps the same collapsed shape wherever it appears. Neon-flare applies only inside Shots 1, 2, and 5. No score enters at any point.\n\nLast Frame: the runner stands alone at the rooftop's edge, rain falling straight down, the enforcer's dimmed red visor faint at the frame's edge below, the collapsed bridge looming behind under neon haze. No on-screen text, no logo, no watermark.\n\nSound Bed: diegetic only — heavy rain, the baton's electric crackle, boots pounding gravel, metal groaning and snapping, a drone's faint rotor whine. No score, no subtitles.\n\nCamera & Capture Realism: ~32mm/68° FOV, vintage 2x anamorphic with oval bokeh and streak flares off the neon, shallow depth of field, color-negative rendition, fine grain. Violent handheld — cant swinging 15-45°, punching in and ripping back, every frame mid-move but smooth in its own travel, never locked, never gimbal-glide. No CGI look, no AI smoothness, no video-game HUD, no motion smoothing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Extreme-speed continuous FPV drone tracking shot prompt of an eagle diving over Paris through the Eiffel Tower to hunt prey.
+
+Author：[@abulu8](https://x.com/abulu8) · [Source](https://x.com/abulu8/status/2098791384392282330)
+
+Cinematic / Film Still · Published
+
+**Summary:** Extreme-speed continuous FPV drone tracking shot prompt of an eagle diving over Paris through the Eiffel Tower to hunt prey.
+
+<img src="covers/2098791384392282330.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+One single CONTINUOUS FPV drone shot, no cuts, one unbroken take. EXTREME real-time speed, relentless. Only ever moves forward in time — never loops or reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full velocity. THE CLIP DOES NOT END IN AN ESCAPE OR EXIT, and there is no fade or cut to black — the take runs continuously until time runs out, still inside the action.
+
+CINEMATIC CAPTURE: shot as real FPV drone footage on a cinema camera — ultra-wide FPV lens (12–16mm) with subtle barrel distortion at the frame edges, 180-degree shutter with natural heavy motion blur on fast pans, shallow organic depth of field close to the bird, fine 35mm film grain, subtle chromatic aberration, real lens flares off the low sun, wind buffet shaking the frame in the dive, atmospheric haze softening the far city. Early-morning Paris light — golden low sun cutting through thin mist, long shadows across the rooftops, the Eiffel Tower's iron reading dark against the warm haze. Cinematic color grade: muted Parisian stone, slate-blue rooftops and soft gold highlights, lifted blacks, documentary contrast — the texture of a BBC raptor-cam documentary shot from a racing drone, NOT a game engine, NOT animation.
+
+The flight launches already banking in a wide circle at high altitude over Paris, tight on the shoulder of a massive harpy eagle — the largest and most powerful of eagles, huge grey-and-black crested head, colossal talons tucked — the city spread below in golden mist, the Eiffel Tower rising through it, tiny rooftops and the Seine glinting far down. Below on the Champ de Mars, a wheeling flock of pigeons catches the light. The eagle's head locks on — and it folds its wings and DROPS into a near-vertical hunting stoop, the camera plummeting with it, wind hammering the lens, the tower and rooftops enlarging at terrifying speed, the flock scattering in panic as death falls toward it. One pigeon bolts and the chase rips through the city: the camera banks hard 90° with the eagle around the tower's massive iron leg, then threads THROUGH the lattice of the Eiffel Tower itself — girders whipping past inches away — and bursts out the far side, scattering gulls off the rooftops, rolling past a balcony where laundry snaps in the wind, then dropping to skim low over the Seine, wingtips nearly kissing the water, tourists on the quay ducking and pointing, phones rising, a café crowd gasping. The pigeon jinks desperately upward along the tower's flank — the eagle closes — its enormous talons swing forward and OPEN, fully extended inches from the prey, backlit against the iron lattice — the single slow-motion beat — then a HARD snap back to full speed: the strike CONNECTS mid-air in an explosion of feathers, the huge talons binding the prey, and the eagle immediately powers UPWARD, massive wings hammering, the camera whipping around its climb-out in a tight spiral as it spirals up through the tower's upper lattice with its catch locked beneath it, feathers still drifting down past the girders, pigeons still scattering in every direction below, Paris falling away — the camera still whipping around its beating shoulders, climbing past the summit into the golden haze as the take runs out.
+
+Sound: the thin high wind of altitude and the soft ambient bed of Paris far below — traffic hum, faint chatter, a distant accordion, pigeon wings — then the bed CUTS to a rushing scream of wind as the stoop begins, the flock erupting in panicked wingbeats, a piercing raptor SHRIEK echoing off the ironwork, gasps and startled shouts from the streets, gulls crying and scattering — near-silence for one held breath as the talons open — then a sharp concussive IMPACT and feather-burst, the prey's cry cut short, and the deep pounding WHUMP of huge wingbeats climbing, the crowd below erupting in astonished shouts, the shriek ringing out again in triumph, wind roaring right to the last frame. No wind-down.
+
+Global style lock: cinematic photoreal FPV documentary footage — real cinema-camera texture with film grain, lens distortion, motion blur and wind buffet, golden Parisian morning grade; constantly shifting altitude and plane, a climax escalating through the strike into the climb-out with no escape beat and no fade or cut to black; consistently extraordinary render quality, no distortion artifacts, no subtitles, no watermarks. Aspect ratio 16:9.
 ```
 
 [↑ Back to categories](#catalog)
@@ -2704,6 +2885,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098982502006489324"></a>
+
+### Early-2000s MiniDV style home video of a young Korean woman accidentally overwatering potted plants on a rainy Seoul apartment balcony.
+
+Author：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Source](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+
+Character · Published
+
+**Summary:** Early-2000s MiniDV style home video of a young Korean woman accidentally overwatering potted plants on a rainy Seoul apartment balcony.
+
+<img src="covers/2098982502006489324.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized faded lavender T-shirt and loose gray lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.\n\nLocation: Small old Seoul apartment balcony during a dark rainy early morning. Several small potted plants sit along the railing, with wet concrete floor, metal railing, neighboring apartment buildings and rain-covered rooftops visible beyond. Rain continues steadily outside.\n\nLighting & Atmosphere: Cozy, dark blue-hour ambience. Cold blue-gray light from the cloudy rainy sky softly illuminates the balcony, with a faint warm glow coming from the apartment behind her. Wet surfaces reflect the dim light. Quiet, sleepy and intimate rainy Seoul atmosphere.\n\nStyle: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged, like a family member casually filming her. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.\n\n00:00–00:04: She stands on the small balcony holding a simple watering can. She gently waters one of the potted plants while looking at its leaves.\n\n00:04–00:08: She moves the watering can toward another plant and accidentally pours too much water. Water quickly spills over the edge of the pot and spreads across the balcony floor.\n\n00:08–00:11: She immediately notices the puddle and freezes for a moment. She looks down at the water, then back at the plant with a mildly embarrassed expression.\n\n00:11–00:15: She looks toward the camcorder and gives a small guilty smile, quietly laughs and shrugs as if admitting her mistake. She places the watering can down and carefully steps around the puddle.\n\nAudio: Natural location sound only—steady rain, water pouring from the watering can, water splashing onto concrete, distant traffic, faint apartment sounds, soft clothing movement and her quiet laugh. No music, narration or added sound effects.\n\nGoal: Feel like a tiny, harmless mistake accidentally captured on an early-2000s family MiniDV camera. Cute, ordinary and spontaneous rather than comedic or exaggerated. Her reaction should be subtle and genuine, with the rainy balcony atmosphere remaining the main visual mood.\n\nMotion quality: Keep all character and camera movement smooth, continuous and physically realistic. The water should pour naturally without sudden changes or unnatural splashing. Avoid rapid movements. The vintage MiniDV aesthetic must come from image texture, autofocus, exposure behavior, muted colors and handheld operation—not reduced frame rate or choppy motion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098625551833669826"></a>
 
