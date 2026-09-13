@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T16:29:36.264Z",
+  "model": "seedance2.5",
+  "prompt": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+  "promptTranslations": {
+    "en": "the flippers move only when the ball is near them, the score reels only turn on a hit"
+  },
+  "summaryTranslations": {
+    "en": "the flippers move only when the ball is near them, the score reels only turn on a hit"
+  },
+  "translationVersion": 2,
+  "summary": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+  "summaryEn": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099148058256716100",
+    "canonicalUrl": "https://x.com/GlennHasABeard/status/2099148058256716100",
+    "author": {
+      "username": "GlennHasABeard",
+      "displayName": "Glenn Williams",
+      "profileUrl": "https://x.com/GlennHasABeard"
+    },
+    "publishedAt": "2026-09-13T14:47:52.000Z",
+    "collectedAt": "2026-09-13T16:16:58.485Z",
+    "language": "en",
+    "originalText": "Seedance 2.5. Nobody at the flippers. Decent game.\n\nPrompt: \"the flippers move only when the ball is near them, the score reels only turn on a hit\"\n\nDuration: 15s. Camera: locked, player's view. Rendered 480p, Topaz to 4K.\n\n\"Only when\" is a causality rule. Without it the flippers flap and the reels spin the whole clip like a slot machine.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GlennHasABeard/status/2099148058256716100",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099147998223794176/img/-PEQXH3vo9Ae3nTl.jpg",
+        "analysisUrl": "https://x.com/GlennHasABeard/status/2099148058256716100"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 128
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/GlennHasABeard/status/2099148058256716100",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099147998223794176/img/-PEQXH3vo9Ae3nTl.jpg",
+  "coverPath": "covers/2099148058256716100.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099147998223794176",
+    "x-post:2099148058256716100"
+  ],
+  "analysis": {
+    "summary": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+    "summaryEn": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a pinball machine from player perspective where flippers trigger conditionally based on the ball position."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the flippers move only when the ball is near them, the score reels only turn on a hit",
+    "sourceRange": {
+      "start": 61,
+      "end": 146
+    },
+    "translations": {
+      "zh": "弹珠挡板仅在球靠近时移动，计分卷轴仅在击中时转动",
+      "en": "the flippers move only when the ball is near them, the score reels only turn on a hit"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video animation rule conditioning",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
