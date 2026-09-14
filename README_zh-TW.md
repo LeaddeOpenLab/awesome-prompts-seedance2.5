@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**84** 筆內容 · 最新收錄: **2026-09-14**
+**86** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,28 @@ UGC風格
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2099327265888993335"></a>
+
+### 翻譯中
+
+作者：[@Elvorya](https://x.com/Elvorya) · [查看 X 原帖](https://x.com/Elvorya/status/2099327265888993335)
+
+電影感 / 電影劇照 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2099327265888993335.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -2409,6 +2431,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099340009648377870"></a>
+
+### 翻譯中
+
+作者：[@iX00AI](https://x.com/iX00AI) · [查看 X 原帖](https://x.com/iX00AI/status/2099340009648377870)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2099340009648377870.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 

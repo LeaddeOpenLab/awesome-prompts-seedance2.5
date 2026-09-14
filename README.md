@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**84** Prompts · Latest addition: **2026-09-14**
+**86** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099327265888993335"></a>
+
+### Cinematic 15-second sequence of a man and a woman in a red dress crossing paths on a busy city avenue with flying pigeons.
+
+Author：[@Elvorya](https://x.com/Elvorya) · [Source](https://x.com/Elvorya/status/2099327265888993335)
+
+Cinematic / Film Still · Character · Fashion Item · Published
+
+**Summary:** Cinematic 15-second sequence of a man and a woman in a red dress crossing paths on a busy city avenue with flying pigeons.
+
+<img src="covers/2099327265888993335.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second photorealistic cinematic urban sequence set in a busy Manhattan-style city intersection during a bright late afternoon. Begin with a smooth low-angle forward tracking shot through a crowded pedestrian street surrounded by tall urban buildings, cinema signs, storefronts, traffic, street poles, and hundreds of naturally moving pedestrians. A rugged middle-aged bearded man wearing a dark charcoal jacket and dark shirt walks steadily toward the camera through the crowd, maintaining a serious, thoughtful expression. The camera smoothly tracks backward as he approaches, keeping him sharply in focus while pedestrians naturally pass in the foreground and background.\n\nA woman in an elegant flowing red dress suddenly crosses into the scene from the side, walking past the man as they briefly notice each other. Continue with cinematic medium shots showing believable eye contact and natural human movement. Pigeons suddenly take flight around them, creating dynamic foreground motion and subtle visual tension. Cut between the man's face, the woman moving through the crowd, and wide environmental shots showing the scale and energy of the city. Gradually transition from smooth stabilized camera movement into a subtle handheld cinematic feel.\n\nIn the final seconds, the camera slowly pulls backward and rises slightly, revealing the entire crowded avenue stretching between tall buildings, with the man becoming smaller within the moving crowd. Warm natural sunlight, realistic shadows, atmospheric depth, subtle lens flare, shallow depth of field during close-ups, natural skin texture, realistic hair and clothing movement, physically accurate lighting, authentic pedestrian behavior, realistic pigeons and motion blur, cinematic color grading, premium feature-film cinematography, grounded photorealism, highly detailed urban environment.\n\nNo animation, no cartoon appearance, no exaggerated CGI, no distorted faces, no duplicated people, no unnatural body movement, no floating objects, no subtitles, no logos, no watermark. Maintain consistent character appearance, clothing, environment, and facial features throughout the entire sequence.\n\nShot timing\n\n0–3 sec: Wide/low-angle tracking shot through crowded city street.\n3–6 sec: Bearded man approaches camera, camera smoothly tracks backward.\n6–9 sec: Woman in red dress crosses his path; brief eye contact.\n9–12 sec: Close/medium shots + pigeons suddenly flying through foreground.\n12–15 sec: Camera pulls back and rises, revealing the massive crowded city avenue and the man disappearing into the crowd.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -3172,6 +3194,32 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099340009648377870"></a>
+
+### A female student dozing off in class encounters a giant lizard and transforms into glowing battle armor
+
+Author：[@iX00AI](https://x.com/iX00AI) · [Source](https://x.com/iX00AI/status/2099340009648377870)
+
+Other · Published
+
+**Summary:** A female student dozing off in class encounters a giant lizard and transforms into glowing battle armor
+
+<img src="covers/2099340009648377870.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Sleepily attending class
+Giant lizard
+Glowing armor
+Particle ring
+Shot on iPhone 17
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 

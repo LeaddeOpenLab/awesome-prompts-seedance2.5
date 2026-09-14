@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**84** 条内容 · 最新收录: **2026-09-14**
+**86** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,28 @@ UGC风格
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2099327265888993335"></a>
+
+### 翻译中
+
+作者：[@Elvorya](https://x.com/Elvorya) · [查看 X 原帖](https://x.com/Elvorya/status/2099327265888993335)
+
+电影 / 电影剧照 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2099327265888993335.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -2411,6 +2433,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099340009648377870"></a>
+
+### 翻译中
+
+作者：[@iX00AI](https://x.com/iX00AI) · [查看 X 原帖](https://x.com/iX00AI/status/2099340009648377870)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2099340009648377870.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 

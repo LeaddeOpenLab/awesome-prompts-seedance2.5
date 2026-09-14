@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**84** Prompts · Última incorporación: **2026-09-14**
+**86** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2099327265888993335"></a>
+
+### Traducción en curso
+
+Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2099327265888993335)
+
+Cine / Fotograma · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099327265888993335.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -2267,6 +2289,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099340009648377870"></a>
+
+### Traducción en curso
+
+Autor：[@iX00AI](https://x.com/iX00AI) · [Publicación original](https://x.com/iX00AI/status/2099340009648377870)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099340009648377870.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 

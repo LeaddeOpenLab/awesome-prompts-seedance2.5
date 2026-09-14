@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**84** Prompts · Adição mais recente: **2026-09-14**
+**86** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,28 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2099327265888993335"></a>
+
+### Tradução em curso
+
+Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2099327265888993335)
+
+Cena de Cinema / Fotograma · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099327265888993335.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -2261,6 +2283,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099340009648377870"></a>
+
+### Tradução em curso
+
+Autor：[@iX00AI](https://x.com/iX00AI) · [Publicação original](https://x.com/iX00AI/status/2099340009648377870)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099340009648377870.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 

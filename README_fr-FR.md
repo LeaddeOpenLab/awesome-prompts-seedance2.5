@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**84** Prompts · Dernier ajout: **2026-09-14**
+**86** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099327265888993335"></a>
+
+### Traduction en cours
+
+Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2099327265888993335)
+
+Image cinématographique / Photogramme de film · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099327265888993335.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099332819768291755"></a>
 
@@ -2267,6 +2289,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099340009648377870"></a>
+
+### Traduction en cours
+
+Auteur：[@iX00AI](https://x.com/iX00AI) · [Publication originale](https://x.com/iX00AI/status/2099340009648377870)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099340009648377870.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099148058256716100"></a>
 
