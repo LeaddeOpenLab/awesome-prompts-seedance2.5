@@ -327,20 +327,34 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2099327265888993335"></a>
 
-### Traduction en cours
+### Séquence cinématographique de 15 secondes d'un homme et d'une femme en robe rouge se croisant sur une avenue urbaine animée avec des pigeons en vol.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2099327265888993335)
 
 Image cinématographique / Photogramme de film · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence cinématographique de 15 secondes d'un homme et d'une femme en robe rouge se croisant sur une avenue urbaine animée avec des pigeons en vol.
 
 <img src="covers/2099327265888993335.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence urbaine cinématographique et photoréaliste de 15 secondes se déroulant à un carrefour très fréquenté d'une ville de style Manhattan en fin d'après-midi lumineuse. Commencez par un travelling avant fluide en contre-plongée à travers une rue piétonne bondée, entourée de grands immeubles urbains, d'enseignes de cinéma, de devantures de magasins, de circulation, de lampadaires et de centaines de piétons aux mouvements naturels. Un homme barbu d'âge mûr au style robuste, vêtu d'une veste anthracite foncée et d'une chemise sombre, marche d'un pas régulier vers la caméra à travers la foule, avec une expression sérieuse et pensive. La caméra recule fluidement en travelling tandis qu'il s'approche, le maintenant parfaitement net alors que les piétons passent naturellement au premier plan et à l'arrière-plan.
+
+Une femme vêtue d'une élégante robe rouge fluide traverse soudainement la scène par le côté, croisant l'homme alors qu'ils se remarquent brièvement. Poursuivez avec des plans moyens cinématographiques montrant un contact visuel crédible et des mouvements humains naturels. Des pigeons s'envolent soudainement autour d'eux, créant un mouvement dynamique au premier plan et une subtile tension visuelle. Alternez entre le visage de l'homme, la femme se déplaçant dans la foule et des plans larges d'ensemble montrant l'échelle et l'énergie de la ville. Passez progressivement d'un mouvement de caméra fluide et stabilisé à une sensation subtile de caméra portée cinématographique.
+
+Dans les dernières secondes, la caméra recule lentement et s'élève légèrement, révélant toute l'avenue bondée s'étendant entre les grands immeubles, l'homme devenant de plus en plus petit au milieu de la foule en mouvement. Lumière naturelle chaude du soleil, ombres réalistes, profondeur atmosphérique, léger flare d'objectif, faible profondeur de champ lors des gros plans, texture de peau naturelle, mouvement réaliste des cheveux et des vêtements, éclairage physiquement précis, comportement authentique des piétons, pigeons et flou de mouvement réalistes, étalonnage des couleurs cinématographique, cinématographie digne d'un long-métrage haut de gamme, photoréalisme soigné, environnement urbain extrêmement détaillé.
+
+Pas d'animation, pas d'aspect dessin animé, pas de CGI exagéré, pas de visages déformés, pas de personnes dupliquées, pas de mouvements corporels artificiels, pas d'objets flottants, pas de sous-titres, pas de logos, pas de filigranes. Conservez une apparence, des vêtements, un environnement et des traits de visage constants pour les personnages tout au long de la séquence.
+
+Minutage des plans
+
+0–3 s : Travelling large/en contre-plongée à travers une rue urbaine bondée.
+3–6 s : L'homme barbu s'approche de la caméra, la caméra recule fluidement.
+6–9 s : La femme en robe rouge croise son chemin ; bref échange de regards.
+9–12 s : Gros plans/plans moyens + pigeons s'envolant soudainement au premier plan.
+12–15 s : La caméra recule et s'élève, dévoilant l'immense avenue urbaine bondée et l'homme disparaissant dans la foule.
 ```
 
 [↑ Retour aux catégories](#catalog)

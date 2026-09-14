@@ -313,20 +313,34 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2099327265888993335"></a>
 
-### Tradução em andamento
+### Sequência cinematográfica de 15 segundos de um homem e uma mulher de vestido vermelho cruzando caminhos em uma avenida movimentada da cidade com pombos voando.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2099327265888993335)
 
 Cinematográfico / Imagem de Filme · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência cinematográfica de 15 segundos de um homem e uma mulher de vestido vermelho cruzando caminhos em uma avenida movimentada da cidade com pombos voando.
 
 <img src="covers/2099327265888993335.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma sequência urbana cinematográfica e fotorrealista de 15 segundos ambientada em um cruzamento movimentado no estilo de Manhattan durante um final de tarde ensolarado. Comece com um travelling suave para a frente em ângulo baixo através de uma rua de pedestres lotada, cercada por edifícios urbanos altos, letreiros de cinema, vitrines, tráfego, postes de rua e centenas de pedestres se movendo naturalmente. Um homem rústico de meia-idade e com barba, vestindo uma jaqueta cinza-chumbo escura e camisa escura, caminha a passos firmes em direção à câmera através da multidão, mantendo uma expressão séria e pensativa. A câmera recua suavemente em travelling conforme ele se aproxima, mantendo-o nitidamente em foco enquanto os pedestres passam naturalmente em primeiro e segundo plano.
+
+Uma mulher com um elegante vestido vermelho esvoaçante entra repentinamente em cena pela lateral, passando pelo homem enquanto eles se notam brevemente. Continue com planos médios cinematográficos mostrando contato visual verossímil e movimento humano natural. Pombos de repente levantam voo ao redor deles, criando movimento dinâmico em primeiro plano e uma sutil tensão visual. Alterne entre o rosto do homem, a mulher se movendo pela multidão e planos gerais do ambiente mostrando a escala e a energia da cidade. Transicione gradualmente do movimento de câmera suave e estabilizado para uma sensação sutil de câmera na mão cinematográfica.
+
+Nos segundos finais, a câmera recua lentamente e sobe ligeiramente, revelando toda a avenida lotada que se estende entre edifícios altos, com o homem ficando menor dentro da multidão em movimento. Luz solar natural e quente, sombras realistas, profundidade atmosférica, reflexo de lente (lens flare) sutil, profundidade de campo reduzida durante os closes, textura natural da pele, movimento realista de cabelo e roupas, iluminação fisicamente precisa, comportamento autêntico dos pedestres, pombos realistas e desfoque de movimento, gradação de cor cinematográfica, cinematografia premium de longa-metragem, fotorrealismo fundamentado, ambiente urbano altamente detalhado.
+
+Sem animação, sem aparência de desenho animado, sem CGI exagerado, sem rostos distorcidos, sem pessoas duplicadas, sem movimentos corporais não naturais, sem objetos flutuantes, sem legendas, sem logotipos, sem marca d'água. Mantenha a aparência dos personagens, roupas, ambiente e características faciais consistentes ao longo de toda a sequência.
+
+Cronometragem das tomadas
+
+0–3 seg: Travelling amplo/em ângulo baixo pela rua movimentada da cidade.
+3–6 seg: Homem barbudo se aproxima da câmera, a câmera recua suavemente em travelling.
+6–9 seg: Mulher de vestido vermelho cruza seu caminho; breve contato visual.
+9–12 seg: Planos fechados/médios + pombos voando repentinamente pelo primeiro plano.
+12–15 seg: A câmera recua e se eleva, revelando a enorme avenida movimentada da cidade e o homem desaparecendo na multidão.
 ```
 
 [↑ Voltar às categorias](#catalog)

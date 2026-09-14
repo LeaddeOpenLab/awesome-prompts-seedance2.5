@@ -327,20 +327,34 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2099327265888993335"></a>
 
-### Traduzione in corso
+### Sequenza cinematografica di 15 secondi di un uomo e una donna con un abito rosso che si incrociano su un affollato viale cittadino con piccioni in volo.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2099327265888993335)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza cinematografica di 15 secondi di un uomo e una donna con un abito rosso che si incrociano su un affollato viale cittadino con piccioni in volo.
 
 <img src="covers/2099327265888993335.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza urbana cinematografica e fotorealistica di 15 secondi ambientata in un incrocio trafficato di una città in stile Manhattan durante un luminoso tardo pomeriggio. Inizia con una fluida carrellata in avanti dal basso attraverso una strada pedonale affollata, circondata da alti edifici urbani, insegne di cinema, vetrine di negozi, traffico, lampioni e centinaia di pedoni che si muovono con naturalezza. Un uomo barbuto di mezza età dall'aspetto vissuto, con indosso una giacca color antracite scuro e una camicia scura, cammina con passo deciso verso la telecamera attraverso la folla, mantenendo un'espressione seria e riflessiva. La telecamera arretra fluidamente mentre lui si avvicina, mantenendolo nitidamente a fuoco mentre i pedoni passano con naturalezza in primo piano e sullo sfondo.
+
+Una donna con un elegante e svolazzante abito rosso entra all'improvviso in scena lateralmente, passando accanto all'uomo mentre si notano per un istante. Prosegui con mezze figure cinematografiche che mostrano un contatto visivo credibile e un movimento umano naturale. Dei piccioni prendono improvvisamente il volo intorno a loro, creando un movimento dinamico in primo piano e una sottile tensione visiva. Alterna stacchi tra il volto dell'uomo, la donna che si muove tra la folla e campi lunghi dell'ambiente che mostrano l'ampiezza e l'energia della città. Passa gradualmente da un movimento di macchina fluido e stabilizzato a una sottile sensazione di camera a mano cinematografica.
+
+Negli ultimi secondi, la telecamera arretra lentamente e si solleva leggermente, rivelando l'intero viale affollato che si estende tra gli alti edifici, con l'uomo che diventa sempre più piccolo all'interno della folla in movimento. Luce solare calda e naturale, ombre realistiche, profondità atmosferica, delicato lens flare, ridotta profondità di campo nei primi piani, texture naturale della pelle, movimento realistico di capelli e abiti, illuminazione fisicamente accurata, comportamento autentico dei pedoni, piccioni e sfocatura di movimento realistici, color grading cinematografico, cinematografia da lungometraggio di alto livello, fotorealismo solido, ambiente urbano altamente dettagliato.
+
+Nessuna animazione, nessun aspetto da cartone animato, nessuna CGI esagerata, nessun volto distorto, nessuna persona duplicata, nessun movimento corporeo innaturale, nessun oggetto fluttuante, nessun sottotitolo, nessun logo, nessun watermark. Mantieni coerenti l'aspetto dei personaggi, l'abbigliamento, l'ambiente e i tratti somatici per l'intera sequenza.
+
+Tempistica delle inquadrature
+
+0–3 s: Carrellata ampia/dal basso attraverso una strada urbana affollata.
+3–6 s: L'uomo barbuto si avvicina alla telecamera, la telecamera arretra fluidamente.
+6–9 s: La donna con l'abito rosso incrocia il suo cammino; breve contatto visivo.
+9–12 s: Primi piani/mezze figure + piccioni che volano improvvisamente in primo piano.
+12–15 s: La telecamera arretra e si alza, rivelando l'enorme viale cittadino affollato e l'uomo che scompare tra la folla.
 ```
 
 [↑ Torna alle categorie](#catalog)

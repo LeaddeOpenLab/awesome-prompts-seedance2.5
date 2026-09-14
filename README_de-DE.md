@@ -327,20 +327,34 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2099327265888993335"></a>
 
-### Übersetzung läuft
+### Filmische 15-Sekunden-Sequenz eines Mannes und einer Frau im roten Kleid, die sich auf einer belebten städtischen Allee mit auffliegenden Tauben begegnen.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2099327265888993335)
 
 Kinematisch / Filmstill · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische 15-Sekunden-Sequenz eines Mannes und einer Frau im roten Kleid, die sich auf einer belebten städtischen Allee mit auffliegenden Tauben begegnen.
 
 <img src="covers/2099327265888993335.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 15-sekündige, fotorealistische, filmische Stadtsequenz, die an einer belebten städtischen Kreuzung im Manhattan-Stil an einem strahlenden späten Nachmittag spielt. Beginne mit einer sanften Vorwärts-Tracking-Aufnahme aus der Froschperspektive durch eine überfüllte Fußgängerzone, umgeben von hohen Stadtgebäuden, Kinoschildern, Schaufenstern, Verkehr, Laternenpfählen und Hunderten sich natürlich bewegenden Fußgängern. Ein robuster bärtiger Mann mittleren Alters in einer dunkelanthrazitfarbenen Jacke und einem dunklen Hemd geht mit ernstem, nachdenklichem Gesichtsausdruck gleichmäßig durch die Menge auf die Kamera zu. Die Kamera fährt sanft rückwärts mit, während er sich nähert, und hält ihn scharf im Fokus, während Fußgänger im Vorder- und Hintergrund natürlich vorbeigehen.
+
+Eine Frau in einem eleganten, fließenden roten Kleid betritt plötzlich von der Seite die Szene und geht an dem Mann vorbei, während sie sich kurz bemerken. Fahre fort mit filmischen Halbnahaufnahmen, die glaubwürdigen Blickkontakt und natürliche menschliche Bewegungen zeigen. Tauben fliegen plötzlich um sie herum auf und erzeugen eine dynamische Bewegung im Vordergrund sowie eine subtile visuelle Spannung. Wechsle im Schnitt zwischen dem Gesicht des Mannes, der sich durch die Menge bewegenden Frau und weiten Umgebungsaufnahmen, die das Ausmaß und die Energie der Stadt zeigen. Gehe allmählich von einer weichen, stabilisierten Kamerabewegung in ein dezentes, filmisches Handkamera-Gefühl über.
+
+In den letzten Sekunden zieht sich die Kamera langsam zurück und steigt leicht an, sodass die gesamte überfüllte Allee zwischen hohen Gebäuden sichtbar wird, während der Mann in der sich bewegenden Menge kleiner wird. Warmes natürliches Sonnenlicht, realistische Schatten, atmosphärische Tiefe, dezente Linsenreflexionen, geringe Schärfentiefe bei Nahaufnahmen, natürliche Hauttextur, realistische Haar- und Kleiderbewegungen, physikalisch akkurate Beleuchtung, authentisches Fußgängerverhalten, realistische Tauben und Bewegungsunschärfe, filmisches Color Grading, erstklassige Spielfilm-Kinematografie, fundierter Fotorealismus, hochdetaillierte städtische Umgebung.
+
+Keine Animation, kein Cartoon-Look, kein übertriebenes CGI, keine verzerrten Gesichter, keine duplizierten Personen, keine unnatürlichen Körperbewegungen, keine schwebenden Objekte, keine Untertitel, keine Logos, keine Wasserzeichen. Behalte das Erscheinungsbild der Charaktere, die Kleidung, die Umgebung und die Gesichtszüge während der gesamten Sequenz konsistent bei.
+
+Einstellungs-Timing
+
+0–3 Sek.: Weite/Froschperspektiven-Kamerafahrt durch eine belebte Straße der Stadt.
+3–6 Sek.: Bärtiger Mann nähert sich der Kamera, Kamera fährt sanft rückwärts mit.
+6–9 Sek.: Frau im roten Kleid kreuzt seinen Weg; kurzer Blickkontakt.
+9–12 Sek.: Nah-/Halbnahaufnahmen + Tauben fliegen plötzlich durch den Vordergrund.
+12–15 Sek.: Kamera zieht sich zurück und steigt an, enthüllt die riesige, überfüllte Stadtallee und den Mann, der in der Menge verschwindet.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

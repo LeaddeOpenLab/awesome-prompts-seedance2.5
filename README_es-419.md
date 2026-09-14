@@ -327,20 +327,34 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2099327265888993335"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica de 15 segundos de un hombre y una mujer con vestido rojo cruzándose en una concurrida avenida de la ciudad con palomas volando.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2099327265888993335)
 
 Cine / Fotograma · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica de 15 segundos de un hombre y una mujer con vestido rojo cruzándose en una concurrida avenida de la ciudad con palomas volando.
 
 <img src="covers/2099327265888993335.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia urbana cinematográfica y fotorrealista de 15 segundos ambientada en una transitada intersección urbana estilo Manhattan durante el final de una tarde luminosa. Comienza con un paneo de seguimiento hacia adelante en ángulo bajo y fluido a través de una concurrida calle peatonal rodeada de altos edificios urbanos, marquesinas de cine, escaparates, tráfico, postes callejeros y cientos de peatones moviéndose de forma natural. Un hombre rudo de mediana edad con barba, que viste una chaqueta color carbón oscuro y una camisa oscura, camina a paso firme hacia la cámara entre la multitud, manteniendo una expresión seria y pensativa. La cámara retrocede suavemente en seguimiento a medida que él se acerca, manteniéndolo enfocado con nitidez mientras los peatones pasan con naturalidad en primer plano y en el fondo.
+
+Una mujer con un elegante y vaporoso vestido rojo entra repentinamente en escena desde un lado, pasando junto al hombre mientras se percatan brevemente el uno del otro. Continúa con planos medios cinematográficos que muestran un contacto visual creíble y movimientos humanos naturales. De repente, palomas levantan el vuelo a su alrededor, creando un movimiento dinámico en primer plano y una sutil tensión visual. Alterna tomas entre el rostro del hombre, la mujer desplazándose entre la multitud y planos generales del entorno que muestren la escala y la energía de la ciudad. Realiza una transición gradual desde un movimiento de cámara estabilizado y fluido hacia una sutil sensación de cámara en mano cinematográfica.
+
+En los últimos segundos, la cámara retrocede lentamente y se eleva ligeramente, revelando toda la avenida repleta extendiéndose entre los altos edificios, con el hombre haciéndose cada vez más pequeño entre la multitud en movimiento. Luz solar natural y cálida, sombras realistas, profundidad atmosférica, sutil destello de lente, poca profundidad de campo durante los primeros planos, textura de piel natural, movimiento realista del cabello y la ropa, iluminación físicamente precisa, comportamiento peatonal auténtico, palomas y desenfoque de movimiento realistas, etalonaje de color cinematográfico, cinematografía de largometraje de primer nivel, fotorrealismo fundamentado, entorno urbano altamente detallado.
+
+Sin animación, sin apariencia de caricatura, sin CGI exagerado, sin rostros distorsionados, sin personas duplicadas, sin movimientos corporales antinaturales, sin objetos flotantes, sin subtítulos, sin logotipos, sin marcas de agua. Mantén la consistencia en la apariencia de los personajes, la vestimenta, el entorno y los rasgos faciales a lo largo de toda la secuencia.
+
+Temporización de planos
+
+0–3 s: Plano de seguimiento amplio/en ángulo bajo a través de una concurrida calle urbana.
+3–6 s: El hombre con barba se acerca a la cámara, la cámara retrocede suavemente.
+6–9 s: La mujer de vestido rojo se cruza en su camino; breve contacto visual.
+9–12 s: Primeros planos/planos medios + palomas volando repentinamente en primer plano.
+12–15 s: La cámara retrocede y se eleva, revelando la enorme y concurrida avenida de la ciudad y al hombre desapareciendo entre la multitud.
 ```
 
 [↑ Volver a categorías](#catalog)

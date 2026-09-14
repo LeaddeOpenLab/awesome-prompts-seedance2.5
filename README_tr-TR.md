@@ -313,20 +313,34 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2099327265888993335"></a>
 
-### Çeviri sürüyor
+### Kalabalık bir şehir caddesinde uçuşan güvercinler eşliğinde yolları kesişen bir adam ile kırmızı elbiseli bir kadının 15 saniyelik sinematik sekansı.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2099327265888993335)
 
 Sinematik / Film Karesi · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kalabalık bir şehir caddesinde uçuşan güvercinler eşliğinde yolları kesişen bir adam ile kırmızı elbiseli bir kadının 15 saniyelik sinematik sekansı.
 
 <img src="covers/2099327265888993335.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aydınlık bir ikindi vaktinde, Manhattan tarzı kalabalık bir şehir kavşağında geçen, 15 saniyelik fotogerçekçi ve sinematik bir kentsel sekans oluşturun. Yüksek şehir binaları, sinema tabelaları, vitrinler, trafik, sokak direkleri ve doğal bir şekilde hareket eden yüzlerce yaya ile çevrili kalabalık bir yaya caddesinde yumuşak, düşük açılı ileri kaydırma çekimiyle (forward tracking shot) başlayın. Koyu antrasit ceket ve koyu renk gömlek giymiş, orta yaşlı, sakallı ve sert görünümlü bir adam, ciddi ve düşünceli bir ifadeyle kalabalığın arasından kameraya doğru sabit adımlarla yürür. Adam yaklaşırken kamera yumuşak bir şekilde geriye doğru kayar, yayalar ön ve arka plandan doğal olarak geçerken onu net bir şekilde odakta tutar.
+
+Zarif, dökümlü kırmızı elbiseli bir kadın aniden sahneye yandan girer ve adamın yanından geçerken kısa bir bakışma yaşanır. İnandırıcı göz teması ve doğal insan hareketini gösteren sinematik orta plan çekimlerle devam edin. Güvercinler aniden etraflarında havalanarak ön planda dinamik bir hareket ve ince bir görsel gerilim yaratır. Adamın yüzü, kalabalığın içinde ilerleyen kadın ve şehrin ölçeğini ve enerjisini gösteren geniş çevre çekimleri arasında kurgu yapın. Yumuşak, dengelenmiş kamera hareketinden hafif, elde taşınan sinematik bir hisse kademeli olarak geçiş yapın.
+
+Son saniyelerde kamera yavaşça geriye doğru çekilir ve hafifçe yükselir; yüksek binalar arasında uzanan tamamen kalabalık caddeyi gözler önüne sererken, adam hareket eden kalabalığın içinde giderek küçülür. Sıcak doğal güneş ışığı, gerçekçi gölgeler, atmosferik derinlik, hafif lens parlaması (lens flare), yakın planlarda sığ alan derinliği, doğal cilt dokusu, gerçekçi saç ve kıyafet hareketi, fiziksel olarak doğru aydınlatma, özgün yaya davranışları, gerçekçi güvercinler ve hareket bulanıklığı (motion blur), sinematik renk derecelendirmesi, birinci sınıf uzun metrajlı film sinematografisi, yere basan fotogerçekçilik, son derece ayrıntılı kentsel ortam.
+
+Animasyon yok, çizgi film görünümü yok, abartılı CGI yok, bozuk yüzler yok, çoğaltılmış insanlar yok, doğal olmayan vücut hareketleri yok, havada asılı nesneler yok, altyazı yok, logo yok, filigran yok. Sekans boyunca tutarlı karakter görünümü, giyim, ortam ve yüz hatlarını koruyun.
+
+Çekim zamanlaması
+
+0–3 sn: Kalabalık şehir caddesinde geniş/düşük açılı kaydırma çekimi.
+3–6 sn: Sakallı adam kameraya yaklaşır, kamera yumuşakça geriye doğru kayar.
+6–9 sn: Kırmızı elbiseli kadın adamın yolundan geçer; kısa bir göz teması.
+9–12 sn: Yakın/orta plan çekimler + aniden ön planda uçuşan güvercinler.
+12–15 sn: Kamera geriye çekilip yükselir, şehrin devasa kalabalık caddesini ve kalabalığın içinde kaybolan adamı ortaya çıkarır.
 ```
 
 [↑ Kategorilere dön](#catalog)

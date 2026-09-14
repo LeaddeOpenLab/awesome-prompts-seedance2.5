@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2099327265888993335"></a>
 
-### Đang dịch
+### Phân cảnh điện ảnh dài 15 giây về một người đàn ông và một người phụ nữ mặc váy đỏ lướt qua nhau trên đại lộ đô thị đông đúc cùng đàn bồ câu bay lượn.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2099327265888993335)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phân cảnh điện ảnh dài 15 giây về một người đàn ông và một người phụ nữ mặc váy đỏ lướt qua nhau trên đại lộ đô thị đông đúc cùng đàn bồ câu bay lượn.
 
 <img src="covers/2099327265888993335.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phân cảnh điện ảnh đô thị chân thực như ảnh chụp dài 15 giây lấy bối cảnh tại một ngã tư sầm uất mang phong cách Manhattan vào lúc chiều muộn đầy nắng. Bắt đầu bằng một cú máy tracking góc thấp lướt mượt mà về phía trước xuyên qua con phố đi bộ đông đúc được bao quanh bởi các tòa nhà cao tầng, biển hiệu rạp chiếu phim, mặt tiền cửa hàng, xe cộ, cột đèn đường và hàng trăm người đi bộ chuyển động tự nhiên. Một người đàn ông trung niên râu quai nón phong trần mặc áo khoác màu xám than đậm và áo sơ mi tối màu bước đi vững vàng về phía máy quay qua đám đông, giữ nét mặt nghiêm nghị, trầm ngâm. Máy quay lùi lại một cách mượt mà khi anh ấy tiến lại gần, giữ nét sắc nét vào anh trong khi người đi bộ đi qua tự nhiên ở tiền cảnh và hậu cảnh. Một người phụ nữ trong bộ váy đỏ thướt tha trang nhã bất ngờ bước vào khung hình từ một bên, đi ngang qua người đàn ông khi họ thoáng nhận ra nhau. Tiếp tục với các cảnh quay trung cảnh điện ảnh thể hiện ánh mắt giao nhau đáng tin cậy và chuyển động tự nhiên của con người. Những chú chim bồ câu bất ngờ bay vụt lên xung quanh họ, tạo ra chuyển động tiền cảnh năng động và sự căng thẳng thị giác tinh tế. Chuyển cảnh nhịp nhàng giữa khuôn mặt của người đàn ông, người phụ nữ di chuyển qua đám đông, và các cảnh toàn cảnh môi trường cho thấy quy mô và năng lượng của thành phố. Dần dần chuyển từ chuyển động máy quay chống rung mượt mà sang cảm giác máy quay cầm tay tinh tế mang chất điện ảnh. Trong những giây cuối cùng, máy quay từ từ lùi lại và nâng nhẹ lên cao, để lộ toàn bộ đại lộ đông đúc trải dài giữa các tòa nhà cao tầng, với hình bóng người đàn ông nhỏ dần giữa dòng người qua lại. Ánh sáng mặt trời tự nhiên ấm áp, bóng đổ thực tế, chiều sâu khí quyển, hiệu ứng lóe sáng ống kính tinh tế, độ sâu trường ảnh nông trong các cảnh cận cảnh, kết cấu da tự nhiên, chuyển động chân thực của tóc và quần áo, ánh sáng chuẩn xác về mặt vật lý, hành vi người đi bộ chân thực, chim bồ câu và độ mờ chuyển động chân thực, chỉnh màu điện ảnh, phong cách quay phim điện ảnh cao cấp, chủ nghĩa chân thực sâu sắc, môi trường đô thị chi tiết cao. Không hoạt hình, không kiểu hoạt họa, không kỹ xảo CGI phóng đại, không biến dạng khuôn mặt, không trùng lặp người, không chuyển động cơ thể bất thường, không vật thể trôi nổi, không phụ đề, không biểu trưng, không hình mờ. Duy trì ngoại hình nhân vật, trang phục, môi trường và đường nét khuôn mặt nhất quán trong suốt toàn bộ phân cảnh. Thời gian từng cảnh: 0–3 giây: Cú máy tracking góc rộng/góc thấp qua đường phố đô thị đông đúc; 3–6 giây: Người đàn ông có râu tiến lại gần máy quay, máy quay lùi lại mượt mà; 6–9 giây: Người phụ nữ mặc váy đỏ đi cắt ngang qua anh, ánh mắt chạm nhau trong thoáng chốc; 9–12 giây: Các cảnh cận/trung cảnh kết hợp chim bồ câu bất ngờ bay qua tiền cảnh; 12–15 giây: Máy quay lùi lại và bay lên cao, để lộ đại lộ thành phố khổng lồ đông đúc và người đàn ông dần biến mất vào đám đông.
 ```
 
 [↑ Về danh mục](#catalog)
