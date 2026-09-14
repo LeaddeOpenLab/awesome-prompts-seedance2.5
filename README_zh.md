@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**87** 条内容 · 最新收录: **2026-09-14**
+**88** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2479,6 +2479,30 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099564383252705547"></a>
+
+### 翻译中
+
+作者：[@6AW0RON0k](https://x.com/6AW0RON0k) · [查看 X 原帖](https://x.com/6AW0RON0k/status/2099564383252705547)
+
+角色 · 已推流
+
+查看 X 原帖：[@6AW0RON0k](https://x.com/6AW0RON0k) · [查看 X 原帖](https://x.com/6AW0RON0k/status/2099190119370576229)
+
+**概括:** 翻译中
+
+<img src="covers/2099564383252705547.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099340009648377870"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**87** Prompts · Latest addition: **2026-09-14**
+**88** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3216,6 +3216,34 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099564383252705547"></a>
+
+### A girl in lavender performing a balancing stunt on a narrow board atop high scaffolding in a circus theater.
+
+Author：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Source](https://x.com/6AW0RON0k/status/2099564383252705547)
+
+Character · Published
+
+Source：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Source](https://x.com/6AW0RON0k/status/2099190119370576229)
+
+**Summary:** A girl in lavender performing a balancing stunt on a narrow board atop high scaffolding in a circus theater.
+
+<img src="covers/2099564383252705547.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+> A grand circus theater. golden balconies. two tiers of audience.
+> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.
+> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.
+> The audience holds still. phones glow but nobody is recording. they're watching.
+> She steadies. one foot lifts. the board holds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099340009648377870"></a>
 
