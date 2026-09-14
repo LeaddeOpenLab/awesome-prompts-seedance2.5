@@ -327,7 +327,7 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2099299015527690460"></a>
 
-### Traducción en curso
+### Prompt de generación de vídeo de corte realista ambientado en una ciudad de provincias japonesa, que retrata una relación cotidiana al ir en bicicleta a una sala de conciertos para ver actuar a un amigo.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicación original](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -335,14 +335,25 @@ Cine / Fotograma de película · Personaje · Publicado
 
 Publicación original：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicación original](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de vídeo de corte realista ambientado en una ciudad de provincias japonesa, que retrata una relación cotidiana al ir en bicicleta a una sala de conciertos para ver actuar a un amigo.
 
 <img src="covers/2099299015527690460.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una ciudad de provincias de Japón. Del atardecer a la noche.
+Sakura va en bicicleta por la ciudad → Aparca en la zona de bicicletas junto a una pequeña sala de conciertos → Entra a la sala → Ve a su amigo/a cantando y tocando la guitarra desde el fondo del público.
+
+Segunda parte: El/la amigo/a canta tocando una guitarra acústica. Durante la actuación, cruza la mirada un solo instante con Sakura entre el público. No saluda con la mano. No sonríe de forma exagerada. No detiene la actuación. Muestran su vínculo únicamente con la mirada y un sutil cambio de expresión.
+
+Tras el concierto, se encuentran junto a la misma sala.
+Sakura camina empujando la misma bicicleta de la primera mitad, andando junto a su amigo/a por la calle nocturna.
+
+Prácticamente sin diálogos.
+Solo un breve canto durante el directo.
+Se permite de forma natural el temblor de cámara en mano, dudas de autoenfoque y variaciones de exposición.
+Sin sobreactuaciones, sin movimientos de modelo, sin subtítulos, sin narración, sin expresiones emocionales explicativas, sin logotipos ni nombres propios.
 ```
 
 [↑ Volver a categorías](#catalog)

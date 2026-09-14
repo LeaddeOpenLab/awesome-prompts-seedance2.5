@@ -327,7 +327,7 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2099299015527690460"></a>
 
-### Traduction en cours
+### Prompt de génération vidéo à visée réaliste situé dans une ville provinciale japonaise, dépeignant une relation humaine du quotidien : se rendre à vélo dans une salle de concert pour assister au spectacle acoustique d'un ami.
 
 Auteur：[@akiyoshisan](https://x.com/akiyoshisan) · [Publication originale](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -335,14 +335,25 @@ Image cinématographique / Photogramme de film · Personnage · Publié
 
 Publication originale：[@akiyoshisan](https://x.com/akiyoshisan) · [Publication originale](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération vidéo à visée réaliste situé dans une ville provinciale japonaise, dépeignant une relation humaine du quotidien : se rendre à vélo dans une salle de concert pour assister au spectacle acoustique d'un ami.
 
 <img src="covers/2099299015527690460.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une ville de province japonaise. De la fin d'après-midi à la nuit.
+Sakura roule à vélo à travers la ville → Se gare sur l'espace pour vélos à côté d'une petite salle de concert → Entre dans la salle → Regarde son ami(e) chanter en s'accompagnant à la guitare depuis l'arrière de la salle.
+
+Deuxième partie : L'ami(e) chante en jouant de la guitare acoustique. Pendant le morceau, son regard croise celui de Sakura dans le public pendant une brève fraction de seconde. Pas de signe de la main. Pas de sourire exagéré. La musique ne s'arrête pas. La relation est montrée uniquement par le regard et d'infimes changements d'expression.
+
+Après le concert, ils/elles se retrouvent à côté de la salle.
+Sakura pousse le même vélo que dans la première partie, marchant côte à côte avec son ami(e) dans la rue nocturne.
+
+Quasiment aucun dialogue.
+Seulement un court chant pendant le concert.
+Secousses caméra au poing, hésitations de mise au point et variations d'exposition acceptées naturellement.
+Pas de jeu d'acteur excessif, pas d'attitudes de mannequin, pas de sous-titres, pas de voix off, pas d'expression émotionnelle explicative, pas de logos ni de noms propres.
 ```
 
 [↑ Retour aux catégories](#catalog)

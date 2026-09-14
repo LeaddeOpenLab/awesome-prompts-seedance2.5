@@ -313,7 +313,7 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2099299015527690460"></a>
 
-### Tradução em andamento
+### Prompt de geração de vídeo de tom realista ambientado em uma cidade do interior do Japão, retratando uma relação humana cotidiana ao ir de bicicleta a uma casa de shows para acompanhar a apresentação acústica de um amigo.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -321,14 +321,25 @@ Cinematográfico / Imagem de Filme · Personagem · Publicado
 
 Publicação original：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de geração de vídeo de tom realista ambientado em uma cidade do interior do Japão, retratando uma relação humana cotidiana ao ir de bicicleta a uma casa de shows para acompanhar a apresentação acústica de um amigo.
 
 <img src="covers/2099299015527690460.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma cidade do interior do Japão. Fim de tarde à noite.
+Sakura anda de bicicleta pela cidade → estaciona no paraciclo ao lado de uma pequena casa de shows → entra no local → assiste ao amigo/à amiga cantando e tocando violão do fundo da plateia.
+
+Segunda metade: O amigo/A amiga canta tocando violão acústico. Durante a apresentação, cruza olhares por apenas um instante com Sakura na plateia. Não acena. Não ri de forma exagerada. Não interrompe a música. Revelam a proximidade apenas pelo olhar e por sutis mudanças de expressão.
+
+Após o show, encontram-se ao lado da mesma casa de shows.
+Sakura empurra a mesma bicicleta da primeira metade, caminhando lado a lado com o amigo/a amiga pela rua à noite.
+
+Quase nenhum diálogo.
+Apenas breves momentos de canto durante a apresentação ao vivo.
+Tremedeira de câmera na mão, hesitações de autofoco e variações de exposição permitidas naturalmente.
+Sem atuações exageradas, sem poses de modelo, sem legendas, sem narração, sem expressões emocionais explicativas, sem logotipos nem nomes próprios.
 ```
 
 [↑ Voltar às categorias](#catalog)

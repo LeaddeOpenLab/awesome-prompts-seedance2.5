@@ -327,7 +327,7 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2099299015527690460"></a>
 
-### Übersetzung läuft
+### Ein realistischer Video-Prompt, der in einer japanischen Provinzstadt spielt und eine alltägliche zwischenmenschliche Beziehung schildert, bei der jemand mit dem Fahrrad zu einem kleinen Konzert fährt, um dem Akustik-Auftritt eines Freundes beizuwohnen.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Originalbeitrag](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -335,14 +335,25 @@ Kinematisch / Filmstill · Charakter · Veröffentlicht
 
 Originalbeitrag：[@akiyoshisan](https://x.com/akiyoshisan) · [Originalbeitrag](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein realistischer Video-Prompt, der in einer japanischen Provinzstadt spielt und eine alltägliche zwischenmenschliche Beziehung schildert, bei der jemand mit dem Fahrrad zu einem kleinen Konzert fährt, um dem Akustik-Auftritt eines Freundes beizuwohnen.
 
 <img src="covers/2099299015527690460.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine japanische Provinzstadt. Spätnachmittag bis Abend.
+Sakura fährt mit dem Fahrrad durch die Stadt → stellt es auf dem Fahrradabstellplatz neben einem kleinen Live-Club ab → betritt den Club → schaut ihrem Freund / ihrer Freundin von ganz hinten im Publikum beim Singen und Gitarrespielen zu.
+
+Zweite Hälfte: Der Freund / die Freundin singt und spielt Akustikgitarre. Während des Spiels treffen sich die Blicke mit Sakura im Publikum für einen kurzen Moment. Kein Winken. Kein übertriebenes Lächeln. Das Spiel wird nicht unterbrochen. Nur durch Blicke und minimale Mimikveränderungen wird ihre Verbundenheit spürbar.
+
+Nach dem Auftritt treffen sich beide neben dem Club.
+Sakura schiebt dasselbe Fahrrad wie im ersten Teil und geht neben dem Freund / der Freundin die nächtliche Straße entlang.
+
+So gut wie keine Dialoge.
+Nur während des Live-Auftritts kurzer Gesang.
+Natürliches Kamerawackeln, Fokusunsicherheiten und Belichtungsschwankungen sind erwünscht.
+Kein Overacting, keine Model-Posen, keine Untertitel, kein Off-Sprecher, keine erklärende Gefühlsdarstellung, keine Logos oder Eigennamen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

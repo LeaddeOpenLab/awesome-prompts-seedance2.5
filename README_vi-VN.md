@@ -329,7 +329,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2099299015527690460"></a>
 
-### Đang dịch
+### Lời nhắc tạo video theo phong cách hiện thực lấy bối cảnh một thành phố địa phương của Nhật Bản, khắc họa mối quan hệ đời thường qua hình ảnh đạp xe đến tụ điểm âm nhạc để dõi theo bạn mình tự đàn tự hát.
 
 Tác giả：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -337,14 +337,25 @@ Tác giả：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x
 
 Bài gốc：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video theo phong cách hiện thực lấy bối cảnh một thành phố địa phương của Nhật Bản, khắc họa mối quan hệ đời thường qua hình ảnh đạp xe đến tụ điểm âm nhạc để dõi theo bạn mình tự đàn tự hát.
 
 <img src="covers/2099299015527690460.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một thành phố địa phương ở Nhật Bản. Chiều tối đến đêm.
+Sakura đạp xe qua phố → Đỗ xe tại bãi đỗ xe đạp bên cạnh một tụ điểm biểu diễn nhạc sống nhỏ → Bước vào trong → Đứng từ phía sau hàng ghế khán giả xem bạn mình vừa đàn vừa hát.
+
+Nửa sau: Người bạn đang vừa đệm đàn acoustic vừa hát. Trong lúc biểu diễn, ánh mắt chạm nhau trong thoáng chốc với Sakura ở hàng ghế khán giả. Không vẫy tay. Không cười phóng đại. Không ngừng biểu diễn. Chỉ dùng ánh mắt và sự thay đổi biểu cảm thật khẽ để thể hiện mối quan hệ giữa hai người.
+
+Sau buổi diễn, hai người gặp lại nhau bên cạnh địa điểm đó.
+Sakura dắt chiếc xe đạp y như ở nửa đầu, đi dạo cùng bạn trên con đường đêm.
+
+Hầu như không có lời thoại.
+Chỉ có tiếng hát ngắn trong buổi diễn.
+Chấp nhận rung lắc máy cầm tay, lấy nét lệch (AF hunt), chênh sáng một cách tự nhiên.
+Không diễn xuất quá đà, không tạo dáng kiểu người mẫu, không phụ đề, không lời bình, không biểu đạt cảm xúc mang tính giải thích, không logo hay danh từ riêng.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -313,7 +313,7 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2099299015527690460"></a>
 
-### Çeviri sürüyor
+### Japonya'da bir taşra kentinde geçen, bisikletle canlı müzik mekanına gidip arkadaşının akustik performansını izlemeyi ve gündelik insan ilişkilerini konu alan gerçekçi video üretim istemi.
 
 Yazar：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -321,14 +321,25 @@ Sinematik / Film Karesi · Karakter · Yayımlandı
 
 Orijinal gönderi：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Japonya'da bir taşra kentinde geçen, bisikletle canlı müzik mekanına gidip arkadaşının akustik performansını izlemeyi ve gündelik insan ilişkilerini konu alan gerçekçi video üretim istemi.
 
 <img src="covers/2099299015527690460.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Japonya'da bir taşra kenti. Akşamüstünden geceye.
+Sakura şehirde bisiklet sürüyor → Küçük bir canlı müzik mekanının yanındaki bisiklet park yerine bırakıyor → İçeri giriyor → Seyircilerin arka tarafından arkadaşının akustik gitar eşliğinde şarkı söylemesini izliyor.
+
+İkinci yarı: Arkadaşı akustik gitar çalarak şarkı söylüyor. Performans sırasında, seyircilerin arasındaki Sakura ile bir anlığına göz göze geliyor. El sallamak yok. Abartılı gülümsemek yok. Çalmayı bırakmak yok. Aralarındaki bağı yalnızca bakışlar ve yüzdeki ufacık mimik değişimleri gösteriyor.
+
+Konser bittikten sonra aynı mekanın yanında buluşuyorlar.
+Sakura ilk kısımdaki aynı bisikleti elinde itiyor, arkadaşıyla yan yana gece yolunda yürüyor.
+
+Diyalog neredeyse hiç yok.
+Yalnızca canlı performans sırasında kısa şarkı sesi.
+Elde çekim titremesi, otomatik odak kararsızlığı ve pozlama dalgalanmalarına doğal olarak izin veriliyor.
+Aşırı oyunculuk, mankenvari hareketler, altyazı, seslendirme, didaktik duygu ifadeleri, logo ve özel isimler yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

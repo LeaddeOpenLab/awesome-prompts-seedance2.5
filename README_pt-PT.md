@@ -313,7 +313,7 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2099299015527690460"></a>
 
-### Tradução em curso
+### Prompt de geração de vídeo de cariz realista ambientado numa cidade de província japonesa, retratando uma relação humana quotidiana ao ir de bicicleta a uma sala de concertos para assistir à atuação acústica de um amigo.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -321,14 +321,25 @@ Cena de Cinema / Fotograma · Personagem · Publicado
 
 Publicação original：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicação original](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de geração de vídeo de cariz realista ambientado numa cidade de província japonesa, retratando uma relação humana quotidiana ao ir de bicicleta a uma sala de concertos para assistir à atuação acústica de um amigo.
 
 <img src="covers/2099299015527690460.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma cidade de província no Japão. Do final da tarde à noite.
+Sakura anda de bicicleta pela cidade → estaciona no espaço para bicicletas ao lado de uma pequena sala de concertos → entra no recinto → assiste à atuação acústica do amigo/da amiga a cantar e a tocar a partir do fundo da sala.
+
+Segunda parte: O amigo/A amiga canta enquanto toca guitarra acústica. Durante a atuação, cruza o olhar por breves instantes com Sakura no público. Não acena. Não ri de forma exagerada. Não interrompe a música. Demonstram a cumplicidade apenas através do olhar e de ténues mudanças de expressão.
+
+Após o espetáculo, encontram-se junto à mesma sala de concertos.
+Sakura empurra a mesma bicicleta da primeira parte, caminhando lado a lado com o amigo/a amiga pela rua noturna.
+
+Diálogos reduzidos ao mínimo.
+Apenas breves momentos de canto durante o concerto ao vivo.
+Tremor natural de câmara à mão, hesitações de focagem automática e variações de exposição permitidos.
+Sem representação exagerada, sem poses de modelo, sem legendas, sem narração, sem expressões emocionais explicativas, sem logótipos ou nomes próprios.
 ```
 
 [↑ Voltar às categorias](#catalog)

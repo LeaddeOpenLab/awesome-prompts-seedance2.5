@@ -327,7 +327,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2099299015527690460"></a>
 
-### Traduzione in corso
+### Prompt per generazione video di taglio realistico ambientato in una città provinciale giapponese, che ritrae un rapporto umano quotidiano nell'andare in bicicletta a un locale per assistere all'esibizione acustica di un amico.
 
 Autore：[@akiyoshisan](https://x.com/akiyoshisan) · [Post originale](https://x.com/akiyoshisan/status/2099299015527690460)
 
@@ -335,14 +335,25 @@ Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
 Post originale：[@akiyoshisan](https://x.com/akiyoshisan) · [Post originale](https://x.com/akiyoshisan/status/2098940614666756371)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generazione video di taglio realistico ambientato in una città provinciale giapponese, che ritrae un rapporto umano quotidiano nell'andare in bicicletta a un locale per assistere all'esibizione acustica di un amico.
 
 <img src="covers/2099299015527690460.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una città di provincia giapponese. Dal tardo pomeriggio a sera.
+Sakura pedala in bicicletta per la città → parcheggia nello spazio bici accanto a un piccolo locale per musica dal vivo → entra nel locale → guarda da fondo sala l'esibizione acustica dell'amico/a che canta e suona la chitarra.
+
+Seconda parte: L'amico/a canta accompagnandosi con la chitarra acustica. Durante il brano, incrocia lo sguardo con Sakura tra il pubblico solo per un istante. Nessun cenno con la mano. Nessun sorriso esagerato. L'esecuzione non si ferma. Mostrano la loro relazione unicamente attraverso gli sguardi e lievissimi mutamenti d'espressione.
+
+Dopo il concerto, si ritrovano accanto allo stesso locale.
+Sakura spinge la stessa bicicletta della prima parte, camminando fianco a fianco con l'amico/a lungo la strada notturna.
+
+Dialoghi ridotti al minimo assoluto.
+Brevi frammenti di canto solo durante il live.
+Oscillazioni della camera a mano, esitazioni dell'autofocus e variazioni d'esposizione ammesse con naturalezza.
+Nessuna recitazione eccessiva, nessun atteggiamento da modello, niente sottotitoli, niente voce narrante, nessuna espressione emotiva didascalica, nessun logo o nome proprio.
 ```
 
 [↑ Torna alle categorie](#catalog)
