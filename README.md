@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**79** Prompts · Latest addition: **2026-09-13**
+**80** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099289940701946340"></a>
+
+### Camera action prompt of Jack smoking and gazing at the street.
+
+Author：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Source](https://x.com/XStrangeHistory/status/2099289940701946340)
+
+Cinematic / Film Still · Character · Cityscape / Street · Published
+
+**Summary:** Camera action prompt of Jack smoking and gazing at the street.
+
+<img src="images/2099289940701946340-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Jack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099089929439531390"></a>
 
