@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**80** Prompts · Última incorporación: **2026-09-14**
+**81** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -325,22 +325,46 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 ## Cine / Fotograma de película
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Traducción en curso
+
+Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2099284949496906161)
+
+Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
+
+Publicación original：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099284949496906161.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt de acción de plano de Jack fumando y mirando fijamente a la calle.
 
 Autor：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Publicación original](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Cine / Fotograma de película · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de acción de plano de Jack fumando y mirando fijamente a la calle.
 
 <img src="images/2099289940701946340-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Jack da una calada al cigarrillo, la brasa brilla con más fuerza mientras inhala, y luego exhala lentamente, con el humo flotando y disipándose. Sus ojos permanecen fijos en la calle que tiene delante, manteniéndose inmóvil por lo demás. Cámara estática; la calle más allá de él se difumina en un desenfoque poco profundo.
 ```
 
 [↑ Volver a categorías](#catalog)

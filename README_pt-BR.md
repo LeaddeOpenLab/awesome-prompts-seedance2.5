@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**80** Prompts · Última adição: **2026-09-14**
+**81** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -311,22 +311,46 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cinematográfico / Imagem de Filme
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Tradução em andamento
+
+Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2099284949496906161)
+
+Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
+
+Publicação original：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099284949496906161.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt de ação de cena de Jack fumando e encarando a rua.
 
 Autor：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Publicação original](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Cinematográfico / Imagem de Filme · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de ação de cena de Jack fumando e encarando a rua.
 
 <img src="images/2099289940701946340-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Jack traga o cigarro uma vez, a brasa brilhando mais intensamente enquanto ele o faz, e depois expira lentamente, com a fumaça flutuando e se dissipando. Seus olhos permanecem fixos na rua adiante, permanecendo imóvel no restante. Câmera estática; a rua além dele se suaviza em um desfoque raso.
 ```
 
 [↑ Voltar às categorias](#catalog)

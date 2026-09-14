@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**80** Prompt · Son eklenen: **2026-09-14**
+**81** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -311,22 +311,46 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@DeCat2025](https://x.com/DeCat2025) · [Orijinal gönderi](https://x.com/DeCat2025/status/2099284949496906161)
+
+Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
+
+Orijinal gönderi：[@DeCat2025](https://x.com/DeCat2025) · [Orijinal gönderi](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099284949496906161.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Jack'in sigara içip sokağa dik dik baktığı plan hareketi istemi.
 
 Yazar：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Orijinal gönderi](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Jack'in sigara içip sokağa dik dik baktığı plan hareketi istemi.
 
 <img src="images/2099289940701946340-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Jack sigarasından bir nefes çeker, o çektikçe köz daha parlak parlar, ardından yavaşça nefesini verir, duman süzülerek dağılır. Gözleri ilerideki sokakta sabit kalır, bunun dışında tamamen hareketsizdir. Sabit kamera; arkasındaki sokak sığ bir bulanıklık içine doğru yumuşar.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**80** Prompt · Ultima aggiunta: **2026-09-14**
+**81** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -325,22 +325,46 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 ## Fermo immagine cinematografico / Still fotografico
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Traduzione in corso
+
+Autore：[@DeCat2025](https://x.com/DeCat2025) · [Post originale](https://x.com/DeCat2025/status/2099284949496906161)
+
+Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
+
+Post originale：[@DeCat2025](https://x.com/DeCat2025) · [Post originale](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099284949496906161.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt per l'azione dell'inquadratura di Jack che fuma e fissa la strada.
 
 Autore：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Post originale](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per l'azione dell'inquadratura di Jack che fuma e fissa la strada.
 
 <img src="images/2099289940701946340-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Jack fa un tiro di sigaretta, la brace si illumina più intensamente mentre aspira, poi espira lentamente, mentre il fumo si disperde e si dissolve. I suoi occhi rimangono fissi sulla strada di fronte, immobile per il resto. Telecamera statica; la strada oltre di lui si ammorbidisce in una sfocatura a bassa profondità di campo.
 ```
 
 [↑ Torna alle categorie](#catalog)

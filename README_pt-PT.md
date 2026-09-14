@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**80** Prompts · Adição mais recente: **2026-09-14**
+**81** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -311,22 +311,46 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 ## Cena de Cinema / Fotograma
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Tradução em curso
+
+Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2099284949496906161)
+
+Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
+
+Publicação original：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099284949496906161.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt de ação de plano de Jack a fumar e a olhar fixamente para a rua.
 
 Autor：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Publicação original](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Cena de Cinema / Fotograma · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de ação de plano de Jack a fumar e a olhar fixamente para a rua.
 
 <img src="images/2099289940701946340-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Jack dá uma passa no cigarro, a brasa a brilhar com mais intensidade enquanto o faz, e depois expira lentamente, com o fumo a dispersar-se e a dissipar-se. Os seus olhos mantêm-se fixos na rua em frente, permanecendo imóvel de resto. Câmara estática; a rua para além dele suaviza-se num desfoque de pouca profundidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

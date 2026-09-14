@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**80** Prompts · Latest addition: **2026-09-14**
+**81** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,30 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099284949496906161"></a>
+
+### A heart-pounding 15-second cinematic survival story set in the Arctic. A violent blizzard rages across a frozen ocean as an elite search-and-rescue helicopter races toward a distress beacon to rescue a stranded explorer from shattering ice floes.
+
+Author：[@DeCat2025](https://x.com/DeCat2025) · [Source](https://x.com/DeCat2025/status/2099284949496906161)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+Source：[@DeCat2025](https://x.com/DeCat2025) · [Source](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Summary:** A heart-pounding 15-second cinematic survival story set in the Arctic. A violent blizzard rages across a frozen ocean as an elite search-and-rescue helicopter races toward a distress beacon to rescue a stranded explorer from shattering ice floes.
+
+<img src="covers/2099284949496906161.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A heart-pounding 15-second cinematic survival story set in the Arctic. A violent blizzard rages across a frozen ocean as an elite search-and-rescue helicopter races toward a distress beacon. Below, a lone explorer is stranded on a rapidly drifting ice floe while massive cracks spread beneath their feet. The helicopter hovers through fierce winds as a rescue swimmer descends on a cable into the whiteout. Just as the rescuer reaches the explorer, the ice shelf shatters, sending towering slabs crashing into the freezing sea. \n\nThe rescuer grabs the explorer at the last second, and both are lifted skyward as an enormous iceberg collapses behind them, triggering a powerful wave that crashes across the broken ice. The camera begins with a sweeping aerial shot over endless glaciers, dives into an intense low-altitude chase through the blizzard, transitions to a dramatic close-up during the rescue, then pulls back into an epic wide reveal of the helicopter escaping as the frozen landscape fractures beneath it. \n\nHyper-realistic, photorealistic Arctic environment, realistic snow physics, swirling blizzard, dynamic rotor wash, cinematic volumetric lighting, dense atmospheric fog, ice crystals, detailed rescue gear, IMAX scale, Unreal Engine 5 quality, dramatic camera movement, ultra-realistic water and ice simulation, 8K realism, masterpiece, no text, no watermark, 16:9.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099289940701946340"></a>
 

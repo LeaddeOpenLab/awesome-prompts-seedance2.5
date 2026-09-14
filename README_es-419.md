@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**80** Prompts · Última incorporación: **2026-09-14**
+**81** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -325,22 +325,46 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 ## Cine / Fotograma
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Traducción en curso
+
+Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2099284949496906161)
+
+Cine / Fotograma · Paisaje / Naturaleza · Publicado
+
+Publicación original：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099284949496906161.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt de acción de toma de Jack fumando y mirando fijamente a la calle.
 
 Autor：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Publicación original](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Cine / Fotograma · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de acción de toma de Jack fumando y mirando fijamente a la calle.
 
 <img src="images/2099289940701946340-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Jack le da una pitada al cigarrillo, la brasa brilla con más intensidad cuando lo hace, y luego exhala lentamente mientras el humo flota y se disipa. Sus ojos permanecen fijos en la calle más allá, por lo demás inmóvil. Cámara estática; la calle detrás de él se suaviza en un desenfoque poco profundo.
 ```
 
 [↑ Volver a categorías](#catalog)

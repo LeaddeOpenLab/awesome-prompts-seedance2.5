@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**80** Prompt · Bổ sung mới nhất: **2026-09-14**
+**81** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -327,22 +327,46 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Đang dịch
+
+Tác giả：[@DeCat2025](https://x.com/DeCat2025) · [Bài gốc](https://x.com/DeCat2025/status/2099284949496906161)
+
+Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+Bài gốc：[@DeCat2025](https://x.com/DeCat2025) · [Bài gốc](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099284949496906161.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Gợi ý hành động cảnh quay Jack hút thuốc và nhìn chằm chằm ra đường.
 
 Tác giả：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Bài gốc](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Gợi ý hành động cảnh quay Jack hút thuốc và nhìn chằm chằm ra đường.
 
 <img src="images/2099289940701946340-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Jack rít một hơi thuốc lá, tàn than đỏ rực hơn khi anh rít, rồi từ từ thở ra, làn khói lững lờ trôi và tan biến. Đôi mắt anh vẫn dán chặt vào con đường phía trước, ngoài ra không hề cử động. Máy quay tĩnh; con phố phía sau anh mờ dần thành hiệu ứng xoá phông mờ ảo nông.
 ```
 
 [↑ Về danh mục](#catalog)

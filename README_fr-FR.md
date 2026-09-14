@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**80** Prompts · Dernier ajout: **2026-09-14**
+**81** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -325,22 +325,46 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 ## Image cinématographique / Photogramme de film
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Traduction en cours
+
+Auteur：[@DeCat2025](https://x.com/DeCat2025) · [Publication originale](https://x.com/DeCat2025/status/2099284949496906161)
+
+Image cinématographique / Photogramme de film · Paysage / Nature · Publié
+
+Publication originale：[@DeCat2025](https://x.com/DeCat2025) · [Publication originale](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099284949496906161.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Prompt d'action de plan de Jack fumant et fixant la rue.
 
 Auteur：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Publication originale](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Image cinématographique / Photogramme de film · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'action de plan de Jack fumant et fixant la rue.
 
 <img src="images/2099289940701946340-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Jack tire une bouffée de sa cigarette, la braise brillant plus intensément lorsqu'il le fait, puis expire lentement, la fumée dérivant et se dissipant. Ses yeux restent fixés sur la rue au loin, parfaitement immobile par ailleurs. Caméra fixe ; la rue au-delà de lui s'adoucit en un flou peu profond.
 ```
 
 [↑ Retour aux catégories](#catalog)

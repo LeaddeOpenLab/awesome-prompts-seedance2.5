@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**80** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**81** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -325,22 +325,46 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
-<a name="prompt-2099289940701946340"></a>
+<a name="prompt-2099284949496906161"></a>
 
 ### Übersetzung läuft
+
+Autor：[@DeCat2025](https://x.com/DeCat2025) · [Originalbeitrag](https://x.com/DeCat2025/status/2099284949496906161)
+
+Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
+
+Originalbeitrag：[@DeCat2025](https://x.com/DeCat2025) · [Originalbeitrag](https://x.com/DeCat2025/status/2098478244496343184)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099284949496906161.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099289940701946340"></a>
+
+### Shot-Aktions-Prompt von Jack, der raucht und auf die Straße starrt.
 
 Autor：[@XStrangeHistory](https://x.com/XStrangeHistory) · [Originalbeitrag](https://x.com/XStrangeHistory/status/2099289940701946340)
 
 Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Shot-Aktions-Prompt von Jack, der raucht und auf die Straße starrt.
 
 <img src="images/2099289940701946340-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Jack zieht einmal an der Zigarette, wobei die Glut heller aufleuchtet, und atmet dann langsam aus, während der Rauch dahintreibt und sich auflöst. Seine Augen bleiben auf die Straße vor ihm gerichtet, ansonsten verharrt er völlig still. Statische Kamera; die Straße hinter ihm verschwimmt in einer seichten Unschärfe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
