@@ -327,7 +327,7 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2099284949496906161"></a>
 
-### Traduction en cours
+### Une histoire cinématographique de survie palpitante de 15 secondes se déroulant dans l'Arctique. Un violent blizzard fait rage sur un océan gelé alors qu'un hélicoptère de recherche et sauvetage d'élite fonce vers une balise de détresse pour sauver un explorateur pris au piège sur des plaques de glace qui se brisent.
 
 Auteur：[@DeCat2025](https://x.com/DeCat2025) · [Publication originale](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -335,14 +335,18 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 Publication originale：[@DeCat2025](https://x.com/DeCat2025) · [Publication originale](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Résumé:** Traduction en cours
+**Résumé:** Une histoire cinématographique de survie palpitante de 15 secondes se déroulant dans l'Arctique. Un violent blizzard fait rage sur un océan gelé alors qu'un hélicoptère de recherche et sauvetage d'élite fonce vers une balise de détresse pour sauver un explorateur pris au piège sur des plaques de glace qui se brisent.
 
 <img src="covers/2099284949496906161.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une histoire cinématographique de survie palpitante de 15 secondes se déroulant dans l'Arctique. Un violent blizzard fait rage sur un océan gelé alors qu'un hélicoptère de recherche et sauvetage d'élite fonce vers une balise de détresse. En bas, un explorateur solitaire est pris au piège sur une banquise à la dérive rapide tandis que des fissures massives se propagent sous ses pieds. L'hélicoptère fait du vol stationnaire à travers des vents violents tandis qu'un sauveteur plongeur descend le long d'un câble dans le voile blanc. Juste au moment où le sauveteur atteint l'explorateur, la barrière de glace se brise, projetant d'imposantes plaques dans la mer glaciale. 
+
+Le sauveteur attrape l'explorateur à la dernière seconde, et tous deux sont hissés vers le ciel alors qu'un énorme iceberg s'effondre derrière eux, déclenchant une vague puissante qui s'écrase sur la glace brisée. La caméra commence par un plan aérien majestueux au-dessus de glaciers infinis, plonge dans une poursuite intense à basse altitude à travers le blizzard, passe à un gros plan dramatique pendant le sauvetage, puis recule pour un plan large épique révélant l'hélicoptère s'échappant alors que le paysage gelé se fracture sous lui. 
+
+Environnement arctique hyperréaliste et photoréaliste, physique de la neige réaliste, blizzard tourbillonnant, souffle de rotor dynamique, éclairage volumétrique cinématographique, brouillard atmosphérique dense, cristaux de glace, équipement de sauvetage détaillé, échelle IMAX, qualité Unreal Engine 5, mouvement de caméra dramatique, simulation d'eau et de glace ultra-réaliste, réalisme 8K, chef-d'œuvre, aucun texte, aucun filigrane, 16:9.
 ```
 
 [↑ Retour aux catégories](#catalog)

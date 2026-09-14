@@ -327,7 +327,7 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2099284949496906161"></a>
 
-### Übersetzung läuft
+### Eine nervenaufreibende 15-sekündige filmische Überlebensgeschichte in der Arktis. Ein heftiger Schneesturm wütet über einem gefrorenen Ozean, während ein Elite-Such- und Rettungshubschrauber auf eine Notfunkbake zurast, um einen gestrandeten Entdecker von zerbrechenden Eisschollen zu retten.
 
 Autor：[@DeCat2025](https://x.com/DeCat2025) · [Originalbeitrag](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -335,14 +335,18 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
 Originalbeitrag：[@DeCat2025](https://x.com/DeCat2025) · [Originalbeitrag](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine nervenaufreibende 15-sekündige filmische Überlebensgeschichte in der Arktis. Ein heftiger Schneesturm wütet über einem gefrorenen Ozean, während ein Elite-Such- und Rettungshubschrauber auf eine Notfunkbake zurast, um einen gestrandeten Entdecker von zerbrechenden Eisschollen zu retten.
 
 <img src="covers/2099284949496906161.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine nervenaufreibende 15-sekündige filmische Überlebensgeschichte in der Arktis. Ein heftiger Schneesturm wütet über einem gefrorenen Ozean, während ein Elite-Such- und Rettungshubschrauber auf eine Notfunkbake zurast. Unten sitzt ein einsamer Entdecker auf einer schnell abtreibenden Eisscholle fest, während sich gewaltige Risse unter seinen Füßen ausbreiten. Der Hubschrauber schwebt durch heftige Winde, während sich ein Rettungsschwimmer an einem Seil in das Whiteout hinablässt. Gerade als der Retter den Entdecker erreicht, zerbricht das Schelfeis und schleudert turmhohe Eisplatten krachend in das eiskalte Meer. 
+
+Der Retter packt den Entdecker in letzter Sekunde, und beide werden himmelwärts gezogen, während hinter ihnen ein gewaltiger Eisberg einstürzt und eine gewaltige Welle auslöst, die über das zerbrochene Eis bricht. Die Kamera beginnt mit einer weiten Luftaufnahme über endlose Gletscher, taucht in eine intensive Verfolgungsjagd in geringer Höhe durch den Schneesturm ein, geht während der Rettung in eine dramatische Nahaufnahme über und zieht sich dann in eine epische Weitwinkel-Enthüllung zurück, die den fliehenden Hubschrauber zeigt, während die gefrorene Landschaft unter ihm zerbricht. 
+
+Hyperrealistische, fotorealistische arktische Umgebung, realistische Schneephysik, wirbelnder Schneesturm, dynamischer Rotorabwind, filmische volumetrische Beleuchtung, dichter atmosphärischer Nebel, Eiskristalle, detaillierte Rettungsausrüstung, IMAX-Maßstab, Unreal Engine 5-Qualität, dramatische Kamerabewegung, ultrarealistische Wasser- und Eissimulation, 8K-Realismus, Meisterwerk, kein Text, kein Wasserzeichen, 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

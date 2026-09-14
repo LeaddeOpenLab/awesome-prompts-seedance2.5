@@ -313,7 +313,7 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2099284949496906161"></a>
 
-### Tradução em andamento
+### Uma emocionante história cinematográfica de sobrevivência de 15 segundos ambientada no Ártico. Uma nevasca violenta ruge sobre um oceano congelado enquanto um helicóptero de busca e resgate de elite corre em direção a um sinal de socorro para salvar um explorador isolado em placas de gelo que se estilhaçam.
 
 Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -321,14 +321,18 @@ Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
 Publicação original：[@DeCat2025](https://x.com/DeCat2025) · [Publicação original](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma emocionante história cinematográfica de sobrevivência de 15 segundos ambientada no Ártico. Uma nevasca violenta ruge sobre um oceano congelado enquanto um helicóptero de busca e resgate de elite corre em direção a um sinal de socorro para salvar um explorador isolado em placas de gelo que se estilhaçam.
 
 <img src="covers/2099284949496906161.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma emocionante história cinematográfica de sobrevivência de 15 segundos ambientada no Ártico. Uma nevasca violenta sopra sobre um oceano congelado enquanto um helicóptero de busca e resgate de elite corre em direção a um sinal de socorro. Abaixo, um explorador solitário está isolado em uma placa de gelo à deriva rápida enquanto rachaduras gigantescas se espalham sob seus pés. O helicóptero paira em meio a ventos ferozes enquanto um socorrista mergulhador desce por um cabo na névoa branca. Bem no momento em que o socorrista alcança o explorador, a plataforma de gelo se estilhaça, lançando placas colossais que despencam no mar congelante. 
+
+O socorrista agarra o explorador no último segundo, e ambos são içados em direção ao céu enquanto um enorme iceberg desmorona atrás deles, gerando uma onda poderosa que quebra sobre o gelo despedaçado. A câmera começa com uma tomada aérea ampla sobre geleiras sem fim, mergulha em uma perseguição intensa a baixa altitude através da nevasca, faz a transição para um close-up dramático durante o resgate e depois se afasta em uma revelação épica em plano aberto do helicóptero escapando enquanto a paisagem congelada se fratura sob ele. 
+
+Ambiente ártico hiper-realista e fotorrealista, física de neve realista, nevasca turbilhonante, deslocamento de ar dinâmico do rotor, iluminação volumétrica cinematográfica, névoa atmosférica densa, cristais de gelo, equipamento de resgate detalhado, escala IMAX, qualidade de Unreal Engine 5, movimento de câmera dramático, simulação de água e gelo ultrarrealista, realismo 8K, obra-prima, sem texto, sem marca d'água, 16:9.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -327,7 +327,7 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2099284949496906161"></a>
 
-### Traducción en curso
+### Una emocionante historia cinematográfica de supervivencia de 15 segundos ambientada en el Ártico. Una violenta ventisca azota un océano congelado mientras un helicóptero de búsqueda y rescate de élite vuela hacia una baliza de socorro para rescatar a un explorador atrapado en témpanos de hielo que se rompen.
 
 Autor：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -335,14 +335,18 @@ Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
 
 Publicación original：[@DeCat2025](https://x.com/DeCat2025) · [Publicación original](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Resumen:** Traducción en curso
+**Resumen:** Una emocionante historia cinematográfica de supervivencia de 15 segundos ambientada en el Ártico. Una violenta ventisca azota un océano congelado mientras un helicóptero de búsqueda y rescate de élite vuela hacia una baliza de socorro para rescatar a un explorador atrapado en témpanos de hielo que se rompen.
 
 <img src="covers/2099284949496906161.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una emocionante historia cinematográfica de supervivencia de 15 segundos ambientada en el Ártico. Una violenta ventisca arrecia sobre un océano congelado mientras un helicóptero de búsqueda y rescate de élite vuela a toda velocidad hacia una baliza de socorro. Abajo, un explorador solitario está varado en un témpano de hielo que va a la deriva rápidamente mientras enormes grietas se extienden bajo sus pies. El helicóptero se mantiene en vuelo estacionario entre vientos feroces mientras un nadador de rescate desciende por un cable en medio de la visibilidad nula del temporal. Justo cuando el rescatista alcanza al explorador, la plataforma de hielo se quiebra, enviando enormes bloques de hielo que se estrellan contra el mar congelado.
+
+El rescatista agarra al explorador en el último segundo, y ambos son elevados hacia el cielo mientras un enorme iceberg se derrumba detrás de ellos, desencadenando una poderosa ola que choca contra el hielo roto. La cámara comienza con una toma aérea panorámica sobre glaciares interminables, desciende en picado en una intensa persecución a baja altitud a través de la ventisca, pasa a un dramático primer plano durante el rescate y luego se aleja en una épica toma amplia que revela el helicóptero escapando mientras el paisaje helado se fractura bajo él.
+
+Hiperrealista, entorno ártico fotorrealista, física de nieve realista, ventisca arremolinada, corriente descendente dinámica del rotor, iluminación volumétrica cinematográfica, densa niebla atmosférica, cristales de hielo, equipo de rescate detallado, escala IMAX, calidad de Unreal Engine 5, movimiento dramático de cámara, simulación ultrarrealista de agua y hielo, realismo 8K, obra maestra, sin texto, sin marcas de agua, 16:9.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -313,7 +313,7 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2099284949496906161"></a>
 
-### Çeviri sürüyor
+### Kuzey Kutbu'nda geçen, 15 saniyelik nefes kesici bir sinematik hayatta kalma hikayesi. Seçkin bir arama-kurtarma helikopteri, donmuş bir okyanusta şiddetli bir kar fırtınasının ortasında, parçalanan buz kütleleri üzerinde mahsur kalmış bir kâşifi kurtarmak için bir acil durum sinyaline doğru hızla ilerliyor.
 
 Yazar：[@DeCat2025](https://x.com/DeCat2025) · [Orijinal gönderi](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -321,14 +321,18 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 Orijinal gönderi：[@DeCat2025](https://x.com/DeCat2025) · [Orijinal gönderi](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kuzey Kutbu'nda geçen, 15 saniyelik nefes kesici bir sinematik hayatta kalma hikayesi. Seçkin bir arama-kurtarma helikopteri, donmuş bir okyanusta şiddetli bir kar fırtınasının ortasında, parçalanan buz kütleleri üzerinde mahsur kalmış bir kâşifi kurtarmak için bir acil durum sinyaline doğru hızla ilerliyor.
 
 <img src="covers/2099284949496906161.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kuzey Kutbu'nda geçen, 15 saniyelik nefes kesici bir sinematik hayatta kalma hikayesi. Şiddetli bir kar fırtınası donmuş bir okyanus üzerinde uğuldarken, seçkin bir arama-kurtarma helikopteri bir acil durum sinyaline doğru hızla ilerliyor. Aşağıda, yalnız bir kâşif hızla sürüklenen bir buz kütlesinin üzerinde mahsur kalmış durumda ve ayaklarının altında devasa çatlaklar yayılıyor. Bir kurtarma yüzücüsü bembeyaz tipinin içine doğru bir kabloyla alçalırken, helikopter şiddetli rüzgarların arasında havada asılı duruyor. Tam kurtarıcı kâşife ulaştığı anda, buz sahanlığı paramparça oluyor ve devasa buz kütleleri donmuş denize çarpıyor. 
+
+Kurtarıcı son saniyede kâşifi yakalıyor ve arkalarında devasa bir buzdağının çökmesiyle ikisi de gökyüzüne doğru çekiliyor; bu çöküş, kırılan buzların üzerinden aşan güçlü bir dalgayı tetikliyor. Kamera, sonsuz buzulların üzerinde geniş bir hava çekimiyle başlıyor, kar fırtınası boyunca alçak irtifada yoğun bir kovalamacaya dalıyor, kurtarma anında dramatik bir yakın plana geçiyor ve ardından donmuş manzara altlarında parçalanırken uzaklaşan helikopteri gösteren epik, geniş bir açıyla geri çekiliyor. 
+
+Hiper-gerçekçi, fotogerçekçi Kutup ortamı, gerçekçi kar fiziği, dönen kar fırtınası, dinamik rotor rüzgarı, sinematik hacimsel aydınlatma, yoğun atmosferik sis, buz kristalleri, ayrıntılı kurtarma ekipmanı, IMAX ölçeği, Unreal Engine 5 kalitesi, dramatik kamera hareketi, ultra-gerçekçi su ve buz simülasyonu, 8K gerçekçilik, başyapıt, metin yok, filigran yok, 16:9.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -327,7 +327,7 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2099284949496906161"></a>
 
-### Traduzione in corso
+### Una mozzafiato storia di sopravvivenza cinematografica di 15 secondi ambientata nell'Artico. Una violenta bufera di neve infuria su un oceano ghiacciato mentre un elicottero d'élite di ricerca e soccorso sfreccia verso un segnale di soccorso per salvare un esploratore bloccato su lastre di ghiaccio che si frantumano.
 
 Autore：[@DeCat2025](https://x.com/DeCat2025) · [Post originale](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -335,14 +335,18 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubb
 
 Post originale：[@DeCat2025](https://x.com/DeCat2025) · [Post originale](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una mozzafiato storia di sopravvivenza cinematografica di 15 secondi ambientata nell'Artico. Una violenta bufera di neve infuria su un oceano ghiacciato mentre un elicottero d'élite di ricerca e soccorso sfreccia verso un segnale di soccorso per salvare un esploratore bloccato su lastre di ghiaccio che si frantumano.
 
 <img src="covers/2099284949496906161.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una mozzafiato storia di sopravvivenza cinematografica di 15 secondi ambientata nell'Artico. Una violenta bufera di neve infuria su un oceano ghiacciato mentre un elicottero d'élite di ricerca e soccorso sfreccia verso un segnale di soccorso. In basso, un esploratore solitario è bloccato su una banchisa alla deriva rapida mentre enormi crepe si espandono sotto i suoi piedi. L'elicottero staziona tra venti impetuosi mentre un aerosoccorritore scende su un cavo nel whiteout. Proprio mentre il soccorritore raggiunge l'esploratore, la piattaforma di ghiaccio si frantuma, facendo precipitare enormi lastre nel mare gelido. 
+
+Il soccorritore afferra l'esploratore all'ultimo secondo ed entrambi vengono sollevati verso il cielo mentre un enorme iceberg collassa dietro di loro, scatenando un'onda potente che si abbatte sul ghiaccio frantumato. La telecamera inizia con un'ampia ripresa aerea su ghiacciai infiniti, si tuffa in un intenso inseguimento a bassa quota attraverso la bufera di neve, passa a un drammatico primo piano durante il salvataggio, per poi allargarsi in un'epica inquadratura panoramica dell'elicottero che fugge mentre il paesaggio ghiacciato si spacca sotto di esso. 
+
+Ambiente artico iperrealistico e fotorealistico, fisica della neve realistica, bufera di neve vorticosa, flusso d'aria dinamico del rotore, illuminazione volumetrica cinematografica, densa nebbia atmosferica, cristalli di ghiaccio, equipaggiamento di soccorso dettagliato, scala IMAX, qualità Unreal Engine 5, movimenti di camera drammatici, simulazione ultra-realistica di acqua e ghiaccio, realismo 8K, capolavoro, nessun testo, nessuna filigrana, 16:9.
 ```
 
 [↑ Torna alle categorie](#catalog)

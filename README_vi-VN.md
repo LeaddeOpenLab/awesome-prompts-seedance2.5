@@ -329,7 +329,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2099284949496906161"></a>
 
-### Đang dịch
+### Một câu chuyện sinh tồn điện ảnh nghẹt thở kéo dài 15 giây lấy bối cảnh ở Bắc Cực. Trận bão tuyết dữ dội gầm rú khắp đại dương đóng băng khi một chiếc trực thăng tìm kiếm cứu nạn tinh nhuệ lao về phía tín hiệu cấp cứu để giải cứu một nhà thám hiểm mắc kẹt khỏi những tảng băng đang vỡ vụn.
 
 Tác giả：[@DeCat2025](https://x.com/DeCat2025) · [Bài gốc](https://x.com/DeCat2025/status/2099284949496906161)
 
@@ -337,14 +337,18 @@ Tác giả：[@DeCat2025](https://x.com/DeCat2025) · [Bài gốc](https://x.com
 
 Bài gốc：[@DeCat2025](https://x.com/DeCat2025) · [Bài gốc](https://x.com/DeCat2025/status/2098478244496343184)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một câu chuyện sinh tồn điện ảnh nghẹt thở kéo dài 15 giây lấy bối cảnh ở Bắc Cực. Trận bão tuyết dữ dội gầm rú khắp đại dương đóng băng khi một chiếc trực thăng tìm kiếm cứu nạn tinh nhuệ lao về phía tín hiệu cấp cứu để giải cứu một nhà thám hiểm mắc kẹt khỏi những tảng băng đang vỡ vụn.
 
 <img src="covers/2099284949496906161.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một câu chuyện sinh tồn điện ảnh nghẹt thở kéo dài 15 giây lấy bối cảnh ở Bắc Cực. Trận bão tuyết dữ dội gầm rú khắp đại dương đóng băng khi một chiếc trực thăng tìm kiếm cứu nạn tinh nhuệ lao vút về phía tín hiệu cấp cứu. Phía dưới, một nhà thám hiểm đơn độc bị mắc kẹt trên một tảng băng trôi đang di chuyển nhanh chóng trong khi những vết nứt khổng lồ lan rộng dưới chân họ. Trực thăng lơ lửng giữa những cơn gió dữ dội khi một nhân viên cứu hộ hạ mình bằng dây cáp xuống màn tuyết trắng xóa mù mịt. Ngay khi nhân viên cứu hộ tiếp cận được nhà thám hiểm, thềm băng vỡ vụn, khiến những phiến băng cao chót vót sụp đổ xuống vùng biển băng giá.
+
+Người cứu hộ tóm lấy nhà thám hiểm vào giây phút cuối cùng, và cả hai được kéo lên bầu trời khi một tảng băng trôi khổng lồ đổ sụp phía sau họ, kích hoạt một con sóng mạnh mẽ đập qua lớp băng vỡ. Máy quay bắt đầu bằng một cú lia từ trên không bao quát qua các sông băng vô tận, lao xuống một cuộc rượt đuổi tầm thấp căng thẳng qua bão tuyết, chuyển sang cảnh cận cảnh đầy kịch tính trong suốt cuộc giải cứu, sau đó lùi lại tạo thành một cú toàn cảnh hoành tráng để lộ chiếc trực thăng đang thoát thân khi cảnh quan băng giá nứt toác bên dưới.
+
+Siêu thực, môi trường Bắc Cực chân thực như ảnh chụp, vật lý tuyết chân thực, bão tuyết cuộn xoáy, luồng gió cánh quạt động, ánh sáng thể tích điện ảnh, sương mù khí quyển dày đặc, tinh thể băng, thiết bị cứu hộ chi tiết, quy mô IMAX, chất lượng Unreal Engine 5, chuyển động máy quay kịch tính, mô phỏng nước và băng siêu thực, độ chân thực 8K, kiệt tác, không có văn bản, không có hình mờ, 16:9.
 ```
 
 [↑ Về danh mục](#catalog)
