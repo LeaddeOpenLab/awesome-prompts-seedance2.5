@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**83** Prompts · Dernier ajout: **2026-09-14**
+**84** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099332819768291755"></a>
+
+### Traduction en cours
+
+Auteur：[@Just\_sharon7](https://x.com/Just_sharon7) · [Publication originale](https://x.com/Just_sharon7/status/2099332819768291755)
+
+Image cinématographique / Photogramme de film · Personnage · Article de mode · Véhicule · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099332819768291755.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099299015527690460"></a>
 
