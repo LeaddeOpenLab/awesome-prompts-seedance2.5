@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**81** Prompts · Latest addition: **2026-09-14**
+**82** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,41 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099299015527690460"></a>
+
+### A realism-oriented video generation prompt depicting an everyday relationship set in a regional Japanese city, centered on riding a bicycle to a live venue to watch a friend's acoustic singing performance.
+
+Author：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2099299015527690460)
+
+Cinematic / Film Still · Character · Published
+
+Source：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2098940614666756371)
+
+**Summary:** A realism-oriented video generation prompt depicting an everyday relationship set in a regional Japanese city, centered on riding a bicycle to a live venue to watch a friend's acoustic singing performance.
+
+<img src="covers/2099299015527690460.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A regional city in Japan. Evening to night.
+Sakura rides a bicycle through the city → parks it in a bicycle parking space beside a small live music venue → enters the venue → watches her friend's acoustic singing performance from the back of the audience area.
+
+Second half: The friend sings with an acoustic guitar. During the performance, their eyes meet for just a split second with Sakura in the audience. No waving. No exaggerated smiling. The performance does not stop. The relationship is conveyed solely through eye contact and subtle shifts in facial expression.
+
+After the show, they meet up beside the same venue.
+Sakura pushes the same bicycle from the first half, walking side by side with her friend down a night street.
+
+Minimal to no dialogue.
+A brief singing voice only during the live performance.
+Naturally tolerate camera shake, autofocus hunting, and exposure fluctuation.
+No overacting, model-like poses/movements, subtitles, narration, expository emotional displays, logos, or proper nouns.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099284949496906161"></a>
 

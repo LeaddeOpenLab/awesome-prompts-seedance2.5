@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**81** 件 · 最新の追加: **2026-09-14**
+**82** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,30 @@ UGCスタイル
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2099299015527690460"></a>
+
+### 翻訳中
+
+作者：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2099299015527690460)
+
+シネマティック / フィルムスチル · キャラクター · 配信済み
+
+元の投稿：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2098940614666756371)
+
+**概要:** 翻訳中
+
+<img src="covers/2099299015527690460.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099284949496906161"></a>
 
