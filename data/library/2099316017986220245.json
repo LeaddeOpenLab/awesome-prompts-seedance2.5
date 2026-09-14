@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:26:21.008Z",
+  "model": "seedance2.5",
+  "prompt": "Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.\n\nThe little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.\n\nShow the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.\n\nMake the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.\n\nKeep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.\n\nStyle: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic.",
+  "promptTranslations": {
+    "en": "Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.\n\nThe little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.\n\nShow the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.\n\nMake the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.\n\nKeep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.\n\nStyle: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen."
+  },
+  "translationVersion": 2,
+  "summary": "A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.",
+  "summaryEn": "A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099316017986220245",
+    "canonicalUrl": "https://x.com/Zarnab_with_Ai/status/2099316017986220245",
+    "author": {
+      "username": "Zarnab_with_Ai",
+      "displayName": "Zarnab Ai",
+      "profileUrl": "https://x.com/Zarnab_with_Ai"
+    },
+    "publishedAt": "2026-09-14T01:55:16.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "en",
+    "originalText": "Made with seedance 2.5\n\nPrompt 👇 \nCreate a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.\n\nThe little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.\n\nShow the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.\n\nMake the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.\n\nKeep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.\n\nStyle: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zarnab_with_Ai/status/2099316017986220245",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099315681577906176/img/Vx1CF3HQM0OFfoE_.jpg",
+        "analysisUrl": "https://x.com/Zarnab_with_Ai/status/2099316017986220245"
+      }
+    ],
+    "metrics": {
+      "likeCount": 43,
+      "repostCount": 9,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 383
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zarnab_with_Ai/status/2099316017986220245",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099315681577906176/img/Vx1CF3HQM0OFfoE_.jpg",
+  "coverPath": "covers/2099316017986220245.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099315681577906176",
+    "x-post:2099316017986220245"
+  ],
+  "analysis": {
+    "summary": "A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.",
+    "summaryEn": "A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the exact fuzzy peach character collecting honey from a honeycomb, encountering bees, and mixing a fruit-and-honey iced beverage in a kitchen."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.\n\nThe little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.\n\nShow the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.\n\nMake the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.\n\nKeep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.\n\nStyle: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic.",
+    "sourceRange": {
+      "start": 34,
+      "end": 1587
+    },
+    "translations": {
+      "zh": "创建一个可爱的超逼真 3D 电影质感竖屏视频（9:16），主角是一个毛茸茸的粉嫩桃形小生物，长着微小的黑色亮眼、可爱小嘴、红润面颊、小手脚以及头顶的一片绿叶。\n\n小桃子生物身处阳光明媚的森林中，周围环绕着绿草、树木和温暖光线。它发现了挂在树枝上的蜂巢，开心地用小勺收集新鲜蜂蜜。一只小蜜蜂绕着它飞舞并落在此刻脸旁。\n\n展示它品尝蜂蜜、在林中漫步，然后回到温馨质朴的木质厨房。它在透明玻璃杯中加入冰块、柠檬片、彩色水果块和蜂蜜，制作清爽水果蜂蜜饮品，轻轻搅拌并开心饮用。\n\n角色极其可爱生动，带有毛绒质感细节、逼真纹理、自然表情、电影景深与暖光，无字幕与水印。\n\n风格：皮克斯风可爱 3D + 逼真质感 + 微距摄影 + 温馨奇幻美学。",
+      "en": "Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.\n\nThe little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.\n\nShow the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.\n\nMake the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.\n\nKeep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.\n\nStyle: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "character animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Pixar"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
