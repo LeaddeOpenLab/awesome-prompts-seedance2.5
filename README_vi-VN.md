@@ -2404,20 +2404,20 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2099340009648377870"></a>
 
-### Đang dịch
+### Nữ sinh ngủ gật trong lớp gặp thằn lằn khổng lồ và biến hình thành chiến giáp phát sáng
 
 Tác giả：[@iX00AI](https://x.com/iX00AI) · [Bài gốc](https://x.com/iX00AI/status/2099340009648377870)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nữ sinh ngủ gật trong lớp gặp thằn lằn khổng lồ và biến hình thành chiến giáp phát sáng
 
 <img src="covers/2099340009648377870.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đang uể oải nghe giảng trong lớp\nCon thằn lằn khổng lồ\nBộ giáp phát sáng\nVòng hạt năng lượng\nChụp bằng iPhone 17
 ```
 
 [↑ Về danh mục](#catalog)

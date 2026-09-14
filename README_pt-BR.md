@@ -2310,20 +2310,20 @@ Tradução em andamento
 
 <a name="prompt-2099340009648377870"></a>
 
-### Tradução em andamento
+### Estudante sonolenta na aula encontra um lagarto gigante e se transforma em uma armadura brilhante
 
 Autor：[@iX00AI](https://x.com/iX00AI) · [Publicação original](https://x.com/iX00AI/status/2099340009648377870)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Estudante sonolenta na aula encontra um lagarto gigante e se transforma em uma armadura brilhante
 
 <img src="covers/2099340009648377870.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Assistindo à aula com sono\nUm lagarto gigante\nArmadura brilhante\nAnel de partículas\nFotografado com iPhone 17
 ```
 
 [↑ Voltar às categorias](#catalog)

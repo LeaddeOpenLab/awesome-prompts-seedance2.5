@@ -2458,20 +2458,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2099340009648377870"></a>
 
-### 翻譯中
+### 上課打瞌睡的女學生遭遇巨型蜥蜴並變身發光戰甲
 
 作者：[@iX00AI](https://x.com/iX00AI) · [查看 X 原帖](https://x.com/iX00AI/status/2099340009648377870)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** 上課打瞌睡的女學生遭遇巨型蜥蜴並變身發光戰甲
 
 <img src="covers/2099340009648377870.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+昏昏欲睡地上著課\n巨大的蜥蜴\n發光的鎧甲\n粒子環\n使用iPhone 17拍攝
 ```
 
 [↑ 返回分類目錄](#catalog)

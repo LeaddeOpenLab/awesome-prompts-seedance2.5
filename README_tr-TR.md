@@ -2310,20 +2310,20 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2099340009648377870"></a>
 
-### Çeviri sürüyor
+### Derste uyuklayan kız öğrenci devasa bir kertenkele ile karşılaşır ve parlayan bir zırha dönüşür
 
 Yazar：[@iX00AI](https://x.com/iX00AI) · [Orijinal gönderi](https://x.com/iX00AI/status/2099340009648377870)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Derste uyuklayan kız öğrenci devasa bir kertenkele ile karşılaşır ve parlayan bir zırha dönüşür
 
 <img src="covers/2099340009648377870.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uykulu bir şekilde derse katılıyor\nDev bir kertenkele\nParlayan zırh\nParçacık halkası\niPhone 17 ile çekildi
 ```
 
 [↑ Kategorilere dön](#catalog)
