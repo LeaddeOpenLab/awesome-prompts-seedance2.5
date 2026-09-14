@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:20:52.435Z",
+  "model": "seedance2.5",
+  "prompt": "> A grand circus theater. golden balconies. two tiers of audience.\n> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.\n> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.\n> The audience holds still. phones glow but nobody is recording. they're watching.\n> She steadies. one foot lifts. the board holds.",
+  "promptTranslations": {
+    "en": "> A grand circus theater. golden balconies. two tiers of audience.\n> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.\n> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.\n> The audience holds still. phones glow but nobody is recording. they're watching.\n> She steadies. one foot lifts. the board holds."
+  },
+  "summaryTranslations": {
+    "en": "A girl in lavender performing a balancing stunt on a narrow board atop high scaffolding in a circus theater."
+  },
+  "translationVersion": 2,
+  "summary": "马戏团剧场中身穿淡紫色衣服的女孩在高空脚手架窄板上的平衡特技表演。",
+  "summaryEn": "A circus theater balance act with a girl in lavender on a high scaffolding board.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099190119370576229",
+      "canonicalUrl": "https://x.com/6AW0RON0k/status/2099190119370576229",
+      "author": {
+        "username": "6AW0RON0k",
+        "displayName": "6AWORON0k",
+        "profileUrl": "https://x.com/6AW0RON0k"
+      },
+      "originalText": "Delete every immersive cinema company immediately. The $200 billion theater industry was permanently disrupted today.\n\nAn 11-second clip of a dam breaking on an IMAX screen just made 94 million people lift their feet off the floor.\n\n1. A packed theater. a massive curved screen showing the Hoover Dam. cracks spider across the concrete. audience phones glow in the dark.\n2. The dam explodes outward. a wall of green water, 200 feet tall, crashes toward the camera. the screen disappears. the water fills the entire field of view.\n3. A man in row 3 ducks. the led aisle lights reflect off the wet-looking floor as if the theater is already flooding.\n4. Zero theaters built. Zero dams broken. Zero audience members got wet. Zero screens were ever installed.\n5. In 6 months, every cinema chain will either use AI concept content or lose every investor pitch to someone who does.\n\nIf you are still pitching immersive entertainment concepts with CAD renders and foam-core models in 2026, your presentations are officially dead.\n\nSave this."
+    },
+    "id": "2099564383252705547",
+    "canonicalUrl": "https://x.com/6AW0RON0k/status/2099564383252705547",
+    "author": {
+      "username": "6AW0RON0k",
+      "displayName": "6AWORON0k",
+      "profileUrl": "https://x.com/6AW0RON0k"
+    },
+    "publishedAt": "2026-09-14T18:22:11.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "en",
+    "originalText": "Cirque du Soleil drops $165,000,000 on a single stage show\n\nLast night, a college dropout spent $34 on an AI pipeline\n\nHis 15-second clip hit 3,800,000 views before morning:\n\n> A grand circus theater. golden balconies. two tiers of audience.\n> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.\n> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.\n> The audience holds still. phones glow but nobody is recording. they're watching.\n> She steadies. one foot lifts. the board holds.\n\nViewers slowed the footage to 0.25x, hunting for wires, safety nets, or a hidden harness.\n\nThey could not find any because the scaffolding, the girl, and the theater never existed.\n\nInside the workflow that manufactured the impossible:\n\n- Google Sheets: Prompt rules, 9:16 aspect ratio, hard 15-second limit, balance board physics model, and audience behavior chart.\n- Google Drive: Circus interior references, metal scaffolding structural specs, board flex rates under 55kg load, and spotlight cone angle diagrams.\n- Seedance 2.5: One continuous audience-perspective render with locked camera, 60 FPS balance micro-corrections, and board flex animation.\n- GPT-6 Astra: Automated QC of 1080x1920, 14.8s duration, character consistency, and scaffolding structural integrity across frames.\n- Slack + Calendar: Auto-approved, scheduled, and published autonomously.\n\nA live performance would demand trained acrobats, rigging engineers, safety inspectors, and weeks of rehearsal.\n\nHe simply described an impossible balance act to a chain of API calls.\n\nHe generated the theater, the acrobat, and the tension before dinner.\n\nbookmark this.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/6AW0RON0k/status/2099564383252705547",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099564290122379264/img/QaukfehhApOdHanU.jpg",
+        "analysisUrl": "https://x.com/6AW0RON0k/status/2099564383252705547"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/6AW0RON0k/status/2099564383252705547",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099190058028789760/img/lXKzujaFcjvDOP4V.jpg",
+        "analysisUrl": "https://x.com/6AW0RON0k/status/2099564383252705547",
+        "sourcePostId": "2099190119370576229"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 305
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/6AW0RON0k/status/2099564383252705547",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099564290122379264/img/QaukfehhApOdHanU.jpg",
+  "coverPath": "covers/2099564383252705547.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099564290122379264",
+    "x-video:2099190058028789760",
+    "x-post:2099564383252705547",
+    "x-post:2099190119370576229"
+  ],
+  "analysis": {
+    "summary": "马戏团剧场中身穿淡紫色衣服的女孩在高空脚手架窄板上的平衡特技表演。",
+    "summaryEn": "A circus theater balance act with a girl in lavender on a high scaffolding board.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features a circus theater with a girl in lavender balancing on a board atop scaffolding above a sand ring."
+    },
+    "videoQuality": null,
+    "originalPrompt": "> A grand circus theater. golden balconies. two tiers of audience.\n> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.\n> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.\n> The audience holds still. phones glow but nobody is recording. they're watching.\n> She steadies. one foot lifts. the board holds.",
+    "sourceRange": {
+      "start": 175,
+      "end": 584
+    },
+    "translations": {
+      "zh": "> 宏伟的马戏团剧场。金色包厢。双层观众席。\n> 一位身穿淡紫色衣服的女孩站在金属脚手架顶端平衡的窄板上。平台高出沙地5米。\n> 木板晃动。她调整姿势。重心向左移动。脚手架发出吱吱声。\n> 观众保持安静。手机屏幕发亮但无人录像。他们都在注视。\n> 她稳定下来。抬起一只脚。木板保持稳固。",
+      "en": "> A grand circus theater. golden balconies. two tiers of audience.\n> A girl in lavender stands on a narrow board balanced on top of metal scaffolding. the platform is 5 meters above the sand floor.\n> The board rocks. she adjusts. her weight shifts left. the scaffolding creaks.\n> The audience holds still. phones glow but nobody is recording. they're watching.\n> She steadies. one foot lifts. the board holds."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "circus acrobatic balance act video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
