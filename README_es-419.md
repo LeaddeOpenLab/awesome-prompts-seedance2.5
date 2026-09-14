@@ -2338,7 +2338,7 @@ Traducción en curso
 
 <a name="prompt-2099564383252705547"></a>
 
-### Traducción en curso
+### Espectáculo de acrobacia y equilibrio de una chica vestida de lavanda sobre una tabla estrecha en un andamio alto en un teatro de circo.
 
 Autor：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicación original](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2346,14 +2346,18 @@ Personaje · Publicado
 
 Publicación original：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicación original](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Resumen:** Traducción en curso
+**Resumen:** Espectáculo de acrobacia y equilibrio de una chica vestida de lavanda sobre una tabla estrecha en un andamio alto en un teatro de circo.
 
 <img src="covers/2099564383252705547.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+> Un gran teatro de circo. Balcones dorados. Dos niveles de público.
+> Una chica vestida de lavanda está de pie sobre una tabla estrecha en equilibrio en lo alto de un andamio de metal. La plataforma está a 5 metros sobre el suelo de arena.
+> La tabla se balancea. Ella se ajusta. Su peso se desplaza hacia la izquierda. El andamio cruje.
+> El público se queda inmóvil. Los teléfonos brillan pero nadie está grabando. Están mirando.
+> Ella se estabiliza. Un pie se levanta. La tabla se sostiene.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -2338,7 +2338,7 @@ Originalbeitrag：[@TanLuAI](https://x.com/TanLuAI) · [Originalbeitrag](https:/
 
 <a name="prompt-2099564383252705547"></a>
 
-### Übersetzung läuft
+### Balance-Akrobatikdarbietung eines Mädchens in Lavendelkleidung auf einem schmalen Brett auf einem hohen Gerüst in einem Zirkustheater.
 
 Autor：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Originalbeitrag](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2346,14 +2346,18 @@ Charakter · Veröffentlicht
 
 Originalbeitrag：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Originalbeitrag](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Balance-Akrobatikdarbietung eines Mädchens in Lavendelkleidung auf einem schmalen Brett auf einem hohen Gerüst in einem Zirkustheater.
 
 <img src="covers/2099564383252705547.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+> Ein grandioses Zirkustheater. Goldene Balkone. Zwei Zuschauerränge.
+> Ein Mädchen in Lavendel steht auf einem schmalen Brett, das oben auf einem Metallgerüst balanciert ist. Die Plattform befindet sich 5 Meter über dem Sandboden.
+> Das Brett schwankt. Sie korrigiert. Ihr Gewicht verlagert sich nach links. Das Gerüst knarrt.
+> Das Publikum hält den Atem an und verharrt still. Handys leuchten, aber niemand filmt. Sie schauen gebannt zu.
+> Sie stabilisiert sich. Ein Fuß hebt sich. Das Brett hält stand.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

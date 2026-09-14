@@ -2338,7 +2338,7 @@ Traduction en cours
 
 <a name="prompt-2099564383252705547"></a>
 
-### Traduction en cours
+### Numéro d'acrobatie d'équilibre d'une fille vêtue de lavande sur une planche étroite en haut d'un échafaudage dans un théâtre de cirque.
 
 Auteur：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publication originale](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2346,14 +2346,18 @@ Personnage · Publié
 
 Publication originale：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publication originale](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Résumé:** Traduction en cours
+**Résumé:** Numéro d'acrobatie d'équilibre d'une fille vêtue de lavande sur une planche étroite en haut d'un échafaudage dans un théâtre de cirque.
 
 <img src="covers/2099564383252705547.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+> Un grand théâtre de cirque. Des balcons dorés. Deux niveaux de spectateurs.
+> Une jeune fille vêtue de lavande se tient debout sur une planche étroite en équilibre au sommet d'un échafaudage métallique. La plateforme est à 5 mètres au-dessus du sol sablonneux.
+> La planche oscille. Elle s'ajuste. Son poids bascule vers la gauche. L'échafaudage grince.
+> Le public retient son souffle, immobile. Les téléphones brillent mais personne n'enregistre. Ils regardent.
+> Elle se stabilise. Un pied se soulève. La planche tient bon.
 ```
 
 [↑ Retour aux catégories](#catalog)

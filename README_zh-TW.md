@@ -2480,7 +2480,7 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2099564383252705547"></a>
 
-### 翻譯中
+### 馬戲團劇場中身穿淡紫色衣服的女孩在高空鷹架窄板上的平衡特技表演。
 
 作者：[@6AW0RON0k](https://x.com/6AW0RON0k) · [查看 X 原帖](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2488,14 +2488,18 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 查看 X 原帖：[@6AW0RON0k](https://x.com/6AW0RON0k) · [查看 X 原帖](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**概括:** 翻譯中
+**概括:** 馬戲團劇場中身穿淡紫色衣服的女孩在高空鷹架窄板上的平衡特技表演。
 
 <img src="covers/2099564383252705547.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+> 宏偉的馬戲團劇場。金色的樓座包廂。兩層觀眾席。
+> 一個身穿淡紫色衣服的女孩站在金屬鷹架頂部平衡的窄板上。平台距離沙地5公尺高。
+> 窄板搖晃。她調整姿勢。她的重心向左移。鷹架發出嘎吱聲。
+> 觀眾屏息不動。手機發出微光，但沒有人在錄影。他們都在凝視著。
+> 她穩定下來。一隻腳抬起。窄板支撐住了。
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -2426,7 +2426,7 @@ Bài gốc：[@TanLuAI](https://x.com/TanLuAI) · [Bài gốc](https://x.com/Tan
 
 <a name="prompt-2099564383252705547"></a>
 
-### Đang dịch
+### Màn trình diễn xiếc thăng bằng của cô gái mặc đồ màu tím hoa oải hương trên tấm ván hẹp của giàn giáo trên cao trong nhà hát xiếc.
 
 Tác giả：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Bài gốc](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2434,14 +2434,18 @@ Nhân vật · Đã xuất bản
 
 Bài gốc：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Bài gốc](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Màn trình diễn xiếc thăng bằng của cô gái mặc đồ màu tím hoa oải hương trên tấm ván hẹp của giàn giáo trên cao trong nhà hát xiếc.
 
 <img src="covers/2099564383252705547.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+> Một nhà hát xiếc lộng lẫy. Các ban công mạ vàng. Hai tầng khán giả.
+> Một cô gái mặc đồ màu tím hoa oải hương đứng trên một tấm ván hẹp thăng bằng trên đỉnh giàn giáo kim loại. Sàn diễn cách mặt đất trải cát 5 mét.
+> Tấm ván chao đảo. Cô ấy điều chỉnh. Trọng lượng của cô dồn sang trái. Giàn giáo cọt kẹt.
+> Khán giả nín thở đứng bất động. Điện thoại phát sáng nhưng không ai quay phim. Họ đang dõi theo.
+> Cô ấy giữ thăng bằng lại. Một chân nhấc lên. Tấm ván giữ vững.
 ```
 
 [↑ Về danh mục](#catalog)

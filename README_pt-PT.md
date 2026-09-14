@@ -2332,7 +2332,7 @@ Tradução em curso
 
 <a name="prompt-2099564383252705547"></a>
 
-### Tradução em curso
+### Apresentação acrobática de equilíbrio de uma rapariga vestida de lavanda sobre uma prancha estreita num andaime alto num teatro de circo.
 
 Autor：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicação original](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2340,14 +2340,18 @@ Personagem · Publicado
 
 Publicação original：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicação original](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Resumo:** Tradução em curso
+**Resumo:** Apresentação acrobática de equilíbrio de uma rapariga vestida de lavanda sobre uma prancha estreita num andaime alto num teatro de circo.
 
 <img src="covers/2099564383252705547.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+> Um grande teatro de circo. Varandins dourados. Dois níveis de público.
+> Uma rapariga vestida de lavanda está de pé sobre uma tábua estreita equilibrada no topo de um andaime metálico. A plataforma está a 5 metros acima do chão de areia.
+> A tábua oscila. Ela ajusta-se. O seu peso desloca-se para a esquerda. O andaime range.
+> O público fica imóvel. Os telemóveis brilham, mas ninguém está a gravar. Estão a assistir.
+> Ela estabiliza-se. Um pé levanta-se. A tábua aguenta.
 ```
 
 [↑ Voltar às categorias](#catalog)

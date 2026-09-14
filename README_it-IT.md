@@ -2338,7 +2338,7 @@ Traduzione in corso
 
 <a name="prompt-2099564383252705547"></a>
 
-### Traduzione in corso
+### Esibizione di acrobazia in equilibrio di una ragazza vestita di lavanda su una stretta tavola su un'alta impalcatura in un teatro di circo.
 
 Autore：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Post originale](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2346,14 +2346,18 @@ Personaggio · Pubblicato
 
 Post originale：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Post originale](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Esibizione di acrobazia in equilibrio di una ragazza vestita di lavanda su una stretta tavola su un'alta impalcatura in un teatro di circo.
 
 <img src="covers/2099564383252705547.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+> Un grandioso teatro di circo. Balconate dorate. Due ordini di pubblico.
+> Una ragazza vestita di lavanda è in piedi su una stretta tavola in equilibrio in cima a un'impalcatura metallica. La piattaforma si trova a 5 metri sopra il pavimento di sabbia.
+> La tavola oscilla. Lei si aggiusta. Il suo peso si sposta a sinistra. L'impalcatura scricchiola.
+> Il pubblico resta immobile. I telefoni brillano ma nessuno sta registrando. Stanno guardando.
+> Si stabilizza. Un piede si solleva. La tavola regge.
 ```
 
 [↑ Torna alle categorie](#catalog)

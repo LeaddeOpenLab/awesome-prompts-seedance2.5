@@ -2332,7 +2332,7 @@ Tradução em andamento
 
 <a name="prompt-2099564383252705547"></a>
 
-### Tradução em andamento
+### Apresentação acrobática de equilíbrio de uma garota vestida de lavanda sobre uma prancha estreita em um andaime alto em um teatro de circo.
 
 Autor：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicação original](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2340,14 +2340,18 @@ Personagem · Publicado
 
 Publicação original：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Publicação original](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Apresentação acrobática de equilíbrio de uma garota vestida de lavanda sobre uma prancha estreita em um andaime alto em um teatro de circo.
 
 <img src="covers/2099564383252705547.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+> Um grande teatro de circo. Balcões dourados. Dois níveis de público.
+> Uma garota de lavanda está de pé sobre uma tábua estreita equilibrada no topo de um andaime de metal. A plataforma está a 5 metros acima do chão de areia.
+> A tábua balança. Ela se ajusta. Seu peso se desloca para a esquerda. O andaime range.
+> O público fica imóvel. Celulares brilham, mas ninguém está gravando. Eles estão assistindo.
+> Ela se estabiliza. Um pé se levanta. A tábua se mantém firme.
 ```
 
 [↑ Voltar às categorias](#catalog)

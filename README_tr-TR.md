@@ -2332,7 +2332,7 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 
 <a name="prompt-2099564383252705547"></a>
 
-### Çeviri sürüyor
+### Sirk tiyatrosunda lavanta rengi giysili kızın yüksek iskele üzerindeki dar tahtada sergilediği denge akrobasi gösterisi.
 
 Yazar：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Orijinal gönderi](https://x.com/6AW0RON0k/status/2099564383252705547)
 
@@ -2340,14 +2340,18 @@ Karakter · Yayımlandı
 
 Orijinal gönderi：[@6AW0RON0k](https://x.com/6AW0RON0k) · [Orijinal gönderi](https://x.com/6AW0RON0k/status/2099190119370576229)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sirk tiyatrosunda lavanta rengi giysili kızın yüksek iskele üzerindeki dar tahtada sergilediği denge akrobasi gösterisi.
 
 <img src="covers/2099564383252705547.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+> Görkemli bir sirk tiyatrosu. Altın rengi balkonlar. İki katlı seyirci kitlesi.
+> Lavanta rengi giysili bir kız, metal bir iskelenin tepesinde dengede duran dar bir tahtanın üzerinde duruyor. Platform, kum zeminin 5 metre yukarısında.
+> Tahta sallanıyor. Kız kendini ayarlıyor. Ağırlığı sola kayıyor. İskele gıcırdıyor.
+> Seyirciler donup kalmış. Telefonlar parlıyor ama kimse kayıt yapmıyor. Sadece izliyorlar.
+> Dengeleniyor. Bir ayağı kalkıyor. Tahta dayanıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
