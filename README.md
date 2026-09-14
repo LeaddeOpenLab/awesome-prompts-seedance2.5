@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**86** Prompts · Latest addition: **2026-09-14**
+**87** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099404551199809774"></a>
+
+### Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.
+
+Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2099404551199809774)
+
+Cinematic / Film Still · Retro / Vintage · Vehicle · Published
+
+**Summary:** Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.
+
+<img src="covers/2099404551199809774.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099327265888993335"></a>
 
