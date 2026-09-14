@@ -2141,20 +2141,30 @@ Futuristische Anime-Sci-Fi-Konzeptkunst, Mecha-Design der nahen Zukunft, Hard-Su
 
 <a name="prompt-2099316017986220245"></a>
 
-### Übersetzung läuft
+### Eine 3D-Animation einer flauschigen pfirsichförmigen Kreatur, die Waldhonig sammelt und in einer Küche ein Eiskaltgetränk zubereitet.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Originalbeitrag](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 3D-Rendering · Charakter · Essen / Trinken · Tier / Kreatur · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine 3D-Animation einer flauschigen pfirsichförmigen Kreatur, die Waldhonig sammelt und in einer Küche ein Eiskaltgetränk zubereitet.
 
 <img src="covers/2099316017986220245.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein niedliches, ultrarealistisches filmisches 3D-Vertikalvideo (9:16) mit einer winzigen, bezaubernden pfirsichförmigen Kreatur mit einem weichen, flauschigen pastellrosa Körper, winzigen schwarzen Glanzaugen, einem kleinen süßen Mund, rosigen Wangen, winzigen Armen und Füßen sowie einem kleinen grünen Blatt auf dem Kopf.
+
+Die kleine Pfirsichkreatur befindet sich in einem wunderschönen, sonnendurchfluteten Wald, umgeben von grünem Gras, Bäumen, Blättern und warmem, natürlichem Sonnenlicht. Sie entdeckt eine Bienenwabe, die an einem Ast hängt, und sammelt fröhlich frischen, goldenen Honig mit einem winzigen Löffel. Eine kleine Biene fliegt um sie herum und landet kurz in der Nähe ihres Gesichts.
+
+Zeige, wie die Kreatur den Honig genießt, durch den Wald spaziert und dann in eine gemütliche, rustikale Holzküche zurückkehrt. Sie bereitet ein erfrischendes Glas Frucht-Honig-Getränk zu, indem sie Eiswürfel, Zitronenscheiben, bunte Fruchtstücke und goldenen Honig in ein transparentes Glas gibt. Sie rührt das Getränk sanft mit einem Löffel um und trinkt es voller Freude.
+
+Gestalte die Figur extrem niedlich und ausdrucksstark, mit weichen, plüschigen Flauscheffekten, realistischen Texturen, bezaubernden Bewegungen, natürlichen Gesichtsausdrücken, filmischer Tiefenschärfe, warmer Beleuchtung zur goldenen Stunde, wunderschönem Bokeh, detaillierter Waldumgebung, sanften Kamerabewegungen, Makro-Nahaufnahmen, realistischen Schatten und erstklassiger, hochwertiger 3D-Animation.
+
+Behalte dasselbe Charakterdesign, Gesicht, dieselben Proportionen, Farben, dasselbe Blatt und das gesamte Erscheinungsbild im gesamten Video einheitlich bei. Kein Text, kein Wasserzeichen, keine verzerrte Anatomie, keine zusätzlichen Charaktere.
+
+Stil: Pixar-ähnliches süßes 3D + fotorealistische Texturen + filmische Makrofotografie + gemütliche Fantasy-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

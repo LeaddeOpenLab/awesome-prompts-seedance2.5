@@ -2135,20 +2135,30 @@ Arte conceitual de ficção científica anime futurista, design de mecha de futu
 
 <a name="prompt-2099316017986220245"></a>
 
-### Tradução em andamento
+### Uma animação 3D de uma criatura felpuda em forma de pêssego colhendo mel na floresta e preparando uma bebida gelada em uma cozinha.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicação original](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 Renderização 3D · Personagem · Alimentos / Bebidas · Animal / Criatura · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma animação 3D de uma criatura felpuda em forma de pêssego colhendo mel na floresta e preparando uma bebida gelada em uma cozinha.
 
 <img src="covers/2099316017986220245.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo vertical cinematográfico em 3D (9:16), fofo e ultrarrealista, apresentando uma criaturinha adorável em formato de pêssego com um corpo macio e felpudo em rosa pastel, olhinhos pretos brilhantes, uma boquinha fofa, bochechas rosadas, bracinhos e pezinhos minúsculos e uma pequena folha verde no topo da cabeça.
+
+A criaturinha de pêssego está em uma linda floresta ensolarada, cercada por grama verde, árvores, folhas e uma luz solar natural e acolhedora. Ela descobre um favo de mel pendurado em um galho de árvore e alegremente recolhe mel dourado e fresco com uma colherzinha minúscula. Uma pequena abelha voa ao redor dela e pousa brevemente perto de seu rosto.
+
+Mostre a criatura saboreando o mel, caminhando pela floresta e depois retornando a uma aconchegante cozinha rústica de madeira. Ela prepara um copo refrescante de bebida de frutas com mel adicionando cubos de gelo, fatias de limão, pedaços coloridos de frutas e mel dourado em um copo transparente. Ela mexe suavemente a bebida com uma colher e a bebe alegremente.
+
+Torne a personagem extremamente fofa e expressiva, com detalhes macios e felpudos como pelúcia, texturas realistas, movimentos adoráveis, expressões faciais naturais, profundidade de campo cinematográfica, iluminação dourada e acolhedora de golden hour, lindo bokeh, ambiente de floresta detalhado, movimentos suaves de câmera, closes macro, sombras realistas e animação 3D de alta qualidade premium.
+
+Mantenha o mesmo design de personagem, rosto, proporções, cores, folha e aparência consistentes durante todo o vídeo. Sem texto, sem marca d'água, sem anatomia distorcida, sem personagens extras.
+
+Estilo: 3D fofo estilo Pixar + texturas fotorrealistas + fotografia macro cinematográfica + estética aconchegante de fantasia.
 ```
 
 [↑ Voltar às categorias](#catalog)

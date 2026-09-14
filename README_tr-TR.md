@@ -2135,20 +2135,30 @@ Fütüristik anime bilim kurgu konsept sanatı, yakın gelecek meka tasarımı, 
 
 <a name="prompt-2099316017986220245"></a>
 
-### Çeviri sürüyor
+### Ormandan bal toplayan ve mutfakta buzlu bir içecek hazırlayan tüylü, şeftali şeklinde bir yaratığın 3D animasyonu.
 
 Yazar：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Orijinal gönderi](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 3D Modelleme · Karakter · Yiyecek / İçecek · Hayvan / Yaratık · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ormandan bal toplayan ve mutfakta buzlu bir içecek hazırlayan tüylü, şeftali şeklinde bir yaratığın 3D animasyonu.
 
 <img src="covers/2099316017986220245.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak, tüylü pastel pembe bir gövdeye, minik parlak siyah gözlere, sevimli küçük bir ağza, pembe yanaklara, minicik kollara ve ayaklara ve başının üstünde küçük yeşil bir yaprağa sahip şeftali şeklinde küçücük, sevimli bir yaratığın yer aldığı şirin, ultra gerçekçi 3D sinematik dikey bir video (9:16) oluşturun.
+
+Küçük şeftali yaratık, yeşil çimler, ağaçlar, yapraklar ve ılık doğal güneş ışığıyla çevrili, güneşle aydınlanan güzel bir ormandadır. Bir ağaç dalından sarkan bir bal peteği keşfeder ve minik bir kaşıkla taze altın sarısı balı neşeyle toplar. Küçük bir arı etrafında uçar ve kısa bir süreliğine yüzünün yakınına konar.
+
+Yaratığın balın tadını çıkarışını, ormanda yürüyüşünü ve ardından ahşap, samimi ve rustik bir mutfağa dönüşünü gösterin. Şeffaf bir bardağa buz küpleri, limon dilimleri, renkli meyve parçaları ve altın rengi bal ekleyerek ferahlatıcı bir bardak meyveli ve ballı içecek hazırlar. İçeceği bir kaşıkla nazikçe karıştırır ve mutlulukla içer.
+
+Karakteri yumuşak peluş benzeri tüylü detaylar, gerçekçi dokular, sevimli hareketler, doğal yüz ifadeleri, sinematik alan derinliği, altın saatlerin sıcak ışıklandırması, güzel bokeh etkisi, ayrıntılı orman ortamı, akıcı kamera hareketleri, makro yakın çekimler, gerçekçi gölgeler ve birinci sınıf yüksek kaliteli 3D animasyon ile son derece sevimli ve etkileyici hale getirin.
+
+Tüm video boyunca aynı karakter tasarımını, yüzü, oranları, renkleri, yaprağı ve görünümü tutarlı tutun. Metin yok, filigran yok, bozuk anatomi yok, ekstra karakterler yok.
+
+Tarz: Pixar benzeri sevimli 3D + fotogerçekçi dokular + sinematik makro fotoğrafçılık + samimi fantastik estetik.
 ```
 
 [↑ Kategorilere dön](#catalog)

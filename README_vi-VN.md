@@ -2243,20 +2243,30 @@ Nghệ thuật ý niệm khoa học viễn tưởng anime tương lai, thiết k
 
 <a name="prompt-2099316017986220245"></a>
 
-### Đang dịch
+### Hoạt hình 3D về một sinh vật hình quả đào lông mịn đi lấy mật ong trong rừng và pha đồ uống đá trong bếp.
 
 Tác giả：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Bài gốc](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 Kết xuất 3D · Nhân vật · Thực phẩm / Đồ uống · Động vật / Sinh vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hoạt hình 3D về một sinh vật hình quả đào lông mịn đi lấy mật ong trong rừng và pha đồ uống đá trong bếp.
 
 <img src="covers/2099316017986220245.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video dọc chuẩn điện ảnh 3D siêu thực, dễ thương (9:16) với nhân vật là một sinh vật nhỏ bé đáng yêu hình quả đào có thân hình lông tơ mềm mại màu hồng pastel, đôi mắt đen láy lấp lánh, chiếc miệng nhỏ xinh, đôi má ửng hồng, đôi tay và bàn chân tí hon, cùng một chiếc lá xanh nhỏ xíu trên đỉnh đầu.
+
+Sinh vật quả đào nhỏ bé đang ở trong một khu rừng tuyệt đẹp ngập tràn ánh nắng, được bao quanh bởi thảm cỏ xanh, cây cối, lá cây và ánh nắng tự nhiên ấm áp. Nó phát hiện ra một tổ ong treo trên cành cây và vui vẻ thu thập mật ong vàng óng tươi ngon bằng một chiếc thìa tí hon. Một chú ong nhỏ bay quanh nó và nhẹ nhàng đậu lại gần mặt nó trong chốc lát.
+
+Thể hiện cảnh sinh vật này thưởng thức mật ong, đi dạo qua khu rừng, sau đó quay trở về một căn bếp gỗ mộc mạc ấm cúng. Nó pha chế một ly nước trái cây mật ong thanh mát bằng cách cho đá viên, lát chanh, những miếng trái cây đầy màu sắc và mật ong vàng óng vào một chiếc ly trong suốt. Nó nhẹ nhàng khuấy đồ uống bằng thìa và vui sướng thưởng thức.
+
+Hãy làm cho nhân vật cực kỳ dễ thương và giàu biểu cảm, với các chi tiết lông tơ mềm như thú bông, kết cấu chân thực, cử động đáng yêu, nét mặt tự nhiên, độ sâu trường ảnh chuẩn điện ảnh, ánh sáng giờ vàng ấm áp, hiệu ứng bokeh tuyệt đẹp, môi trường rừng chi tiết, chuyển động máy quay mượt mà, cận cảnh macro, bóng đổ chân thực và hoạt hình 3D chất lượng cao cao cấp.
+
+Giữ nguyên thiết kế nhân vật, khuôn mặt, tỷ lệ, màu sắc, chiếc lá và diện mạo nhất quán trong toàn bộ video. Không có chữ, không có hình mờ (watermark), không có giải phẫu méo mó, không có nhân vật thừa.
+
+Phong cách: 3D dễ thương kiểu Pixar + chất liệu chân thực như ảnh chụp + nhiếp ảnh macro chuẩn điện ảnh + thẩm mỹ kỳ ảo ấm cúng.
 ```
 
 [↑ Về danh mục](#catalog)

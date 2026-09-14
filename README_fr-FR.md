@@ -2141,20 +2141,30 @@ Art conceptuel d'anime de science-fiction futuriste, conception de mecha d'un fu
 
 <a name="prompt-2099316017986220245"></a>
 
-### Traduction en cours
+### Une animation 3D d'une créature duveteuse en forme de pêche qui récolte du miel en forêt et prépare une boisson glacée dans une cuisine.
 
 Auteur：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publication originale](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 Rendu 3D · Personnage · Alimentation / Boissons · Animal / Créature · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une animation 3D d'une créature duveteuse en forme de pêche qui récolte du miel en forêt et prépare une boisson glacée dans une cuisine.
 
 <img src="covers/2099316017986220245.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo verticale cinématographique en 3D mignonne et ultra-réaliste (9:16) mettant en scène une minuscule et adorable créature en forme de pêche avec un corps duveteux et doux rose pastel, de minuscules yeux noirs brillants, une petite bouche mignonne, des joues roses, de minuscules bras et pieds, et une petite feuille verte sur le dessus de sa tête.
+
+La petite créature-pêche se trouve dans une magnifique forêt ensoleillée, entourée d'herbe verte, d'arbres, de feuilles et d'une chaude lumière naturelle. Elle découvre un rayon de miel suspendu à une branche d'arbre et récolte joyeusement du miel doré frais à l'aide d'une minuscule cuillère. Une petite abeille vole autour d'elle et se pose brièvement près de son visage.
+
+Montrez la créature savourant le miel, marchant à travers la forêt, puis retournant dans une cuisine rustique et chaleureuse en bois. Elle prépare un verre rafraîchissant de boisson aux fruits et au miel en ajoutant des glaçons, des rondelles de citron, des morceaux de fruits colorés et du miel doré dans un verre transparent. Elle remue délicatement la boisson avec une cuillère et la boit joyeusement.
+
+Rendez le personnage extrêmement mignon et expressif, avec des détails duveteux doux façon peluche, des textures réalistes, des mouvements adorables, des expressions faciales naturelles, une profondeur de champ cinématographique, un éclairage chaleureux d'heure dorée, un magnifique bokeh, un environnement forestier détaillé, des mouvements de caméra fluides, des gros plans macro, des ombres réalistes et une animation 3D haut de gamme de première qualité.
+
+Conservez le même design de personnage, visage, proportions, couleurs, feuille et apparence de manière cohérente tout au long de la vidéo. Pas de texte, pas de filigrane, pas d'anatomie déformée, pas de personnages supplémentaires.
+
+Style : 3D mignon style Pixar + textures photoréalistes + macrophotographie cinématographique + esthétique fantastique et chaleureuse.
 ```
 
 [↑ Retour aux catégories](#catalog)

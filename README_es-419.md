@@ -2141,20 +2141,30 @@ Arte conceptual de ciencia ficción anime futurista, diseño de mecha de futuro 
 
 <a name="prompt-2099316017986220245"></a>
 
-### Traducción en curso
+### Una animación 3D de una criatura afelpada con forma de durazno que recolecta miel en el bosque y prepara una bebida helada en una cocina.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 Renderizado 3D · Personaje · Comida y bebida · Animal / Criatura · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una animación 3D de una criatura afelpada con forma de durazno que recolecta miel en el bosque y prepara una bebida helada en una cocina.
 
 <img src="covers/2099316017986220245.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video vertical cinematográfico en 3D (9:16), tierno y ultrarrealista, protagonizado por una diminuta y adorable criatura con forma de durazno, con un cuerpo afelpado y suave de color rosa pastel, diminutos ojos negros brillantes, una boquita linda, mejillas sonrosadas, brazos y pies diminutos, y una pequeña hoja verde sobre su cabeza.
+
+La pequeña criatura durazno se encuentra en un hermoso bosque iluminado por el sol, rodeada de hierba verde, árboles, hojas y una cálida luz solar natural. Descubre un panal que cuelga de la rama de un árbol y recolecta alegremente miel dorada y fresca con una cucharita diminuta. Una pequeña abeja vuela a su alrededor y se posa brevemente cerca de su rostro.
+
+Muestra a la criatura disfrutando de la miel, caminando por el bosque y luego regresando a una acogedora cocina rústica de madera. Prepara un refrescante vaso de bebida de frutas y miel añadiendo cubitos de hielo, rodajas de limón, trozos de frutas coloridas y miel dorada en un vaso transparente. Revuelve suavemente la bebida con una cuchara y la bebe alegremente.
+
+Haz que el personaje sea extremadamente tierno y expresivo, con detalles suaves y afelpados como de peluche, texturas realistas, movimientos adorables, expresiones faciales naturales, profundidad de campo cinematográfica, iluminación cálida de hora dorada, hermoso efecto bokeh, un entorno de bosque detallado, movimientos de cámara fluidos, primeros planos macro, sombras realistas y animación 3D prémium de alta calidad.
+
+Mantén el mismo diseño de personaje, rostro, proporciones, colores, hoja y apariencia consistentes a lo largo de todo el video. Sin texto, sin marcas de agua, sin anatomía distorsionada, sin personajes adicionales.
+
+Estilo: 3D tierno estilo Pixar + texturas fotorrealistas + fotografía macro cinematográfica + estética acogedora de fantasía.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -2141,20 +2141,30 @@ Concept art anime sci-fi futuristico, design di mecha del prossimo futuro, detta
 
 <a name="prompt-2099316017986220245"></a>
 
-### Traduzione in corso
+### Un'animazione 3D di una creatura lanuginosa a forma di pesca che raccoglie miele nella foresta e prepara una bevanda ghiacciata in cucina.
 
 Autore：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Post originale](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
 
 Rendering 3D · Personaggio · Cibo / Bevande · Animale / Creatura · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un'animazione 3D di una creatura lanuginosa a forma di pesca che raccoglie miele nella foresta e prepara una bevanda ghiacciata in cucina.
 
 <img src="covers/2099316017986220245.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video verticale cinematografico in 3D (9:16), carino e ultra-realistico, con una minuscola e adorabile creatura a forma di pesca con un corpo morbido e lanuginoso color rosa pastello, minuscoli occhi neri lucidi, una boccuccia dolce, guance rosee, braccine e piedini minuscoli e una piccola foglia verde sulla testa.
+
+La piccola creatura pesca si trova in una splendida foresta soleggiata circondata da erba verde, alberi, foglie e calda luce solare naturale. Scopre un favo appeso al ramo di un albero e raccoglie allegramente miele dorato fresco con un cucchiaino minuscolo. Una piccola ape le vola intorno e si posa brevemente vicino al suo viso.
+
+Mostra la creatura che gusta il miele, cammina attraverso la foresta e poi torna in un'accogliente cucina rustica in legno. Prepara un rinfrescante bicchiere di bevanda alla frutta e miele aggiungendo cubetti di ghiaccio, fette di limone, pezzi di frutta colorata e miele dorato in un bicchiere trasparente. Mescola delicatamente la bevanda con un cucchiaio e la beve felicemente.
+
+Rendi il personaggio estremamente carino ed espressivo, con dettagli morbidi e pelosi simili a un peluche, texture realistiche, movimenti adorabili, espressioni facciali naturali, profondità di campo cinematografica, calda illuminazione da golden hour, splendido bokeh, ambiente forestale dettagliato, movimenti di camera fluidi, primi piani macro, ombre realistiche e animazione 3D premium di alta qualità.
+
+Mantieni coerenti lo stesso design del personaggio, viso, proporzioni, colori, foglia e aspetto durante l'intero video. Niente testo, niente filigrane, nessuna anatomia distorta, nessun personaggio extra.
+
+Stile: 3D carino in stile Pixar + texture fotorealistiche + macrofotografia cinematografica + estetica fantasy accogliente.
 ```
 
 [↑ Torna alle categorie](#catalog)
