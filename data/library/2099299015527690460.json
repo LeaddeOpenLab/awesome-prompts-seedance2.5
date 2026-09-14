@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:20:54.731Z",
+  "model": "seedance2.5",
+  "prompt": "日本の地方都市。夕方〜夜。\nさくらが自転車で街を走る → 小さなライブ会場脇の駐輪スペースに停める → 会場内へ → 客席後方から友達の弾き語りを見る。\n\n後半：友達はアコースティックギターで歌唱。演奏中、客席のさくらと一瞬だけ目が合う。手を振らない。大げさに笑わない。演奏は止めない。視線とわずかな表情変化だけで関係性を見せる。\n\n終演後、同じ会場脇で合流。\nさくらは前半と同じ自転車を押し、友達と並んで夜道を歩く。\n\nセリフは極力なし。\nライブ中のみ短い歌声。\n手ブレ、AF迷い、露出揺れを自然に許容。\n過剰演技、モデル的動作、字幕、ナレーション、説明的感情表現、ロゴ・固有名詞なし。",
+  "promptTranslations": {
+    "en": "A regional city in Japan. Evening to night.\nSakura rides a bicycle through the city → parks it in a bicycle parking space beside a small live music venue → enters the venue → watches her friend's acoustic singing performance from the back of the audience area.\n\nSecond half: The friend sings with an acoustic guitar. During the performance, their eyes meet for just a split second with Sakura in the audience. No waving. No exaggerated smiling. The performance does not stop. The relationship is conveyed solely through eye contact and subtle shifts in facial expression.\n\nAfter the show, they meet up beside the same venue.\nSakura pushes the same bicycle from the first half, walking side by side with her friend down a night street.\n\nMinimal to no dialogue.\nA brief singing voice only during the live performance.\nNaturally tolerate camera shake, autofocus hunting, and exposure fluctuation.\nNo overacting, model-like poses/movements, subtitles, narration, expository emotional displays, logos, or proper nouns."
+  },
+  "summaryTranslations": {
+    "en": "A realism-oriented video generation prompt depicting an everyday relationship set in a regional Japanese city, centered on riding a bicycle to a live venue to watch a friend's acoustic singing performance."
+  },
+  "translationVersion": 2,
+  "summary": "日本の地方都市を舞台に、自転車でライブ会場へ向かい友達の弾き語りを見守る日常的な人間関係を描いたリアル志向の動画生成プロンプト。",
+  "summaryEn": "A realistic video prompt depicting a young woman cycling to a small live venue to watch her friend perform acoustic guitar, followed by walking together at night.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098940614666756371",
+      "canonicalUrl": "https://x.com/akiyoshisan/status/2098940614666756371",
+      "author": {
+        "username": "akiyoshisan",
+        "displayName": "右よし左よし秋よし@AIエンタメ",
+        "profileUrl": "https://x.com/akiyoshisan"
+      },
+      "originalText": "Seedance 2.5、16:9、24fps。\n参照女性の顔・体格を固定。前髪ありの黒髪ひとつ結び、オフホワイトの半袖Tシャツ、濃紺のジーンズ、アクセサリーなし。\n\nボウリング場で青い球を構える→短い助走から右手で投球→ストライク→振り返って友達と一度だけハイタッチ。友達が投げる間はベンチから球を目で追い、少し前のめりになる。戻ってきた友達と隣に座り、顔を見合わせて笑う。\n\n同行者のスマートフォン撮影。固定せず、歩いて追う・人物へ向き直る・二人を収めて少し引く。小さな手ブレ、AFの迷い、半拍遅れる追従。人物・衣装・球・待機スペースの配置を維持。嬉しさは自然な笑顔と触れ合いで表現。セリフ・人声・字幕なし、環境音中心。\n#DreaminaCPP @dreamina_cpp"
+    },
+    "id": "2099299015527690460",
+    "canonicalUrl": "https://x.com/akiyoshisan/status/2099299015527690460",
+    "author": {
+      "username": "akiyoshisan",
+      "displayName": "右よし左よし秋よし@AIエンタメ",
+      "profileUrl": "https://x.com/akiyoshisan"
+    },
+    "publishedAt": "2026-09-14T00:47:43.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "ja",
+    "originalText": "Seedance 2.5｜16:9｜24fps｜人間観察型リアリズム\n\n日本の地方都市。夕方〜夜。\nさくらが自転車で街を走る → 小さなライブ会場脇の駐輪スペースに停める → 会場内へ → 客席後方から友達の弾き語りを見る。\n\n後半：友達はアコースティックギターで歌唱。演奏中、客席のさくらと一瞬だけ目が合う。手を振らない。大げさに笑わない。演奏は止めない。視線とわずかな表情変化だけで関係性を見せる。\n\n終演後、同じ会場脇で合流。\nさくらは前半と同じ自転車を押し、友達と並んで夜道を歩く。\n\nセリフは極力なし。\nライブ中のみ短い歌声。\n手ブレ、AF迷い、露出揺れを自然に許容。\n過剰演技、モデル的動作、字幕、ナレーション、説明的感情表現、ロゴ・固有名詞なし。\n\n#DreaminaCPP @dreamina_cpp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2099299015527690460",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099298906538733568/img/ng2g_gTYZtkmlp_U.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2099299015527690460"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2099299015527690460",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098940499650621440/img/bsQI0fMt8lDpO9ws.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2099299015527690460",
+        "sourcePostId": "2098940614666756371"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 309
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/akiyoshisan/status/2099299015527690460",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099298906538733568/img/ng2g_gTYZtkmlp_U.jpg",
+  "coverPath": "covers/2099299015527690460.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099298906538733568",
+    "x-video:2098940499650621440",
+    "x-post:2099299015527690460",
+    "x-post:2098940614666756371"
+  ],
+  "analysis": {
+    "summary": "日本の地方都市を舞台に、自転車でライブ会場へ向かい友達の弾き語りを見守る日常的な人間関係を描いたリアル志向の動画生成プロンプト。",
+    "summaryEn": "A realistic video prompt depicting a young woman cycling to a small live venue to watch her friend perform acoustic guitar, followed by walking together at night.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Attached video precisely follows the prompt: girl riding bike at dusk, parking, entering live house, friend performing acoustic guitar with subtle eye contact, and walking together outside at night."
+    },
+    "videoQuality": null,
+    "originalPrompt": "日本の地方都市。夕方〜夜。\nさくらが自転車で街を走る → 小さなライブ会場脇の駐輪スペースに停める → 会場内へ → 客席後方から友達の弾き語りを見る。\n\n後半：友達はアコースティックギターで歌唱。演奏中、客席のさくらと一瞬だけ目が合う。手を振らない。大げさに笑わない。演奏は止めない。視線とわずかな表情変化だけで関係性を見せる。\n\n終演後、同じ会場脇で合流。\nさくらは前半と同じ自転車を押し、友達と並んで夜道を歩く。\n\nセリフは極力なし。\nライブ中のみ短い歌声。\n手ブレ、AF迷い、露出揺れを自然に許容。\n過剰演技、モデル的動作、字幕、ナレーション、説明的感情表現、ロゴ・固有名詞なし。",
+    "sourceRange": {
+      "start": 36,
+      "end": 330
+    },
+    "translations": {
+      "zh": "日本地方城市，傍晚至夜晚。小樱骑自行车穿过街区，停在小 Live 场地旁的存车处，走入场内，在观众席后方注视朋友弹唱。后半段朋友弹唱民谣吉他，演奏中与小樱短暂眼神对视，无招手与夸张笑容，仅靠视线传达关系。演出结束后在场馆旁汇合，小樱推着自行车与朋友并肩走在夜路上。极少台词，仅现场简短歌声，自然允许轻微手部抖动与对焦晃动，无夸张表演与说明性表达。",
+      "en": "A provincial Japanese city from dusk to night. Sakura rides a bicycle through town, parks beside a small live venue, enters, and watches her friend perform acoustic guitar from the back. Mid-performance, they briefly make eye contact without exaggerated gestures or stopping the song. After the show, they meet outside and walk together along the night road while Sakura pushes her bike. Natural handheld camera shake and realistic subtle emotions without overdramatic acting."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "cinematic-scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
