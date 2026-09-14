@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:21:28.948Z",
+  "model": "seedance",
+  "prompt": "Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.",
+  "promptTranslations": {
+    "en": "Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.",
+  "summaryEn": "Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099404551199809774",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2099404551199809774",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-14T07:47:04.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "en",
+    "originalText": "A little adventure, a vintage car, and one curious little driver. This charming journey through the countryside feels like a scene straight out of a movie.\n\nCreated on seedance 2.0\n\nPrompt:\n\nCreated a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lianaalane/status/2099404551199809774",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099404139952570368/img/uRDYCVtTU7Szshi1.jpg",
+        "analysisUrl": "https://x.com/Lianaalane/status/2099404551199809774"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 396
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2099404551199809774",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099404139952570368/img/uRDYCVtTU7Szshi1.jpg",
+  "coverPath": "covers/2099404551199809774.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099404139952570368",
+    "x-post:2099404551199809774"
+  ],
+  "analysis": {
+    "summary": "Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.",
+    "summaryEn": "Cinematic video of a cute bear cub exploring and driving a vintage blue car on a countryside farm.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video shows the bear cub approaching the vintage blue car, climbing into the driver's seat, driving through the rural farm, and interacting naturally with the environment."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.",
+    "sourceRange": {
+      "start": 191,
+      "end": 1225
+    },
+    "translations": {
+      "zh": "以电影感、超写实叙事风格创作一段视频：一只可爱的棕熊幼崽穿过宁静的乡村农场，走向停在质朴木制谷仓附近的老式复古蓝色汽车。小熊好奇地靠近汽车并爬了进去，自然地坐在驾驶位上，爪子搭在方向盘上。镜头捕捉小熊逼真的毛发、灵动的眼神、细小的爪子以及老爷车陈旧内饰的特写细节。随后汽车在潮湿的乡间道路上缓慢行驶，产生微妙的倒影和自然的运动感。电影级的广角镜头展现背景中的绿地、干草堆、小农舍以及温暖的黄金时刻阳光。使用平稳的运镜、真实的景深、柔和的光晕、自然的阴影、细腻的纹理与真实的环境光照。整体氛围应充满魅力、冒险感、电影质感且略带俏皮，呈现逼真的动物动作以及与汽车可信的互动，拍得像一部大制作野生动物电影。",
+      "en": "Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
