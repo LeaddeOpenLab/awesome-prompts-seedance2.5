@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**82** 件 · 最新の追加: **2026-09-14**
+**83** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2230,6 +2230,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-3d-render"></a>
 
 ## 3D レンダリング
+
+<a name="prompt-2099316017986220245"></a>
+
+### 翻訳中
+
+作者：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [元の投稿](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
+
+3D レンダリング · キャラクター · 食品・飲料 · 動物 / 生き物 · 風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2099316017986220245.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098590744080757223"></a>
 

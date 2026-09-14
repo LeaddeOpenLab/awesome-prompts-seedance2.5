@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**82** Prompts · Latest addition: **2026-09-14**
+**83** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2815,6 +2815,38 @@ Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mech
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2099316017986220245"></a>
+
+### A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.
+
+Author：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Source](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
+
+3D Render · Character · Food / Drink · Animal / Creature · Landscape / Nature · Published
+
+**Summary:** A 3D animation of a fuzzy peach-shaped creature collecting forest honey and making an iced drink in a kitchen.
+
+<img src="covers/2099316017986220245.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.
+
+The little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.
+
+Show the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.
+
+Make the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.
+
+Keep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.
+
+Style: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098590744080757223"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**82** Prompts · Última adição: **2026-09-14**
+**83** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2088,6 +2088,28 @@ Arte conceitual de ficção científica anime futurista, design de mecha de futu
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2099316017986220245"></a>
+
+### Tradução em andamento
+
+Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicação original](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
+
+Renderização 3D · Personagem · Alimentos / Bebidas · Animal / Criatura · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099316017986220245.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098590744080757223"></a>
 

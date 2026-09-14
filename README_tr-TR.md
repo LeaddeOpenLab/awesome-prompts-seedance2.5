@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**82** Prompt · Son eklenen: **2026-09-14**
+**83** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2088,6 +2088,28 @@ Fütüristik anime bilim kurgu konsept sanatı, yakın gelecek meka tasarımı, 
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2099316017986220245"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Orijinal gönderi](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
+
+3D Modelleme · Karakter · Yiyecek / İçecek · Hayvan / Yaratık · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099316017986220245.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098590744080757223"></a>
 
