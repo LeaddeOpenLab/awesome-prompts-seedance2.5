@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:17:43.856Z",
+  "model": "seedance",
+  "prompt": "Jack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur.",
+  "promptTranslations": {
+    "en": "Jack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur."
+  },
+  "summaryTranslations": {
+    "en": "Camera action prompt of Jack smoking and gazing at the street."
+  },
+  "translationVersion": 2,
+  "summary": "Jack抽烟并凝视街道的镜头动作提示词。",
+  "summaryEn": "Prompt for Jack smoking a cigarette while looking out onto the street.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099289940701946340",
+    "canonicalUrl": "https://x.com/XStrangeHistory/status/2099289940701946340",
+    "author": {
+      "username": "XStrangeHistory",
+      "displayName": "Strange History Cafe",
+      "profileUrl": "https://x.com/XStrangeHistory"
+    },
+    "publishedAt": "2026-09-14T00:11:39.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "en",
+    "originalText": "Before I post the Seedance Synth-Gen here is the original image that I gave to all models. Here is my prompt: \n\nJack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSIs06UWcA8OWFU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSIs06UWcA8OWFU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 27
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/XStrangeHistory/status/2099289940701946340",
+  "coverUrl": "https://pbs.twimg.com/media/HSIs06UWcA8OWFU.jpg",
+  "coverPath": "images/2099289940701946340-1.jpg",
+  "imagePaths": [
+    "images/2099289940701946340-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSIs06UWcA8OWFU",
+    "x-post:2099289940701946340"
+  ],
+  "analysis": {
+    "summary": "Jack抽烟并凝视街道的镜头动作提示词。",
+    "summaryEn": "Prompt for Jack smoking a cigarette while looking out onto the street.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached image depicts the exact character Jack holding a cigarette in a dark cobblestone alleyway facing the street, matching the reference base image for the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Jack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur.",
+    "sourceRange": {
+      "start": 112,
+      "end": 364
+    },
+    "translations": {
+      "zh": "杰克抽了一口香烟，吸烟时烟头的余烬愈发明亮，随后缓缓吐出，烟雾飘散开来。他的目光凝视着前方的街道，身体基本保持静止。固定机位镜头；他身后的街道逐渐虚化为浅景深模糊。",
+      "en": "Jack draws once on the cigarette, the ember glowing brighter when he does, then exhales slowly, smoke drifting and dissipating. His eyes stay fixed on the street beyond, otherwise still. Static camera; the street beyond him softens into a shallow blur."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "image-to-video",
+    "useCase": "Cinematic character motion animation from a still image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
