@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:19:31.183Z",
+  "model": "seedance2.5",
+  "prompt": "【场景】  台湾海边小镇的街头巷尾，采用明确的 L形道路布局。  第一条窄巷有低层住宅、骑楼柱子、褪色小方砖外墙、铁卷门、遮阳棚、外挂机、电表箱与电线。少量台湾机车停在路边，不阻挡队伍。地面是略有磨损和修补痕迹的水泥或旧柏油路。  巷子尽头被实体建筑墙角挡住，女主必须向右转，才能进入第二条街。转角墙体与骑楼柱子是重要的空间遮挡物。  第二条街较宽，延续同一小镇的建筑和光线，可在远处或街口侧边露出少量海面、海边护栏、渔具箱等环境元素。\n\n【场景】 夜晚，一间现代城市公寓的入口玄关，与门外安静的公共走廊相连。 **屋内玄关：**浅米灰色细纹墙面，温暖的橡木地板，靠墙摆放低矮深木色窄玄关柜。柜上只有浅陶瓷钥匙碟和一只插着细枝的磨砂花瓶。柜上方是一盏简洁暖色壁灯，灯光柔和照亮墙面与女子脸部，墙上可见一幅低调的抽象装饰画。更深处的室内逐渐落入柔暗背景，保持生活空间的真实感。 **门口：**厚实深胡桃木门板，细腻纵向木纹，哑光深灰门框，金属把手带有微弱反光。门槛清楚分隔屋内木地板和走廊石材地面。门扇打开后形成狭长空间，女子站在门内，男子站在门外，两人可以隔着门缝对视。门的旋转范围内没有家具或杂物。 **公共走廊：**冷灰墙面、灰色石材地砖、简洁白色吊顶，顶部冷白灯带沿走廊延伸，形成层次分明的透视线。远处有一扇关闭的深色住户门，墙角与门框投下浅阴影。地面只有轻微反射，不湿滑，没有烟雾。走廊空无一人，空间安静，略有真实室内回声。 女子主要受屋内暖光照亮，男子主要受走廊冷光照亮。两人的眼睛都清楚可见。背景装饰保持低调，不遮住人物、手部、快递盒或门板。",
+  "promptTranslations": {
+    "en": "[Scene] Streets and alleys of a Taiwanese seaside town, adopting a distinct L-shaped road layout. The first narrow alley features low-rise residences, arcade (qilou) pillars, faded small-square-tile exterior walls, roll-up metal doors, awnings, external air conditioning units, electricity meter boxes, and overhead utility cables. A few Taiwanese scooters are parked along the roadside without obstructing the pathway. The ground is made of concrete or old asphalt showing slight wear and repair marks. The end of the alley is blocked by the corner of a solid building, requiring the female lead to turn right to enter the second street. The corner wall and arcade pillars serve as important spatial obstructions. The second street is wider, continuing the architectural style and lighting of the same town, with a glimpse of the sea surface, coastal guardrails, tackle boxes, and other environmental elements visible in the distance or at the corner of the street.\n\n[Scene] Night, the entryway foyer of a modern urban apartment connected to a quiet public hallway outside. **Indoor Entryway:** Light beige-gray fine-textured walls, warm oak flooring, and a low, dark-wood narrow entryway console table placed against the wall. On the console is only a shallow ceramic key dish and a frosted vase holding thin twigs. Above the console is a simple warm-toned wall sconce; its soft light illuminates the wall and the woman's face, with an understated abstract decorative painting visible on the wall. The deeper interior gradually recedes into a soft, dim background, maintaining the realism of a lived-in space. **Doorway:** A thick, solid dark walnut door panel with delicate vertical wood grain, a matte dark-gray door frame, and a metal door handle with subtle specular reflections. The threshold distinctly separates the indoor wooden floor from the hallway stone floor. When opened, the door panel creates a narrow, elongated space; the woman stands inside the door while the man stands outside, allowing the two to gaze at each other through the door gap. There is no furniture or clutter within the door's swing radius. **Public Hallway:** Cool gray walls, gray stone floor tiles, a simple white suspended ceiling, and cool-white overhead light strips extending along the hallway, forming clear, layered perspective lines. In the distance, there is a closed, dark residential door, with corners and door frames casting soft shadows. The floor shows only faint reflections, not wet, and free of smoke or mist. The hallway is completely empty, quiet, with a subtle sense of realistic indoor echo. The woman is primarily lit by the warm indoor light, while the man is primarily lit by the cool light of the hallway. The eyes of both individuals are clearly visible. Background decor remains understated, not obscuring the characters, hands, delivery parcel, or the door panel."
+  },
+  "summaryTranslations": {
+    "en": "A detailed description of the spatial layout, material details, and lighting gradations for two scenes: a Taiwanese seaside town street and a modern apartment hallway entryway."
+  },
+  "translationVersion": 2,
+  "summary": "详细描述了台湾海边小镇街巷与现代公寓走廊玄关两个场景的空间布局、材质细节和光影层次。",
+  "summaryEn": "Detailed descriptions outlining spatial layouts, material textures, and lighting setups for a Taiwanese coastal alley and an apartment entryway.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099645118550888633",
+    "canonicalUrl": "https://x.com/TanLuAI/status/2099645118550888633",
+    "author": {
+      "username": "TanLuAI",
+      "displayName": "探路AI",
+      "profileUrl": "https://x.com/TanLuAI"
+    },
+    "publishedAt": "2026-09-14T23:43:00.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "zh",
+    "originalText": "其实大家都低估了 Seedance 2.5 的场景搭建能力\n\nCodex（GPT） 构建 的场景提示词+Seedance 2.5也能做出质量不错的场景\n\n我这几天发的几个视频都没有预先做场景图（如视频1  图片2）\n\n有几个好处：\n1.假如传的场景图质量不够好，或者提示词写的不够细，会导致正反打镜头的场景 使用同一场场景图，场景一致性反而容易出错（如图3  图片4）\n\n2.Seedance 2.5 本身 对各种影视风格的理解能力就很强，多传场景图，反而可能会导致AI对于风格的理解产生片场\n\n3.一般生图模型 对于 风格词，场景描述的理解不一定有Seedance 2.5 强，做出来的场景图 质量可能更差\n\n流程也不难，在Codex生成AI视频提示词的时候，让它加上场景提示词，可以让它参考我下面的提示词：\n\n这是Codex 给我的场景构建的提示词：\n【场景】  台湾海边小镇的街头巷尾，采用明确的 L形道路布局。  第一条窄巷有低层住宅、骑楼柱子、褪色小方砖外墙、铁卷门、遮阳棚、外挂机、电表箱与电线。少量台湾机车停在路边，不阻挡队伍。地面是略有磨损和修补痕迹的水泥或旧柏油路。  巷子尽头被实体建筑墙角挡住，女主必须向右转，才能进入第二条街。转角墙体与骑楼柱子是重要的空间遮挡物。  第二条街较宽，延续同一小镇的建筑和光线，可在远处或街口侧边露出少量海面、海边护栏、渔具箱等环境元素。\n\n【场景】 夜晚，一间现代城市公寓的入口玄关，与门外安静的公共走廊相连。 **屋内玄关：**浅米灰色细纹墙面，温暖的橡木地板，靠墙摆放低矮深木色窄玄关柜。柜上只有浅陶瓷钥匙碟和一只插着细枝的磨砂花瓶。柜上方是一盏简洁暖色壁灯，灯光柔和照亮墙面与女子脸部，墙上可见一幅低调的抽象装饰画。更深处的室内逐渐落入柔暗背景，保持生活空间的真实感。 **门口：**厚实深胡桃木门板，细腻纵向木纹，哑光深灰门框，金属把手带有微弱反光。门槛清楚分隔屋内木地板和走廊石材地面。门扇打开后形成狭长空间，女子站在门内，男子站在门外，两人可以隔着门缝对视。门的旋转范围内没有家具或杂物。 **公共走廊：**冷灰墙面、灰色石材地砖、简洁白色吊顶，顶部冷白灯带沿走廊延伸，形成层次分明的透视线。远处有一扇关闭的深色住户门，墙角与门框投下浅阴影。地面只有轻微反射，不湿滑，没有烟雾。走廊空无一人，空间安静，略有真实室内回声。 女子主要受屋内暖光照亮，男子主要受走廊冷光照亮。两人的眼睛都清楚可见。背景装饰保持低调，不遮住人物、手部、快递盒或门板。\n\n备注：对于场景 有要求的，期望先做图的，如何让渲染的时候不出错，我后面分享",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TanLuAI/status/2099645118550888633",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099644083740479488/img/i6rPGblyor3TO2fh.jpg",
+        "analysisUrl": "https://x.com/TanLuAI/status/2099645118550888633"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNvOd_bYAAWTcb.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNvOd_bYAAWTcb.png"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNvRXUbEAAwi0k.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNvRXUbEAAwi0k.png"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNvUFvbQAA2PC8.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNvUFvbQAA2PC8.png"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 120
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TanLuAI/status/2099645118550888633",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099644083740479488/img/i6rPGblyor3TO2fh.jpg",
+  "coverPath": "covers/2099645118550888633.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099644083740479488",
+    "x-image:/media/HSNvOd_bYAAWTcb",
+    "x-image:/media/HSNvRXUbEAAwi0k",
+    "x-image:/media/HSNvUFvbQAA2PC8",
+    "x-post:2099645118550888633"
+  ],
+  "analysis": {
+    "summary": "详细描述了台湾海边小镇街巷与现代公寓走廊玄关两个场景的空间布局、材质细节和光影层次。",
+    "summaryEn": "Detailed descriptions outlining spatial layouts, material textures, and lighting setups for a Taiwanese coastal alley and an apartment entryway.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频1展示了台湾小镇窄巷、L形转角及骑楼骑摩托车的场景；图片2展现了公寓玄关开门递交快递、冷暖光对立的构图，与提示词高度匹配。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【场景】  台湾海边小镇的街头巷尾，采用明确的 L形道路布局。  第一条窄巷有低层住宅、骑楼柱子、褪色小方砖外墙、铁卷门、遮阳棚、外挂机、电表箱与电线。少量台湾机车停在路边，不阻挡队伍。地面是略有磨损和修补痕迹的水泥或旧柏油路。  巷子尽头被实体建筑墙角挡住，女主必须向右转，才能进入第二条街。转角墙体与骑楼柱子是重要的空间遮挡物。  第二条街较宽，延续同一小镇的建筑和光线，可在远处或街口侧边露出少量海面、海边护栏、渔具箱等环境元素。\n\n【场景】 夜晚，一间现代城市公寓的入口玄关，与门外安静的公共走廊相连。 **屋内玄关：**浅米灰色细纹墙面，温暖的橡木地板，靠墙摆放低矮深木色窄玄关柜。柜上只有浅陶瓷钥匙碟和一只插着细枝的磨砂花瓶。柜上方是一盏简洁暖色壁灯，灯光柔和照亮墙面与女子脸部，墙上可见一幅低调的抽象装饰画。更深处的室内逐渐落入柔暗背景，保持生活空间的真实感。 **门口：**厚实深胡桃木门板，细腻纵向木纹，哑光深灰门框，金属把手带有微弱反光。门槛清楚分隔屋内木地板和走廊石材地面。门扇打开后形成狭长空间，女子站在门内，男子站在门外，两人可以隔着门缝对视。门的旋转范围内没有家具或杂物。 **公共走廊：**冷灰墙面、灰色石材地砖、简洁白色吊顶，顶部冷白灯带沿走廊延伸，形成层次分明的透视线。远处有一扇关闭的深色住户门，墙角与门框投下浅阴影。地面只有轻微反射，不湿滑，没有烟雾。走廊空无一人，空间安静，略有真实室内回声。 女子主要受屋内暖光照亮，男子主要受走廊冷光照亮。两人的眼睛都清楚可见。背景装饰保持低调，不遮住人物、手部、快递盒或门板。",
+    "sourceRange": {
+      "start": 378,
+      "end": 1055
+    },
+    "translations": {
+      "zh": "【场景】  台湾海边小镇的街头巷尾，采用明确的 L形道路布局。  第一条窄巷有低层住宅、骑楼柱子、褪色小方砖外墙、铁卷门、遮阳棚、外挂机、电表箱与电线。少量台湾机车停在路边，不阻挡队伍。地面是略有磨损和修补痕迹的水泥或旧柏油路。  巷子尽头被实体建筑墙角挡住，女主必须向右转，才能进入第二条街。转角墙体与骑楼柱子是重要的空间遮挡物。  第二条街较宽，延续同一小镇的建筑和光线，可在远处或街口侧边露出少量海面、海边护栏、渔具箱等环境元素。\n\n【场景】 夜晚，一间现代城市公寓的入口玄关，与门外安静的公共走廊相连。 **屋内玄关：**浅米灰色细纹墙面，温暖的橡木地板，靠墙摆放低矮深木色窄玄关柜。柜上只有浅陶瓷钥匙碟和一只插着细枝的磨砂花瓶。柜上方是一盏简洁暖色壁灯，灯光柔和照亮墙面与女子脸部，墙上可见一幅低调的抽象装饰画。更深处的室内逐渐落入柔暗背景，保持生活空间的真实感。 **门口：**厚实深胡桃木门板，细腻纵向木纹，哑光深灰门框，金属把手带有微弱反光。门槛清楚分隔屋内木地板和走廊石材地面。门扇打开后形成狭长空间，女子站在门内，男子站在门外，两人可以隔着门缝对视。门的旋转范围内没有家具或杂物。 **公共走廊：**冷灰墙面、灰色石材地砖、简洁白色吊顶，顶部冷白灯带沿走廊延伸，形成层次分明的透视线。远处有一扇关闭的深色住户门，墙角与门框投下浅阴影。地面只有轻微反射，不湿滑，没有烟雾。走廊空无一人，空间安静，略有真实室内回声。 女子主要受屋内暖光照亮，男子主要受走廊冷光照亮。两人的眼睛都清楚可见。背景装饰保持低调，不遮住人物、手部、快递盒或门板。",
+      "en": "[Scene] Streets of a coastal Taiwanese town with an L-shaped layout. The first narrow alley features low-rise residences, arcade pillars, faded tiled walls, rolling gates, awnings, AC units, and wires. Scooters parked alongside without blocking the path. Worn asphalt/concrete road. The alley turns right into a wider street with ocean glimpses and coastal elements.\n\n[Scene] Night, entrance foyer of a modern apartment connected to a quiet hallway. Interior: warm oak floor, narrow credenza, soft warm sconce light, abstract painting. Doorway: walnut door separating oak and corridor tiles. Hallway: cold grey walls, stone flooring, linear lighting. Woman lit by warm indoor light, man lit by cool hallway light."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "影视分镜与复杂环境空间搭建提示词示例",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
