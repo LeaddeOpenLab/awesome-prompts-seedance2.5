@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**88** Prompts · Latest addition: **2026-09-14**
+**89** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3216,6 +3216,30 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099645118550888633"></a>
+
+### A detailed description of the spatial layout, material details, and lighting gradations for two scenes: a Taiwanese seaside town street and a modern apartment hallway entryway.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2099645118550888633)
+
+Comic / Storyboard · Published
+
+**Summary:** A detailed description of the spatial layout, material details, and lighting gradations for two scenes: a Taiwanese seaside town street and a modern apartment hallway entryway.
+
+<img src="covers/2099645118550888633.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Scene] Streets and alleys of a Taiwanese seaside town, adopting a distinct L-shaped road layout. The first narrow alley features low-rise residences, arcade (qilou) pillars, faded small-square-tile exterior walls, roll-up metal doors, awnings, external air conditioning units, electricity meter boxes, and overhead utility cables. A few Taiwanese scooters are parked along the roadside without obstructing the pathway. The ground is made of concrete or old asphalt showing slight wear and repair marks. The end of the alley is blocked by the corner of a solid building, requiring the female lead to turn right to enter the second street. The corner wall and arcade pillars serve as important spatial obstructions. The second street is wider, continuing the architectural style and lighting of the same town, with a glimpse of the sea surface, coastal guardrails, tackle boxes, and other environmental elements visible in the distance or at the corner of the street.
+
+[Scene] Night, the entryway foyer of a modern urban apartment connected to a quiet public hallway outside. **Indoor Entryway:** Light beige-gray fine-textured walls, warm oak flooring, and a low, dark-wood narrow entryway console table placed against the wall. On the console is only a shallow ceramic key dish and a frosted vase holding thin twigs. Above the console is a simple warm-toned wall sconce; its soft light illuminates the wall and the woman's face, with an understated abstract decorative painting visible on the wall. The deeper interior gradually recedes into a soft, dim background, maintaining the realism of a lived-in space. **Doorway:** A thick, solid dark walnut door panel with delicate vertical wood grain, a matte dark-gray door frame, and a metal door handle with subtle specular reflections. The threshold distinctly separates the indoor wooden floor from the hallway stone floor. When opened, the door panel creates a narrow, elongated space; the woman stands inside the door while the man stands outside, allowing the two to gaze at each other through the door gap. There is no furniture or clutter within the door's swing radius. **Public Hallway:** Cool gray walls, gray stone floor tiles, a simple white suspended ceiling, and cool-white overhead light strips extending along the hallway, forming clear, layered perspective lines. In the distance, there is a closed, dark residential door, with corners and door frames casting soft shadows. The floor shows only faint reflections, not wet, and free of smoke or mist. The hallway is completely empty, quiet, with a subtle sense of realistic indoor echo. The woman is primarily lit by the warm indoor light, while the man is primarily lit by the cool light of the hallway. The eyes of both individuals are clearly visible. Background decor remains understated, not obscuring the characters, hands, delivery parcel, or the door panel.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099564383252705547"></a>
 
