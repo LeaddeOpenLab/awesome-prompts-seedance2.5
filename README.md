@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**101** Prompts · Latest addition: **2026-09-16**
+**102** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100088243492385019"></a>
+
+### Cinematic night chase in heavy rain on city streets involving suspense and struggle.
+
+Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2100088243492385019)
+
+Cinematic / Film Still · Cityscape / Street · Published
+
+**Summary:** Cinematic night chase in heavy rain on city streets involving suspense and struggle.
+
+<img src="covers/2100088243492385019.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100088925603696879"></a>
 
