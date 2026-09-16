@@ -327,30 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2100311999838380522"></a>
 
-### Toma fija de una puerta shoji cerrada, donde en quietud solo la fría luz natural que atraviesa el papel washi se ilumina gradualmente.
+### Plano fijo de un shoji cerrado, en la quietud solo la fría luz natural que atraviesa el washi se vuelve más brillante.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicación original](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Toma fija de una puerta shoji cerrada, donde en quietud solo la fría luz natural que atraviesa el papel washi se ilumina gradualmente.
+**Resumen:** Plano fijo de un shoji cerrado, en la quietud solo la fría luz natural que atraviesa el washi se vuelve más brillante.
 
 <img src="covers/2100311999838380522.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-SCENE: Interior frente a un shoji cerrado, 16:9. Toma fija. La cuadrícula de papel llena la toma. Sin manos. Sin silueta de persona. Sin texto legible.
-
-ACTION: El papel comienza tenue. Una luz de día más fría se ilumina a través de los paneles como si hubiera pasado una nube, y luego se mantiene. El entramado de madera no se mueve. No es una puerta abriéndose. No es un barrido.
-
-FOCUS: Enfoque sumamente nítido en la fibra del papel y en una unión kumiko en el centro. Los bordes se mantienen dentro del encuadre.
-
-PHYSICS: La luz cambia. La madera y el papel se quedan quietos. Sin deformaciones. Sin desplazamiento de cámara.
-
-LIGHT: Únicamente luz de día difusa a través del papel. Sin colores de luz eléctrica. Sin un disco solar intenso dibujado sobre el papel.
-
-STYLE: Fotorrealista cinematográfico, Japón de época, madera desgastada y textura de papel washi, grano suave. Sin anime. Sin texto. Sin marcas de agua. Sin logotipos.
+ESCENA: Interior frente a un shoji cerrado, 16:9. Plano fijo. La cuadrícula de papel llena la toma. Sin manos. Sin silueta de persona. Sin texto legible. ACCIÓN: El papel comienza en penumbra. Una luz diurna más fría se ilumina a través de los paneles como si hubiera pasado una nube, y luego se mantiene. El enrejado de madera no se mueve. No es una puerta abriéndose. No es un barrido. ENFOQUE: Extremadamente nítido en la fibra del papel y en una unión kumiko en el centro. Los bordes se mantienen en el encuadre. FÍSICA: La luz cambia. La madera y el papel permanecen inmóviles. Sin deformaciones. Sin desplazamiento de cámara. LUZ: Luz diurna difusa únicamente a través del papel. Sin color de luz eléctrica. Sin disco solar duro dibujado en el papel. ESTILO: Cinematográfico fotorrealista, Japón de época, madera desgastada y textura de washi, grano suave. Sin anime. Sin texto. Sin marcas de agua. Sin logotipos.
 ```
 
 [↑ Volver a categorías](#catalog)

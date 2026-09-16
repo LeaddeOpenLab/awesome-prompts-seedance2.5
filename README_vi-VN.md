@@ -329,30 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2100311999838380522"></a>
 
-### Cú máy cố định vào cánh cửa shoji đóng kín, trong sự tĩnh lặng chỉ có ánh sáng tự nhiên se lạnh xuyên qua giấy washi dần bừng sáng.
+### Khung hình cố định của cánh cửa shoji đóng kín, trong sự tĩnh lặng chỉ có ánh sáng tự nhiên se lạnh xuyên qua giấy washi dần sáng lên.
 
 Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Cú máy cố định vào cánh cửa shoji đóng kín, trong sự tĩnh lặng chỉ có ánh sáng tự nhiên se lạnh xuyên qua giấy washi dần bừng sáng.
+**Tóm tắt:** Khung hình cố định của cánh cửa shoji đóng kín, trong sự tĩnh lặng chỉ có ánh sáng tự nhiên se lạnh xuyên qua giấy washi dần sáng lên.
 
 <img src="covers/2100311999838380522.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-SCENE: Nội thất hướng về phía một cánh cửa shoji đang đóng, 16:9. Khung hình khóa cố định. Khung lưới giấy lấp đầy khung hình. Không có bàn tay. Không có bóng người. Không có chữ đọc được.
-
-ACTION: Giấy ban đầu mờ tối. Ánh sáng ban ngày tông lạnh hơn sáng dần lên trên các tấm ô như thể một đám mây vừa trôi qua, sau đó giữ nguyên. Khung gỗ mắt cáo không chuyển động. Đây không phải là cảnh mở cửa. Không phải chuyển cảnh dạng wipe.
-
-FOCUS: Lấy nét cực kỳ sắc nét vào thớ giấy và một mối ghép kumiko ở chính giữa. Các cạnh viền vẫn nằm trong khung hình.
-
-PHYSICS: Ánh sáng thay đổi. Gỗ và giấy giữ nguyên tĩnh lặng. Không biến dạng. Không trôi máy quay.
-
-LIGHT: Chỉ có ánh sáng ban ngày khuếch tán qua giấy. Không có ánh sáng màu điện tử. Không vẽ vầng sáng mặt trời gắt trên giấy.
-
-STYLE: Điện ảnh chân thực như ảnh chụp, thời kỳ Nhật Bản cổ, gỗ mòn và bề mặt sần của giấy washi, hạt mịn mềm mại. Không anime. Không văn bản. Không hình mờ watermark. Không logo.
+CẢNH: Nội thất đối diện với cửa shoji đóng kín, 16:9. Khung hình cố định. Khung lưới giấy lấp đầy khung hình. Không có bàn tay. Không có bóng người. Không có chữ đọc được. HÀNH ĐỘNG: Giấy bắt đầu từ mờ tối. Ánh sáng ban ngày mát mẻ hơn bừng sáng qua các tấm pa-nô như thể một đám mây vừa trôi qua, sau đó giữ nguyên. Khung nan gỗ không di chuyển. Đây không phải là cánh cửa đang mở. Không phải chuyển cảnh quét. TIÊU ĐIỂM: Sắc nét tuyệt đối vào thớ giấy và một mối ghép kumiko ở trung tâm. Các mép giữ nguyên trong khung hình. VẬT LÝ: Ánh sáng thay đổi. Gỗ và giấy giữ yên. Không biến dạng. Không trôi máy ảnh. ÁNH SÁNG: Chỉ có ánh sáng ban ngày khuếch tán qua giấy. Không có màu sắc ánh sáng điện. Không có hình đĩa mặt trời gay gắt in trên giấy. PHONG CÁCH: Điện ảnh chân thực, thời kỳ Nhật Bản cổ, gỗ mòn và vân giấy washi, hạt phim mềm. Không hoạt hình. Không văn bản. Không hình mờ. Không logo.
 ```
 
 [↑ Về danh mục](#catalog)

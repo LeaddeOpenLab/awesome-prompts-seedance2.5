@@ -327,30 +327,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2100311999838380522"></a>
 
-### Inquadratura fissa di una porta shoji chiusa, dove nell'immobilità solo la fredda luce naturale filtrata dalla carta washi si illumina gradualmente.
+### Inquadratura fissa di uno shoji chiuso, nell'immobilità solo la fredda luce naturale che attraversa la carta washi diventa gradualmente più luminosa.
 
 Autore：[@studiokagurajp](https://x.com/studiokagurajp) · [Post originale](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Inquadratura fissa di una porta shoji chiusa, dove nell'immobilità solo la fredda luce naturale filtrata dalla carta washi si illumina gradualmente.
+**Riepilogo:** Inquadratura fissa di uno shoji chiuso, nell'immobilità solo la fredda luce naturale che attraversa la carta washi diventa gradualmente più luminosa.
 
 <img src="covers/2100311999838380522.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-SCENE: Interno di fronte a uno shoji chiuso, 16:9. Inquadratura fissa. La griglia di carta riempie l'inquadratura. Nessuna mano. Nessuna sagoma di persona. Nessuna scritta leggibile.
-
-ACTION: La carta inizia in penombra. Una luce diurna più fredda si rischiara attraverso i pannelli come se fosse passata una nuvola, per poi stabilizzarsi. Il reticolo di legno non si muove. Non è una porta che si apre. Non è una tendina di transizione.
-
-FOCUS: Estremamente nitido sulla fibra della carta e su un incastro kumiko al centro. I bordi rimangono all'interno dell'inquadratura.
-
-PHYSICS: La luce cambia. Legno e carta rimangono fermi. Nessuna deformazione. Nessuna deriva della fotocamera.
-
-LIGHT: Solo luce diurna diffusa attraverso la carta. Nessun colore elettrico. Nessun disco solare netto disegnato sulla carta.
-
-STYLE: Fotorealistico cinematografico, Giappone d'epoca, legno usurato e trama della carta washi, grana morbida. Niente anime. Nessun testo. Nessuna filigrana. Nessun logo.
+SCENA: Interno di fronte a uno shoji chiuso, 16:9. Inquadratura bloccata. La griglia di carta riempie l'inquadratura. Nessuna mano. Nessuna sagoma di persona. Nessuna scritta leggibile. AZIONE: La carta inizia fioca. Una luce diurna più fredda illumina i pannelli come se fosse passata una nuvola, poi si stabilizza. Il reticolo di legno non si muove. Non è una porta che si apre. Non è una tendina di transizione. MESSA A FUOCO: Nitidissima sulla fibra di carta e su un giunto kumiko al centro. I bordi rimangono nell'inquadratura. FISICA: La luce cambia. Legno e carta restano fermi. Nessuna distorsione. Nessuna deriva della telecamera. LUCE: Solo luce diurna diffusa attraverso la carta. Nessun colore elettrico. Nessun disco solare netto disegnato sulla carta. STILE: Cinematografico fotorealistico, Giappone d'epoca, legno usurato e grana del washi, granulosità morbida. Niente anime. Nessun testo. Nessuna filigrana. Nessun logo.
 ```
 
 [↑ Torna alle categorie](#catalog)

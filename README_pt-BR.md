@@ -313,30 +313,20 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2100311999838380522"></a>
 
-### Plano fixo de uma porta shoji fechada, onde na quietude apenas a luz natural fresca através do papel washi clareia gradualmente.
+### Enquadramento fixo de um shoji fechado, na quietude apenas a luz natural fria que atravessa o papel washi clareia gradualmente.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Plano fixo de uma porta shoji fechada, onde na quietude apenas a luz natural fresca através do papel washi clareia gradualmente.
+**Resumo:** Enquadramento fixo de um shoji fechado, na quietude apenas a luz natural fria que atravessa o papel washi clareia gradualmente.
 
 <img src="covers/2100311999838380522.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-SCENE: Interior voltado para um shoji fechado, 16:9. Quadro travado (plano fixo). A grade de papel preenche o enquadramento. Nenhuma mão. Nenhuma silhueta de pessoa. Nenhum texto legível.
-
-ACTION: O papel começa escuro. Uma luz natural mais fria se intensifica pelos painéis como se uma nuvem tivesse passado, e então permanece. A treliça de madeira não se move. Não é uma porta se abrindo. Não é uma transição wipe.
-
-FOCUS: Foco extremamente nítido na fibra do papel e em uma junção kumiko no centro. As bordas permanecem no enquadramento.
-
-PHYSICS: A luz muda. A madeira e o papel ficam imóveis. Sem distorção. Sem deslocamento de câmera.
-
-LIGHT: Apenas luz diurna difusa através do papel. Sem cores elétricas. Sem disco solar nítido desenhado no papel.
-
-STYLE: Cinematográfico fotorrealista, Japão de época, madeira gasta e textura de papel washi, granulação suave. Sem anime. Sem texto. Sem marcas d'água. Sem logotipos.
+CENA: Interior de frente para um shoji fechado, 16:9. Enquadramento travado. A grade de papel preenche a tomada. Sem mão. Sem silhueta de pessoa. Sem texto legível. AÇÃO: O papel começa fraco. Uma luz diurna mais fria clareia através dos painéis como se uma nuvem tivesse passado, depois se mantém. A treliça de madeira não se move. Não é uma porta abrindo. Não é uma transição wipe. FOCO: Extremamente nítido na fibra do papel e em uma junção kumiko no centro. As bordas permanecem no enquadramento. FÍSICA: A luz muda. Madeira e papel permanecem imóveis. Sem distorção. Sem deslocamento de câmera. LUZ: Apenas luz diurna difusa através do papel. Sem cor elétrica. Sem disco solar nítido desenhado no papel. ESTILO: Cinematográfico fotorrealista, Japão de época, madeira gasta e textura de washi, granulação suave. Sem anime. Sem texto. Sem marca d'água. Sem logotipos.
 ```
 
 [↑ Voltar às categorias](#catalog)

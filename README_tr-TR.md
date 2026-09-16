@@ -313,30 +313,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2100311999838380522"></a>
 
-### Kapalı bir shoji kapısının sabit çekimi; hareketsizlik içinde yalnızca washi kağıdından geçen serin doğal ışık yavaşça aydınlanır.
+### Kapalı bir shojinin sabit çerçevesi, durgunluk içinde yalnızca washi kağıdından süzülen soğuk doğal ışık giderek aydınlanır.
 
 Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Kapalı bir shoji kapısının sabit çekimi; hareketsizlik içinde yalnızca washi kağıdından geçen serin doğal ışık yavaşça aydınlanır.
+**Özet:** Kapalı bir shojinin sabit çerçevesi, durgunluk içinde yalnızca washi kağıdından süzülen soğuk doğal ışık giderek aydınlanır.
 
 <img src="covers/2100311999838380522.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-SCENE: Kapalı bir shoji'ye bakan iç mekan, 16:9. Sabit çerçeve. Kağıt ızgara çekimi tamamen doldurur. El yok. İnsan silüeti yok. Okunabilir yazı yok.
-
-ACTION: Kağıt loş başlar. Paneller boyunca, sanki bir bulut geçmiş gibi daha soğuk bir gün ışığı aydınlanır ve ardından sabit kalır. Ahşap kafes hareket etmez. Bu bir kapı açılışı değildir. Bir silme (wipe) geçişi değildir.
-
-FOCUS: Kağıt lifine ve merkezdeki tek bir kumiko bağlantısına son derece keskin odaklanılmıştır. Kenarlar çerçevenin içinde kalır.
-
-PHYSICS: Işık değişir. Ahşap ve kağıt hareketsiz kalır. Eğrilme yok. Kamera kayması yok.
-
-LIGHT: Yalnızca kağıttan süzülen dağınık gün ışığı. Elektrik rengi yok. Kağıt üzerine çizilmiş sert bir güneş diski yok.
-
-STYLE: Fotogerçekçi sinematik, dönem Japonyası, yıpranmış ahşap ve washi kağıdı dokusu, yumuşak gren. Anime yok. Metin yok. Filigran yok. Logo yok.
+SAHNE: Kapalı bir shojiye bakan iç mekân, 16:9. Sabit çerçeve. Kâğıt ızgara çekimi doldurur. El yok. İnsan silüeti yok. Okunabilir yazı yok. HAREKET: Kâğıt loş başlar. Sanki bir bulut geçmiş gibi paneller boyunca daha soğuk bir gün ışığı aydınlanır, ardından sabit kalır. Ahşap kafes hareket etmez. Bu bir kapının açılması değildir. Bir silme geçişi değildir. ODAK: Kâğıt lifi ve merkezdeki bir kumiko bağlantı noktası üzerinde son derece keskin. Kenarlar çerçevenin içinde kalır. FİZİK: Işık değişir. Ahşap ve kâğıt hareketsiz kalır. Bükülme yok. Kamera kayması yok. IŞIK: Yalnızca kâğıttan geçen dağınık gün ışığı. Elektrik rengi yok. Kâğıt üzerine çizilmiş sert güneş diski yok. STİL: Fotogerçekçi sinematik, dönem Japonyası, yıpranmış ahşap ve washi dokusu, yumuşak gren. Anime yok. Metin yok. Filigran yok. Logo yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

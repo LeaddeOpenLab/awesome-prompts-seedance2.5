@@ -327,30 +327,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2100311999838380522"></a>
 
-### Plan fixe d'une porte shoji fermée, où dans l'immobilité seule la lumière naturelle et fraîche traversant le papier washi s'éclaircit progressivement.
+### Plan fixe sur un shoji fermé, dans l'immobilité seule la lumière naturelle et fraîche traversant le papier washi s'éclaircit progressivement.
 
 Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Plan fixe d'une porte shoji fermée, où dans l'immobilité seule la lumière naturelle et fraîche traversant le papier washi s'éclaircit progressivement.
+**Résumé:** Plan fixe sur un shoji fermé, dans l'immobilité seule la lumière naturelle et fraîche traversant le papier washi s'éclaircit progressivement.
 
 <img src="covers/2100311999838380522.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-SCENE: Intérieur faisant face à un shoji fermé, 16:9. Plan fixe. Le quadrillage de papier remplit le cadre. Pas de main. Pas de silhouette de personne. Aucun texte lisible.
-
-ACTION: Le papier commence dans la pénombre. Une lumière du jour plus froide s'illumine à travers les panneaux comme si un nuage était passé, puis se stabilise. Le treillis de bois ne bouge pas. Ce n'est pas une porte qui s'ouvre. Ce n'est pas un volet de transition.
-
-FOCUS: Netteté absolue sur la fibre du papier et un assemblage kumiko au centre. Les bords restent dans le cadre.
-
-PHYSICS: La lumière change. Le bois et le papier restent immobiles. Pas de déformation. Pas de dérive de la caméra.
-
-LIGHT: Lumière du jour diffuse à travers le papier uniquement. Pas de couleur électrique. Pas de disque solaire dur dessiné sur le papier.
-
-STYLE: Cinématographique photoréaliste, Japon d'époque, bois patiné et texture du papier washi, grain doux. Pas d'anime. Pas de texte. Pas de filigrane. Pas de logos.
+SCÈNE : Intérieur face à un shoji fermé, 16:9. Plan fixe. Le quadrillage de papier remplit le plan. Aucune main. Aucune silhouette humaine. Aucun texte lisible. ACTION : Le papier commence dans la pénombre. Une lumière du jour plus fraîche illumine les panneaux comme si un nuage était passé, puis se stabilise. Le treillis de bois ne bouge pas. Ce n'est pas une ouverture de porte. Pas un volet de transition. MISE AU POINT : D'une netteté absolue sur la fibre du papier et un assemblage kumiko au centre. Les bords restent dans le cadre. PHYSIQUE : La lumière change. Le bois et le papier restent immobiles. Aucune déformation. Aucune dérive de caméra. LUMIÈRE : Lumière diffuse du jour à travers le papier uniquement. Pas de teinte électrique. Pas de disque solaire net projeté sur le papier. STYLE : Cinématographique photoréaliste, Japon d'époque, bois patiné et texture de washi, grain doux. Pas d'anime. Pas de texte. Pas de filigrane. Pas de logos.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -327,30 +327,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2100311999838380522"></a>
 
-### Statische Aufnahme einer geschlossenen Shoji-Tür, bei der in völliger Stille nur das kühle, durch das Washi-Papier fallende Tageslicht allmählich heller wird.
+### Feste Einstellung einer geschlossenen Shoji-Tür, in der Stille wird nur das kühle, durch das Washi-Papier fallende Tageslicht allmählich heller.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2100311999838380522)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Statische Aufnahme einer geschlossenen Shoji-Tür, bei der in völliger Stille nur das kühle, durch das Washi-Papier fallende Tageslicht allmählich heller wird.
+**Zusammenfassung:** Feste Einstellung einer geschlossenen Shoji-Tür, in der Stille wird nur das kühle, durch das Washi-Papier fallende Tageslicht allmählich heller.
 
 <img src="covers/2100311999838380522.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-SCENE: Innenaufnahme mit Blick auf ein geschlossenes Shoji, 16:9. Statische Kameraeinstellung. Das Papiergitter füllt das Bild aus. Keine Hand. Keine Silhouette einer Person. Keine lesbare Schrift.
-
-ACTION: Das Papier beginnt gedämpft. Ein kühleres Tageslicht wird über die Paneele hinweg heller, als wäre eine Wolke vorbeigezogen, und verharrt dann. Das Holzgitter bewegt sich nicht. Dies ist kein Öffnen einer Tür. Keine Wischblende.
-
-FOCUS: Nadelscharf auf die Papierfaser und eine Kumiko-Verbindung in der Mitte fokussiert. Die Kanten bleiben im Bild.
-
-PHYSICS: Das Licht ändert sich. Holz und Papier bleiben ruhig. Keine Verzerrung. Kein Kameradriften.
-
-LIGHT: Ausschließlich diffuses Tageslicht durch das Papier. Keine elektrischen Farben. Keine scharf gezeichnete Sonnenscheibe auf dem Papier.
-
-STYLE: Fotorealistisch-filmisch, historisches Japan, abgenutztes Holz und Washi-Papierstruktur, sanfte Körnung. Kein Anime. Kein Text. Kein Wasserzeichen. Keine Logos.
+SZENE: Innenraum mit Blick auf eine geschlossene Shoji-Tür, 16:9. Feste Kameraeinstellung. Das Papiergitter füllt die Aufnahme aus. Keine Hand. Keine Silhouette einer Person. Keine lesbare Schrift. AKTION: Das Papier beginnt gedämpft. Ein kühleres Tageslicht hellt die Paneele auf, als wäre eine Wolke vorbeigezogen, und bleibt dann konstant. Das Holzgitter bewegt sich nicht. Dies ist kein Öffnen einer Tür. Keine Wischblende. FOKUS: Gestochen scharf auf die Papierfaser und eine Kumiko-Verbindung in der Mitte. Kanten bleiben im Bild. PHYSIK: Das Licht ändert sich. Holz und Papier bleiben ruhig. Kein Verziehen. Kein Kameradriften. LICHT: Diffuses Tageslicht ausschließlich durch das Papier. Keine elektrischen Farben. Keine scharfe Sonnenscheibe auf dem Papier abgebildet. STIL: Fotorealistisch-filmisch, historisches Japan, abgenutztes Holz und Washi-Textur, weiche Körnung. Kein Anime. Kein Text. Kein Wasserzeichen. Keine Logos.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
