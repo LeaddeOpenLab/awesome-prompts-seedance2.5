@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**97** Prompts · Latest addition: **2026-09-16**
+**98** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -3440,6 +3440,28 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100071299968032968"></a>
+
+### Golden hour beach perfume commercial: A blue perfume bottle among sunset ocean waves dissolves to a woman in a white dress spraying perfume and smiling.
+
+Author：[@laviniavelle](https://x.com/laviniavelle) · [Source](https://x.com/laviniavelle/status/2100071299968032968)
+
+Product Marketing · Character · Fashion Item · Published
+
+**Summary:** Golden hour beach perfume commercial: A blue perfume bottle among sunset ocean waves dissolves to a woman in a white dress spraying perfume and smiling.
+
+<img src="covers/2100071299968032968.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100070781174907387"></a>
 

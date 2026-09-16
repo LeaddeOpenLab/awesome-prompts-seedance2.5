@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**97** 条内容 · 最新收录: **2026-09-16**
+**98** 条内容 · 最新收录: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2593,6 +2593,28 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2100071299968032968"></a>
+
+### 翻译中
+
+作者：[@laviniavelle](https://x.com/laviniavelle) · [查看 X 原帖](https://x.com/laviniavelle/status/2100071299968032968)
+
+产品营销 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2100071299968032968.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2100070781174907387"></a>
 
