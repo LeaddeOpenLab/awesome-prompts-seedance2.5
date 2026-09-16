@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:26:52.648Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 15-second photorealistic cinematic travel vlog featuring a young Asian woman exploring a beautiful city and peaceful outdoor locations with a vintage digital-camera aesthetic. She carries a small retro camera and naturally photographs flowers, streets, cafés, and everyday moments while walking around. Show close-up shots of her hands holding and using the camera, including realistic buttons, lens details, and natural camera movements. Include a charming café scene where she sits at a table, enjoys a cold drink, and looks naturally relaxed and happy. Transition to a warm golden-hour park scene where she walks through the trees carrying her camera, with sunlight creating beautiful lens flares and soft backlight. End with her turning toward the camera, smiling naturally while holding the camera, creating an authentic spontaneous travel-memory feeling. Use handheld documentary-style cinematography, subtle autofocus hunting, natural exposure changes, realistic skin texture, soft depth of field, gentle film grain, warm colors, and imperfect real-life movement. Keep the character’s face, hairstyle, outfit, body proportions, and camera consistent throughout every shot, with smooth cinematic transitions and no artificial or overly polished AI appearance.",
+  "promptTranslations": {
+    "en": "Create a 15-second photorealistic cinematic travel vlog featuring a young Asian woman exploring a beautiful city and peaceful outdoor locations with a vintage digital-camera aesthetic. She carries a small retro camera and naturally photographs flowers, streets, cafés, and everyday moments while walking around. Show close-up shots of her hands holding and using the camera, including realistic buttons, lens details, and natural camera movements. Include a charming café scene where she sits at a table, enjoys a cold drink, and looks naturally relaxed and happy. Transition to a warm golden-hour park scene where she walks through the trees carrying her camera, with sunlight creating beautiful lens flares and soft backlight. End with her turning toward the camera, smiling naturally while holding the camera, creating an authentic spontaneous travel-memory feeling. Use handheld documentary-style cinematography, subtle autofocus hunting, natural exposure changes, realistic skin texture, soft depth of field, gentle film grain, warm colors, and imperfect real-life movement. Keep the character’s face, hairstyle, outfit, body proportions, and camera consistent throughout every shot, with smooth cinematic transitions and no artificial or overly polished AI appearance."
+  },
+  "summaryTranslations": {
+    "en": "15-second vintage cinematic travel vlog of a young Asian woman wandering through a city, café, and golden-hour park with a retro camera."
+  },
+  "translationVersion": 2,
+  "summary": "15秒复古电影感旅行vlog，年轻亚裔女子手持复古相机漫游城市、咖啡馆与黄昏公园。",
+  "summaryEn": "A 15-second vintage cinematic travel vlog of a young Asian woman exploring city spots, a cafe, and a golden-hour park with a camera.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100043484849926230",
+    "canonicalUrl": "https://x.com/Aiwithmaha/status/2100043484849926230",
+    "author": {
+      "username": "Aiwithmaha",
+      "displayName": "Maha",
+      "profileUrl": "https://x.com/Aiwithmaha"
+    },
+    "publishedAt": "2026-09-16T02:05:58.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "en",
+    "originalText": "A little camera, a lot of memories 📸✨\nTurning simple moments into beautiful travel stories.\n\nCreated with Seedance 2.5.\n\nCreate a 15-second photorealistic cinematic travel vlog featuring a young Asian woman exploring a beautiful city and peaceful outdoor locations with a vintage digital-camera aesthetic. She carries a small retro camera and naturally photographs flowers, streets, cafés, and everyday moments while walking around. Show close-up shots of her hands holding and using the camera, including realistic buttons, lens details, and natural camera movements. Include a charming café scene where she sits at a table, enjoys a cold drink, and looks naturally relaxed and happy. Transition to a warm golden-hour park scene where she walks through the trees carrying her camera, with sunlight creating beautiful lens flares and soft backlight. End with her turning toward the camera, smiling naturally while holding the camera, creating an authentic spontaneous travel-memory feeling. Use handheld documentary-style cinematography, subtle autofocus hunting, natural exposure changes, realistic skin texture, soft depth of field, gentle film grain, warm colors, and imperfect real-life movement. Keep the character’s face, hairstyle, outfit, body proportions, and camera consistent throughout every shot, with smooth cinematic transitions and no artificial or overly polished AI appearance.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aiwithmaha/status/2100043484849926230",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100043410430459906/img/TISAHq1Vrv5yxCSK.jpg",
+        "analysisUrl": "https://x.com/Aiwithmaha/status/2100043484849926230"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 175
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithmaha/status/2100043484849926230",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100043410430459906/img/TISAHq1Vrv5yxCSK.jpg",
+  "coverPath": "covers/2100043484849926230.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100043410430459906",
+    "x-post:2100043484849926230"
+  ],
+  "analysis": {
+    "summary": "15秒复古电影感旅行vlog，年轻亚裔女子手持复古相机漫游城市、咖啡馆与黄昏公园。",
+    "summaryEn": "A 15-second vintage cinematic travel vlog of a young Asian woman exploring city spots, a cafe, and a golden-hour park with a camera.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely follows the prompt's sequence: woman taking flower photos, cafe drink scene, golden-hour park walk, and final smile."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second photorealistic cinematic travel vlog featuring a young Asian woman exploring a beautiful city and peaceful outdoor locations with a vintage digital-camera aesthetic. She carries a small retro camera and naturally photographs flowers, streets, cafés, and everyday moments while walking around. Show close-up shots of her hands holding and using the camera, including realistic buttons, lens details, and natural camera movements. Include a charming café scene where she sits at a table, enjoys a cold drink, and looks naturally relaxed and happy. Transition to a warm golden-hour park scene where she walks through the trees carrying her camera, with sunlight creating beautiful lens flares and soft backlight. End with her turning toward the camera, smiling naturally while holding the camera, creating an authentic spontaneous travel-memory feeling. Use handheld documentary-style cinematography, subtle autofocus hunting, natural exposure changes, realistic skin texture, soft depth of field, gentle film grain, warm colors, and imperfect real-life movement. Keep the character’s face, hairstyle, outfit, body proportions, and camera consistent throughout every shot, with smooth cinematic transitions and no artificial or overly polished AI appearance.",
+    "sourceRange": {
+      "start": 121,
+      "end": 1395
+    },
+    "translations": {
+      "zh": "创作一段15秒写实电影感旅行vlog，展现一名年轻亚裔女子携带复古相机游览城市与公园。包含拍摄花朵与街景、咖啡馆喝冷饮、黄昏公园逆光漫步及最后面向镜头自然微笑的连贯镜头，呈现手持纪录片胶片质感。",
+      "en": "Create a 15-second photorealistic cinematic travel vlog of a young Asian woman exploring a city with a vintage camera, photographing flowers, relaxing at a cafe, walking through a golden-hour park, and smiling at the camera with documentary realism."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic travel vlog video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
