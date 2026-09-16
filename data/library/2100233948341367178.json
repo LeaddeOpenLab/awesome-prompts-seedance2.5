@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:39:59.015Z",
+  "model": "seedance2.5",
+  "prompt": "国风仙侠，纯 CG 特效短片，16:9，多镜头剪辑，电影级光影，PBR 次世代材质，电影级 HDR。\n同一名黑蓝白金古风仙侠女角色，全程服饰头饰妆容完全一致：红色花钿，高束长发，白底蓝金刺绣广袖战斗长袍，金属腰封，精致发饰流苏。\n黑蓝能量空间中，女主从左侧蓝金粒子中高速闪现出场，侧面拍摄，高速冲向右侧妖兽，长发衣摆形成动态拖影。随后侧面低机位表现女主转胯收膝，踢出一记超大透视侧踢，战斗型下摆扬起，可以看到大腿及以下皮肤，腿部与脚部包裹蓝金流光能量。接着切到命中镜头，女主一脚击中妖兽头部，血雾、碎裂光尘、蓝金爆炸粒子同时爆开，短暂黑白闪帧后进入慢动作，妖兽沿侧踢方向被巨大力量踢飞。最后画面切换为高饱和红色背景与黑色人物剪影，女主保持凌厉姿态，妖兽向右后方倒飞并落地，黑色烟尘炸开，结尾形成强烈红黑视觉冲击。\n整体动作干净、凌厉、有爆发力，镜头节奏快，前半段蓝金特效强烈，结尾转为简洁有力的红黑冲击画面。",
+  "promptTranslations": {
+    "en": "Chinese xianxia style, pure CG visual effects short film, 16:9, multi-shot montage, cinematic lighting and shadows, next-gen PBR textures, cinematic HDR. The same ancient-style xianxia female character in black, blue, white, and gold, with completely consistent clothing, headwear, and makeup throughout: red huadian forehead ornament, high tied-up long hair, white battle robe with wide sleeves and blue-gold embroidery, metallic waist corset, delicate hair ornaments with tassels. In a black and blue energy space, the heroine flashes in at high speed from the blue-gold particles on the left side, side-view shot, rushing at high speed toward the demon beast on the right, her long hair and robe hem forming dynamic motion blur trails. Then a side low-angle shot captures the heroine rotating her hips and drawing her knee, unleashing a massive perspective side kick, the combat-style robe hem flaring up to reveal the skin of her thighs and below, with her leg and foot enveloped in flowing blue-gold energy. Next cuts to the impact shot: the heroine's kick strikes the demon beast's head, with blood mist, shattered light dust, and blue-gold explosive particles bursting simultaneously; after a brief black-and-white flash frame, it enters slow motion as the demon beast is sent flying by immense force along the direction of the side kick. Finally, the scene cuts to a highly saturated red background with black character silhouettes: the heroine maintains a sharp, fierce posture, while the demon beast flies backward to the right and crashes onto the ground, black smoke bursting open, ending with a powerful red-and-black visual impact. The overall action is clean, fierce, and explosive, with fast-paced camera rhythm; strong blue-gold visual effects in the first half, transitioning into a concise, punchy red-and-black impact scene at the end."
+  },
+  "summaryTranslations": {
+    "en": "A Chinese xianxia martial arts VFX short film of a female warrior flashing in and kicking a demon beast away, ending with a red and black silhouette."
+  },
+  "translationVersion": 2,
+  "summary": "国风仙侠女战士闪现踢飞妖兽的武打特效短片，结尾呈现红黑剪影。",
+  "summaryEn": "Xianxia CG action clip: a female warrior strikes a demon beast, concluding in bold red-and-black silhouettes.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100087420771610707",
+      "canonicalUrl": "https://x.com/liyue_ai/status/2100087420771610707",
+      "author": {
+        "username": "liyue_ai",
+        "displayName": "李岳",
+        "profileUrl": "https://x.com/liyue_ai"
+      },
+      "originalText": "别把豆包不当干粮。\n只要提示词写的好，豆包每天可以免费生成5个15秒的AI视频。\n\n提示词：\n国风仙侠,电影级光影，PBR 次世代材质，全屏粒子特效拉满，人物为黑蓝白金古风仙侠女角色，完整服饰头饰妆容不变，红色花钿，高束长发，白底蓝金刺绣广袖长袍，金属腰封，精致发饰流苏，面部五官保持统一，无变形穿模，电影级 HDR，动态拖影，凌厉武打动作，大量粒子、碎裂光尘、蓝金色流光爆炸粒子，镜头节奏快，全部镜头无实景，纯 CG 特效画面，16:9 画幅 侧面拍摄人物，一个闪现出现在镜头之中，超大透视蓄力踢出一脚，击中瞬间妖兽特写，踢中位置血雾爆裂，黑白闪帧，慢镜头展示踢击瞬间，红色背景黑色人物 按照侧踢的方向妖兽受击巨大力量向后倒飞冲出镜头，尸体落地尘土飞扬。"
+    },
+    "id": "2100233948341367178",
+    "canonicalUrl": "https://x.com/liyue_ai/status/2100233948341367178",
+    "author": {
+      "username": "liyue_ai",
+      "displayName": "李岳",
+      "profileUrl": "https://x.com/liyue_ai"
+    },
+    "publishedAt": "2026-09-16T14:42:48.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "卧槽，最后这个慢动作+红黑剪影纯帅🥳\n\n还得是Seedance 2.5，视觉效果更强更流畅一点。\n\n提示词：\n国风仙侠，纯 CG 特效短片，16:9，多镜头剪辑，电影级光影，PBR 次世代材质，电影级 HDR。\n同一名黑蓝白金古风仙侠女角色，全程服饰头饰妆容完全一致：红色花钿，高束长发，白底蓝金刺绣广袖战斗长袍，金属腰封，精致发饰流苏。\n黑蓝能量空间中，女主从左侧蓝金粒子中高速闪现出场，侧面拍摄，高速冲向右侧妖兽，长发衣摆形成动态拖影。随后侧面低机位表现女主转胯收膝，踢出一记超大透视侧踢，战斗型下摆扬起，可以看到大腿及以下皮肤，腿部与脚部包裹蓝金流光能量。接着切到命中镜头，女主一脚击中妖兽头部，血雾、碎裂光尘、蓝金爆炸粒子同时爆开，短暂黑白闪帧后进入慢动作，妖兽沿侧踢方向被巨大力量踢飞。最后画面切换为高饱和红色背景与黑色人物剪影，女主保持凌厉姿态，妖兽向右后方倒飞并落地，黑色烟尘炸开，结尾形成强烈红黑视觉冲击。\n整体动作干净、凌厉、有爆发力，镜头节奏快，前半段蓝金特效强烈，结尾转为简洁有力的红黑冲击画面。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/liyue_ai/status/2100233948341367178",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100233434518142976/img/FKucoK-DLaaNOLYV.jpg",
+        "analysisUrl": "https://x.com/liyue_ai/status/2100233948341367178"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/liyue_ai/status/2100233948341367178",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100087398529130496/img/UUgvDY675dQgRdBH.jpg",
+        "analysisUrl": "https://x.com/liyue_ai/status/2100233948341367178",
+        "sourcePostId": "2100087420771610707"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 2274
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/liyue_ai/status/2100233948341367178",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100233434518142976/img/FKucoK-DLaaNOLYV.jpg",
+  "coverPath": "covers/2100233948341367178.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100233434518142976",
+    "x-video:2100087398529130496",
+    "x-post:2100233948341367178",
+    "x-post:2100087420771610707"
+  ],
+  "analysis": {
+    "summary": "国风仙侠女战士闪现踢飞妖兽的武打特效短片，结尾呈现红黑剪影。",
+    "summaryEn": "Xianxia CG action clip: a female warrior strikes a demon beast, concluding in bold red-and-black silhouettes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频完全体现了提示词中的闪现、蓝金光效侧踢妖兽、黑白闪帧及高饱和红底黑剪影收尾。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "国风仙侠，纯 CG 特效短片，16:9，多镜头剪辑，电影级光影，PBR 次世代材质，电影级 HDR。\n同一名黑蓝白金古风仙侠女角色，全程服饰头饰妆容完全一致：红色花钿，高束长发，白底蓝金刺绣广袖战斗长袍，金属腰封，精致发饰流苏。\n黑蓝能量空间中，女主从左侧蓝金粒子中高速闪现出场，侧面拍摄，高速冲向右侧妖兽，长发衣摆形成动态拖影。随后侧面低机位表现女主转胯收膝，踢出一记超大透视侧踢，战斗型下摆扬起，可以看到大腿及以下皮肤，腿部与脚部包裹蓝金流光能量。接着切到命中镜头，女主一脚击中妖兽头部，血雾、碎裂光尘、蓝金爆炸粒子同时爆开，短暂黑白闪帧后进入慢动作，妖兽沿侧踢方向被巨大力量踢飞。最后画面切换为高饱和红色背景与黑色人物剪影，女主保持凌厉姿态，妖兽向右后方倒飞并落地，黑色烟尘炸开，结尾形成强烈红黑视觉冲击。\n整体动作干净、凌厉、有爆发力，镜头节奏快，前半段蓝金特效强烈，结尾转为简洁有力的红黑冲击画面。",
+    "sourceRange": {
+      "start": 55,
+      "end": 459
+    },
+    "translations": {
+      "zh": "国风仙侠，纯 CG 特效短片，16:9，多镜头剪辑，电影级光影，PBR 次世代材质，电影级 HDR。\n同一名黑蓝白金古风仙侠女角色，全程服饰头饰妆容完全一致：红色花钿，高束长发，白底蓝金刺绣广袖战斗长袍，金属腰封，精致发饰流苏。\n黑蓝能量空间中，女主从左侧蓝金粒子中高速闪现出场，侧面拍摄，高速冲向右侧妖兽，长发衣摆形成动态拖影。随后侧面低机位表现女主转胯收膝，踢出一记超大透视侧踢，战斗型下摆扬起，可以看到大腿及以下皮肤，腿部与脚部包裹蓝金流光能量。接着切到命中镜头，女主一脚击中妖兽头部，血雾、碎裂光尘、蓝金爆炸粒子同时爆开，短暂黑白闪帧后进入慢动作，妖兽沿侧踢方向被巨大力量踢飞。最后画面切换为高饱和红色背景与黑色人物剪影，女主保持凌厉姿态，妖兽向右后方倒飞并落地，黑色烟尘炸开，结尾形成强烈红黑视觉冲击。\n整体动作干净、凌厉、有爆发力，镜头节奏快，前半段蓝金特效强烈，结尾转为简洁有力的红黑冲击画面。",
+      "en": "Chinese xianxia style, pure CG FX short film, 16:9, multi-cut editing, cinematic lighting, PBR next-gen textures, cinematic HDR.\nA consistent female xianxia warrior clad in black, blue, white, and gold; high tied hair, red huadian mark, flowing embroidered robes, metallic sash, fine hair tassels.\nIn a dark blue energy realm, she flashes out from blue-gold particles, charging at a demon on the right with motion trails. A low-angle side shot captures her powerful perspective side-kick with blue-gold energy wrapping her leg. Cut to impact on the demon's head, blood mist, light dust, and blue-gold burst particles explode. Brief black-and-white flash transitions into slow motion as the monster flies back. The scene concludes with a saturated red backdrop and crisp black silhouettes as the demon crashes with black smoke."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "仙侠武打动作特效短片生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
