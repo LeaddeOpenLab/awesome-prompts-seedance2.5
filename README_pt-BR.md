@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**91** Prompts · Última adição: **2026-09-16**
+**92** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2181,6 +2181,32 @@ Anime / Mangá · Cyberpunk / Ficção Científica · Publicado
 
 ```text
 Arte conceitual de ficção científica anime futurista, design de mecha de futuro próximo, detalhes mecânicos de superfície dura, elegante paleta tecnológica em branco-preto-laranja, blindagem de painéis intrincada, articulações e maquinário expostos, traçado nítido e limpo, proporções de anime semirrealistas, design industrial altamente detalhado, arte de produção cinematográfica, estética limpa de ilustração técnica
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Esboço / Arte Linear
+
+<a name="prompt-2100043047857729721"></a>
+
+### Tradução em andamento
+
+Autor：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Publicação original](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Ilustração · Esboço / Arte Linear · Aquarela · Tinta / Estilo Chinês · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100043047857729721.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

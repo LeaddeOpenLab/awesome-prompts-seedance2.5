@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**91** 개 · 최근 추가: **2026-09-16**
+**92** 개 · 최근 추가: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [3D 렌더링](#category-3d-render) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2327,6 +2327,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ```text
 미래지향적인 애니메이션 SF 콘셉트 아트, 근미래 메카 디자인, 하드 서피스 기계 디테일, 세련된 화이트-블랙-오렌지 테크놀로지 팔레트, 정교한 장갑 패널, 노출된 관절과 기계 장치, 날카롭고 깔끔한 선화, 반사실적 애니메이션 비율, 고디테일 산업 디자인, 영화 같은 프로덕션 아트, 깔끔한 기술 일러스트레이션 미학
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## 스케치 / 선화
+
+<a name="prompt-2100043047857729721"></a>
+
+### 번역 중
+
+작성자：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [원본 게시물](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+일러스트레이션 · 스케치 / 선화 · 수채화 · 잉크 / 중국풍 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2100043047857729721.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

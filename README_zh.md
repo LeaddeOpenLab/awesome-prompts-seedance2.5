@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**91** 条内容 · 最新收录: **2026-09-16**
+**92** 条内容 · 最新收录: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [3D 渲染](#category-3d-render) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2324,6 +2324,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ```text
 未来主义动漫科幻概念艺术，近未来机甲设计，硬表面机械细节，时尚的白黑橙科技调色板，复杂的装甲镶板，裸露的关节和机械结构，锐利干净的线条，半写实动漫比例，高细节工业设计，电影级制作艺术，干净的技术插画美学
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## 草图 / 线稿
+
+<a name="prompt-2100043047857729721"></a>
+
+### 翻译中
+
+作者：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [查看 X 原帖](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+插画 · 草图 / 线稿 · 水彩画 · 水墨 / 中国风 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2100043047857729721.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**91** Prompt · Ultima aggiunta: **2026-09-16**
+**92** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2187,6 +2187,32 @@ Anime / Manga · Cyberpunk / Sci-Fi · Pubblicato
 
 ```text
 Concept art anime sci-fi futuristico, design di mecha del prossimo futuro, dettagli meccanici hard-surface, elegante tavolozza tecnologica bianco-nero-arancione, complessi pannelli di corazza, giunture e meccanismi esposti, tratto netto e pulito, proporzioni anime semi-realistiche, design industriale di alto dettaglio, arte di produzione cinematografica, estetica pulita da illustrazione tecnica
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Schizzo / Line Art
+
+<a name="prompt-2100043047857729721"></a>
+
+### Traduzione in corso
+
+Autore：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Post originale](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Illustrazione · Schizzo / Line Art · Acquerello · Inchiostro / Stile Cinese · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100043047857729721.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

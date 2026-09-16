@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**91** 件 · 最新の追加: **2026-09-16**
+**92** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [3D レンダリング](#category-3d-render) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2323,6 +2323,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ```text
 未来的なアニメSFコンセプトアート、近未来のメカデザイン、ハードサーフェスの機械的ディテール、洗練された白・黒・オレンジのテクノロジーパレット、緻密な装甲パネル、露出した関節と機械構造、シャープでクリーンな線画、セミリアルなアニメプロポーション、ハイディテールの工業デザイン、シネマティックなプロダクションアート、クリーンなテクニカルイラストレーションの美学
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## スケッチ / 線画
+
+<a name="prompt-2100043047857729721"></a>
+
+### 翻訳中
+
+作者：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [元の投稿](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+イラスト · スケッチ / 線画 · 水彩 · 墨 / 中国風 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2100043047857729721.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

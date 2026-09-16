@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**91** Prompts · Dernier ajout: **2026-09-16**
+**92** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Rendu 3D](#category-3d-render) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2187,6 +2187,32 @@ Anime / Manga · Cyberpunk / Science-fiction · Publié
 
 ```text
 Art conceptuel d'anime de science-fiction futuriste, conception de mecha d'un futur proche, détails mécaniques de surface dure, palette technologique élégante blanc-noir-orange, panneaux de blindage complexes, articulations et machinerie apparentes, linéarité nette et propre, proportions d'anime semi-réalistes, design industriel hautement détaillé, art de production cinématographique, esthétique d'illustration technique épurée
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Croquis / Dessin au trait
+
+<a name="prompt-2100043047857729721"></a>
+
+### Traduction en cours
+
+Auteur：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Publication originale](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Illustration · Croquis / Dessin au trait · Aquarelle · Encre / Style Chinois · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100043047857729721.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

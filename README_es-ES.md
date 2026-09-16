@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**91** Prompts · Última incorporación: **2026-09-16**
+**92** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Render 3D](#category-3d-render) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Render 3D](#category-3d-render) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2261,6 +2261,32 @@ Anime / Manga · Ciberpunk / Ciencia ficción · Publicado
 
 ```text
 Arte conceptual de ciencia ficción anime futurista, diseño de mecha de futuro cercano, detalles mecánicos de superficies duras, elegante paleta tecnológica en blanco, negro y naranja, paneles de armadura intrincados, articulaciones y maquinaria expuestas, líneas nítidas y limpias, proporciones de anime semirrealistas, diseño industrial de gran detalle, arte de producción cinematográfico, estética de ilustración técnica limpia
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Boceto / Dibujo lineal
+
+<a name="prompt-2100043047857729721"></a>
+
+### Traducción en curso
+
+Autor：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Publicación original](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Ilustración · Boceto / Dibujo lineal · Acuarela · Tinta / Estilo chino · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100043047857729721.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

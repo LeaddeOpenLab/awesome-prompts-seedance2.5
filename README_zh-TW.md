@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**91** 筆內容 · 最新收錄: **2026-09-16**
+**92** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [3D 渲染](#category-3d-render) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2322,6 +2322,32 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 ```text
 未來主義動漫科幻概念藝術，近未來機甲設計，硬表面機械細節，時尚的白黑橙科技配色，複雜的裝甲嵌板，裸露的關節和機械結構，銳利乾淨的線條，半寫實動漫比例，高細節工業設計，電影級製作藝術，乾淨的技術插畫美學
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## 草圖 / 線稿
+
+<a name="prompt-2100043047857729721"></a>
+
+### 翻譯中
+
+作者：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [查看 X 原帖](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+插圖 · 草圖 / 線稿 · 水彩 · 水墨 / 中式風格 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2100043047857729721.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

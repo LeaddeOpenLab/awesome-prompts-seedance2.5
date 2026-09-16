@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**91** Prompt · Bổ sung mới nhất: **2026-09-16**
+**92** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2275,6 +2275,32 @@ Anime / Manga · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
 ```text
 Nghệ thuật ý niệm khoa học viễn tưởng anime tương lai, thiết kế mecha tương lai gần, chi tiết cơ khí bề mặt cứng, bảng màu công nghệ trắng-đen-cam bóng bẩy, các tấm giáp phức tạp, khớp nối và máy móc lộ ra ngoài, nét vẽ sắc sảo gọn gàng, tỷ lệ anime bán thực tế, thiết kế công nghiệp độ chi tiết cao, nghệ thuật sản xuất chuẩn điện ảnh, thẩm mỹ minh họa kỹ thuật sạch sẽ
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2100043047857729721"></a>
+
+### Đang dịch
+
+Tác giả：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Bài gốc](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Minh họa · Phác Thảo / Nét Vẽ · Màu nước · Mực / Phong cách Trung Hoa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100043047857729721.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

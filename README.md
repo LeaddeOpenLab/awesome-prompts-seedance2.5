@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**91** Prompts · Latest addition: **2026-09-16**
+**92** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2974,6 +2974,32 @@ Anime / Manga · Cyberpunk / Sci-Fi · Published
 
 ```text
 Futuristic anime sci-fi concept art, near-future mecha design, hard-surface mechanical detailing, sleek white-black-orange technology palette, intricate armor paneling, exposed joints and machinery, sharp clean linework, semi-realistic anime proportions, high-detail industrial design, cinematic production art, clean technical illustration aesthetic
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Sketch / Line Art
+
+<a name="prompt-2100043047857729721"></a>
+
+### Top-down view of the entire watercolor hand-painting process: from sketching and line art to scattered coloring, showcasing a Chinese-style stained-glass illustration.
+
+Author：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Source](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Illustration · Sketch / Line Art · Watercolor · Ink / Chinese Style · Published
+
+**Summary:** Top-down view of the entire watercolor hand-painting process: from sketching and line art to scattered coloring, showcasing a Chinese-style stained-glass illustration.
+
+<img src="covers/2100043047857729721.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An overhead top-down shot focuses on a white watercolor sketchbook on a desk. The paper is initially completely blank, illuminated by soft natural light from an upper side angle. Pencils, black technical fineliners, fine watercolor brushes, and a palette are laid out on the tabletop. Only a pair of slender female hands appears in the frame; no faces are shown. In the first 2 seconds, the female right hand picks up a pencil to sketch outlines in high-tempo timelapse: in the center is a Chinese-style girl with long pink hair, holding up a peace V-sign with her right hand, holding a small round silk fan in her left hand, wearing a white crossover-collar top paired with a pink horse-face pleated skirt (mamianqun), a floral hairpin adorned in her hair, and a circular stained-glass halo with intertwined lotus patterns above her head; on the left, the outline of a Chinese paifang archway is drawn; on the right, a black-tiled waterside pavilion and a koi pond are sketched; in the distance, mist-shrouded rolling green mountains emerge; in both upper left and right corners, two ruyi-shaped auspicious clouds are drawn simultaneously, encircled on the outer perimeter by a Chinese arched lattice window frame and flowering crabapple branches. At second 3, holding a black fineliner, the hand traces rapidly, refining all outlines into crisp, bold black compartmental lines resembling stained-glass leading, segmenting independent color-block areas such as the hair, crossover-collar top, horse-face skirt, round fan, halo, archway, waterside pavilion, pond, distant mountains, auspicious clouds, and outer-frame flowers. From seconds 4 to 7, entering the coloring stage, the female right hand holds a watercolor brush, engaging in a jumping, discontinuous, scattered coloring process that advances across multiple areas simultaneously: the brush tip first lands on the central girl's pink hair to apply gradient color blocks, then immediately leaps to the upper-right auspicious cloud to dab pale yellow; next, the brush tip jumps to the left archway to brush on vermilion, then leaps to the lower-right pond to paint azure blue water and orange-and-white koi fish; afterwards, it jumps back to the waist sash to dye it golden yellow, leaps to the upper-left auspicious cloud to fill in color, then scatters outward to the frame's crabapple blossoms to dot pinkish white, and finally randomly adds a wash of grayish blue to the distant mountains and purplish pink to the sky. The entire coloring process deliberately presents a sporadic, non-sequential progression here and there without a fixed order, with colors naturally blending and overlapping within the black compartmental lines. In the final 1 second, the female hand dots golden highlights on the details of the halo and flower hairpin as a finishing touch, sets down the watercolor brush, and moves out of the frame. The camera slowly zooms out, fully revealing the exquisitely finished, brilliantly colorful watercolor illustration of the Chinese-style girl and stained-glass window imbued with rich hand-painted warmth on the sketchbook. Character positioning, scenery distribution, and visual layering refer to the reference image, with attire, architecture, mountain scenery, and decorative motifs adhering strictly to the Chinese elements described above.
 ```
 
 [↑ Back to categories](#catalog)

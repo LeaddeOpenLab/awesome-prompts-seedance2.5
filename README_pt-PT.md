@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**91** Prompts · Adição mais recente: **2026-09-16**
+**92** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2181,6 +2181,32 @@ Anime / Mangá · Cyberpunk / Ficção Científica · Publicado
 
 ```text
 Arte conceptual de ficção científica anime futurista, design de mecha de futuro próximo, pormenores mecânicos de superfície rígida, elegante paleta tecnológica em branco-preto-laranja, painéis de blindagem intrincados, articulações e maquinaria expostas, traço nítido e limpo, proporções de anime semirrealistas, design industrial altamente detalhado, arte de produção cinematográfica, estética limpa de ilustração técnica
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Esboço / Arte Linear
+
+<a name="prompt-2100043047857729721"></a>
+
+### Tradução em curso
+
+Autor：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Publicação original](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+Ilustração · Esboço / Arte Linear · Aquarela · Tinta / Estilo Chinês · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100043047857729721.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

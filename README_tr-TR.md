@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**91** Prompt · Son eklenen: **2026-09-16**
+**92** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [3D Modelleme](#category-3d-render) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -2181,6 +2181,32 @@ Anime / Manga · Siberpunk / Bilim Kurgu · Yayımlandı
 
 ```text
 Fütüristik anime bilim kurgu konsept sanatı, yakın gelecek meka tasarımı, sert yüzeyli mekanik detaylar, şık beyaz-siyah-turuncu teknoloji paleti, karmaşık zırh panelleri, açıkta duran eklemler ve makineler, keskin temiz çizimler, yarı gerçekçi anime oranları, yüksek detaylı endüstriyel tasarım, sinematik prodüksiyon sanatı, temiz teknik illüstrasyon estetiği
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Çizim / Çizgi Sanatı
+
+<a name="prompt-2100043047857729721"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Orijinal gönderi](https://x.com/leo_xiaolei/status/2100043047857729721)
+
+İllüstrasyon · Çizim / Çizgi Sanatı · Suluboya · Mürekkep / Çin Tarzı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100043047857729721.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
