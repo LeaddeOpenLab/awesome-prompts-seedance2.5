@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T04:24:27.611Z",
+  "model": "seedance2.5",
+  "prompt": "A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.",
+  "promptTranslations": {
+    "en": "A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field."
+  },
+  "summaryTranslations": {
+    "en": "Golden hour beach perfume commercial: A blue perfume bottle among sunset ocean waves dissolves to a woman in a white dress spraying perfume and smiling."
+  },
+  "translationVersion": 2,
+  "summary": "金色时刻海滩香水广告：落日海浪中的蓝色香水瓶叠化至白裙女子喷洒香水并微笑致意。",
+  "summaryEn": "Golden hour beach perfume commercial: blue fragrance bottle dissolves to woman in white dress spraying it.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100071299968032968",
+    "canonicalUrl": "https://x.com/laviniavelle/status/2100071299968032968",
+    "author": {
+      "username": "laviniavelle",
+      "displayName": "Lavinia",
+      "profileUrl": "https://x.com/laviniavelle"
+    },
+    "publishedAt": "2026-09-16T03:56:30.000Z",
+    "collectedAt": "2026-09-16T04:17:07.209Z",
+    "language": "en",
+    "originalText": "Golden light ocean waves and a touch of luxury a fragrance made to leave a lasting impression.\n\nMade With Seedance 2.5 on @itspolloAI\n\nPrompt:\n\nA cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/laviniavelle/status/2100071299968032968",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100070713118109697/img/4Y3PPoZijGv03ZPV.jpg",
+        "analysisUrl": "https://x.com/laviniavelle/status/2100071299968032968"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 2,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 283
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/laviniavelle/status/2100071299968032968",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100070713118109697/img/4Y3PPoZijGv03ZPV.jpg",
+  "coverPath": "covers/2100071299968032968.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100070713118109697",
+    "x-post:2100071299968032968"
+  ],
+  "analysis": {
+    "summary": "金色时刻海滩香水广告：落日海浪中的蓝色香水瓶叠化至白裙女子喷洒香水并微笑致意。",
+    "summaryEn": "Golden hour beach perfume commercial: blue fragrance bottle dissolves to woman in white dress spraying it.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the blue perfume bottle on a wet rock at sunset, cross-dissolving to a woman in a white dress spraying the perfume and smiling."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field.",
+    "sourceRange": {
+      "start": 144,
+      "end": 859
+    },
+    "translations": {
+      "zh": "金色时刻海滩上的电影质感写实广告镜头：一个深海蓝色玻璃香水瓶覆满微小水滴，置于湿润的岩石上，落日的逆光在柔和海浪上闪烁。柔和的镜头光晕与温暖金光在水面荡漾。画面无缝叠化至一位身着飘逸白色深V连衣裙的女子站在沙滩上，她微闭双眼陶醉地将香水喷向颈部，金光笼罩着细腻的水雾，随后带着温和自信的微笑直视镜头并手持香水瓶。写实8K分辨率，动态光影，高端奢华美学，浅景深。",
+      "en": "A cinematic photorealistic commercial shot on a golden hour beach A deep sea blue glass perfume bottle covered in micro water droplets rests on a wet rock, backlit by the setting sun glittering over gentle ocean waves Soft lens flare and warm golden reflections glimmer across the water The scene seamlessly cross dissolves to a stunning woman wearing a flowing white deep V dress standing on the sandy shore She sprays the fragrance onto her neck with her eyes closed in bliss surrounded by a fine mist catching the golden sunlight then looks directly into the camera with a gentle confident smile holding the bottle Photorealistic 8K resolution, dynamic lighting, high end luxury aesthetic shallow depth of field."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
