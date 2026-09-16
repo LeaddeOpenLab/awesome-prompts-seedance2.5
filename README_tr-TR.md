@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**94** Prompt · Son eklenen: **2026-09-16**
+**96** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -310,6 +310,50 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2100072308350288351"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@auqibhabib](https://x.com/auqibhabib) · [Orijinal gönderi](https://x.com/auqibhabib/status/2100072308350288351)
+
+Sinematik / Film Karesi · Hayvan / Yaratık · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100072308350288351.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100031321774903354"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@juliaevee](https://x.com/juliaevee) · [Orijinal gönderi](https://x.com/juliaevee/status/2100031321774903354)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100031321774903354.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100013701659283924"></a>
 

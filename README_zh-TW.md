@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**94** 筆內容 · 最新收錄: **2026-09-16**
+**96** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -326,6 +326,50 @@ UGC風格
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2100072308350288351"></a>
+
+### 翻譯中
+
+作者：[@auqibhabib](https://x.com/auqibhabib) · [查看 X 原帖](https://x.com/auqibhabib/status/2100072308350288351)
+
+電影感 / 電影劇照 · 動物 / 生物 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2100072308350288351.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2100031321774903354"></a>
+
+### 翻譯中
+
+作者：[@juliaevee](https://x.com/juliaevee) · [查看 X 原帖](https://x.com/juliaevee/status/2100031321774903354)
+
+電影感 / 電影劇照 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2100031321774903354.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2100013701659283924"></a>
 

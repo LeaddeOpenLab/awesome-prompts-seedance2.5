@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**94** Prompts · Latest addition: **2026-09-16**
+**96** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,133 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100072308350288351"></a>
+
+### Detailed narrative prompt for a 30-second cinematic ocean creature thriller depicting an attack on a cruise ship and military counteraction.
+
+Author：[@auqibhabib](https://x.com/auqibhabib) · [Source](https://x.com/auqibhabib/status/2100072308350288351)
+
+Cinematic / Film Still · Animal / Creature · Landscape / Nature · Published
+
+**Summary:** Detailed narrative prompt for a 30-second cinematic ocean creature thriller depicting an attack on a cruise ship and military counteraction.
+
+<img src="covers/2100072308350288351.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second photorealistic Hollywood-style ocean creature thriller. Set aboard a large modern American passenger ship traveling through the Pacific Ocean near Monterey Bay, California, USA, during bright late-afternoon daylight. Hundreds of passengers are enjoying the voyage. Three military rescue helicopters are responding to the emergency around the ship.
+
+CREATURE DESIGN LOCK: One enormous black octopus-like ocean creature, much larger than the ship, with a massive dark muscular body and eight extremely long, heavy tentacles covered in realistic suction cups. Wet reflective skin, believable weight, realistic marine movement. The creature behaves like a terrifying real animal, not a fantasy monster. Keep its appearance, proportions and number of tentacles consistent in every shot.
+
+OVERALL STYLE: High-budget Hollywood creature thriller, photorealistic practical-effects aesthetic with premium VFX, realistic human performances, natural daylight, realistic ocean physics, cinematic handheld photography, believable scale and grounded action. No cartoon physics, no superhero behavior, no random explosions, no excessive gore, no slow-motion montage, no text, no subtitles, no watermark.
+
+IMPORTANT: Nobody climbs onto the creature and nobody touches it. The response team remains on the ship or in helicopters. The creature is eventually killed through coordinated attacks from a safe distance. Its death happens naturally in the ocean.
+
+SOUND: Natural passenger voices, footsteps, glass breaking, ocean wind, ship machinery, screams, emergency alarms, radio/wireless communications, helicopter rotors, gunfire, water impacts and heavy creature movements. Dialogue must sound spontaneous and frightened, never theatrical. Introduce cinematic tension music only after the creature is revealed.
+
+[0–1.5s] — INSTANT HOOK
+
+Start INSIDE a crowded panoramic dining lounge. Without warning, an enormous black tentacle SMASHES through the glass beside the passengers. Glass explodes across the room. People scream and duck immediately. The camera reacts naturally to the impact.
+
+[1.5–3.5s]
+
+The tentacle instantly coils around a male passenger and violently drags him through the shattered window toward the ocean. His chair flips over. Nearby passengers stumble backward in panic.
+
+[3.5–5.5s]
+
+Exterior close shot beside the ship: the man is dragged rapidly toward the water and disappears beneath the waves. A brief dark red disturbance appears naturally in the water. Another tentacle suddenly rises toward the ship.
+
+[5.5–7s]
+
+A second window EXPLODES. A female security officer carrying a rifle is suddenly grabbed around the torso and pulled through the broken opening. Passengers scream and run.
+
+[7–9s]
+
+She disappears into the ocean. Passengers and crew rush toward the exterior decks. Emergency alarms begin sounding. A frightened crew member shouts naturally, “Everybody out! Move!”
+
+[9–11s] — MASSIVE REVEAL
+
+The Pacific suddenly ERUPTS beside the ship. The colossal black creature rises from the water, revealing its enormous body and multiple tentacles towering above several decks. Passengers look tiny beside it. Helicopter rotors become clearly audible overhead.
+
+[11–13s]
+
+One rescue helicopter moves toward the creature. A tentacle suddenly launches upward and SMASHES the helicopter sideways. The aircraft spins away trailing smoke toward the ocean. People on the ship scream as they watch.
+
+[13–15s]
+
+The two remaining helicopters immediately reposition. Over wireless radio, a pilot urgently says, “Control, we have visual. It's massive.” Another voice responds, “Keep it away from the ship.”
+
+[15–17s]
+
+The helicopters open fire from opposite sides. At the same time, trained security personnel on the upper deck fire toward the creature while passengers take cover behind railings and structures. Gunfire, helicopter rotors and crashing water create a chaotic but realistic soundscape.
+
+[17–19s] — ESCALATION
+
+The creature suddenly swings two enormous tentacles toward the upper deck. Armed personnel scatter as the tentacles SLAM into the deck, throwing water and debris into the air. One man grabs another and shouts, “Get back! Get back!”
+
+[19–21s]
+
+The creature turns toward one helicopter and launches a tentacle at it. The pilot performs a hard evasive turn at the last second. The tentacle misses by inches and crashes into the ocean, sending a huge wall of water over the ship's side.
+
+[21–23s]
+
+Radio crackles: “Now! Hit it now!” Both helicopters attack simultaneously from opposite directions while the ship's armed response team fires from the deck. The creature recoils violently and thrashes through the waves.
+
+[23–25s]
+
+A powerful coordinated strike hits the creature's upper body. It suddenly loses control of several tentacles. One tentacle drops heavily into the water. Another begins moving weakly. The creature lets out a deep animalistic roar beneath the chaos.
+
+[25–27s] — DEATH BEGINS
+
+Wide ocean shot: the enormous creature starts sinking backward into the Pacific. Its tentacles remain above the surface for a moment, moving slower and weaker. Nobody approaches it.
+
+[27–29s]
+
+Underwater wide shot: the creature sinks deeper into the blue darkness. Its eight tentacles gradually go completely limp and disappear beneath the surface one after another. No humans are anywhere near it. The water slowly settles.
+
+[29–30s] — FINAL IMAGE
+
+Massive cinematic wide shot of the battered passenger ship moving across the Pacific at sunset. Two helicopters circle above it. Survivors stand silently on the decks, watching the calm ocean. Distant helicopter rotors and ocean waves remain audible.
+
+CUT TO BLACK.
+
+CAMERA DIRECTION: The first frame must already contain the attack. Absolutely no slow establishing shot. Use aggressive close handheld photography for the first 9 seconds. After the creature rises, transition into wider cinematic compositions to communicate its enormous scale. During the helicopter battle, keep geography clear: ship below, creature beside ship, helicopters above. Camera shake only when physically justified by impacts. Avoid random camera movement.
+
+PERFORMANCE DIRECTION: Passengers should react like real people caught in an unexpected disaster. Some scream, some freeze, some run, some help others. Security personnel communicate briefly and naturally. Radio dialogue should be short and fragmented under pressure. Avoid actors looking directly into the camera or delivering dramatic movie speeches.
+
+VFX DIRECTION: Glass must break outward and inward according to the impact. Tentacles must have believable momentum and weight. Water must react naturally to every creature movement. Helicopters must fly with realistic physics. Gunfire should produce brief realistic muzzle flashes. Keep blood minimal and atmospheric rather than graphic. The creature must never morph, stretch unnaturally or gain extra limbs.
+
+FINAL DIRECTORIAL INTENT: Make the first second shocking, the next eight seconds terrifying, the middle section chaotic and escalating, and the final five seconds satisfying and cinematic. The audience should feel that the passengers are completely overwhelmed before the trained response finally turns the situation around. The creature's death should feel earned, physical and final.»
+Add a very small, subtle watermark text "AUQIB" in the bottom right corner of the frame, visible throughout the entire video.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100031321774903354"></a>
+
+### A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.
+
+Author：[@juliaevee](https://x.com/juliaevee) · [Source](https://x.com/juliaevee/status/2100031321774903354)
+
+Cinematic / Film Still · Published
+
+**Summary:** A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.
+
+<img src="covers/2100031321774903354.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100013701659283924"></a>
 
