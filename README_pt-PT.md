@@ -335,20 +335,20 @@ Tradução em curso
 
 <a name="prompt-2100088925603696879"></a>
 
-### Tradução em curso
+### Curta-metragem cinematográfica de animação 3D de 30 segundos sobre um alfaiate minúsculo a remendar o casaco de um gigante.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicação original](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Cena de Cinema / Fotograma · Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Curta-metragem cinematográfica de animação 3D de 30 segundos sobre um alfaiate minúsculo a remendar o casaco de um gigante.
 
 <img src="covers/2100088925603696879.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma curta-metragem cinematográfica de animação 3D premium de 30 segundos intitulada The Tiny Tailor. Mantenha uma continuidade visual perfeita do início ao fim, conservando o rosto, corpo, roupas, proporções, cores e acessórios do alfaiate minúsculo idênticos em cada plano, juntamente com o ateliê de costura, a mesa, o casaco, a agulha e a linha mantendo-se consistentes em tamanho, forma, posição e aparência. Utilize uma linha temporal contínua e lógica com movimentos naturais e humanos, interação com objetos fisicamente credível, anatomia correta e sem artefactos, deformações, morphing ou saltos de câmara. O estilo visual é de animação 3D cinematográfica de topo com materiais realistas, tecido detalhado, texturas naturais, iluminação de base física, sombras realistas, profundidade de campo subtil e qualidade aperfeiçoada de longa-metragem, evitando personagens com aspeto de plástico ou física de desenho animado. A história começa num elegante ateliê de alfaiataria onde um alfaiate minúsculo com alguns centímetros de altura caminha sobre uma enorme mesa de madeira segurando uma fita métrica, aproximando-se de um grande casaco azul-escuro. Ele repara num rasgão, enfia linha dourada numa agulha quase tão alta quanto ele e remenda cuidadosamente o rasgão com pontos realistas mostrados de múltiplos ângulos. Dá um passo atrás para admirar o seu trabalho, depois uma mão humana gigantesca entra no enquadramento e pega no casaco. O plano final revela uma pessoa gigante a usar o casaco remendado, com a câmara a afastar-se para mostrar o alfaiate minúsculo sentado com orgulho no bolso do casaco segurando a sua agulha. Utilize movimentos de câmara suaves e cinematográficos, enquadramento estável e perspetiva consistente do início ao fim, sem cortes rápidos nem física impossível. Duração de 30 segundos, proporção de 16 por 9, saída de animação 3D cinematográfica altamente detalhada.
 ```
 
 [↑ Voltar às categorias](#catalog)

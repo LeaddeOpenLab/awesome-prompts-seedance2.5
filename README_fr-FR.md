@@ -349,20 +349,20 @@ Traduction en cours
 
 <a name="prompt-2100088925603696879"></a>
 
-### Traduction en cours
+### Court-métrage d'animation 3D cinématographique de 30 secondes sur un minuscule tailleur raccommodant la veste d'un géant.
 
 Auteur：[@SyntheSarah](https://x.com/SyntheSarah) · [Publication originale](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Court-métrage d'animation 3D cinématographique de 30 secondes sur un minuscule tailleur raccommodant la veste d'un géant.
 
 <img src="covers/2100088925603696879.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un court-métrage d'animation 3D cinématographique haut de gamme de 30 secondes intitulé The Tiny Tailor. Maintenez une continuité visuelle parfaite du début à la fin, en gardant le visage, le corps, les vêtements, les proportions, les couleurs et les accessoires du minuscule tailleur identiques dans chaque plan, ainsi que l'atelier de couture, la table, la veste, l'aiguille et le fil restant cohérents en taille, forme, position et apparence. Utilisez une chronologie logique continue avec des mouvements naturels d'aspect humain, une interaction avec les objets physiquement crédible, une anatomie correcte et aucun artefact, déformation, morphing ou saut de caméra. Le style visuel est une animation 3D cinématographique haut de gamme avec des matériaux réalistes, du tissu détaillé, des textures naturelles, un éclairage basé sur la physique, des ombres réalistes, une profondeur de champ subtile et une qualité soignée digne d'un long métrage, en évitant les personnages à l'aspect plastique ou la physique de dessin animé. L'histoire commence dans un élégant atelier de tailleur où un minuscule tailleur de quelques centimètres de haut traverse une immense table en bois en portant un mètre ruban, s'approchant d'une grande veste bleu foncé. Il remarque un accroc, enfile une aiguille presque aussi grande que lui avec du fil doré et répare soigneusement la déchirure avec des points réalistes montrés sous plusieurs angles. Il recule pour admirer son travail, puis une main humaine gigantesque entre dans le cadre et ramasse la veste. Le plan final révèle une personne géante portant la veste réparée, la caméra reculant pour montrer le minuscule tailleur assis fièrement à l'intérieur de la poche de la veste en tenant son aiguille. Utilisez des mouvements de caméra cinématographiques fluides, un cadrage stable et une perspective cohérente tout au long, sans coupes rapides ni physique impossible. Durée 30 secondes, format d'image 16:9, rendu d'animation 3D cinématographique très détaillé.
 ```
 
 [↑ Retour aux catégories](#catalog)

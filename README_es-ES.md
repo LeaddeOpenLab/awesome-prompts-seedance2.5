@@ -349,20 +349,21 @@ Traducción en curso
 
 <a name="prompt-2100088925603696879"></a>
 
-### Traducción en curso
+### Cortometraje animado en 3D cinematográfico de 30 segundos sobre un sastre diminuto que remienda la chaqueta de un gigante.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicación original](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Cine / Fotograma de película · Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Cortometraje animado en 3D cinematográfico de 30 segundos sobre un sastre diminuto que remienda la chaqueta de un gigante.
 
 <img src="covers/2100088925603696879.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un cortometraje animado en 3D cinematográfico prémium de 30 segundos titulado The Tiny Tailor. Mantén una continuidad visual perfecta de principio a fin, manteniendo la cara, el cuerpo, la ropa, las proporciones, los colores y los accesorios del diminuto sastre idénticos en cada toma, junto con el cuarto de costura, la mesa, la chaqueta, la aguja y el hilo conservando consistencia en tamaño, forma, posición y apariencia. Utiliza una única línea de tiempo lógica y continua con movimiento natural de aspecto humano, interacción de objetos físicamente creíble, anatomía correcta y sin artefactos, distorsiones, metamorfosis o saltos de cámara. El estilo visual es animación 3D cinematográfica de alta gama con materiales realistas, tela detallada, texturas naturales, iluminación basada en la física, sombras realistas, profundidad de campo sutil y calidad pulida de largometraje, evitando personajes con aspecto de plástico o física de dibujos animados.
+La historia comienza en un elegante taller de sastrería donde un diminuto sastre de unos pocos centímetros de altura camina por una enorme mesa de madera llevando una cinta métrica y acercándose a una gran chaqueta azul oscuro. Nota una rotura, enhebra una aguja casi tan alta como él con hilo dorado y repara cuidadosamente la rotura con puntadas realistas mostradas desde múltiples ángulos. Da un paso atrás para admirar su trabajo, y luego una mano humana gigantesca entra en el encuadre y levanta la chaqueta. La toma final revela a una persona gigante vistiendo la chaqueta reparada, con la cámara alejándose para mostrar al diminuto sastre sentado con orgullo dentro del bolsillo de la chaqueta sosteniendo su aguja. Utiliza movimientos de cámara cinematográficos y fluidos, encuadre estable y perspectiva consistente en todo momento, sin cortes rápidos ni física imposible. Duración 30 segundos, relación de aspecto 16:9, salida de animación 3D cinematográfica de alto detalle.
 ```
 
 [↑ Volver a categorías](#catalog)

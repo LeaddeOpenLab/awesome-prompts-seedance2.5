@@ -335,20 +335,20 @@ Tradução em andamento
 
 <a name="prompt-2100088925603696879"></a>
 
-### Tradução em andamento
+### Curta-metragem cinematográfico de animação 3D de 30 segundos sobre um minúsculo alfaiate consertando a jaqueta de um gigante.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicação original](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Curta-metragem cinematográfico de animação 3D de 30 segundos sobre um minúsculo alfaiate consertando a jaqueta de um gigante.
 
 <img src="covers/2100088925603696879.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um curta-metragem cinematográfico premium de animação 3D de 30 segundos intitulado The Tiny Tailor. Mantenha uma continuidade visual perfeita do início ao fim, preservando o rosto, o corpo, as roupas, as proporções, as cores e os acessórios do minúsculo alfaiate idênticos em cada tomada, juntamente com a sala de costura, a mesa, a jaqueta, a agulha e a linha mantendo-se consistentes em tamanho, forma, posição e aparência. Use uma linha do tempo contínua e lógica com movimentos naturais e humanos, interação com objetos fisicamente crível, anatomia correta e sem artefatos, deformações, morphing ou saltos de câmera. O estilo visual é uma animação 3D cinematográfica de alto nível com materiais realistas, tecido detalhado, texturas naturais, iluminação baseada na física, sombras realistas, profundidade de campo sutil e qualidade polida de longa-metragem, evitando personagens com aspecto de plástico ou física de desenho animado. A história começa em uma elegante oficina de alfaiataria onde um minúsculo alfaiate de poucos centímetros de altura caminha sobre uma enorme mesa de madeira carregando uma fita métrica, aproximando-se de uma grande jaqueta azul-escura. Ele nota um rasgo, coloca linha dourada em uma agulha quase da sua altura e conserta cuidadosamente o rasgo com pontos realistas mostrados de vários ângulos. Ele dá um passo para trás para admirar seu trabalho, então uma mão humana gigantesca entra no enquadramento e pega a jaqueta. A tomada final revela uma pessoa gigante vestindo a jaqueta consertada, com a câmera se afastando para mostrar o minúsculo alfaiate sentado com orgulho dentro do bolso da jaqueta segurando sua agulha. Use movimentos de câmera suaves e cinematográficos, enquadramento estável e perspectiva consistente o tempo todo, sem cortes rápidos ou física impossível. Duração de 30 segundos, proporção de aspecto 16 por 9, saída de animação 3D cinematográfica de alto nível de detalhes.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -351,20 +351,21 @@ Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.c
 
 <a name="prompt-2100088925603696879"></a>
 
-### Đang dịch
+### Phim hoạt hình 3D điện ảnh ngắn 30 giây về một người thợ may tí hon sửa chiếc áo khoác của người khổng lồ.
 
 Tác giả：[@SyntheSarah](https://x.com/SyntheSarah) · [Bài gốc](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phim hoạt hình 3D điện ảnh ngắn 30 giây về một người thợ may tí hon sửa chiếc áo khoác của người khổng lồ.
 
 <img src="covers/2100088925603696879.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phim hoạt hình ngắn 3D điện ảnh cao cấp dài 30 giây có tựa đề The Tiny Tailor. Duy trì tính liên tục thị giác hoàn hảo từ đầu đến cuối, giữ cho khuôn mặt, cơ thể, trang phục, tỷ lệ, màu sắc và phụ kiện của người thợ may tí hon giống hệt nhau trong mọi cảnh quay, cùng với phòng may, bàn, áo khoác, kim và chỉ luôn nhất quán về kích thước, hình dạng, vị trí và diện mạo. Sử dụng một dòng thời gian hợp lý, liên tục duy nhất với chuyển động tự nhiên như con người, tương tác đồ vật hợp lý về mặt vật lý, giải phẫu chính xác và không có hiện tượng tạo tác, méo mó, biến dạng hay giật góc quay. Phong cách thị giác là hoạt hình 3D điện ảnh cao cấp với chất liệu chân thực, vải vóc chi tiết, vân bề mặt tự nhiên, ánh sáng dựa trên vật lý, bóng đổ chân thực, độ sâu trường ảnh tinh tế và chất lượng phim điện ảnh trau chuốt, tránh các nhân vật trông như nhựa hoặc vật lý hoạt hình.
+Câu chuyện bắt đầu tại một xưởng may trang nhã, nơi một người thợ may tí hon chỉ cao vài inch cầm thước dây bước qua chiếc bàn gỗ khổng lồ, tiến về phía chiếc áo khoác lớn màu xanh đậm. Anh nhận thấy một vết rách, xâu chỉ vàng vào chiếc kim cao gần bằng mình, và cẩn thận vá vết rách bằng những đường khâu chân thực được thể hiện từ nhiều góc quay. Anh lùi lại để chiêm ngưỡng tác phẩm của mình, sau đó một bàn tay người khổng lồ bước vào khung hình và nhấc chiếc áo khoác lên. Cảnh quay cuối cùng để lộ một người khổng lồ đang mặc chiếc áo khoác đã được sửa chữa, với máy quay lùi xa để thấy người thợ may tí hon đang tự hào ngồi bên trong túi áo khoác và cầm chiếc kim của mình. Sử dụng các chuyển động máy quay điện ảnh mượt mà, khung hình ổn định và phối cảnh nhất quán xuyên suốt, không cắt cảnh đột ngột hay vật lý bất khả thi. Thời lượng 30 giây, tỷ lệ khung hình 16:9, đầu ra hoạt hình 3D điện ảnh độ chi tiết cao.
 ```
 
 [↑ Về danh mục](#catalog)

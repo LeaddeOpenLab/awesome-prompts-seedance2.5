@@ -349,20 +349,20 @@ Traduzione in corso
 
 <a name="prompt-2100088925603696879"></a>
 
-### Traduzione in corso
+### Cortometraggio animato in 3D cinematografico di 30 secondi su un minuscolo sarto che rammenda la giacca di un gigante.
 
 Autore：[@SyntheSarah](https://x.com/SyntheSarah) · [Post originale](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Cortometraggio animato in 3D cinematografico di 30 secondi su un minuscolo sarto che rammenda la giacca di un gigante.
 
 <img src="covers/2100088925603696879.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un cortometraggio d'animazione 3D cinematografico premium di 30 secondi intitolato The Tiny Tailor. Mantieni una perfetta continuità visiva dall'inizio alla fine, conservando il viso, il corpo, i vestiti, le proporzioni, i colori e gli accessori del minuscolo sarto identici in ogni inquadratura, insieme alla stanza di sartoria, al tavolo, alla giacca, all'ago e al filo che rimangono coerenti per dimensioni, forma, posizione e aspetto. Utilizza un'unica sequenza temporale logica e continua con movimenti naturali e realistici, interazione fisicamente credibile con gli oggetti, anatomia corretta e senza artefatti, distorsioni, morphing o salti di telecamera. Lo stile visivo è un'animazione 3D cinematografica di alto livello con materiali realistici, tessuto dettagliato, texture naturali, illuminazione basata sulla fisica, ombre realistiche, sottile profondità di campo e qualità rifinita da lungometraggio, evitando personaggi dall'aspetto plastico o fisica da cartone animato. La storia inizia nell'elegante bottega di un sarto dove un minuscolo sarto alto pochi centimetri cammina su un enorme tavolo di legno portando un metro a nastro, avvicinandosi a una grande giacca blu scuro. Nota uno strappo, infila un ago alto quasi quanto lui con filo dorato e ripara con cura lo strappo con punti realistici mostrati da molteplici angolazioni. Fa un passo indietro per ammirare il suo lavoro, poi una gigantesca mano umana entra nell'inquadratura e raccoglie la giacca. L'inquadratura finale rivela una persona gigante che indossa la giacca riparata, mentre la telecamera si allontana per mostrare il minuscolo sarto seduto con orgoglio all'interno della tasca della giacca con in mano il suo ago. Utilizza movimenti di macchina fluidi e cinematografici, inquadratura stabile e prospettiva coerente per tutta la durata, senza tagli rapidi o fisica impossibile. Durata 30 secondi, formato 16:9, output di animazione 3D cinematografica ad alto dettaglio.
 ```
 
 [↑ Torna alle categorie](#catalog)

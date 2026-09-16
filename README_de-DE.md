@@ -349,20 +349,20 @@ Kinematisch / Filmstill · Stadtbild / Straße · Veröffentlicht
 
 <a name="prompt-2100088925603696879"></a>
 
-### Übersetzung läuft
+### 30-sekündiger filmischer 3D-Animationskurzfilm über einen winzigen Schneider, der die Jacke eines Riesen flickt.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Originalbeitrag](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger filmischer 3D-Animationskurzfilm über einen winzigen Schneider, der die Jacke eines Riesen flickt.
 
 <img src="covers/2100088925603696879.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, erstklassigen, filmischen 3D-Animationskurzfilm mit dem Titel The Tiny Tailor. Behalte von Anfang bis Ende eine perfekte visuelle Kontinuität bei, wobei Gesicht, Körper, Kleidung, Proportionen, Farben und Accessoires des winzigen Schneiders in jeder Aufnahme identisch bleiben, ebenso wie Nähzimmer, Tisch, Jacke, Nadel und Faden in Größe, Form, Position und Aussehen konsistent bleiben. Verwende eine kontinuierliche, logische Zeitleiste mit natürlichen, menschenähnlichen Bewegungen, physikalisch glaubwürdiger Objektinteraktion, korrekter Anatomie und ohne Artefakte, Verformungen, Morphing oder Kamerasprünge. Der visuelle Stil ist hochwertige filmische 3D-Animation mit realistischen Materialien, detailliertem Stoff, natürlichen Texturen, physikalisch basierter Beleuchtung, realistischen Schatten, subtiler Schärfentiefe und feingeschliffener Spielfilmqualität, wobei Charaktere im Plastik-Look oder Cartoon-Physik vermieden werden. Die Geschichte beginnt in einer eleganten Schneiderwerkstatt, in der ein winziger, nur wenige Zentimeter großer Schneider mit einem Maßband über einen riesigen Holztisch geht und sich einer großen dunkelblauen Jacke nähert. Er bemerkt einen Riss, fädelt eine Nadel, die fast so groß ist wie er selbst, mit goldenem Faden ein und repariert den Riss sorgfältig mit realistischen Stichen, die aus mehreren Blickwinkeln gezeigt werden. Er tritt zurück, um seine Arbeit zu bewundern, dann tritt eine gigantische menschliche Hand ins Bild und hebt die Jacke auf. Die letzte Einstellung zeigt eine riesige Person, die die reparierte Jacke trägt, während die Kamera zurückfährt und den winzigen Schneider zeigt, der stolz mit seiner Nadel in der Jackentasche sitzt. Verwende durchgehend sanfte filmische Kamerabewegungen, stabile Bildausschnitte und eine konsistente Perspektive, ohne schnelle Schnitte oder unmögliche Physik. Dauer 30 Sekunden, Seitenverhältnis 16 zu 9, detailreiche filmische 3D-Animationsausgabe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

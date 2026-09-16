@@ -335,20 +335,20 @@ Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
 
 <a name="prompt-2100088925603696879"></a>
 
-### Çeviri sürüyor
+### Bir devin ceketini onaran minik bir terzi hakkında 30 saniyelik sinematik 3D animasyon kısa film.
 
 Yazar：[@SyntheSarah](https://x.com/SyntheSarah) · [Orijinal gönderi](https://x.com/SyntheSarah/status/2100088925603696879)
 
 Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir devin ceketini onaran minik bir terzi hakkında 30 saniyelik sinematik 3D animasyon kısa film.
 
 <img src="covers/2100088925603696879.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+The Tiny Tailor başlıklı 30 saniyelik birinci sınıf sinematik bir 3D animasyon kısa filmi oluşturun. Başından sonuna kadar kusursuz bir görsel devamlılık sağlayarak, minik terzinin yüzünü, vücudunu, giysilerini, oranlarını, renklerini ve aksesuarlarını her çekimde özdeş tutun; dikiş odası, masa, ceket, iğne ve ipliğin de boyut, şekil, konum ve görünüm açısından tutarlı kalmasını sağlayın. İnsan benzeri doğal hareketler, fiziksel olarak inandırıcı nesne etkileşimi, doğru anatomi içeren ve hiçbir yapaylık, bükülme, biçim değiştirme veya kamera sıçraması barındırmayan tek bir kesintisiz mantıksal zaman çizelgesi kullanın. Görsel tarz, plastik görünümlü karakterlerden veya çizgi film fiziğinden kaçınan, gerçekçi malzemeler, ayrıntılı kumaş, doğal dokular, fiziksel tabanlı aydınlatma, gerçekçi gölgeler, ince alan derinliği ve özenli uzun metrajlı film kalitesine sahip üst düzey sinematik 3D animasyondur. Hikaye, birkaç santim boyundaki minik bir terzinin elinde mezura ile devasa ahşap bir masada yürüyerek büyük, koyu mavi bir cekete yaklaşmasıyla zarif bir terzi atölyesinde başlar. Bir yırtık fark eder, neredeyse kendi boyundaki bir iğneye altın sarısı iplik geçirir ve yırtığı birden fazla açıdan gösterilen gerçekçi dikişlerle özenle onarır. Eserine hayran kalmak için bir adım geri çekilir, ardından devasa bir insan eli kareye girer ve ceketi alır. Son çekim, onarılan ceketi giyen devasa bir kişiyi ortaya çıkarır ve kamera geriye çekilerek minik terzinin elinde iğnesiyle ceketin cebinde gururla oturduğunu gösterir. Hızlı kesmeler veya imkansız fizik kuralları olmaksızın, baştan sona pürüzsüz sinematik kamera hareketleri, dengeli çerçeveleme ve tutarlı perspektif kullanın. Süre 30 saniye, en boy oranı 16'ya 9, yüksek ayrıntılı sinematik 3D animasyon çıktısı.
 ```
 
 [↑ Kategorilere dön](#catalog)
