@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**93** Prompts · Latest addition: **2026-09-16**
+**94** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,55 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100013701659283924"></a>
+
+### Makoto Shinkai style 30-second anime chase short prompt, including characters, settings, sound effects, and shot timeline.
+
+Author：[@fps\_lusu](https://x.com/fps_lusu) · [Source](https://x.com/fps_lusu/status/2100013701659283924)
+
+Comic / Storyboard · Cinematic / Film Still · Anime / Manga · Character · Published
+
+**Summary:** Makoto Shinkai style 30-second anime chase short prompt, including characters, settings, sound effects, and shot timeline.
+
+<img src="covers/2100013701659283924.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Basic Settings
+​Duration: 30-second short
+​Aspect Ratio: 16:9 (Widescreen landscape format)
+​Genre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.
+​Setting: A terrifying, hyper-detailed magical forest. Photorealistic wet mud, moss, ancient towering trees, dense creeping fog.
+​Style & Visuals
+​Quality: Masterpiece cinematic anime, photorealistic environmental textures seamlessly blended with premium anime shading.
+​Lighting: Dramatic contrast. Dark forest lit by toxic pulsating cyan/purple flora, sharp character rim lighting, transitioning into brilliant warm sunlight.
+​Camera & Framing: Expansive horizontal tracking, wide anamorphic composition, sudden bullet-time macro close-up, sweeping panoramic pull-back.
+​Consistency: Strictly maintain absolute visual consistency for Nako and Toto throughout.
+​Audio & ASMR
+​BGM: Fast-paced orchestral chase music, abruptly slows during bullet-time, transitioning into a peaceful acoustic melody at 22s.
+​SFX: Whip-like snaps, running on mud, sharp "shing" in slow-mo, fading into gentle breeze and rustling grass.
+​ASMR: Visceral heavy panting from Nako and Toto, softening into relieved sighs. NO voices, NO dialogue.
+​Characters & Enemies
+​Character 1 (Nako): Short brown hair, green explorer jacket, shorts, boots, backpack. Sweating, desperate expression.
+​Character 2 (Toto): Fluffy white and tan Shih Tzu dog. Frantic sprint, ears flapping, panting wildly.
+​The Thorns (Enemy): Sentient giant dark-green vines with razor-sharp glowing cyan/purple thorns, striking with terrifying whip-like speed.
+​Timeline & Action
+​0–10s (Wide High-Speed Chase): Immediate frantic sprint across the wide frame. Nako and Toto run at extreme speed. Glowing vines strike the ground violently behind their heels, splashing mud and debris toward the lens.
+​10–15s (Bullet-Time Acrobatic Dodge): Sudden extreme slow-motion. A razor-sharp glowing thorn thrusts at Nako's face. She performs an acrobatic sliding backbend across the wide frame; the glowing tip grazes millimeters above her eyes, slicing a strand of hair. Toto slides fluidly underneath her.
+​15–22s (The Breakthrough): Snapping back to high speed, they burst through the tree line into a vast, sunlit grassy clearing under a bright sky. The vines instantly recoil into the shadows.
+​22–30s (Relief and Panoramic Pull-back): Nako collapses spread-eagle on the grass, smiling warmly at Toto. Toto sits beside her, panting happily with a wagging tail. The camera smoothly pulls back high into a breathtaking, silent panoramic wide shot of the sunny meadow and the distant forest edge.
+​Negative Prompt / Constraints
+​NO text, NO title, NO UI, NO logos.
+​NO character morphing, NO outfit changes, NO breed changes.
+​NO dialogue, NO human voices.
+​NO slow pacing (except 10–15s bullet-time), NO camera jitter, NO distorted anatomy.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100043484849926230"></a>
 
