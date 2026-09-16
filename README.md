@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**90** Prompts · Latest addition: **2026-09-16**
+**91** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100043484849926230"></a>
+
+### 15-second vintage cinematic travel vlog of a young Asian woman wandering through a city, café, and golden-hour park with a retro camera.
+
+Author：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Source](https://x.com/Aiwithmaha/status/2100043484849926230)
+
+Photography · Cinematic / Film Still · Retro / Vintage · Character · Food / Drink · Cityscape / Street · Published
+
+**Summary:** 15-second vintage cinematic travel vlog of a young Asian woman wandering through a city, café, and golden-hour park with a retro camera.
+
+<img src="covers/2100043484849926230.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second photorealistic cinematic travel vlog featuring a young Asian woman exploring a beautiful city and peaceful outdoor locations with a vintage digital-camera aesthetic. She carries a small retro camera and naturally photographs flowers, streets, cafés, and everyday moments while walking around. Show close-up shots of her hands holding and using the camera, including realistic buttons, lens details, and natural camera movements. Include a charming café scene where she sits at a table, enjoys a cold drink, and looks naturally relaxed and happy. Transition to a warm golden-hour park scene where she walks through the trees carrying her camera, with sunlight creating beautiful lens flares and soft backlight. End with her turning toward the camera, smiling naturally while holding the camera, creating an authentic spontaneous travel-memory feeling. Use handheld documentary-style cinematography, subtle autofocus hunting, natural exposure changes, realistic skin texture, soft depth of field, gentle film grain, warm colors, and imperfect real-life movement. Keep the character’s face, hairstyle, outfit, body proportions, and camera consistent throughout every shot, with smooth cinematic transitions and no artificial or overly polished AI appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099404551199809774"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**90** Prompt · Ultima aggiunta: **2026-09-16**
+**91** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -324,6 +324,28 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2100043484849926230"></a>
+
+### Traduzione in corso
+
+Autore：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Post originale](https://x.com/Aiwithmaha/status/2100043484849926230)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Personaggio · Cibo / Bevande · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100043484849926230.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099404551199809774"></a>
 
