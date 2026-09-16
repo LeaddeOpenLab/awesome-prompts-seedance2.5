@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T05:25:18.652Z",
+  "model": "seedance",
+  "prompt": "Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.",
+  "promptTranslations": {
+    "en": "Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic night chase in heavy rain on city streets involving suspense and struggle."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic night chase in heavy rain on city streets involving suspense and struggle.",
+  "summaryEn": "Cinematic night chase in heavy rain on city streets involving suspense and struggle.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100088243492385019",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2100088243492385019",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-16T05:03:49.000Z",
+    "collectedAt": "2026-09-16T05:18:53.564Z",
+    "language": "en",
+    "originalText": "Rain, suspense, and a cinematic night chase. \nA dramatic AI-generated scene brought to life with realistic motion and atmosphere.\n\nCreated on seedance 2.0\n\nPrompt:\n\n Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lianaalane/status/2100088243492385019",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100087659473625088/img/DUCQqATPo0faWWv1.jpg",
+        "analysisUrl": "https://x.com/Lianaalane/status/2100088243492385019"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 180
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2100088243492385019",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100087659473625088/img/DUCQqATPo0faWWv1.jpg",
+  "coverPath": "covers/2100088243492385019.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100087659473625088",
+    "x-post:2100088243492385019"
+  ],
+  "analysis": {
+    "summary": "Cinematic night chase in heavy rain on city streets involving suspense and struggle.",
+    "summaryEn": "Cinematic night chase in heavy rain on city streets involving suspense and struggle.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video clearly depicts a person walking along a wet city street at night, an altercation, running towards a car, and car headlights illuminating the rainy scene."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.",
+    "sourceRange": {
+      "start": 166,
+      "end": 1166
+    },
+    "translations": {
+      "zh": "制作一段30秒电影级超逼真真人视频，置于雨夜城市街道。主角独行于人行道，背单肩包着深色雨衣。体现电影感光影、雨滴、倒影与夜影。后方有人靠近引发冲突并扭打，随后在雨中追逐至停放车辆处，手持运镜跟拍，最终以车灯照亮雨中主角收尾。",
+      "en": "Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic chase scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
