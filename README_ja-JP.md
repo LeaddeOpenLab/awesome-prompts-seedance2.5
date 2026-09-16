@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**92** 件 · 最新の追加: **2026-09-16**
+**93** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2526,6 +2526,30 @@ Seedance 2.5を720pで使用し、各ショットを個別に処理してくだ�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2100022778674254091"></a>
+
+### 翻訳中
+
+作者：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2100022778674254091)
+
+キャラクター · 配信済み
+
+元の投稿：[@akiyoshisan](https://x.com/akiyoshisan) · [元の投稿](https://x.com/akiyoshisan/status/2099652823827054686)
+
+**概要:** 翻訳中
+
+<img src="covers/2100022778674254091.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2100013757779099770"></a>
 

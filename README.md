@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**92** Prompts · Latest addition: **2026-09-16**
+**93** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -3264,6 +3264,38 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100022778674254091"></a>
+
+### A realistic video prompt depicting a natural sequence of events of a woman \(Sakura\) getting her hair cut at a hair salon.
+
+Author：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2100022778674254091)
+
+Character · Published
+
+Source：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2099652823827054686)
+
+**Summary:** A realistic video prompt depicting a natural sequence of events of a woman \(Sakura\) getting her hair cut at a hair salon.
+
+<img src="covers/2100022778674254091.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Sakura, Hair Salon Edition.
+A natural Japanese hair salon. The haircut is already in progress from the very beginning. The first half: through the mirror → brief selfie check → cutting from the side → shampoo → blow-dry → final adjustments to the hair ends and sides. Across all cuts, the hair becomes progressively shorter in one direction only, becoming a shorter bob around below-chin to neck length that does not touch the shoulders. The length does not revert back after shampooing or blow-drying.
+
+The second half: checking the finished look → removing the cape → checking the overall appearance in the mirror → belongings → payment → leaving the salon. The moment she steps outside, the wind slightly messes up her bangs. At the very end, she checks herself on her smartphone just once, lightly adjusts them with her fingers, and walks away as is.
+
+Acting should be subtle and natural. No excessive smiling or model-like poses.
+Camera: through the mirror, medium-distance observational, side, diagonal rear, natural handheld. Overly perfect MV/commercial-style camerawork is prohibited.
+No dialogue / no conversation / no human voices / no lip-sync / no subtitles / no BGM. Only the ambient sounds of the hair salon and the sound of the wind outside.
+Continuously maintain face, body type, outfit, hairstyle, smartphone, bag, hairstylist, and salon interior layout. No mirror glitches, no hand/finger distortions, no reverting of hair length.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100013757779099770"></a>
 
