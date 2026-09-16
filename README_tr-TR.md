@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**89** Prompt · Son eklenen: **2026-09-15**
+**90** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2329,6 +2329,28 @@ Orijinal gönderi：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](htt
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2100013757779099770"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/TanLuAI/status/2100013757779099770)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100013757779099770.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099645118550888633"></a>
 

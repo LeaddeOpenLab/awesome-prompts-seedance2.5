@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**89** Prompts · Latest addition: **2026-09-15**
+**90** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -3216,6 +3216,89 @@ Generate the follow-up plot for @36c7ae17-4706-44b8-a6bc-cf3fd46b7dd4: [Style] L
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100013757779099770"></a>
+
+### Documentary-style one-shot video prompt of dropping a giant pink bar of soap from a helicopter into a volcano crater, generating a massive surge of bubbles that floods the cabin.
+
+Author：[@TanLuAI](https://x.com/TanLuAI) · [Source](https://x.com/TanLuAI/status/2100013757779099770)
+
+Character · Published
+
+**Summary:** Documentary-style one-shot video prompt of dropping a giant pink bar of soap from a helicopter into a volcano crater, generating a massive surge of bubbles that floods the cabin.
+
+<img src="covers/2100013757779099770.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+【Basic Settings】
+15 seconds, 9:16 vertical screen, one-shot continuous take, live-action documentary cinematography style. Documents the entire process of a man dropping a giant bar of soap from a helicopter into a volcanic crater, followed by a massive surge of soap bubbles rising from the volcano and pouring into the cabin.
+
+Presents a surreal event through observational on-site footage; the visual style is natural and restrained, with genuine human reactions. No comedic acting, funny gestures, or deliberately designed punchlines. The entire shot is a single continuous take with no cuts, transitions, hidden edits, slow motion, or time jumps.
+
+【Characters & Props】
+One adult male wearing a dark outdoor jacket, trousers, and boots; a waist safety harness is anchored to a fixed point inside the cabin, positioned inside the open side door of the helicopter.
+
+The man holds a giant pink bar of soap in both arms, approximately 80 cm long, 45 cm wide, and 25 cm thick. A rounded cuboid with a smooth surface and subtle wet reflections, possessing distinct thickness and weight. No packaging, no text.
+
+The helicopter interior clearly shows authentic seats, grab handles, a metal doorframe, and the floor. The pilot remains in the front cockpit. The appearance of the character, cabin, and props remains strictly consistent throughout.
+
+【Environment & Cinematography】
+Daytime, natural light. Dark, rugged rock walls surround a wide volcanic crater; at the bottom lies slowly churning orange-red magma, with slight thermal shimmer in the air.
+
+The helicopter hovers above the rim of the crater, with its open side door facing inward toward the volcano. The framing clearly establishes the spatial relationship between the man, the door, and the drop point below; the drop height aligns realistically with actual freefall time.
+
+The camera is held throughout by an operator inside the cabin, executing a forward-tilt downward shot, a tilt up, and a pan-back near the side door. Wide-angle documentary framing with micro-vibrations induced by the rotor and natural handheld adjustments, with actions clearly discernible. Natural exposure and color, preserving the authentic textures of skin, fabric, rock walls, and metal.
+
+【Continuous Timeline | 0:00—0:04 | Dropping the Giant Soap】
+Shot from inside the cabin facing the side door. The man and the giant soap dominate the foreground, with the crater below clearly visible through the doorway.
+
+The man braces the lower edge of the soap against the door sill, secures both sides with his hands, bends his knees, shifts his center of gravity forward, and pushes the soap outward. His arms extend straight with the push; once the soap's center of mass clears the sill, he cleanly releases his grip.
+
+The soap leaves the cabin and accelerates downward with a slight tumble. The man pulls his hands back, firmly grips a cabin handle, and stays in place to observe.
+
+The camera naturally tilts forward, continuously tracking downward along the trajectory of the soap, retaining a small section of the doorframe along the frame edge. The soap gradually shrinks in deep space, impacts the magma below, and triggers a localized churning disturbance. The entire descent is presented continuously without skipping distance or abruptly cutting to an impact close-up.
+
+【Continuous Timeline | 0:04—0:09 | Foam Generation & Masses of Bubbles Rising】
+The camera maintains a downward-angle shot. Dense white foam bubbles emerge where the soap contacted the magma, then the lather continuously expands, gradually covering the surrounding magma.
+
+Transparent soap bubbles continuously swell and detach from the churning white lather, drifting up toward the helicopter caught in the rising thermal updrafts. Initially sparse, their numbers rapidly multiply, forming a dense cluster of bubbles with front-to-back depth.
+
+The bubbles range in size from grapes to basketballs, featuring thin-film reflections and faint iridescence; the volcano and rock walls can be seen through the bubble membranes. Ascending at slightly varying speeds, they collide, deform, and occasionally pop naturally, while more continuously generate from behind.
+
+The camera persistently tracks the approach of the bubbles. The distant volcano remains visible through the gaps, while nearby bubbles progressively occupy more of the frame. The white lather atop the magma is clearly distinct from the ascending transparent bubbles.
+
+【Continuous Timeline | 0:09—0:13.5 | Bubbles Arrive & Flood the Cabin】
+The bubbles reach the height of the cabin door, swirled by the airflow around the rotor and fuselage. Some pop or drift off, but a greater volume steadily pours in through the open side door.
+
+The camera tilts up smoothly, tracking the bubbles, and pans back into the cabin to recapture the man. The shooting position and doorframe orientation remain continuous and consistent, never abruptly cutting to an exterior perspective.
+
+The man holds onto a grab handle with one hand, leaning slightly back into the cabin, while naturally raising his other hand in front of his face to brush away bubbles near his eyes. He primarily observes the transformation before him, neither looking at the lens, overacting, nor speaking.
+
+The bubbles steadily spread from the doorway deeper into the cabin, wedging between seats, the man's shoulders, and the camera. Close-up bubble membranes gently warp and glide, leaving wet white suds on hair, sleeves, and seats upon popping. More bubbles immediately pack in, gradually obscuring the cabin structure and the man's silhouette.
+
+【Continuous Timeline | 0:13.5—0:15 | Cabin Filled with Bubbles & Direct End】
+The camera maintains its current cabin perspective, only retreating slightly along with the operator's body.
+
+A dense cluster of bubbles has completely crowded the doorway and the space around the character; the man's upper body is almost entirely obscured. Bubbles continue to naturally jostle, drift, and pop, with his dark sleeve and hand gripping the handle visible through occasional gaps.
+
+The video ends directly here, without adding actions such as parting bubbles to reveal his face, looking into the camera, or being covered once more; no freeze-frame, no pull-back.
+
+【Audio】
+Authentic rotor noise and wind rush through the cabin door run continuously, accompanied by the sound of soap scraping the door sill, low-frequency distant volcanic churning, and the delicate, dense popping sounds of bubbles once inside the cabin. Sound distance changes naturally with camera orientation. No background music, voiceover, dialogue, or comedic sound effects.
+
+【Key Constraints】
+9:16 vertical screen, 15 seconds, single continuous take throughout, live-action documentary cinematography texture. The camera remains strictly inside the same helicopter near the side door throughout.
+
+Only a single giant pink bar of soap exists; once dropped, it never reappears in the man's hands. Bubbles generate from the volcano first, then rise continuously to the doorway and pour into the cabin—they must not appear out of thin air. No single giant bubble encapsulating the helicopter.
+
+Transparent bubbles must have a clear thin-film structure, and white lather must consist of dense micro-bubbles, strictly avoiding appearance as smoke, cotton, or snow. The final 1.5 seconds merely showcases the man's upper body almost obscured by bubbles before concluding immediately. No subtitles, logos, or watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099645118550888633"></a>
 
