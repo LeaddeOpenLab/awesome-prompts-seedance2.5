@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:30:02.979Z",
+  "model": "seedance2.5",
+  "prompt": "さくら、美容室編。\n日本の自然な美容室。冒頭からすでにカット中。前半は鏡越し→短いセルフィー確認→横からのカット→シャンプー→ドライ→毛先とサイドを最終調整。髪は全カットで一方向にのみ短くなり、肩につかないあご下〜首元の短めボブ寄りへ。シャンプー後・ドライ後も長さが戻らない。\n\n後半は仕上がり確認→ケープを外す→鏡で全体確認→荷物→会計→退店。外に出た瞬間、風で前髪が少し崩れる。最後に一度だけスマホで確認し、指で軽く整えて、そのまま歩き出す。\n\n演技は小さく自然に。過剰な笑顔・モデル的ポーズなし。\nカメラは鏡越し、中距離観察、横、斜め後方、自然な手持ち。完璧すぎるMV／CM的カメラ禁止。\nセリフなし／会話なし／人の声なし／口パクなし／字幕なし／BGMなし。美容室の生活音と外の風音のみ。\n顔・体型・衣装・髪型・スマホ・バッグ・美容師・店内構造を連続維持。鏡破綻、手指破綻、髪の長さ逆戻り禁止。",
+  "promptTranslations": {
+    "en": "Sakura, Hair Salon Edition.\nA natural Japanese hair salon. The haircut is already in progress from the very beginning. The first half: through the mirror → brief selfie check → cutting from the side → shampoo → blow-dry → final adjustments to the hair ends and sides. Across all cuts, the hair becomes progressively shorter in one direction only, becoming a shorter bob around below-chin to neck length that does not touch the shoulders. The length does not revert back after shampooing or blow-drying.\n\nThe second half: checking the finished look → removing the cape → checking the overall appearance in the mirror → belongings → payment → leaving the salon. The moment she steps outside, the wind slightly messes up her bangs. At the very end, she checks herself on her smartphone just once, lightly adjusts them with her fingers, and walks away as is.\n\nActing should be subtle and natural. No excessive smiling or model-like poses.\nCamera: through the mirror, medium-distance observational, side, diagonal rear, natural handheld. Overly perfect MV/commercial-style camerawork is prohibited.\nNo dialogue / no conversation / no human voices / no lip-sync / no subtitles / no BGM. Only the ambient sounds of the hair salon and the sound of the wind outside.\nContinuously maintain face, body type, outfit, hairstyle, smartphone, bag, hairstylist, and salon interior layout. No mirror glitches, no hand/finger distortions, no reverting of hair length."
+  },
+  "summaryTranslations": {
+    "en": "A realistic video prompt depicting a natural sequence of events of a woman (Sakura) getting her hair cut at a hair salon."
+  },
+  "translationVersion": 2,
+  "summary": "美容室で髪を切る女性（さくら）の自然な一連の流れを描くリアルな動画プロンプト。",
+  "summaryEn": "A realistic video prompt depicting a woman (Sakura) getting her hair cut at a salon.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099652823827054686",
+      "canonicalUrl": "https://x.com/akiyoshisan/status/2099652823827054686",
+      "author": {
+        "username": "akiyoshisan",
+        "displayName": "右よし左よし秋よし@AIエンタメ",
+        "profileUrl": "https://x.com/akiyoshisan"
+      },
+      "originalText": "Seedance 2.5｜16:9｜480p｜24fps｜\n部屋が荒れていく3日間\n\n1日目。疲れて帰宅したさくら。\nバッグと服を雑に置き、ベッドに沈む。\n\n↓ タイムラプス\n\n2日目。\n服、ペットボトル、コンビニ袋、洗濯物。\n生活の痕跡が少しずつ床に増えていく。\n服装も髪も徐々に乱れ、さくら自身も荒れていく。\n\n↓ 3日目\n\n散らかった部屋を見渡す。\n拾った服を手にしたまま止まり、ベッドへ。\n\nスマホをぼんやり眺める。\nしばらくして床を見る。\n\n近くのペットボトルを一本だけ拾う。\n透明なゴミ袋へ。\n\n数個だけ片付けて、また止まる。\n\n部屋はまだ散らかったまま。\n全部は解決しない。\n\nCamera： 固定観察＋自然な手持ち／軽いAF迷い・露出揺れ\nActing： 疲労・無気力・投げやり。過剰演技なし\nAudio： セリフ・会話・人声なし\nNG： 泣き叫ぶ／物を投げる／急に元気になる／一気に部屋が綺麗になる／ロゴ・文字\nContinuity： 同じ部屋・同じさくら・服装と散らかりを3日間で段階変化\n #DreaminaCPP @dreamina_cpp"
+    },
+    "id": "2100022778674254091",
+    "canonicalUrl": "https://x.com/akiyoshisan/status/2100022778674254091",
+    "author": {
+      "username": "akiyoshisan",
+      "displayName": "右よし左よし秋よし@AIエンタメ",
+      "profileUrl": "https://x.com/akiyoshisan"
+    },
+    "publishedAt": "2026-09-16T00:43:41.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "ja",
+    "originalText": "Seedance 2.5｜16:9｜480p｜24fps｜\nさくら、美容室編。\n日本の自然な美容室。冒頭からすでにカット中。前半は鏡越し→短いセルフィー確認→横からのカット→シャンプー→ドライ→毛先とサイドを最終調整。髪は全カットで一方向にのみ短くなり、肩につかないあご下〜首元の短めボブ寄りへ。シャンプー後・ドライ後も長さが戻らない。\n\n後半は仕上がり確認→ケープを外す→鏡で全体確認→荷物→会計→退店。外に出た瞬間、風で前髪が少し崩れる。最後に一度だけスマホで確認し、指で軽く整えて、そのまま歩き出す。\n\n演技は小さく自然に。過剰な笑顔・モデル的ポーズなし。\nカメラは鏡越し、中距離観察、横、斜め後方、自然な手持ち。完璧すぎるMV／CM的カメラ禁止。\nセリフなし／会話なし／人の声なし／口パクなし／字幕なし／BGMなし。美容室の生活音と外の風音のみ。\n顔・体型・衣装・髪型・スマホ・バッグ・美容師・店内構造を連続維持。鏡破綻、手指破綻、髪の長さ逆戻り禁止。\n\n #DreaminaCPP @dreamina_cpp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2100022778674254091",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100022655319691264/img/u2Q-00Rn-q-f-kB1.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2100022778674254091"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2100022778674254091",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099652700870995968/img/d-mMaMrz3hEZiuZf.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2100022778674254091",
+        "sourcePostId": "2099652823827054686"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 211
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/akiyoshisan/status/2100022778674254091",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100022655319691264/img/u2Q-00Rn-q-f-kB1.jpg",
+  "coverPath": "covers/2100022778674254091.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100022655319691264",
+    "x-video:2099652700870995968",
+    "x-post:2100022778674254091",
+    "x-post:2099652823827054686"
+  ],
+  "analysis": {
+    "summary": "美容室で髪を切る女性（さくら）の自然な一連の流れを描くリアルな動画プロンプト。",
+    "summaryEn": "A realistic video prompt depicting a woman (Sakura) getting her hair cut at a salon.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video 1 depicts Sakura getting a bob haircut at a salon, including shampooing, drying, cape removal, checkout, and walking outside adjusting hair via phone reflection, precisely matching the prompt sequence."
+    },
+    "videoQuality": null,
+    "originalPrompt": "さくら、美容室編。\n日本の自然な美容室。冒頭からすでにカット中。前半は鏡越し→短いセルフィー確認→横からのカット→シャンプー→ドライ→毛先とサイドを最終調整。髪は全カットで一方向にのみ短くなり、肩につかないあご下〜首元の短めボブ寄りへ。シャンプー後・ドライ後も長さが戻らない。\n\n後半は仕上がり確認→ケープを外す→鏡で全体確認→荷物→会計→退店。外に出た瞬間、風で前髪が少し崩れる。最後に一度だけスマホで確認し、指で軽く整えて、そのまま歩き出す。\n\n演技は小さく自然に。過剰な笑顔・モデル的ポーズなし。\nカメラは鏡越し、中距離観察、横、斜め後方、自然な手持ち。完璧すぎるMV／CM的カメラ禁止。\nセリフなし／会話なし／人の声なし／口パクなし／字幕なし／BGMなし。美容室の生活音と外の風音のみ。\n顔・体型・衣装・髪型・スマホ・バッグ・美容師・店内構造を連続維持。鏡破綻、手指破綻、髪の長さ逆戻り禁止。",
+    "sourceRange": {
+      "start": 30,
+      "end": 430
+    },
+    "translations": {
+      "zh": "小樱理发店篇。日本写实美发沙龙。剪发过程全记录：镜前、侧面剪发、洗头吹干、发尾微调。发型单向剪短至齐下巴短鲍伯，长度不反弹。后半段确认发型、去披风、取物、结账离店。出门微风吹乱刘海，看手机调整后离开。自然表演，无过度微笑；机位含镜面反射、观察视角与手持镜头；无台词无BGM，仅保留环境音。",
+      "en": "Sakura at the hair salon. Realistic Japanese salon. Haircut sequence: mirror reflection, side cut, shampoo, blowout, and fine-tuning bob cut. Second half: inspecting hair, cape removal, gathering belongings, checkout, and exit. Outside, wind ruffles bangs; checks phone, fixes hair, and walks off. Natural acting, varied handheld and observational camera angles, ambient salon and outdoor sounds only."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
