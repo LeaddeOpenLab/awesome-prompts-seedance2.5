@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**98** Prompts · Última incorporación: **2026-09-16**
+**99** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2449,6 +2449,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2100074769207247005"></a>
+
+### Traducción en curso
+
+Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Publicación original](https://x.com/itxabdullaa/status/2100074769207247005)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100074769207247005.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100071299968032968"></a>
 
