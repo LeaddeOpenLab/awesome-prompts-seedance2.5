@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T04:24:43.776Z",
+  "model": "seedance2.5",
+  "prompt": "A cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility.",
+  "promptTranslations": {
+    "en": "A cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility."
+  },
+  "summaryTranslations": {
+    "en": "A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool."
+  },
+  "translationVersion": 2,
+  "summary": "A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.",
+  "summaryEn": "A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100031321774903354",
+    "canonicalUrl": "https://x.com/juliaevee/status/2100031321774903354",
+    "author": {
+      "username": "juliaevee",
+      "displayName": "Julia",
+      "profileUrl": "https://x.com/juliaevee"
+    },
+    "publishedAt": "2026-09-16T01:17:38.000Z",
+    "collectedAt": "2026-09-16T04:17:07.209Z",
+    "language": "en",
+    "originalText": "Cinematic energy with a striking anime inspired look.\n\nMade With Seedance 2.5\n\nPrompt:\n\nA cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/juliaevee/status/2100031321774903354",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100031067067682816/img/DB7L8FeHE6TQlU9P.jpg",
+        "analysisUrl": "https://x.com/juliaevee/status/2100031321774903354"
+      }
+    ],
+    "metrics": {
+      "likeCount": 42,
+      "repostCount": 8,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 3153
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/juliaevee/status/2100031321774903354",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100031067067682816/img/DB7L8FeHE6TQlU9P.jpg",
+  "coverPath": "covers/2100031321774903354.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100031067067682816",
+    "x-post:2100031321774903354"
+  ],
+  "analysis": {
+    "summary": "A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.",
+    "summaryEn": "A cinematic action sequence featuring an East Asian schoolgirl with lavender-blue hair in an indoor pool.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video depicts an East Asian girl with short lavender-blue hair wearing a school uniform inside an indoor pool facility during an action scene."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility.",
+    "sourceRange": {
+      "start": 88,
+      "end": 400
+    },
+    "translations": {
+      "zh": "一个电影质感的动作场景，主角是一名留着鲜亮薰衣草蓝短发、身穿日式校服（灰色西装外套、系蓝色蝴蝶结的白色领衬衫、黑色百褶裙、过膝袜和黑色乐福鞋）的东亚年轻女孩。场景发生在一个光线昏暗的室内游泳池馆。",
+      "en": "A cinematic action sequence featuring a young East Asian girl with short, vibrant lavender-blue hair wearing a Japanese school uniform (grey blazer, white collared shirt with a blue bow, black pleated skirt, knee-high socks, and black loafers). The scene takes place in a dimly lit indoor swimming pool facility."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
