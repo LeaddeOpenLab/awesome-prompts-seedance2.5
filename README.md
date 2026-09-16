@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**100** Prompts · Latest addition: **2026-09-16**
+**101** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -391,6 +391,28 @@ Do not omit proactively climbing onto the table and deliberate distraction; do n
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100088925603696879"></a>
+
+### 30-second cinematic 3D animated short about a tiny tailor mending a giant's jacket.
+
+Author：[@SyntheSarah](https://x.com/SyntheSarah) · [Source](https://x.com/SyntheSarah/status/2100088925603696879)
+
+Cinematic / Film Still · 3D Render · Published
+
+**Summary:** 30-second cinematic 3D animated short about a tiny tailor mending a giant's jacket.
+
+<img src="covers/2100088925603696879.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30 second premium cinematic 3D animated short film titled The Tiny Tailor. Maintain perfect visual continuity from beginning to end, keeping the tiny tailor's face, body, clothing, proportions, colors and accessories identical in every shot, along with the sewing room, table, jacket, needle and thread staying consistent in size, shape, position and appearance. Use one continuous logical timeline with natural human like movement, physically believable object interaction, correct anatomy, and no artifacts, warping, morphing, or camera jumps. Visual style is high end cinematic 3D animation with realistic materials, detailed fabric, natural textures, physically based lighting, realistic shadows, subtle depth of field and polished feature film quality, avoiding plastic looking characters or cartoon physics.\nThe story begins in an elegant tailor's workshop where a tiny tailor a few inches tall walks across a huge wooden table carrying a measuring tape, approaching a large dark blue jacket. He notices a tear, threads a needle almost as tall as himself with golden thread, and carefully repairs the tear with realistic stitching shown from multiple angles. He steps back to admire his work, then a gigantic human hand enters the frame and picks up the jacket. The final shot reveals a giant person wearing the repaired jacket, with the camera pulling back to show the tiny tailor sitting proudly inside the jacket's pocket holding his needle. Use smooth cinematic camera movements, stable framing and consistent perspective throughout, with no rapid cuts or impossible physics. Duration 30 seconds, aspect ratio 16 by 9, high detail cinematic 3D animation output.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100085430976930255"></a>
 
