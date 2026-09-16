@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T04:31:41.733Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE\n\n30-second photorealistic AAA third-person stealth-action sequence inside a modern Japanese corporate office at exactly 5:00 PM. NAGI, a 25-year-old Japanese office worker, has finished work and must escape before anyone gives her another task. Treat the office like a high-stakes stealth mission with subtle comedy.\n\nNAGI — CHARACTER LOCK\n\nJapanese woman, 25, same face as [@Image1], long straight black hair with blunt bangs, white short-sleeve blouse, charcoal tailored trousers, black belt, white minimalist sneakers, employee ID, small black work tote. Same face, hair, outfit, proportions and accessories throughout. Natural Japanese female voice, speaking Japanese.\n\nCAST\n\n- Senior Coworker: woman, late 40s, short brown bob, glasses, pale blue blouse, dark skirt, clipboard.\n- Party Coworker: man, late 20s, messy black hair, cream sweater, cake box and balloons.\n- Boss: man, 60s, short and stout, completely bald with white side fringe, gold glasses, charcoal three-piece suit, thick documents.\n- Delivery Worker: man, early 30s, tall, short black hair, dark uniform, pushing supply cart.\n- Boss is the only bald character.\n\nROUTE\n\nWorkstation → open office → break room → storage corridor → main corridor → security gate → lobby → glass exit.\n\nCAMERA / FORMAT\n\nOne continuous third-person gameplay take from 0–27s, then exactly one hard cut at 27s to a locked 27–30s shot. Camera stays behind NAGI with realistic gameplay motion. No clipping, teleporting, or extra cuts. Final shot is outside facing NAGI.\n\nACTION\n\n0–5.5s:\nClock hits 17:00. NAGI grabs her tote and whispers:\n{定時だ…今なら逃げられる。}\nHUD: 5:00 PM — SHIFT OVER / OBJECTIVE: EXIT THE BUILDING.\nA senior coworker searches for someone to help. NAGI crouches behind a chair, avoids her detection cone, then slips away.\n\n5.5–11s:\nAt the break room, a coworker carrying cake and balloons blocks the route. A balloon touches NAGI’s hair. She freezes until he passes, then whispers:\n{風船まで敵なの…？}\nHUD: THREAT PASSED.\n\n11–17s:\nA delivery worker pushes a loaded cart through a narrow corridor. NAGI hides behind boxes and silently catches a falling box. HUD: SILENT INTERACTION +50. She continues toward the exit.\n\n17–23s:\nThe BOSS appears holding documents. Red alert marker.\n{なぎさん、これ今日中に――}\nNAGI ducks behind a copy machine, circles it, breaks line of sight behind a glass partition and whispers:\n{今日はもう終わりです…！}\nHUD: ALERT / BREAK LINE OF SIGHT / ESCAPE ROUTE FOUND.\n\n23–27s:\nNAGI sprints to the security gate. First ID scan fails. She panics, scans again: ACCESS GRANTED. She reaches and opens the glass exit. The Boss shouts:\n{なぎさん！ちょっとだけ！}\nShe turns toward camera.\n\n27s HARD CUT\n\n27–30s:\nLocked static shot outside the building. NAGI stands outside holding her tote, Boss visible through the glass. He calls:\n{明日の朝でもいいから！}\nNAGI smiles at camera:\n{もちろんです！}\nShe walks away as the doors close.\n\nHUD: MISSION COMPLETE / STEALTH RANK: S / ADRENALINE +200 / WORKDAY SUCCESSFULLY ESCAPED\n\nREALISM\n\nUltra-photorealistic live-action humans with natural skin, eyes, hair, fabric, breathing, shadows, reflections and physics. Tote has real weight; balloons, cart wheels, clothing and hair move naturally. No AI-looking faces, plastic skin, anime, cartoon, teleportation or duplicated characters.\n\nLIGHTING\n\nConsistent 5600K late-afternoon sunlight through office windows with realistic shadows and reflections. Outdoor daylight continues naturally after the cut.\n\nHUD / AUDIO\n\nGTA-style English HUD fixed in the same positions. No subtitles or caption bars. Japanese dialogue only. Tense stealth synth, heartbeat during alerts, realistic office ambience, scanner and door sounds, ending with a comedic victory fanfare.\n\nOUTPUT\n\n16:9 • 30 seconds • 0–27s one continuous take • 27–30s one locked shot • exactly one cut • photorealistic live-action quality.",
+  "promptTranslations": {
+    "en": "SCENE\n\n30-second photorealistic AAA third-person stealth-action sequence inside a modern Japanese corporate office at exactly 5:00 PM. NAGI, a 25-year-old Japanese office worker, has finished work and must escape before anyone gives her another task. Treat the office like a high-stakes stealth mission with subtle comedy.\n\nNAGI — CHARACTER LOCK\n\nJapanese woman, 25, same face as [@Image1], long straight black hair with blunt bangs, white short-sleeve blouse, charcoal tailored trousers, black belt, white minimalist sneakers, employee ID, small black work tote. Same face, hair, outfit, proportions and accessories throughout. Natural Japanese female voice, speaking Japanese.\n\nCAST\n\n- Senior Coworker: woman, late 40s, short brown bob, glasses, pale blue blouse, dark skirt, clipboard.\n- Party Coworker: man, late 20s, messy black hair, cream sweater, cake box and balloons.\n- Boss: man, 60s, short and stout, completely bald with white side fringe, gold glasses, charcoal three-piece suit, thick documents.\n- Delivery Worker: man, early 30s, tall, short black hair, dark uniform, pushing supply cart.\n- Boss is the only bald character.\n\nROUTE\n\nWorkstation → open office → break room → storage corridor → main corridor → security gate → lobby → glass exit.\n\nCAMERA / FORMAT\n\nOne continuous third-person gameplay take from 0–27s, then exactly one hard cut at 27s to a locked 27–30s shot. Camera stays behind NAGI with realistic gameplay motion. No clipping, teleporting, or extra cuts. Final shot is outside facing NAGI.\n\nACTION\n\n0–5.5s:\nClock hits 17:00. NAGI grabs her tote and whispers:\n{定時だ…今なら逃げられる。}\nHUD: 5:00 PM — SHIFT OVER / OBJECTIVE: EXIT THE BUILDING.\nA senior coworker searches for someone to help. NAGI crouches behind a chair, avoids her detection cone, then slips away.\n\n5.5–11s:\nAt the break room, a coworker carrying cake and balloons blocks the route. A balloon touches NAGI’s hair. She freezes until he passes, then whispers:\n{風船まで敵なの…？}\nHUD: THREAT PASSED.\n\n11–17s:\nA delivery worker pushes a loaded cart through a narrow corridor. NAGI hides behind boxes and silently catches a falling box. HUD: SILENT INTERACTION +50. She continues toward the exit.\n\n17–23s:\nThe BOSS appears holding documents. Red alert marker.\n{なぎさん、これ今日中に――}\nNAGI ducks behind a copy machine, circles it, breaks line of sight behind a glass partition and whispers:\n{今日はもう終わりです…！}\nHUD: ALERT / BREAK LINE OF SIGHT / ESCAPE ROUTE FOUND.\n\n23–27s:\nNAGI sprints to the security gate. First ID scan fails. She panics, scans again: ACCESS GRANTED. She reaches and opens the glass exit. The Boss shouts:\n{なぎさん！ちょっとだけ！}\nShe turns toward camera.\n\n27s HARD CUT\n\n27–30s:\nLocked static shot outside the building. NAGI stands outside holding her tote, Boss visible through the glass. He calls:\n{明日の朝でもいいから！}\nNAGI smiles at camera:\n{もちろんです！}\nShe walks away as the doors close.\n\nHUD: MISSION COMPLETE / STEALTH RANK: S / ADRENALINE +200 / WORKDAY SUCCESSFULLY ESCAPED\n\nREALISM\n\nUltra-photorealistic live-action humans with natural skin, eyes, hair, fabric, breathing, shadows, reflections and physics. Tote has real weight; balloons, cart wheels, clothing and hair move naturally. No AI-looking faces, plastic skin, anime, cartoon, teleportation or duplicated characters.\n\nLIGHTING\n\nConsistent 5600K late-afternoon sunlight through office windows with realistic shadows and reflections. Outdoor daylight continues naturally after the cut.\n\nHUD / AUDIO\n\nGTA-style English HUD fixed in the same positions. No subtitles or caption bars. Japanese dialogue only. Tense stealth synth, heartbeat during alerts, realistic office ambience, scanner and door sounds, ending with a comedic victory fanfare.\n\nOUTPUT\n\n16:9 • 30 seconds • 0–27s one continuous take • 27–30s one locked shot • exactly one cut • photorealistic live-action quality."
+  },
+  "summaryTranslations": {
+    "en": "30-second AAA third-person stealth game sequence of a Japanese office worker escaping work at 5:00 PM, complete with timed actions, HUD overlay, and comedic stealth tropes."
+  },
+  "translationVersion": 2,
+  "summary": "30-second AAA third-person stealth game sequence of a Japanese office worker escaping work at 5:00 PM, complete with timed actions, HUD overlay, and comedic stealth tropes.",
+  "summaryEn": "30-second AAA third-person stealth game sequence of a Japanese office worker escaping work at 5:00 PM, complete with timed actions, HUD overlay, and comedic stealth tropes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100074769207247005",
+    "canonicalUrl": "https://x.com/itxabdullaa/status/2100074769207247005",
+    "author": {
+      "username": "itxabdullaa",
+      "displayName": "ÀBDŪLLÂH",
+      "profileUrl": "https://x.com/itxabdullaa"
+    },
+    "publishedAt": "2026-09-16T04:10:17.000Z",
+    "collectedAt": "2026-09-16T04:17:07.209Z",
+    "language": "en",
+    "originalText": "Seedance 2.5 on @SJinn_Agent\n\nPROMPT\n\nSCENE\n\n30-second photorealistic AAA third-person stealth-action sequence inside a modern Japanese corporate office at exactly 5:00 PM. NAGI, a 25-year-old Japanese office worker, has finished work and must escape before anyone gives her another task. Treat the office like a high-stakes stealth mission with subtle comedy.\n\nNAGI — CHARACTER LOCK\n\nJapanese woman, 25, same face as [@Image1], long straight black hair with blunt bangs, white short-sleeve blouse, charcoal tailored trousers, black belt, white minimalist sneakers, employee ID, small black work tote. Same face, hair, outfit, proportions and accessories throughout. Natural Japanese female voice, speaking Japanese.\n\nCAST\n\n- Senior Coworker: woman, late 40s, short brown bob, glasses, pale blue blouse, dark skirt, clipboard.\n- Party Coworker: man, late 20s, messy black hair, cream sweater, cake box and balloons.\n- Boss: man, 60s, short and stout, completely bald with white side fringe, gold glasses, charcoal three-piece suit, thick documents.\n- Delivery Worker: man, early 30s, tall, short black hair, dark uniform, pushing supply cart.\n- Boss is the only bald character.\n\nROUTE\n\nWorkstation → open office → break room → storage corridor → main corridor → security gate → lobby → glass exit.\n\nCAMERA / FORMAT\n\nOne continuous third-person gameplay take from 0–27s, then exactly one hard cut at 27s to a locked 27–30s shot. Camera stays behind NAGI with realistic gameplay motion. No clipping, teleporting, or extra cuts. Final shot is outside facing NAGI.\n\nACTION\n\n0–5.5s:\nClock hits 17:00. NAGI grabs her tote and whispers:\n{定時だ…今なら逃げられる。}\nHUD: 5:00 PM — SHIFT OVER / OBJECTIVE: EXIT THE BUILDING.\nA senior coworker searches for someone to help. NAGI crouches behind a chair, avoids her detection cone, then slips away.\n\n5.5–11s:\nAt the break room, a coworker carrying cake and balloons blocks the route. A balloon touches NAGI’s hair. She freezes until he passes, then whispers:\n{風船まで敵なの…？}\nHUD: THREAT PASSED.\n\n11–17s:\nA delivery worker pushes a loaded cart through a narrow corridor. NAGI hides behind boxes and silently catches a falling box. HUD: SILENT INTERACTION +50. She continues toward the exit.\n\n17–23s:\nThe BOSS appears holding documents. Red alert marker.\n{なぎさん、これ今日中に――}\nNAGI ducks behind a copy machine, circles it, breaks line of sight behind a glass partition and whispers:\n{今日はもう終わりです…！}\nHUD: ALERT / BREAK LINE OF SIGHT / ESCAPE ROUTE FOUND.\n\n23–27s:\nNAGI sprints to the security gate. First ID scan fails. She panics, scans again: ACCESS GRANTED. She reaches and opens the glass exit. The Boss shouts:\n{なぎさん！ちょっとだけ！}\nShe turns toward camera.\n\n27s HARD CUT\n\n27–30s:\nLocked static shot outside the building. NAGI stands outside holding her tote, Boss visible through the glass. He calls:\n{明日の朝でもいいから！}\nNAGI smiles at camera:\n{もちろんです！}\nShe walks away as the doors close.\n\nHUD: MISSION COMPLETE / STEALTH RANK: S / ADRENALINE +200 / WORKDAY SUCCESSFULLY ESCAPED\n\nREALISM\n\nUltra-photorealistic live-action humans with natural skin, eyes, hair, fabric, breathing, shadows, reflections and physics. Tote has real weight; balloons, cart wheels, clothing and hair move naturally. No AI-looking faces, plastic skin, anime, cartoon, teleportation or duplicated characters.\n\nLIGHTING\n\nConsistent 5600K late-afternoon sunlight through office windows with realistic shadows and reflections. Outdoor daylight continues naturally after the cut.\n\nHUD / AUDIO\n\nGTA-style English HUD fixed in the same positions. No subtitles or caption bars. Japanese dialogue only. Tense stealth synth, heartbeat during alerts, realistic office ambience, scanner and door sounds, ending with a comedic victory fanfare.\n\nOUTPUT\n\n16:9 • 30 seconds • 0–27s one continuous take • 27–30s one locked shot • exactly one cut • photorealistic live-action quality.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/itxabdullaa/status/2100074769207247005",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100074656577531904/img/0xkFkTI4WFZ3Tk7y.jpg",
+        "analysisUrl": "https://x.com/itxabdullaa/status/2100074769207247005"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 61
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/itxabdullaa/status/2100074769207247005",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100074656577531904/img/0xkFkTI4WFZ3Tk7y.jpg",
+  "coverPath": "covers/2100074769207247005.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100074656577531904",
+    "x-post:2100074769207247005"
+  ],
+  "analysis": {
+    "summary": "30-second AAA third-person stealth game sequence of a Japanese office worker escaping work at 5:00 PM, complete with timed actions, HUD overlay, and comedic stealth tropes.",
+    "summaryEn": "30-second AAA third-person stealth game sequence of a Japanese office worker escaping work at 5:00 PM, complete with timed actions, HUD overlay, and comedic stealth tropes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached low-resolution video aligns with the prompt: it shows the 5:00 PM clock, NAGI dodging coworkers, stealth HUD elements, gate scanning, and the final exit cut with Japanese dialogue matching the script."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE\n\n30-second photorealistic AAA third-person stealth-action sequence inside a modern Japanese corporate office at exactly 5:00 PM. NAGI, a 25-year-old Japanese office worker, has finished work and must escape before anyone gives her another task. Treat the office like a high-stakes stealth mission with subtle comedy.\n\nNAGI — CHARACTER LOCK\n\nJapanese woman, 25, same face as [@Image1], long straight black hair with blunt bangs, white short-sleeve blouse, charcoal tailored trousers, black belt, white minimalist sneakers, employee ID, small black work tote. Same face, hair, outfit, proportions and accessories throughout. Natural Japanese female voice, speaking Japanese.\n\nCAST\n\n- Senior Coworker: woman, late 40s, short brown bob, glasses, pale blue blouse, dark skirt, clipboard.\n- Party Coworker: man, late 20s, messy black hair, cream sweater, cake box and balloons.\n- Boss: man, 60s, short and stout, completely bald with white side fringe, gold glasses, charcoal three-piece suit, thick documents.\n- Delivery Worker: man, early 30s, tall, short black hair, dark uniform, pushing supply cart.\n- Boss is the only bald character.\n\nROUTE\n\nWorkstation → open office → break room → storage corridor → main corridor → security gate → lobby → glass exit.\n\nCAMERA / FORMAT\n\nOne continuous third-person gameplay take from 0–27s, then exactly one hard cut at 27s to a locked 27–30s shot. Camera stays behind NAGI with realistic gameplay motion. No clipping, teleporting, or extra cuts. Final shot is outside facing NAGI.\n\nACTION\n\n0–5.5s:\nClock hits 17:00. NAGI grabs her tote and whispers:\n{定時だ…今なら逃げられる。}\nHUD: 5:00 PM — SHIFT OVER / OBJECTIVE: EXIT THE BUILDING.\nA senior coworker searches for someone to help. NAGI crouches behind a chair, avoids her detection cone, then slips away.\n\n5.5–11s:\nAt the break room, a coworker carrying cake and balloons blocks the route. A balloon touches NAGI’s hair. She freezes until he passes, then whispers:\n{風船まで敵なの…？}\nHUD: THREAT PASSED.\n\n11–17s:\nA delivery worker pushes a loaded cart through a narrow corridor. NAGI hides behind boxes and silently catches a falling box. HUD: SILENT INTERACTION +50. She continues toward the exit.\n\n17–23s:\nThe BOSS appears holding documents. Red alert marker.\n{なぎさん、これ今日中に――}\nNAGI ducks behind a copy machine, circles it, breaks line of sight behind a glass partition and whispers:\n{今日はもう終わりです…！}\nHUD: ALERT / BREAK LINE OF SIGHT / ESCAPE ROUTE FOUND.\n\n23–27s:\nNAGI sprints to the security gate. First ID scan fails. She panics, scans again: ACCESS GRANTED. She reaches and opens the glass exit. The Boss shouts:\n{なぎさん！ちょっとだけ！}\nShe turns toward camera.\n\n27s HARD CUT\n\n27–30s:\nLocked static shot outside the building. NAGI stands outside holding her tote, Boss visible through the glass. He calls:\n{明日の朝でもいいから！}\nNAGI smiles at camera:\n{もちろんです！}\nShe walks away as the doors close.\n\nHUD: MISSION COMPLETE / STEALTH RANK: S / ADRENALINE +200 / WORKDAY SUCCESSFULLY ESCAPED\n\nREALISM\n\nUltra-photorealistic live-action humans with natural skin, eyes, hair, fabric, breathing, shadows, reflections and physics. Tote has real weight; balloons, cart wheels, clothing and hair move naturally. No AI-looking faces, plastic skin, anime, cartoon, teleportation or duplicated characters.\n\nLIGHTING\n\nConsistent 5600K late-afternoon sunlight through office windows with realistic shadows and reflections. Outdoor daylight continues naturally after the cut.\n\nHUD / AUDIO\n\nGTA-style English HUD fixed in the same positions. No subtitles or caption bars. Japanese dialogue only. Tense stealth synth, heartbeat during alerts, realistic office ambience, scanner and door sounds, ending with a comedic victory fanfare.\n\nOUTPUT\n\n16:9 • 30 seconds • 0–27s one continuous take • 27–30s one locked shot • exactly one cut • photorealistic live-action quality.",
+    "sourceRange": {
+      "start": 38,
+      "end": 3847
+    },
+    "translations": {
+      "zh": "场景：现代日本公司办公室下午5点整，30秒AAA级第三人称潜行冒险序列。25岁职员NAGI下班后必须避开所有派活同事逃出公司。带有轻喜剧风格，设定了角色外观锁、配角名单、逃跑路线、第三人称游戏视角的动作分段及GTA风格HUD界面与日文配音要求。",
+      "en": "SCENE: 30s photorealistic AAA third-person stealth sequence in a modern Japanese corporate office at 5 PM. 25-year-old office worker NAGI escapes right after shift end. Detailed stealth game mechanics, character lock, cast, timeline actions, and HUD elements."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
