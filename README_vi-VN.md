@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**100** Prompt · Bổ sung mới nhất: **2026-09-16**
+**101** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -321,6 +321,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2100311999838380522"></a>
+
+### Đang dịch
+
+Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100311999838380522.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2523,7 +2545,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Kết xuất 3D · Đã
 
 <a name="prompt-2100233948341367178"></a>
 
-### Đang dịch
+### Phim ngắn kỹ xảo võ thuật nữ chiến binh tiên hiệp tốc biến đá văng yêu thú, kết thúc bằng bóng đen trên nền đỏ.
 
 Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2531,14 +2553,17 @@ Mực / Phong cách Trung Hoa · Đã xuất bản
 
 Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phim ngắn kỹ xảo võ thuật nữ chiến binh tiên hiệp tốc biến đá văng yêu thú, kết thúc bằng bóng đen trên nền đỏ.
 
 <img src="covers/2100233948341367178.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tiên hiệp phong cách Trung Hoa, phim ngắn kỹ xảo thuần CG, 16:9, dựng phim đa góc máy, ánh sáng và bóng đổ chuẩn điện ảnh, vật liệu PBR thế hệ mới, HDR chuẩn điện ảnh.
+Cùng một nhân vật nữ tiên hiệp cổ phong tông màu đen, xanh lam, trắng và vàng kim, trang phục, phụ kiện tóc và trang điểm hoàn toàn đồng nhất xuyên suốt: hoa điền đỏ trên trán, tóc dài buộc cao, chiến bào tay áo rộng màu trắng thêu chỉ xanh lam viền vàng, thắt lưng kim loại, trâm cài tóc tua rua tinh xảo.
+Trong không gian năng lượng đen lam, nữ chính xuất hiện chớp nhoáng với tốc độ cực cao từ các hạt năng lượng lam-kim bên trái, góc máy quay ngang sườn, lao cực nhanh về phía yêu thú bên phải, mái tóc dài và vạt áo tạo thành vệt bóng mờ chuyển động. Sau đó góc máy thấp nghiêng bắt trọn khoảnh khắc nữ chính xoay hông gập gối, tung ra cú đá tống ngang với góc phối cảnh cực đại, vạt áo chiến bào tung bay để lộ làn da từ đùi trở xuống, chân và bàn chân được bao bọc bởi năng lượng luồng sáng lam-kim rực rỡ. Tiếp theo chuyển sang cảnh trúng đòn, một cú đá của nữ chính đánh trúng đầu yêu thú, sương máu, bụi sáng tan vỡ cùng các hạt nổ lam-kim đồng thời bùng nổ, sau khung hình chớp đen trắng ngắn ngủi chuyển sang hiệu ứng quay chậm (slow motion), yêu thú bị một lực cực mạnh đá bay theo hướng cú đá. Cuối cùng khung hình chuyển sang nền đỏ rực rỡ bão hòa cao với bóng đen (silhouette) của các nhân vật, nữ chính giữ nguyên tư thế sắc bén, yêu thú bay ngược về phía sau bên phải rồi rơi xuống đất, khói bụi đen nổ tung, tạo nên ấn tượng thị giác tương phản đỏ đen mạnh mẽ ở đoạn kết.
+Tổng thể chuyển động gọn gàng, dứt khoát, đầy tính bùng nổ, nhịp độ góc máy nhanh, nửa đầu tràn ngập kỹ xảo lam-kim mãn nhãn, kết thúc chuyển thành khung hình tương phản đỏ-đen súc tích và mạnh mẽ.
 ```
 
 [↑ Về danh mục](#catalog)

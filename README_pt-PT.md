@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**100** Prompts · Adição mais recente: **2026-09-16**
+**101** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -305,6 +305,28 @@ Tradução em curso
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2100311999838380522"></a>
+
+### Tradução em curso
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Cena de Cinema / Fotograma · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100311999838380522.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2396,7 +2418,7 @@ Tradução em curso
 
 <a name="prompt-2100233948341367178"></a>
 
-### Tradução em curso
+### Curta de artes marciais e efeitos visuais com guerreira xianxia que surge velozmente e pontapeia uma besta, terminando em silhueta vermelha e preta.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2404,14 +2426,17 @@ Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Resumo:** Tradução em curso
+**Resumo:** Curta de artes marciais e efeitos visuais com guerreira xianxia que surge velozmente e pontapeia uma besta, terminando em silhueta vermelha e preta.
 
 <img src="covers/2100233948341367178.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Estilo Xianxia chinês, curta-metragem de efeitos especiais totalmente em CG, 16:9, montagem com múltiplos planos, iluminação e sombras cinematográficas, materiais PBR de última geração, HDR cinematográfico.
+A mesma personagem feminina Xianxia de estilo tradicional em tons de preto, azul, branco e dourado, com vestuário, adereços de cabelo e maquilhagem rigorosamente idênticos do início ao fim: huadian vermelho na testa, cabelo comprido apanhado no alto, túnica de combate de mangas largas branca com bordados em azul e dourado, cinto metálico na cintura, ornamentos capilares requintados com borlas.
+Num espaço energético preto e azul, a protagonista surge em teletransporte a alta velocidade a partir de partículas azul-douradas à esquerda, plano lateral, investindo velozmente contra a besta monstruosa à direita, com os cabelos compridos e a bainha das vestes a criar arrastos de movimento dinâmicos. De seguida, um plano lateral picado para cima (contra-picado) mostra a protagonista a rodar a anca e a recolher o joelho para aplicar um pontapé lateral com uma perspetiva acentuada; a parte inferior da túnica de combate ergue-se, revelando as coxas e as pernas, com a perna e o pé envolvidos por energia luminosa fluida azul e dourada. Corta para o plano do impacto: o pontapé da protagonista atinge a cabeça do monstro, libertando em simultâneo uma névoa de sangue, poeira luminosa estilhaçada e partículas de explosão azul-douradas; após um breve fotograma a preto e branco, passa para câmara lenta, sendo a besta projetada por uma força colossal na direção do golpe. No final, a cena muda para um fundo vermelho de saturação elevada com silhuetas negras das personagens; a protagonista mantém a sua pose incisiva enquanto a besta é projetada para trás à direita, embatendo no chão e levantando fumo preto, resultando num forte impacto visual a vermelho e preto.
+Os movimentos são limpos, vigorosos e explosivos, com um ritmo de câmara rápido; a primeira metade apresenta efeitos intensos a azul e dourado, terminando numa imagem de contraste a vermelho e preto concisa e marcante.
 ```
 
 [↑ Voltar às categorias](#catalog)

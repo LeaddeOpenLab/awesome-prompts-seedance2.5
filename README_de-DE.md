@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**100** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**101** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -319,6 +319,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2100311999838380522"></a>
+
+### Übersetzung läuft
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100311999838380522.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2388,7 +2410,7 @@ Comic / Storyboard · Fotografie · 3D-Rendering · Veröffentlicht
 
 <a name="prompt-2100233948341367178"></a>
 
-### Übersetzung läuft
+### Xianxia-Kampfkunst-Kurzfilm mit Spezialeffekten, in dem sich eine Kriegerin teleportiert und eine Bestie wegtritt, endend in einer rot-schwarzen Silhouette.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2396,14 +2418,17 @@ Tinte / Chinesischer Stil · Veröffentlicht
 
 Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Xianxia-Kampfkunst-Kurzfilm mit Spezialeffekten, in dem sich eine Kriegerin teleportiert und eine Bestie wegtritt, endend in einer rot-schwarzen Silhouette.
 
 <img src="covers/2100233948341367178.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Chinesischer Xianxia-Stil, reiner CG-VFX-Kurzfilm, 16:9, Multi-Shot-Schnitt, filmreife Beleuchtung und Schatten, PBR-Materialien der nächsten Generation, cineastisches HDR.
+Dieselbe weibliche Xianxia-Figur im antiken Stil in Schwarz, Blau, Weiß und Gold, deren Kostüm, Kopfschmuck und Make-up durchgehend vollkommen einheitlich sind: rotes Huadian auf der Stirn, hochgebundenes langes Haar, weiße Kampfrobe mit weiten Ärmeln und blau-goldenen Stickereien, metallischer Taillengürtel, feiner Haarschmuck mit Quasten.
+In einem schwarz-blauen Energieraum teleportiert die Protagonistin mit extrem hoher Geschwindigkeit aus blau-goldenen Partikeln von links herbei, Seitenansicht, sprintet mit hoher Geschwindigkeit auf die Bestie rechts zu, während langes Haar und Gewand dynamische Nachzieheffekte erzeugen. Anschließend zeigt eine tiefe Seitenkamera, wie die Protagonistin die Hüfte eindreht, das Knie anzieht und einen extrem perspektivischen Sidekick ausführt; der Kampfgewandsaum wirbelt hoch und gibt den Blick auf Oberschenkel und Beine frei, wobei Bein und Fuß in blau-goldene fließende Lichtenergie gehüllt sind. Schnitt zum Treffer: Der Tritt der Protagonistin trifft den Kopf der Bestie, woraufhin Blutnebel, splitternder Lichtstaub und blau-goldene Explosionspartikel simultan aufplatzen; nach einem kurzen Schwarz-Weiß-Flash-Frame geht die Szene in Zeitlupe über, und die Bestie wird von der gewaltigen Wucht entlang der Trittrichtung weggeschleudert. Schließlich wechselt das Bild zu einem hochgesättigten roten Hintergrund mit schwarzen Charaktersilhouetten; die Protagonistin verharrt in angriffslustiger Pose, während die Bestie nach hinten rechts geschleudert wird, aufprallt und schwarzer Rauch aufsteigt – ein kraftvoller rot-schwarzer visueller Schlusskontrast.
+Die Bewegungen sind sauber, rasant und explosiv, das Kameratempo hoch; die erste Hälfte besticht durch intensive blau-goldene Effekte, die am Ende in ein klares, wuchtiges rot-schwarzes Kontrastbild münden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

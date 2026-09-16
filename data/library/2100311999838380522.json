@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:24:54.648Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\n\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\n\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\n\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\n\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos.",
+  "promptTranslations": {
+    "en": "SCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\\n\\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\\n\\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\\n\\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\\n\\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\\n\\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos."
+  },
+  "summaryTranslations": {
+    "en": "Locked-off shot of a closed shoji screen, in stillness only cool natural light passing through the washi paper gradually brightens."
+  },
+  "translationVersion": 2,
+  "summary": "封闭障子门的固定镜头，静止中唯有穿过和纸的清冷自然光逐渐变亮。",
+  "summaryEn": "A locked shot of a closed Japanese shoji screen as daylight brightens across the panels.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100311999838380522",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2100311999838380522",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-16T19:52:57.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "ja",
+    "originalText": "90% of my prompt is camera. 10% is subject.\nプロンプトの9割はカメラ。被写体は1割\n\nLight changes. Wood and paper stay still.\n動くのは光だけ。木と紙は止まっている。\n\nPROMPT (worked, as-is):\n\nSCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\n\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\n\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\n\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\n\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 10s / Sound Off / no Start frame\n効いているのはこの1行 → PHYSICS の \"Light changes. Wood and paper stay still.\" 戸を開けない。ワイプにしない。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2100311999838380522",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100311972629868544/pu/img/wQ1WBx8LlkIMPky6.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2100311999838380522"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2100311999838380522",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100311972629868544/pu/img/wQ1WBx8LlkIMPky6.jpg",
+  "coverPath": "covers/2100311999838380522.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100311972629868544",
+    "x-post:2100311999838380522"
+  ],
+  "analysis": {
+    "summary": "封闭障子门的固定镜头，静止中唯有穿过和纸的清冷自然光逐渐变亮。",
+    "summaryEn": "A locked shot of a closed Japanese shoji screen as daylight brightens across the panels.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现完全静止的障子门特写构图，仅有自然日光逐渐充盈和纸面板，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\n\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\n\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\n\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\n\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos.",
+    "sourceRange": {
+      "start": 153,
+      "end": 881
+    },
+    "translations": {
+      "zh": "场景：室内面向闭合的障子门，16:9。固定镜头。和纸网格填满画面。无手，无人物剪影，无清晰文字。\n\n动作：和纸起初较暗。如同云层飘过般，清冷的日光洒在门板上逐渐变亮，随后保持。木质格栅纹丝不动。这不是开门，也不是转场划像。\n\n对焦：和纸纤维及中心的一处组子榫接处极致清晰。边缘保持在画框内。\n\n物理：仅光线变化。木与纸保持静止。无变形，无摄像机漂移。\n\n光照：仅穿透和纸的漫射日光。无电器色彩。和纸上无生硬绘制的太阳光盘。\n\n风格：逼真电影感，日本历史时期风格，磨损木材与和纸肌理，柔和胶片颗粒。无动漫，无文字，无水印，无标志。",
+      "en": "SCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\n\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\n\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\n\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\n\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

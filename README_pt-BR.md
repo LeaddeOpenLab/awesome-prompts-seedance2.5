@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**100** Prompts · Última adição: **2026-09-16**
+**101** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -305,6 +305,28 @@ Tradução em andamento
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2100311999838380522"></a>
+
+### Tradução em andamento
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100311999838380522.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2396,7 +2418,7 @@ Tradução em andamento
 
 <a name="prompt-2100233948341367178"></a>
 
-### Tradução em andamento
+### Curta de artes marciais e efeitos visuais com guerreira xianxia que se teleporta e chuta uma besta mágica, terminando em silhueta vermelha e preta.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2404,14 +2426,17 @@ Tinta / Estilo Chinês · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Curta de artes marciais e efeitos visuais com guerreira xianxia que se teleporta e chuta uma besta mágica, terminando em silhueta vermelha e preta.
 
 <img src="covers/2100233948341367178.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Estilo Xianxia chinês, curta-metragem puramente em efeitos especiais CG, 16:9, edição multi-câmera, iluminação e sombras cinematográficas, materiais PBR de última geração, HDR cinematográfico.
+A mesma personagem feminina Xianxia de estilo tradicional nas cores preto, azul, branco e dourado, com vestimentas, adereços de cabelo e maquiagem totalmente consistentes do início ao fim: huadian vermelho na testa, cabelos longos presos no alto, manto de combate de mangas largas branco com bordados azul e ouro, espartilho metálico na cintura, delicados enfeites de cabelo com pingentes de franja.
+Em um espaço de energia preto e azul, a protagonista surge em alta velocidade teleportando-se a partir de partículas azul-douradas à esquerda, tomada lateral, avançando rapidamente em direção à besta mística à direita, enquanto os cabelos longos e as barras das roupas criam rastros dinâmicos de movimento. Em seguida, um ângulo baixo lateral mostra a protagonista girando o quadril e encolhendo o joelho para desferir um chute lateral com perspectiva dramática; a barra do manto de combate se eleva, revelando as coxas e as pernas, com perna e pé envoltos em energia luminosa fluida azul e dourada. Corta para o momento do impacto: o chute da protagonista atinge em cheio a cabeça da fera, explodindo simultaneamente névoa de sangue, poeira de luz estilhaçada e partículas explosivas em azul e ouro; após um breve flash em preto e branco, a cena entra em câmera lenta, com a besta sendo arremessada com força colossal na direção do golpe. Por fim, a imagem muda para um fundo vermelho de alta saturação com silhuetas pretas dos personagens; a protagonista mantém sua postura afiada e implacável enquanto a criatura voa para trás à direita e se choca contra o chão, erguendo uma nuvem de fumaça preta, encerrando com um forte impacto visual em vermelho e preto.
+Toda a ação é limpa, incisiva e explosiva, com ritmo de câmera acelerado; a primeira metade destaca efeitos azul-dourados intensos, culminando em uma marcante composição de contraste vermelho e preto.
 ```
 
 [↑ Voltar às categorias](#catalog)

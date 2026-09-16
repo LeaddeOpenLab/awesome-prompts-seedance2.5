@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**100** Prompt · Ultima aggiunta: **2026-09-16**
+**101** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -319,6 +319,28 @@ Traduzione in corso
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2100311999838380522"></a>
+
+### Traduzione in corso
+
+Autore：[@studiokagurajp](https://x.com/studiokagurajp) · [Post originale](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100311999838380522.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2402,7 +2424,7 @@ Traduzione in corso
 
 <a name="prompt-2100233948341367178"></a>
 
-### Traduzione in corso
+### Cortometraggio di arti marziali e VFX in cui una guerriera xianxia si teletrasporta e spazza via una bestia con un calcio, con finale a silhouette rossa e nera.
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2410,14 +2432,17 @@ Inchiostro / Stile Cinese · Pubblicato
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Cortometraggio di arti marziali e VFX in cui una guerriera xianxia si teletrasporta e spazza via una bestia con un calcio, con finale a silhouette rossa e nera.
 
 <img src="covers/2100233948341367178.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Stile Xianxia cinese, cortometraggio puramente in VFX CGI, 16:9, montaggio multi-inquadratura, luci e ombre cinematografiche, materiali PBR di nuova generazione, HDR cinematografico.
+Lo stesso personaggio femminile Xianxia in stile tradizionale dai toni nero, blu, bianco e oro, con abito, acconciatura e trucco perfettamente identici per tutta la durata: huadian rosso sulla fronte, lunghi capelli raccolti in alto, abito da battaglia a maniche ampie bianco con ricami blu e oro, fascia metallica in vita, raffinati ornamenti per capelli con nappe.
+In uno spazio energetico nero e blu, la protagonista appare teletrasportandosi ad altissima velocità da particelle blu e oro sulla sinistra, ripresa laterale, caricando velocemente verso la bestia demoniaca a destra, con i lunghi capelli e i lembi dell'abito che creano scie di movimento dinamiche. Successivamente, un'inquadratura laterale dal basso mostra la protagonista ruotare i fianchi e raccogliere il ginocchio per sferrare un calcio laterale con una prospettiva enfatizzata; il lembo dell'abito da battaglia si solleva rivelando cosce e gambe, con gamba e piede avvolti da un flusso di energia luminosa blu e oro. Stacco sull'impatto: il calcio della protagonista colpisce la testa del mostro, scatenando all'unisono una nebbia di sangue, polvere di luce frammentata e particelle esplosive blu e oro; dopo un breve frame lampeggiante in bianco e nero, si passa allo slow motion, mentre la bestia viene scagliata via con tremenda forza nella direzione del colpo. Infine, l'inquadratura passa a uno sfondo rosso ad alta saturazione con silhouette nere dei personaggi; la protagonista mantiene la sua posa fiera e tagliente mentre la bestia vola all'indietro verso destra schiantandosi al suolo, sollevando un'esplosione di fumo nero, per un finale dal forte impatto visivo rosso e nero.
+I movimenti complessivi sono puliti, decisi ed esplosivi, con un ritmo di ripresa incalzante; la prima metà presenta intensi effetti blu e oro, per poi culminare in un contrasto rosso e nero asciutto e potente.
 ```
 
 [↑ Torna alle categorie](#catalog)

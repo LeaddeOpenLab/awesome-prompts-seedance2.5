@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**100** Prompts · Última incorporación: **2026-09-16**
+**101** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -319,6 +319,28 @@ Traducción en curso
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2100311999838380522"></a>
+
+### Traducción en curso
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicación original](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Cine / Fotograma · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100311999838380522.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2388,7 +2410,7 @@ Traducción en curso
 
 <a name="prompt-2100233948341367178"></a>
 
-### Traducción en curso
+### Cortometraje de artes marciales y efectos visuales de una guerrera xianxia que se teletransporta y patea a una bestia, con final en siluetas rojas y negras.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2396,14 +2418,17 @@ Tinta / Estilo chino · Publicado
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Resumen:** Traducción en curso
+**Resumen:** Cortometraje de artes marciales y efectos visuales de una guerrera xianxia que se teletransporta y patea a una bestia, con final en siluetas rojas y negras.
 
 <img src="covers/2100233948341367178.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Estilo Xianxia tradicional chino, cortometraje puramente de efectos especiales CG, 16:9, edición multicámara, iluminación cinematográfica, materiales PBR de última generación, HDR cinematográfico.
+Un mismo personaje femenino de Xianxia de estilo clásico en tonos negro, azul, blanco y dorado, con vestuario, peinado y maquillaje completamente consistentes en todo momento: huadian rojo en la frente, cabello largo recogido en alto, túnica de combate de mangas anchas en blanco con bordados azul y oro, fajín metálico a la cintura y finos accesorios para el cabello con borlas.
+En un espacio energético negro y azul, la protagonista se teletransporta a gran velocidad desde partículas azul dorado a la izquierda, toma lateral, corriendo a máxima velocidad hacia la bestia a la derecha, con su cabello largo y la túnica dejando una estela dinámica de movimiento. Luego, una toma lateral en contrapicado muestra a la protagonista girando la cadera y doblando la rodilla para conectar una patada lateral con una perspectiva extrema; el faldón de combate se levanta dejando ver los muslos y las piernas, que junto a los pies están envueltos en energía fluida azul y dorada. Enseguida se corta al impacto: la patada golpea de lleno la cabeza de la criatura, desatando al mismo tiempo una nube de sangre, destellos fragmentados y partículas de explosión azul dorado; tras un breve cuadro en blanco y negro, entra en cámara lenta mientras la bestia sale disparada por la enorme fuerza en la dirección del golpe. Al final, la escena cambia a un fondo rojo de alta saturación con siluetas negras de los personajes; la heroína sostiene su pose desafiante mientras la bestia vuela hacia atrás a la derecha y se estrella contra el suelo, estallando una nube de humo negro, cerrando con un impacto visual muy potente en rojo y negro.
+Las acciones son limpias, feroces y explosivas, con un ritmo de cámara ágil; la primera mitad destaca por sus intensos efectos azul y oro, terminando en una escena de contraste rojo y negro sobria y contundente.
 ```
 
 [↑ Volver a categorías](#catalog)

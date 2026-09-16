@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**100** Prompts · Dernier ajout: **2026-09-16**
+**101** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -319,6 +319,28 @@ Traduction en cours
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2100311999838380522"></a>
+
+### Traduction en cours
+
+Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100311999838380522.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2388,7 +2410,7 @@ Traduction en cours
 
 <a name="prompt-2100233948341367178"></a>
 
-### Traduction en cours
+### Court-métrage d'action VFX xianxia où une guerrière se téléporte pour repousser une bête monstrueuse d'un coup de pied, se terminant par une silhouette rouge et noire.
 
 Auteur：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2396,14 +2418,17 @@ Encre / Style Chinois · Publié
 
 Publication originale：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Résumé:** Traduction en cours
+**Résumé:** Court-métrage d'action VFX xianxia où une guerrière se téléporte pour repousser une bête monstrueuse d'un coup de pied, se terminant par une silhouette rouge et noire.
 
 <img src="covers/2100233948341367178.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Style Xianxia chinois traditionnel, court-métrage d'effets spéciaux 100 % CG, 16:9, montage multi-plans, lumières et ombres cinématographiques, matériaux PBR nouvelle génération, HDR cinématographique.
+Le même personnage féminin de Xianxia au style antique en noir, bleu, blanc et or, avec un costume, des accessoires de coiffure et un maquillage parfaitement constants du début à la fin : huadian rouge sur le front, longs cheveux relevés en hauteur, robe de combat blanche à manches larges brodée de bleu et d'or, ceinture corselet métallique, délicats ornements capillaires à pompons.
+Dans un espace énergétique noir et bleu, l'héroïne apparaît par téléportation à grande vitesse depuis des particules bleu et or sur la gauche, prise de vue latérale, se précipitant à vive allure vers la bête monstrueuse sur la droite, sa longue chevelure et les pans de sa robe créant des traînées dynamiques. Puis, un plan latéral en contre-plongée montre l'héroïne pivotant le bassin et levant le genou pour asséner un coup de pied latéral avec une perspective démesurée ; le bas de sa tenue de combat se soulève, révélant ses cuisses et le reste de ses jambes enveloppées, tout comme son pied, d'une énergie lumineuse bleu et or en mouvement. La caméra coupe ensuite sur l'impact : le coup de pied frappe de plein fouet la tête de la créature, faisant exploser simultanément une brume de sang, une poussière de lumière fragmentée et des particules explosives bleu et or ; après un bref flash noir et blanc, la scène passe au ralenti, la bête étant projetée avec une force titanesque dans l'axe du coup de pied. Enfin, l'image bascule sur un arrière-plan rouge très saturé avec les silhouettes noires des personnages ; l'héroïne conserve sa posture incisive tandis que la bête vole vers l'arrière droit et s'écrase au sol, soulevant une explosion de fumée noire, pour conclure sur un puissant impact visuel rouge et noir.
+L'ensemble des mouvements est net, tranchant et explosif, avec un rythme de caméra rapide ; la première partie offre des effets bleu et or saisissants avant de se clore sur un contraste rouge et noir sobre et percutant.
 ```
 
 [↑ Retour aux catégories](#catalog)

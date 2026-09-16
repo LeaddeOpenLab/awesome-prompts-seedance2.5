@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**100** Prompts · Latest addition: **2026-09-16**
+**101** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -383,6 +383,28 @@ Do not omit actively mounting the table or intentional interference; do not show
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100311999838380522"></a>
+
+### Locked-off shot of a closed shoji screen, in stillness only cool natural light passing through the washi paper gradually brightens.
+
+Author：[@studiokagurajp](https://x.com/studiokagurajp) · [Source](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Cinematic / Film Still · Published
+
+**Summary:** Locked-off shot of a closed shoji screen, in stillness only cool natural light passing through the washi paper gradually brightens.
+
+<img src="covers/2100311999838380522.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+SCENE: Interior facing a closed shoji, 16:9. Locked frame. The paper grid fills the shot. No hand. No silhouette of a person. No readable writing.\n\nACTION: The paper starts dim. A cooler daylight brightens across the panels as if a cloud has passed, then holds. The wood lattice does not move. This is not a door opening. Not a wipe.\n\nFOCUS: Tack-sharp on the paper fiber and one kumiko joint at center. Edges stay in frame.\n\nPHYSICS: Light changes. Wood and paper stay still. No warp. No camera drift.\n\nLIGHT: Diffuse daylight through paper only. No electric color. No hard sun disk drawn on the paper.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and washi tooth, soft grain. No anime. No text. No watermark. No logos.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 

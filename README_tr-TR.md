@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**100** Prompt · Son eklenen: **2026-09-16**
+**101** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -305,6 +305,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2100311999838380522"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2100311999838380522)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100311999838380522.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100088243492385019"></a>
 
@@ -2396,7 +2418,7 @@ Yazar：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x
 
 <a name="prompt-2100233948341367178"></a>
 
-### Çeviri sürüyor
+### Işınlanıp canavara tekme savuran Xianxia kadın savaşçısının dövüş efektli kısa filmi, kırmızı-siyah silüetle sonlanıyor.
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -2404,14 +2426,17 @@ Mürekkep / Çin Tarzı · Yayımlandı
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Işınlanıp canavara tekme savuran Xianxia kadın savaşçısının dövüş efektli kısa filmi, kırmızı-siyah silüetle sonlanıyor.
 
 <img src="covers/2100233948341367178.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Çin Xianxia tarzı, tamamen CG özel efektli kısa film, 16:9, çoklu kamera kurgusu, sinematik ışık ve gölge, PBR yeni nesil materyaller, sinematik HDR.
+Siyah, mavi, beyaz ve altın tonlarında tek bir antik tarz Xianxia kadın karakteri; tüm sahnelerde giysi, saç aksesuarı ve makyajı eksiksiz şekilde tutarlı: alında kırmızı huadian motifi, tepeden sıkıca toplanmış uzun saçlar, beyaz zemin üzerine mavi-altın işlemeli geniş kollu savaş cübbesi, metalik korse kemer, püsküllü zarif saç tokaları.
+Siyah-mavi enerji uzayında, kadın kahraman sol taraftaki mavi-altın parçacıklar arasından ışık hızında ışınlanarak belirir, yan çekim, sağ taraftaki canavara doğru yüksek hızla atılır; uzun saçları ve elbisesinin etekleri dinamik hareket izleri oluşturur. Ardından gelen yan alt açı çekimde, kahramanın kalçasını döndürüp dizini çekerek devasa bir perspektifle yan tekme savurduğu görülür; savaş cübbesinin eteği havalanarak uyluk ve bacakları ortaya çıkarır, bacak ve ayak kısmı akıcı mavi-altın ışıltılı enerjiyle sarılmıştır. Ardından vuruş anına kesilir: kadının tekmesi canavarın kafasına tam isabet eder, kan sisi, parçalanan ışık tozları ve mavi-altın patlama parçacıkları aynı anda etrafa saçılır; kısa bir siyah-beyaz parlamanın ardından ağır çekime girilir ve canavar tekmeyle muazzam bir güçle darbe yönünde savrulur. Son olarak görüntü, yüksek doygunlukta kırmızı bir arka plana ve siyah karakter silüetlerine geçer; kadın kahraman keskin duruşunu korurken canavar sağ geriye doğru uçup yere çakılır, siyah dumanlar patlar ve finalde çarpıcı bir kırmızı-siyah görsel tezat oluşturulur.
+Tüm hareketler temiz, keskin ve patlayıcı güçtedir, kamera temposu hızlıdır; ilk yarıdaki yoğun mavi-altın efektler, sonda sade ve güçlü bir kırmızı-siyah kontrast görüntüye dönüşür.
 ```
 
 [↑ Kategorilere dön](#catalog)
