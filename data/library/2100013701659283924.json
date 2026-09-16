@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:31:26.495Z",
+  "model": "seedance",
+  "prompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.\n​Setting: A terrifying, hyper-detailed magical forest. Photorealistic wet mud, moss, ancient towering trees, dense creeping fog.\n​Style & Visuals\n​Quality: Masterpiece cinematic anime, photorealistic environmental textures seamlessly blended with premium anime shading.\n​Lighting: Dramatic contrast. Dark forest lit by toxic pulsating cyan/purple flora, sharp character rim lighting, transitioning into brilliant warm sunlight.\n​Camera & Framing: Expansive horizontal tracking, wide anamorphic composition, sudden bullet-time macro close-up, sweeping panoramic pull-back.\n​Consistency: Strictly maintain absolute visual consistency for Nako and Toto throughout.\n​Audio & ASMR\n​BGM: Fast-paced orchestral chase music, abruptly slows during bullet-time, transitioning into a peaceful acoustic melody at 22s.\n​SFX: Whip-like snaps, running on mud, sharp \"shing\" in slow-mo, fading into gentle breeze and rustling grass.\n​ASMR: Visceral heavy panting from Nako and Toto, softening into relieved sighs. NO voices, NO dialogue.\n​Characters & Enemies\n​Character 1 (Nako): Short brown hair, green explorer jacket, shorts, boots, backpack. Sweating, desperate expression.\n​Character 2 (Toto): Fluffy white and tan Shih Tzu dog. Frantic sprint, ears flapping, panting wildly.\n​The Thorns (Enemy): Sentient giant dark-green vines with razor-sharp glowing cyan/purple thorns, striking with terrifying whip-like speed.\n​Timeline & Action\n​0–10s (Wide High-Speed Chase): Immediate frantic sprint across the wide frame. Nako and Toto run at extreme speed. Glowing vines strike the ground violently behind their heels, splashing mud and debris toward the lens.\n​10–15s (Bullet-Time Acrobatic Dodge): Sudden extreme slow-motion. A razor-sharp glowing thorn thrusts at Nako's face. She performs an acrobatic sliding backbend across the wide frame; the glowing tip grazes millimeters above her eyes, slicing a strand of hair. Toto slides fluidly underneath her.\n​15–22s (The Breakthrough): Snapping back to high speed, they burst through the tree line into a vast, sunlit grassy clearing under a bright sky. The vines instantly recoil into the shadows.\n​22–30s (Relief and Panoramic Pull-back): Nako collapses spread-eagle on the grass, smiling warmly at Toto. Toto sits beside her, panting happily with a wagging tail. The camera smoothly pulls back high into a breathtaking, silent panoramic wide shot of the sunny meadow and the distant forest edge.\n​Negative Prompt / Constraints\n​NO text, NO title, NO UI, NO logos.\n​NO character morphing, NO outfit changes, NO breed changes.\n​NO dialogue, NO human voices.\n​NO slow pacing (except 10–15s bullet-time), NO camera jitter, NO distorted anatomy.",
+  "promptTranslations": {
+    "en": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.\n​Setting: A terrifying, hyper-detailed magical forest. Photorealistic wet mud, moss, ancient towering trees, dense creeping fog.\n​Style & Visuals\n​Quality: Masterpiece cinematic anime, photorealistic environmental textures seamlessly blended with premium anime shading.\n​Lighting: Dramatic contrast. Dark forest lit by toxic pulsating cyan/purple flora, sharp character rim lighting, transitioning into brilliant warm sunlight.\n​Camera & Framing: Expansive horizontal tracking, wide anamorphic composition, sudden bullet-time macro close-up, sweeping panoramic pull-back.\n​Consistency: Strictly maintain absolute visual consistency for Nako and Toto throughout.\n​Audio & ASMR\n​BGM: Fast-paced orchestral chase music, abruptly slows during bullet-time, transitioning into a peaceful acoustic melody at 22s.\n​SFX: Whip-like snaps, running on mud, sharp \"shing\" in slow-mo, fading into gentle breeze and rustling grass.\n​ASMR: Visceral heavy panting from Nako and Toto, softening into relieved sighs. NO voices, NO dialogue.\n​Characters & Enemies\n​Character 1 (Nako): Short brown hair, green explorer jacket, shorts, boots, backpack. Sweating, desperate expression.\n​Character 2 (Toto): Fluffy white and tan Shih Tzu dog. Frantic sprint, ears flapping, panting wildly.\n​The Thorns (Enemy): Sentient giant dark-green vines with razor-sharp glowing cyan/purple thorns, striking with terrifying whip-like speed.\n​Timeline & Action\n​0–10s (Wide High-Speed Chase): Immediate frantic sprint across the wide frame. Nako and Toto run at extreme speed. Glowing vines strike the ground violently behind their heels, splashing mud and debris toward the lens.\n​10–15s (Bullet-Time Acrobatic Dodge): Sudden extreme slow-motion. A razor-sharp glowing thorn thrusts at Nako's face. She performs an acrobatic sliding backbend across the wide frame; the glowing tip grazes millimeters above her eyes, slicing a strand of hair. Toto slides fluidly underneath her.\n​15–22s (The Breakthrough): Snapping back to high speed, they burst through the tree line into a vast, sunlit grassy clearing under a bright sky. The vines instantly recoil into the shadows.\n​22–30s (Relief and Panoramic Pull-back): Nako collapses spread-eagle on the grass, smiling warmly at Toto. Toto sits beside her, panting happily with a wagging tail. The camera smoothly pulls back high into a breathtaking, silent panoramic wide shot of the sunny meadow and the distant forest edge.\n​Negative Prompt / Constraints\n​NO text, NO title, NO UI, NO logos.\n​NO character morphing, NO outfit changes, NO breed changes.\n​NO dialogue, NO human voices.\n​NO slow pacing (except 10–15s bullet-time), NO camera jitter, NO distorted anatomy."
+  },
+  "summaryTranslations": {
+    "en": "Makoto Shinkai style 30-second anime chase short prompt, including characters, settings, sound effects, and shot timeline."
+  },
+  "translationVersion": 2,
+  "summary": "Makoto Shinkai 风格的30秒动漫追逐短片提示词，包含角色、场景、音效和分镜头时间线。",
+  "summaryEn": "Detailed 30-second anime chase prompt in Makoto Shinkai style, with shot timelines, characters, and audio notes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100013701659283924",
+    "canonicalUrl": "https://x.com/fps_lusu/status/2100013701659283924",
+    "author": {
+      "username": "fps_lusu",
+      "displayName": "Rukiru",
+      "profileUrl": "https://x.com/fps_lusu"
+    },
+    "publishedAt": "2026-09-16T00:07:37.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "ja",
+    "originalText": "「緊迫の回避シーン」をAIで作ろうとしたら、物理法則を完全無視した爆笑動画が錬成されました😂\n​避け方は百歩譲るとして、なんでその姿勢のまま草原の彼方まで吹っ飛んでくのｗｗ\nよく見ると犬に押されてるように見えて腹筋崩壊した（笑）\n​AI特有のこういう謎の暴走、たまらなく好きです。\n元凶のプロンプトを公開しておきます👇\n​Prompt\n​Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.\n​Setting: A terrifying, hyper-detailed magical forest. Photorealistic wet mud, moss, ancient towering trees, dense creeping fog.\n​Style & Visuals\n​Quality: Masterpiece cinematic anime, photorealistic environmental textures seamlessly blended with premium anime shading.\n​Lighting: Dramatic contrast. Dark forest lit by toxic pulsating cyan/purple flora, sharp character rim lighting, transitioning into brilliant warm sunlight.\n​Camera & Framing: Expansive horizontal tracking, wide anamorphic composition, sudden bullet-time macro close-up, sweeping panoramic pull-back.\n​Consistency: Strictly maintain absolute visual consistency for Nako and Toto throughout.\n​Audio & ASMR\n​BGM: Fast-paced orchestral chase music, abruptly slows during bullet-time, transitioning into a peaceful acoustic melody at 22s.\n​SFX: Whip-like snaps, running on mud, sharp \"shing\" in slow-mo, fading into gentle breeze and rustling grass.\n​ASMR: Visceral heavy panting from Nako and Toto, softening into relieved sighs. NO voices, NO dialogue.\n​Characters & Enemies\n​Character 1 (Nako): Short brown hair, green explorer jacket, shorts, boots, backpack. Sweating, desperate expression.\n​Character 2 (Toto): Fluffy white and tan Shih Tzu dog. Frantic sprint, ears flapping, panting wildly.\n​The Thorns (Enemy): Sentient giant dark-green vines with razor-sharp glowing cyan/purple thorns, striking with terrifying whip-like speed.\n​Timeline & Action\n​0–10s (Wide High-Speed Chase): Immediate frantic sprint across the wide frame. Nako and Toto run at extreme speed. Glowing vines strike the ground violently behind their heels, splashing mud and debris toward the lens.\n​10–15s (Bullet-Time Acrobatic Dodge): Sudden extreme slow-motion. A razor-sharp glowing thorn thrusts at Nako's face. She performs an acrobatic sliding backbend across the wide frame; the glowing tip grazes millimeters above her eyes, slicing a strand of hair. Toto slides fluidly underneath her.\n​15–22s (The Breakthrough): Snapping back to high speed, they burst through the tree line into a vast, sunlit grassy clearing under a bright sky. The vines instantly recoil into the shadows.\n​22–30s (Relief and Panoramic Pull-back): Nako collapses spread-eagle on the grass, smiling warmly at Toto. Toto sits beside her, panting happily with a wagging tail. The camera smoothly pulls back high into a breathtaking, silent panoramic wide shot of the sunny meadow and the distant forest edge.\n​Negative Prompt / Constraints\n​NO text, NO title, NO UI, NO logos.\n​NO character morphing, NO outfit changes, NO breed changes.\n​NO dialogue, NO human voices.\n​NO slow pacing (except 10–15s bullet-time), NO camera jitter, NO distorted anatomy.\n​#AIの暴走 #腹筋崩壊 #AI動画 #Seedance #生成AI #プロンプト公開",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fps_lusu/status/2100013701659283924",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100013672349548544/img/hwCCGM3H9GXlmTK8.jpg",
+        "analysisUrl": "https://x.com/fps_lusu/status/2100013701659283924"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 96
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/fps_lusu/status/2100013701659283924",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100013672349548544/img/hwCCGM3H9GXlmTK8.jpg",
+  "coverPath": "covers/2100013701659283924.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100013672349548544",
+    "x-post:2100013701659283924"
+  ],
+  "analysis": {
+    "summary": "Makoto Shinkai 风格的30秒动漫追逐短片提示词，包含角色、场景、音效和分镜头时间线。",
+    "summaryEn": "Detailed 30-second anime chase prompt in Makoto Shinkai style, with shot timelines, characters, and audio notes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video showcases the exact sequence described: a girl (Nako) and a Shih Tzu (Toto) fleeing glowing thorny vines in a dark forest, dodging in slow-motion, and ending up in a bright open meadow."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.\n​Setting: A terrifying, hyper-detailed magical forest. Photorealistic wet mud, moss, ancient towering trees, dense creeping fog.\n​Style & Visuals\n​Quality: Masterpiece cinematic anime, photorealistic environmental textures seamlessly blended with premium anime shading.\n​Lighting: Dramatic contrast. Dark forest lit by toxic pulsating cyan/purple flora, sharp character rim lighting, transitioning into brilliant warm sunlight.\n​Camera & Framing: Expansive horizontal tracking, wide anamorphic composition, sudden bullet-time macro close-up, sweeping panoramic pull-back.\n​Consistency: Strictly maintain absolute visual consistency for Nako and Toto throughout.\n​Audio & ASMR\n​BGM: Fast-paced orchestral chase music, abruptly slows during bullet-time, transitioning into a peaceful acoustic melody at 22s.\n​SFX: Whip-like snaps, running on mud, sharp \"shing\" in slow-mo, fading into gentle breeze and rustling grass.\n​ASMR: Visceral heavy panting from Nako and Toto, softening into relieved sighs. NO voices, NO dialogue.\n​Characters & Enemies\n​Character 1 (Nako): Short brown hair, green explorer jacket, shorts, boots, backpack. Sweating, desperate expression.\n​Character 2 (Toto): Fluffy white and tan Shih Tzu dog. Frantic sprint, ears flapping, panting wildly.\n​The Thorns (Enemy): Sentient giant dark-green vines with razor-sharp glowing cyan/purple thorns, striking with terrifying whip-like speed.\n​Timeline & Action\n​0–10s (Wide High-Speed Chase): Immediate frantic sprint across the wide frame. Nako and Toto run at extreme speed. Glowing vines strike the ground violently behind their heels, splashing mud and debris toward the lens.\n​10–15s (Bullet-Time Acrobatic Dodge): Sudden extreme slow-motion. A razor-sharp glowing thorn thrusts at Nako's face. She performs an acrobatic sliding backbend across the wide frame; the glowing tip grazes millimeters above her eyes, slicing a strand of hair. Toto slides fluidly underneath her.\n​15–22s (The Breakthrough): Snapping back to high speed, they burst through the tree line into a vast, sunlit grassy clearing under a bright sky. The vines instantly recoil into the shadows.\n​22–30s (Relief and Panoramic Pull-back): Nako collapses spread-eagle on the grass, smiling warmly at Toto. Toto sits beside her, panting happily with a wagging tail. The camera smoothly pulls back high into a breathtaking, silent panoramic wide shot of the sunny meadow and the distant forest edge.\n​Negative Prompt / Constraints\n​NO text, NO title, NO UI, NO logos.\n​NO character morphing, NO outfit changes, NO breed changes.\n​NO dialogue, NO human voices.\n​NO slow pacing (except 10–15s bullet-time), NO camera jitter, NO distorted anatomy.",
+    "sourceRange": {
+      "start": 169,
+      "end": 3017
+    },
+    "translations": {
+      "zh": "基础设置\n时长：30秒短片\n画幅比例：16:9（宽屏横屏）\n类型：超写实电影感动漫追逐戏，新海诚风格。\n场景：可怕且超高细节的魔法森林。逼真的湿泥、青苔、参天古树、浓密低垂的雾气。\n风格与视觉\n品质：杰作级电影动漫，逼真环境纹理与高级动漫阴影无缝融合。\n光影：戏剧性对比。黑暗森林由剧毒跳动的青/紫色植物照亮，清晰的角色边缘光，过渡到灿烂温暖的阳光。\n镜头与构图：宽广的水平跟拍，变形宽银幕构图，突然的子弹时间微距特写，平缓的全景拉远。\n一致性：全程严格保持娜可和托托的视觉绝对一致。\n音频与ASMR\nBGM：快节奏管弦乐追逐曲，在子弹时间骤减速，在22秒过渡为平静的原声旋律。\n音效：鞭打般的断裂声、泥地奔跑声、慢动作中锐利的“唰”声，逐渐融入微风与草地摩擦声。\nASMR：两人沉重真实的喘息声，转为如释重负的叹息。无对话。\n角色与敌人\n角色1（娜可）：短棕发，绿色探险夹克，短裤，靴子，背包。流汗，表情绝望。\n角色2（托托）：蓬松的白褐色西施犬。拼命奔跑，耳朵抖动，大口喘气。\n荆棘（敌人）：长有锋利发光青/紫色尖刺的感知巨型深绿藤蔓，以可怕如鞭般的速度攻击。\n时间线与动作\n0–10秒（全景高速追逐）：全画幅下立即狂奔。藤蔓猛击他们脚后的地面，溅起泥土。\n10–15秒（子弹时间特技闪避）：突发极限慢动作。发光荆棘刺向面部，后弯滑行闪避。\n15–22秒（突破）：恢复高速，冲出林线进入阳光普照的开阔草地。\n22–30秒（释怀与全景拉远）：娜可躺在草地上对托托微笑，托托在旁摇尾喘气，镜头拉远成大景别全景。\n负向提示词/约束\n无文字、标题、UI、Logo；无角色变形、换装、品种改变；无对话、人声；无过慢节奏（除闪避段）、镜头抖动、解剖结构畸变。",
+      "en": "Basic Settings\nDuration: 30-second short\nAspect Ratio: 16:9\nGenre: Hyper-realistic cinematic anime chase sequence, Makoto Shinkai style.\nSetting: Magical forest with wet mud, moss, ancient trees, and fog.\nStyle & Visuals: Cinematic anime, dramatic contrast lighting, cyan/purple glowing flora to sunlight.\nCamera: Horizontal tracking, bullet-time macro close-up, panoramic pull-back.\nAudio: Orchestral chase BGM transitioning to acoustic melody, panting ASMR, no dialogue.\nCharacters: Nako (brown hair, green jacket, shorts) and Toto (Shih Tzu dog).\nEnemy: Sentient dark-green vines with glowing thorns.\nTimeline: 0-10s chase in forest, 10-15s bullet-time dodge, 15-22s escape into meadow, 22-30s resting in sunny grass as camera pulls back.\nNegative: No text/UI, no morphing, no voices, no camera jitter."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI anime action scene video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
