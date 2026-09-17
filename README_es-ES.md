@@ -393,20 +393,20 @@ Traducción en curso
 
 <a name="prompt-2100435410338144486"></a>
 
-### Traducción en curso
+### Caída libre en POV a través de un paisaje urbano ciberpunk de neón por la noche.
 
 Autor：[@itsshara\_ai](https://x.com/itsshara_ai) · [Publicación original](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Cine / Fotograma de película · Ciberpunk / Ciencia ficción · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Caída libre en POV a través de un paisaje urbano ciberpunk de neón por la noche.
 
 <img src="covers/2100435410338144486.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una figura oscura salta desde la cornisa de un rascacielos y cae en caída libre a través de un paisaje urbano ciberpunk empapado de neón por la noche. Enormes vallas publicitarias holográficas y carteles brillantes de color morado y rosa pasan a toda velocidad mientras la cámara se lanza hacia abajo en un picado POV que induce al vértigo. Las superficies mojadas por la lluvia reflejan la luz de neón abajo. Caída libre a gran velocidad, atmósfera ciberpunk noir, profundidad vertiginosa.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -415,20 +415,42 @@ Traducción en curso
 
 <a name="prompt-2100414076170141937"></a>
 
-### Traducción en curso
+### Prompt de múltiples tomas de estilo cinematográfico postapocalíptico de los puntos turísticos en ruinas de la prefectura de Nagano 100 años después de la desaparición de la humanidad.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Publicación original](https://x.com/fps_lusu/status/2100414076170141937)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de múltiples tomas de estilo cinematográfico postapocalíptico de los puntos turísticos en ruinas de la prefectura de Nagano 100 años después de la desaparición de la humanidad.
 
 <img src="covers/2100414076170141937.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Configuración básica
+Duración: Corto de 30 segundos
+Relación de aspecto: 16:9 (Formato panorámico horizontal)
+Género: Documental cinematográfico hollywoodense realista postapocalíptico.
+Ambientación: Lugares turísticos famosos de la prefectura de Nagano, Japón, completamente abandonados y bellamente recuperados por la naturaleza 100 años después de la desaparición de la humanidad.
+Estilo y elementos visuales
+Calidad: Calidad cinematográfica premium de Hollywood. Efectos visuales impresionantes de la vida real, texturas ambientales fotorrealistas integradas a la perfección.
+Iluminación: Dramática y dinámica. Sol atravesando el dosel del bosque, niebla densa y misteriosa, suaves rayos matutinos que crean hermosos contrastes.
+Cámara y encuadre: Movimientos de estabilizador (gimbal) cinematográficos, lentos y con una estabilidad profesional (paneo lento, empuje de travelling hacia adentro, alejamiento amplio de travelling).
+Textura: Gran calidad de lente óptica con hermoso efecto Bokeh, grano de película realista, humedad visible en el aire (niebla/neblina), musgo húmedo y metal oxidado con alto nivel de detalle.
+Audio y ASMR
+BGM: Banda sonora ambiental tranquila y emocionalmente conmovedora al estilo de Hollywood.
+SFX: Sonidos ambientales naturales e inmersivos. Viento suave, agua fluyendo en silencio, sutiles cantos de aves. NINGUNA voz humana.
+Línea de tiempo y acción
+0–5 s: Entrada al templo Zenkoji. Estructura de madera desgastada completamente cubierta de musgo y hiedra. Densa niebla matutina.
+5–11 s: Castillo de Matsumoto. Paneo lento en ángulo picado. El foso está repleto de cañas altas. La luz del sol se refleja emocionalmente sobre el agua inmóvil.
+11–17 s: Calle estrecha de Shibu Onsen. Posadas de madera cubiertas de densas enredaderas. El agua termal fluye silenciosamente por estructuras cubiertas de musgo. El vapor se mezcla con la niebla.
+17–23 s: Góndola de esquí abandonada en Hakuba. Carcasa de metal oxidado devorada por enredaderas trepadoras, envuelta en la niebla arremolinada de la montaña.
+23–30 s: Presa de Miwa. Toma panorámica con dron que se aleja con amplitud. Agua cristalina que desborda de forma natural sobre el hormigón en decadencia, dominado por una vegetación exuberante. Se desvanece hacia un plano general inmenso y silencioso.
+Prompt negativo / Restricciones
+SIN humanos, SIN personajes.
+SIN estilo anime, SIN apariencia de render 3D, SIN estilo de dibujos animados.
+SIN movimientos rápidos de cámara, SIN temblores de cámara.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2803,20 +2825,20 @@ Traducción en curso
 
 <a name="prompt-2100423982898115050"></a>
 
-### Traducción en curso
+### Prompt de video para escena de vlog de la vida relajada de verano de una chica coreana junto a un arroyo y una casa de madera.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicación original](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video para escena de vlog de la vida relajada de verano de una chica coreana junto a un arroyo y una casa de madera.
 
 <img src="covers/2100423982898115050.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una hermosa chica coreana que lleva un suave vestido blanco de verano y un sombrero de paja natural, con una estética fresca y elegante del estilo de vida coreano. Tiene el pelo corto y oscuro con suaves ondas, un maquillaje minimalista y una expresión dulce y natural. Disfruta de un apacible día de verano junto a un hermoso arroyo de montaña. Se sienta cerca del agua, comiendo tranquilamente una rodaja de sandía y disfrutando del ambiente refrescante. Camina despacio por el acogedor espacio al aire libre mientras se acomoda el sombrero y contempla el paisaje. La luz del sol se filtra suavemente a través de los árboles, creando cálidos reflejos cinematográficos y destellos de lente naturales. Una cortina blanca se mece suavemente con la brisa estival junto a la casa de madera. Lleva una pequeña cesta de picnic y disfruta del tranquilo entorno campestre. La cámara captura primeros planos, planos medios y tomas panorámicas fluidas y cinematográficas. Fotorrealista, cálido, de ensueño, con un tranquilo estilo de vlog de verano coreano, colores naturales, iluminación suave, movimiento realista y calidad cinematográfica 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

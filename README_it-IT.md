@@ -393,20 +393,20 @@ Traduzione in corso
 
 <a name="prompt-2100435410338144486"></a>
 
-### Traduzione in corso
+### Caduta libera in POV attraverso un paesaggio urbano cyberpunk al neon di notte.
 
 Autore：[@itsshara\_ai](https://x.com/itsshara_ai) · [Post originale](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Caduta libera in POV attraverso un paesaggio urbano cyberpunk al neon di notte.
 
 <img src="covers/2100435410338144486.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una figura scura salta dal cornicione di un grattacielo e cade in caduta libera attraverso un paesaggio urbano cyberpunk immerso nel neon di notte. Enormi cartelloni olografici e insegne luminose viola e rosa sfrecciano via mentre la telecamera si tuffa verso il basso in una picchiata POV da vertigine. Le superfici bagnate dalla pioggia riflettono la luce al neon sottostante. Caduta libera ad alta velocità, atmosfera cyberpunk noir, profondità vertiginosa.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -415,20 +415,42 @@ Traduzione in corso
 
 <a name="prompt-2100414076170141937"></a>
 
-### Traduzione in corso
+### Prompt multi-inquadratura in stile cinematografico post-apocalittico delle attrazioni in rovina nella prefettura di Nagano 100 anni dopo la scomparsa dell'umanità.
 
 Autore：[@fps\_lusu](https://x.com/fps_lusu) · [Post originale](https://x.com/fps_lusu/status/2100414076170141937)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt multi-inquadratura in stile cinematografico post-apocalittico delle attrazioni in rovina nella prefettura di Nagano 100 anni dopo la scomparsa dell'umanità.
 
 <img src="covers/2100414076170141937.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Impostazioni di base
+​Durata: Cortometraggio di 30 secondi
+​Proporzioni: 16:9 (Formato widescreen orizzontale)
+​Genere: Documentario reale cinematografico hollywoodiano post-apocalittico.
+​Ambientazione: Famose mete turistiche nella prefettura di Nagano, Giappone, completamente abbandonate e splendidamente riconquistate dalla natura 100 anni dopo la scomparsa dell'umanità.
+​Stile e grafica
+​Qualità: Qualità cinematografica hollywoodiana premium. Immagini dal vero mozzafiato, texture ambientali fotorealistiche fuse senza soluzione di continuità.
+​Illuminazione: Drammatica e dinamica. Sole che penetra attraverso la chioma della foresta, nebbia densa e misteriosa, tenui raggi mattutini che creano splendidi contrasti.
+​Ripresa e inquadratura: Movimenti gimbal magistralmente stabili, lenti e cinematografici (panoramica lenta, carrello in avanti, allontanamento panoramico ad ampio raggio).
+​Texture: Marcata resa ottica dell'obiettivo con splendido effetto bokeh, grana della pellicola realistica, umidità visibile nell'aria (nebbia/foschia), muschio bagnato e metallo arrugginito altamente dettagliati.
+​Audio e ASMR
+​BGM: Colonna sonora ambient pacata e coinvolgente in stile hollywoodiano.
+​SFX: Suoni ambientali naturali e immersivi. Vento leggero, scorrere silenzioso dell'acqua, sottili cinguettii di uccelli. NESSUNA voce umana.
+​Sequenza temporale e azione
+​0–5 s: Ingresso del tempio Zenkoji. Struttura in legno usurata dal tempo, fittamente ricoperta di muschio ed edera. Fitta nebbia mattutina.
+​5–11 s: Castello di Matsumoto. Panoramica lenta dall'alto. Il fossato è soffocato da alte canne. La luce del sole si riflette in modo suggestivo sull'acqua immobile.
+​11–17 s: Stretta via di Shibu Onsen. Locande in legno ricoperte da fitti rampicanti. L'acqua termale sgorga silenziosa lungo strutture muschiose. Il vapore si mescola alla nebbia.
+​17–23 s: Cabina funiviaria abbandonata ad Hakuba. Scocca in metallo arrugginito inghiottita da piante rampicanti, avvolta da una vorticosa nebbia montana.
+​23–30 s: Diga di Miwa. Ampia inquadratura aerea col drone che si allontana. L'acqua cristallina trabocca naturalmente sul cemento decadente, dominato da una vegetazione lussureggiante. Sfuma su un campo lunghissimo, vasto e silenzioso.
+​Prompt negativo / Vincoli
+​NESSUN essere umano, NESSUN personaggio.
+​NESSUNO stile anime, NESSUN aspetto da rendering 3D, NESSUNO stile cartone animato.
+​NESSUN movimento rapido della telecamera, NESSUN tremolio della telecamera.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2728,20 +2750,20 @@ Traduzione in corso
 
 <a name="prompt-2100423982898115050"></a>
 
-### Traduzione in corso
+### Prompt video per una scena vlog sulla rilassante vita estiva di una ragazza coreana accanto a un ruscello e a una casa in legno.
 
 Autore：[@aiwithaayat](https://x.com/aiwithaayat) · [Post originale](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video per una scena vlog sulla rilassante vita estiva di una ragazza coreana accanto a un ruscello e a una casa in legno.
 
 <img src="covers/2100423982898115050.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una bellissima ragazza coreana che indossa un morbido abito estivo bianco e un cappello da sole in paglia naturale, con un'estetica fresca ed elegante tipica del lifestyle coreano. Ha capelli scuri corti e leggermente mossi, un trucco minimale e un'espressione dolce e naturale. Si gode una tranquilla giornata estiva accanto a un meraviglioso ruscello di montagna. Si siede vicino all'acqua, mangiando con calma una fetta d'anguria e godendosi l'atmosfera rinfrescante. Cammina lentamente nell'accogliente spazio all'aperto mentre si sistema il cappello e osserva il paesaggio. La luce del sole filtra dolcemente tra gli alberi, creando caldi riflessi cinematografici e bagliori naturali dell'obiettivo. Una tenda bianca si muove dolcemente nella brezza estiva accanto alla casa in legno. Porta un piccolo cestino da picnic e gode della quiete della campagna circostante. La telecamera cattura primi piani, mezze figure e fluide inquadrature ampie cinematografiche. Fotorealistico, caldo, sognante, stile vlog estivo coreano rilassante, colori naturali, illuminazione soffusa, movimento realistico e qualità cinematografica 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)

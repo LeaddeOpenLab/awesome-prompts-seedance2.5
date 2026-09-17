@@ -395,20 +395,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh t
 
 <a name="prompt-2100435410338144486"></a>
 
-### Đang dịch
+### Rơi tự do góc nhìn POV qua cảnh quan thành phố cyberpunk ngập tràn ánh đèn neon vào ban đêm.
 
 Tác giả：[@itsshara\_ai](https://x.com/itsshara_ai) · [Bài gốc](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Rơi tự do góc nhìn POV qua cảnh quan thành phố cyberpunk ngập tràn ánh đèn neon vào ban đêm.
 
 <img src="covers/2100435410338144486.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bóng đen nhảy khỏi gờ một tòa nhà chọc trời và rơi tự do xuyên qua cảnh quan thành phố cyberpunk ngập tràn ánh đèn neon vào ban đêm. Những bảng quảng cáo ba chiều khổng lồ cùng các biển hiệu màu tím và hồng rực rỡ lướt qua nhanh chóng khi máy quay lao thẳng xuống dưới trong một cú lặn POV đầy chóng mặt. Những bề mặt ướt đẫm mưa phản chiếu ánh sáng neon bên dưới. Rơi tự do ở tốc độ cao, bầu không khí cyberpunk noir, chiều sâu chóng mặt.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -417,20 +417,42 @@ Tác giả：[@itsshara\_ai](https://x.com/itsshara_ai) · [Bài gốc](https://
 
 <a name="prompt-2100414076170141937"></a>
 
-### Đang dịch
+### Lời nhắc đa khung hình phong cách điện ảnh hậu tận thế về các phế tích du lịch tại tỉnh Nagano 100 năm sau khi nhân loại biến mất.
 
 Tác giả：[@fps\_lusu](https://x.com/fps_lusu) · [Bài gốc](https://x.com/fps_lusu/status/2100414076170141937)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc đa khung hình phong cách điện ảnh hậu tận thế về các phế tích du lịch tại tỉnh Nagano 100 năm sau khi nhân loại biến mất.
 
 <img src="covers/2100414076170141937.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cài đặt cơ bản
+Thời lượng: Video ngắn 30 giây
+Tỷ lệ khung hình: 16:9 (Định dạng phong cảnh màn hình rộng)
+Thể loại: Phim tài liệu đời thực mang phong cách điện ảnh Hollywood hậu tận thế.
+Bối cảnh: Các điểm du lịch nổi tiếng ở tỉnh Nagano, Nhật Bản, hoàn toàn bị bỏ hoang và được thiên nhiên tươi đẹp khai hoang trở lại 100 năm sau khi loài người biến mất.
+Phong cách & Hình ảnh
+Chất lượng: Chất lượng phim Hollywood cao cấp. Hình ảnh đời thực ngoạn mục, kết cấu môi trường chân thực như ảnh chụp được hòa quyện liền mạch.
+Ánh sáng: Đầy kịch tính và sống động. Ánh mặt trời xuyên qua tán rừng, sương mù dày đặc huyền bí, những tia nắng sớm dịu nhẹ tạo nên độ tương phản tuyệt đẹp.
+Góc máy & Khung hình: Chuyển động gimbal cực kỳ ổn định, chậm rãi và đậm chất điện ảnh (lia máy chậm, đẩy dolly vào, quét kéo máy ra xa).
+Kết cấu: Chất lượng thấu kính quang học ấn tượng với hiệu ứng Bokeh đẹp mắt, hạt phim chân thực, độ ẩm nhìn thấy rõ trong không khí (sương mù/sương mờ), rêu ẩm ướt và kim loại rỉ sét chi tiết cao.
+Âm thanh & ASMR
+BGM: Nhạc nền ambient phong cách Hollywood tĩnh lặng, gợi nhiều cảm xúc.
+SFX: Âm thanh môi trường tự nhiên, sống động. Gió thoảng nhẹ, nước chảy êm đềm, tiếng chim hót tinh tế. KHÔNG CÓ tiếng người.
+Tiến trình & Hành động
+0–5 giây: Lối vào Chùa Zenkoji. Cấu trúc gỗ phong hóa bị rêu và cây thường xuân phủ kín dày đặc. Sương mù buổi sáng sâu lắng.
+5–11 giây: Lâu đài Matsumoto. Lia máy chậm từ góc cao. Con hào ngập tràn lau sậy cao vút. Ánh nắng phản chiếu đầy cảm xúc trên mặt nước tĩnh lặng.
+11–17 giây: Con hẻm hẹp ở Shibu Onsen. Những quán trọ bằng gỗ phủ kín dây leo dày đặc. Nước suối khoáng nóng róc rách âm thầm chảy qua các cấu trúc đầy rêu phong. Hơi nước hòa quyện vào sương mù.
+17–23 giây: Cáp treo trượt tuyết bị bỏ hoang ở Hakuba. Lớp vỏ kim loại rỉ sét bị nuốt chửng bởi những dây leo chằng chịt, bao bọc trong làn sương núi cuộn xoáy.
+23–30 giây: Đập Miwa. Cảnh quay drone quét kéo lùi ngoạn mục. Dòng nước trong vắt tự nhiên tràn qua lớp bê tông mục nát, bị bao phủ bởi thảm thực vật xanh tươi tốt. Mờ dần vào một khung cảnh góc rộng bao la, tĩnh mịch.
+Negative Prompt / Ràng buộc
+KHÔNG CÓ con người, KHÔNG CÓ nhân vật.
+KHÔNG mang phong cách anime, KHÔNG mang vẻ ngoài kết xuất 3D, KHÔNG mang phong cách hoạt hình.
+KHÔNG chuyển động máy ảnh nhanh, KHÔNG rung lắc máy ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2817,20 +2839,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2100423982898115050"></a>
 
-### Đang dịch
+### Lời nhắc video cảnh Vlog mùa hè thư thái của cô gái Hàn Quốc bên dòng suối và nhà gỗ.
 
 Tác giả：[@aiwithaayat](https://x.com/aiwithaayat) · [Bài gốc](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video cảnh Vlog mùa hè thư thái của cô gái Hàn Quốc bên dòng suối và nhà gỗ.
 
 <img src="covers/2100423982898115050.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cô gái Hàn Quốc xinh đẹp diện chiếc váy mùa hè màu trắng mềm mại và đội chiếc mũ cói che nắng tự nhiên, toát lên phong cách sống Hàn Quốc tươi mới và thanh lịch. Cô có mái tóc sẫm màu ngắn uốn lượn sóng nhẹ nhàng, trang điểm tối giản cùng biểu cảm dịu dàng, tự nhiên. Cô tận hưởng một ngày hè yên bình bên dòng suối núi tuyệt đẹp. Cô ngồi gần mép nước, thong thả ăn một miếng dưa hấu và đắm mình trong bầu không khí trong lành, sảng khoái. Cô bước đi chậm rãi quanh không gian ngoài trời ấm cúng, tay chỉnh lại chiếc mũ và ngắm nhìn cảnh vật. Ánh nắng rọi nhẹ qua tán cây, tạo nên những điểm sáng ấm áp như điện ảnh và hiệu ứng lóe sáng ống kính tự nhiên. Rèm cửa màu trắng khẽ đung đưa trong làn gió mùa hè bên cạnh ngôi nhà gỗ. Cô xách theo một chiếc giỏ dã ngoại nhỏ và tận hưởng khung cảnh đồng quê tĩnh lặng. Máy quay ghi lại các góc cận cảnh, trung cảnh và những cú máy toàn cảnh mượt mà chuẩn điện ảnh. Chân thực như ảnh chụp, ấm áp, mơ màng, phong cách vlog mùa hè Hàn Quốc thanh bình, màu sắc tự nhiên, ánh sáng mềm mại, chuyển động chân thực và chất lượng 4K điện ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

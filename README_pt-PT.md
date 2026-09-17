@@ -379,20 +379,20 @@ Tradução em curso
 
 <a name="prompt-2100435410338144486"></a>
 
-### Tradução em curso
+### Queda livre em POV através de uma paisagem urbana cyberpunk de néon à noite.
 
 Autor：[@itsshara\_ai](https://x.com/itsshara_ai) · [Publicação original](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Queda livre em POV através de uma paisagem urbana cyberpunk de néon à noite.
 
 <img src="covers/2100435410338144486.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma figura escura salta da borda de um arranha-céus e cai em queda livre através de uma paisagem urbana cyberpunk banhada a néon durante a noite. Cartazes holográficos gigantescos e painéis luminosos em tons de roxo e rosa passam a voar enquanto a câmara mergulha para baixo numa descida em POV indutora de vertigens. Superfícies escorregadias pela chuva refletem a luz de néon em baixo. Queda livre em alta velocidade, atmosfera cyberpunk noir, profundidade vertiginosa.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -401,20 +401,42 @@ Tradução em curso
 
 <a name="prompt-2100414076170141937"></a>
 
-### Tradução em curso
+### Prompt multicâmara em estilo de filme pós-apocalíptico das ruínas de atrações turísticas da prefeitura de Nagano cem anos após o desaparecimento da humanidade.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Publicação original](https://x.com/fps_lusu/status/2100414076170141937)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt multicâmara em estilo de filme pós-apocalíptico das ruínas de atrações turísticas da prefeitura de Nagano cem anos após o desaparecimento da humanidade.
 
 <img src="covers/2100414076170141937.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Definições Básicas
+​Duração: Curta de 30 segundos
+​Proporção de Tela: 16:9 (Formato widescreen panorâmico)
+​Género: Documentário pós-apocalíptico cinematográfico de Hollywood em vida real.
+​Cenário: Pontos turísticos famosos na prefeitura de Nagano, Japão, completamente abandonados e belissimamente recuperados pela natureza 100 anos após o desaparecimento da humanidade.
+​Estilo e Visuais
+​Qualidade: Qualidade cinematográfica premium de Hollywood. Visuais de vida real deslumbrantes, texturas ambientais fotorrealistas perfeitamente integradas.
+​Iluminação: Dramática e dinâmica. Sol a atravessar a copa da floresta, nevoeiro misterioso e denso, raios matinais suaves a criar belos contrastes.
+​Câmara e Enquadramento: Movimentos de gimbal habilmente estáveis, lentos e cinematográficos (panorâmica lenta, avanço em dolly, recuo panorâmico amplo).
+​Textura: Qualidade de lente ótica pesada com belo Bokeh, grão de película realista, humidade visível no ar (nevoeiro/névoa), musgo húmido altamente detalhado e metal enferrujado.
+​Áudio e ASMR
+​BGM: Banda sonora ambiente silenciosa e comovente ao estilo de Hollywood.
+​Efeitos Sonoros: Sons ambientais naturais e imersivos. Vento suave, água a correr silenciosamente, cantos subtis de pássaros. SEM vozes humanas.
+​Cronologia e Ação
+​0–5s: Entrada do Templo Zenkoji. Estrutura de madeira desgastada pelo tempo densamente coberta por musgo e hera. Nevoeiro matinal cerrado.
+​5–11s: Castelo de Matsumoto. Panorâmica lenta em ângulo picado. O fosso está obstruído por juncos altos. A luz do sol reflete-se de forma emotiva na água paralisada.
+​11–17s: Rua estreita de Shibu Onsen. Pousadas de madeira cobertas de trepadeiras espessas. Água termal escorre silenciosamente por estruturas musgosas. O vapor mistura-se com a névoa.
+​17–23s: Cabine de teleférico de esqui abandonada em Hakuba. Estrutura de metal enferrujada engolida por trepadeiras rastejantes, envolta pelo nevoeiro rodopiante da montanha.
+​23–30s: Barragem de Miwa. Plano amplo de recuo com drone. Água cristalina transborda naturalmente pelo betão em deterioração, dominada por uma vegetação exuberante. Desvanece para um plano geral vasto e silencioso.
+​Prompt Negativo / Restrições
+​SEM humanos, SEM personagens.
+​SEM estilo anime, SEM aspeto de renderização 3D, SEM estilo de desenho animado.
+​SEM movimentos rápidos de câmara, SEM trepidação de câmara.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2722,20 +2744,20 @@ Tradução em curso
 
 <a name="prompt-2100423982898115050"></a>
 
-### Tradução em curso
+### Prompt de vídeo para uma cena de vlog sobre a vida de verão acolhedora de uma rapariga coreana junto a um ribeiro e a uma casa de madeira.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicação original](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo para uma cena de vlog sobre a vida de verão acolhedora de uma rapariga coreana junto a um ribeiro e a uma casa de madeira.
 
 <img src="covers/2100423982898115050.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma bela rapariga coreana a usar um vestido de verão branco e suave e um chapéu de sol de palha natural, com uma estética fresca e elegante do estilo de vida coreano. Tem cabelo escuro curto e suavemente ondulado, maquilhagem mínima e uma expressão serena e natural. Desfruta de um dia tranquilo de verão junto a um belo ribeiro de montanha. Senta-se perto da água, comendo calmamente uma fatia de melancia e aproveitando o ambiente refrescante. Caminha devagar pelo acolhedor espaço exterior enquanto ajeita o chapéu e contempla a paisagem. A luz do sol brilha suavemente por entre as árvores, criando realces cinematográficos quentes e reflexos de lente naturais. Uma cortina branca move-se suavemente na brisa de verão junto à casa de madeira. Leva uma pequena cesta de piquenique e aprecia a tranquilidade da paisagem campestre em redor. A câmara capta grandes planos, planos médios e planos gerais cinematográficos fluidos. Fotorrealista, acolhedor, sonhador, estilo de vlog de verão coreano pacífico, cores naturais, iluminação suave, movimento realista e qualidade cinematográfica 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -393,20 +393,20 @@ Traduction en cours
 
 <a name="prompt-2100435410338144486"></a>
 
-### Traduction en cours
+### Chute libre en vue subjective à travers un paysage urbain cyberpunk de néons la nuit.
 
 Auteur：[@itsshara\_ai](https://x.com/itsshara_ai) · [Publication originale](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Chute libre en vue subjective à travers un paysage urbain cyberpunk de néons la nuit.
 
 <img src="covers/2100435410338144486.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une silhouette sombre saute du rebord d'un gratte-ciel et plonge en chute libre à travers un paysage urbain cyberpunk baigné de néons la nuit. D'immenses panneaux publicitaires holographiques et des enseignes lumineuses violettes et roses défilent à toute vitesse alors que la caméra plonge vers le bas dans une descente vertigineuse en vue subjective (POV). Les surfaces luisantes de pluie reflètent la lumière des néons en contrebas. Chute libre à grande vitesse, atmosphère de film noir cyberpunk, profondeur vertigineuse.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -415,20 +415,42 @@ Traduction en cours
 
 <a name="prompt-2100414076170141937"></a>
 
-### Traduction en cours
+### Prompt multi-plans cinématographique post-apocalyptique des sites touristiques en ruines de la préfecture de Nagano 100 ans après la disparition de l'humanité.
 
 Auteur：[@fps\_lusu](https://x.com/fps_lusu) · [Publication originale](https://x.com/fps_lusu/status/2100414076170141937)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt multi-plans cinématographique post-apocalyptique des sites touristiques en ruines de la préfecture de Nagano 100 ans après la disparition de l'humanité.
 
 <img src="covers/2100414076170141937.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Paramètres de base
+​Durée : Court-métrage de 30 secondes
+​Format d'image : 16:9 (Format paysage grand écran)
+​Genre : Documentaire réaliste cinématographique hollywoodien post-apocalyptique.
+​Cadre : Lieux touristiques célèbres de la préfecture de Nagano, au Japon, totalement abandonnés et magnifiquement reconquis par la nature 100 ans après la disparition de l'humanité.
+​Style et visuels
+​Qualité : Qualité cinématographique hollywoodienne haut de gamme. Images réelles à couper le souffle, textures environnementales photoréalistes harmonieusement intégrées.
+​Éclairage : Dramatique et dynamique. Soleil perçant à travers la canopée de la forêt, brouillard dense et mystérieux, doux rayons matinaux créant de magnifiques contrastes.
+​Caméra et cadrage : Mouvements de gimbal parfaitement stables, lents et cinématographiques (panoramique lent, travelling avant, travelling arrière ample).
+​Texture : Rendu d'optique lourde avec un superbe bokeh, grain de film réaliste, humidité visible dans l'air (brume/brouillard), mousse humide et métal rouillé extrêmement détaillés.
+​Audio et ASMR
+​BGM : Bande sonore ambiante calme et émouvante, de style hollywoodien.
+​SFX : Sons environnementaux naturels et immersifs. Vent léger, ruissellement silencieux de l'eau, chants d'oiseaux subtils. AUCUNE voix humaine.
+​Chronologie et action
+​0–5 s : Entrée du temple Zenkoji. Structure en bois vieillie, lourdement envahie par la mousse et le lierre. Épais brouillard matinal.
+​5–11 s : Château de Matsumoto. Panoramique lent en plongée. Les douves sont envahies de hauts roseaux. La lumière du soleil se reflète avec émotion sur l'eau immobile.
+​11–17 s : Ruelle étroite de Shibu Onsen. Auberges traditionnelles en bois recouvertes d'épaisses vignes vierges. L'eau des sources chaudes ruisselle silencieusement le long des structures moussues. La vapeur se mêle à la brume.
+​17–23 s : Télécabine de ski abandonnée à Hakuba. Coque métallique rouillée engloutie par des plantes grimpantes, enveloppée dans un brouillard tourbillonnant de montagne.
+​23–30 s : Barrage de Miwa. Plan aérien par drone avec travelling arrière ample. Une eau cristalline déborde naturellement sur le béton en décomposition, dominé par une végétation luxuriante. Se termine par un fondu sur un vaste plan d'ensemble silencieux.
+​Prompt négatif / Contraintes
+​PAS d'humains, PAS de personnages.
+​PAS de style anime, PAS de rendu 3D, PAS de style dessin animé.
+​PAS de mouvements de caméra rapides, PAS de tremblement de caméra.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2728,20 +2750,20 @@ Traduction en cours
 
 <a name="prompt-2100423982898115050"></a>
 
-### Traduction en cours
+### Prompt vidéo pour une scène de vlog sur la vie estivale paisible d'une fille coréenne près d'un ruisseau et d'une maison en bois.
 
 Auteur：[@aiwithaayat](https://x.com/aiwithaayat) · [Publication originale](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo pour une scène de vlog sur la vie estivale paisible d'une fille coréenne près d'un ruisseau et d'une maison en bois.
 
 <img src="covers/2100423982898115050.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une belle jeune fille coréenne vêtue d'une robe d'été blanche fluide et d'un chapeau de paille naturel, arborant une esthétique de vie coréenne fraîche et élégante. Elle a des cheveux foncés courts et doucement ondulés, un maquillage minimaliste et une expression douce et naturelle. Elle profite d'une paisible journée d'été au bord d'un magnifique ruisseau de montagne. Elle s'assoit près de l'eau, mangeant calmement une tranche de pastèque et profitant de l'atmosphère rafraîchissante. Elle marche lentement dans l'espace extérieur chaleureux tout en ajustant son chapeau et en regardant le paysage. La lumière du soleil brille doucement à travers les arbres, créant des reflets cinématographiques chaleureux et des éclats d'objectif naturels. Un rideau blanc bouge doucement dans la brise d'été à côté de la maison en bois. Elle porte un petit panier de pique-nique et apprécie le calme de la campagne environnante. La caméra capture des gros plans, des plans moyens et des plans larges cinématographiques fluides. Photoréaliste, chaleureux, onirique, style vlog d'été coréen paisible, couleurs naturelles, éclairage doux, mouvements réalistes et qualité cinématographique 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)

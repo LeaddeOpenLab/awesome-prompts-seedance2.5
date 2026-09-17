@@ -393,20 +393,20 @@ Comic / Storyboard · Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2100435410338144486"></a>
 
-### Übersetzung läuft
+### POV-Freifall durch ein nächtliches Neon-Cyberpunk-Stadtbild.
 
 Autor：[@itsshara\_ai](https://x.com/itsshara_ai) · [Originalbeitrag](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** POV-Freifall durch ein nächtliches Neon-Cyberpunk-Stadtbild.
 
 <img src="covers/2100435410338144486.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine dunkle Gestalt springt vom Sims eines Wolkenkratzers und fällt im freien Fall nachts durch ein neonüberflutetes Cyberpunk-Stadtbild. Riesige holografische Werbetafeln und leuchtende lila- und rosafarbene Schilder ziehen blitzschnell vorbei, während die Kamera in einem schwindelerregenden POV-Tauchgang nach unten rast. Regenfeuchte Oberflächen reflektieren unten das Neonlicht. Hochgeschwindigkeits-Freifall, Cyberpunk-Noir-Atmosphäre, schwindelerregende Tiefe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -415,20 +415,42 @@ Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Stadtbild / Straße · Veröffe
 
 <a name="prompt-2100414076170141937"></a>
 
-### Übersetzung läuft
+### Multi-Shot-Prompt im postapokalyptischen Kinostil für ruinierte Sehenswürdigkeiten in der Präfektur Nagano 100 Jahre nach dem Verschwinden der Menschheit.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Originalbeitrag](https://x.com/fps_lusu/status/2100414076170141937)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Multi-Shot-Prompt im postapokalyptischen Kinostil für ruinierte Sehenswürdigkeiten in der Präfektur Nagano 100 Jahre nach dem Verschwinden der Menschheit.
 
 <img src="covers/2100414076170141937.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Grundeinstellungen
+​Dauer: 30-sekündiger Kurzfilm
+​Seitenverhältnis: 16:9 (Breitbild-Querformat)
+​Genre: Postapokalyptischer Hollywood-Dokumentarfilm im realen Kinostil.
+​Schauplatz: Berühmte Sehenswürdigkeiten in der Präfektur Nagano, Japan, völlig verlassen und 100 Jahre nach dem Verschwinden der Menschheit wunderschön von der Natur zurückerobert.
+​Stil & Optik
+​Qualität: Erstklassige Hollywood-Filmqualität. Atemberaubende reale visuelle Darstellungen, fotorealistische Umgebungstexturen nahtlos miteinander verschmolzen.
+​Beleuchtung: Dramatisch und dynamisch. Sonne, die durch das Blätterdach des Waldes bricht, dichter, geheimnisvoller Nebel, sanfte Morgenstrahlen, die wunderschöne Kontraste erzeugen.
+​Kamera & Bildkomposition: Gekonnt stabile, langsame und filmische Gimbal-Bewegungen (langsamer Schwenk, Dolly-Push-in, geschwungenes Zurückfahren).
+​Textur: Ausgeprägte optische Objektivqualität mit wunderschönem Bokeh, realistisches Filmkorn, sichtbare Luftfeuchtigkeit (Nebel/Dunst), hochdetailliertes feuchtes Moos und verrostetes Metall.
+​Audio & ASMR
+​Hintergrundmusik: Ruhige, emotional mitreißende Ambient-Filmmusik im Hollywood-Stil.
+​Soundeffekte: Natürliche, immersive Umgebungsgeräusche. Sanfter Wind, leise fließendes Wasser, dezenter Vogelgesang. KEINE menschlichen Stimmen.
+​Zeitachse & Handlung
+​0–5 s: Eingang des Zenkoji-Tempels. Verwitterte Holzstruktur, dicht von Moos und Efeu überwuchert. Tiefer Morgennebel.
+​5–11 s: Burg Matsumoto. Langsamer Schwenk aus der Vogelperspektive. Der Burggraben ist von hohem Schilf überwuchert. Sonnenlicht spiegelt sich emotional auf dem ruhigen Wasser.
+​11–17 s: Schmale Straße in Shibu Onsen. Von dichten Ranken bedeckte Holzgasthäuser. Thermalwasser rieselt lautlos an moosbedeckten Strukturen herab. Dampf vermischt sich mit Dunst.
+​17–23 s: Verlassene Skigondel in Hakuba. Rostige Metallhülle, von Kletterranken verschlungen, eingehüllt in wirbelnden Bergnebel.
+​23–30 s: Miwa-Staudamm. Weitläufige Drohnen-Rückzugaufnahme. Kristallklares Wasser fließt ganz natürlich über den verfallenden Beton, beherrscht von üppigem Grün. Blendet in eine weite, stille Totale über.
+​Negativ-Prompt / Einschränkungen
+​KEINE Menschen, KEINE Charaktere.
+​KEIN Anime-Stil, KEIN 3D-Render-Look, KEIN Cartoon-Stil.
+​KEINE schnellen Kamerabewegungen, KEIN Kamerawackeln.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2728,20 +2750,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2100423982898115050"></a>
 
-### Übersetzung läuft
+### Video-Prompt für eine Vlog-Szene über das gemütliche Sommerleben eines koreanischen Mädchens an einem Bach und einem Holzhaus.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Originalbeitrag](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video-Prompt für eine Vlog-Szene über das gemütliche Sommerleben eines koreanischen Mädchens an einem Bach und einem Holzhaus.
 
 <img src="covers/2100423982898115050.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein wunderschönes koreanisches Mädchen, das ein weiches weißes Sommerkleid und einen natürlichen Stroh-Sonnenhut trägt, mit einer frischen und eleganten koreanischen Lifestyle-Ästhetik. Sie hat kurzes, sanft gewelltes dunkles Haar, minimales Make-up und einen sanften, natürlichen Gesichtsausdruck. Sie genießt einen friedlichen Sommertag an einem wunderschönen Gebirgsbach. Sie sitzt am Wasser, isst ruhig ein Stück Wassermelone und genießt die erfrischende Atmosphäre. Sie geht langsam durch den gemütlichen Außenbereich, während sie ihren Hut zurechtrückt und die Landschaft betrachtet. Das Sonnenlicht scheint sanft durch die Bäume und erzeugt warme filmische Glanzlichter und natürliche Lens Flares. Ein weißer Vorhang weht sanft in der Sommerbrise neben dem Holzhaus. Sie trägt einen kleinen Picknickkorb und genießt die ruhige ländliche Umgebung. Die Kamera fängt Nahaufnahmen, Halbtotale und sanfte filmische Weitwinkelaufnahmen ein. Fotorealistisch, warm, verträumt, friedlicher koreanischer Sommer-Vlog-Stil, natürliche Farben, sanftes Licht, realistische Bewegungen und filmische 4K-Qualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

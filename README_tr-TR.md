@@ -379,20 +379,20 @@ Yazar：[@itxsarmadd](https://x.com/itxsarmadd) · [Orijinal gönderi](https://x
 
 <a name="prompt-2100435410338144486"></a>
 
-### Çeviri sürüyor
+### Gece vakti neon bir siberpunk şehir manzarasında POV serbest düşüş.
 
 Yazar：[@itsshara\_ai](https://x.com/itsshara_ai) · [Orijinal gönderi](https://x.com/itsshara_ai/status/2100435410338144486)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece vakti neon bir siberpunk şehir manzarasında POV serbest düşüş.
 
 <img src="covers/2100435410338144486.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Karanlık bir figür bir gökdelenin çıkıntısından atlıyor ve gece vakti neonlara boğulmuş bir siberpunk şehir manzarasında serbest düşüşe geçiyor. Kamera baş döndürücü bir POV dalışıyla aşağıya doğru inerken, devasa holografik reklam panoları ile parlayan mor ve pembe tabelalar hızla yanından geçip gidiyor. Yağmurla kayganlaşmış yüzeyler aşağıdaki neon ışığını yansıtıyor. Yüksek hızlı serbest düşüş, siberpunk kara film atmosferi, baş döndürücü derinlik.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -401,20 +401,42 @@ Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Şehir Manzarası / Sokak 
 
 <a name="prompt-2100414076170141937"></a>
 
-### Çeviri sürüyor
+### İnsanlığın yok oluşunun yüzüncü yılında Nagano Prefektörlüğü'ndeki harabe turistik yerlerin kıyamet sonrası sinematik tarzda çoklu çekim istemi.
 
 Yazar：[@fps\_lusu](https://x.com/fps_lusu) · [Orijinal gönderi](https://x.com/fps_lusu/status/2100414076170141937)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İnsanlığın yok oluşunun yüzüncü yılında Nagano Prefektörlüğü'ndeki harabe turistik yerlerin kıyamet sonrası sinematik tarzda çoklu çekim istemi.
 
 <img src="covers/2100414076170141937.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Temel Ayarlar
+​Süre: 30 saniyelik kısa film
+​En Boy Oranı: 16:9 (Geniş ekran manzara formatı)
+​Tür: Kıyamet sonrası Hollywood sinematik gerçek hayat belgeseli.
+​Mekân: İnsanlığın yok oluşundan 100 yıl sonra tamamen terk edilmiş ve doğa tarafından muhteşem bir şekilde geri kazanılmış Japonya'nın Nagano Prefektörlüğü'ndeki ünlü turistik noktalar.
+​Stil ve Görseller
+​Kalite: Üst düzey Hollywood film kalitesi. Nefes kesici gerçek hayat görselleri, kusursuzca harmanlanmış fotogerçekçi çevresel dokular.
+​Aydınlatma: Dramatik ve dinamik. Orman tavanından sızan güneş, yoğun gizemli sis, güzel kontrastlar oluşturan yumuşak sabah ışınları.
+​Kamera ve Çerçeveleme: Usta işi dengeli, yavaş ve sinematik gimbal hareketleri (yavaş pan, dolly push-in, genişleyen geri çekilme).
+​Doku: Güzel Bokeh efektine sahip ağır optik lens kalitesi, gerçekçi film greni, havadaki görünür nem (sis/pus), son derece ayrıntılı ıslak yosun ve paslanmış metal.
+​Ses ve ASMR
+​BGM: Sessiz, duygusal olarak etkileyici Hollywood tarzı ortam müziği.
+​SFX: Doğal, sürükleyici çevresel sesler. Hafif rüzgar, sessizce akan su, hafif kuş cıvıltıları. İnsan sesi YOK.
+​Zaman Çizelgesi ve Aksiyon
+​0–5sn: Zenkoji Tapınağı girişi. Ağır şekilde yosun ve sarmaşıklarla kaplanmış, hava koşullarından yıpranmış ahşap yapı. Yoğun sabah sisi.
+​5–11sn: Matsumoto Kalesi. Yüksek açılı yavaş pan. Hendek uzun sazlıklarla tıkanmış. Güneş ışığı durgun suya duygusal bir şekilde yansıyor.
+​11–17sn: Shibu Onsen dar sokak. Kalın asmalarla kaplı ahşap hanlar. Kaplıca suyu yosunlu yapılardan sessizce süzülüyor. Buhar sise karışıyor.
+​17–23sn: Hakuba'da terk edilmiş kayak teleferiği kabini. Sürünen asmalar tarafından yutulmuş, dönen dağ sisiyle sarılmış paslı metal gövde.
+​23–30sn: Miwa Barajı. Kapsamlı drone geri çekilme çekimi. Kristal berraklığındaki su, gür yeşilliklerin hakim olduğu çürüyen betondan doğal bir şekilde taşıyor. Uçsuz bucaksız, sessiz ve geniş bir çekime doğru karararak kaybolur.
+​Negatif Prompt / Kısıtlamalar
+​İnsan YOK, karakter YOK.
+​Anime stili YOK, 3D render görünümü YOK, çizgi film stili YOK.
+​Hızlı kamera hareketleri YOK, kamera titremesi YOK.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2722,20 +2744,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2100423982898115050"></a>
 
-### Çeviri sürüyor
+### Bir dere ve ahşap evin yanında Koreli bir kızın keyifli yaz yaşamı vlog sahnesi video istemi.
 
 Yazar：[@aiwithaayat](https://x.com/aiwithaayat) · [Orijinal gönderi](https://x.com/aiwithaayat/status/2100423982898115050)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir dere ve ahşap evin yanında Koreli bir kızın keyifli yaz yaşamı vlog sahnesi video istemi.
 
 <img src="covers/2100423982898115050.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak beyaz bir yazlık elbise ve doğal hasır güneş şapkası takan, taze ve zarif bir Kore yaşam tarzı estetiğine sahip güzel bir Koreli kız. Kısa, hafif dalgalı koyu saçları, hafif bir makyajı ve nazik, doğal bir ifadesi var. Güzel bir dağ deresinin kenarında huzurlu bir yaz gününün tadını çıkarıyor. Suyun kenarında oturuyor, sakince bir dilim karpuz yiyor ve ferahlatıcı atmosferin tadını çıkarıyor. Şapkasını düzeltip manzarayı seyrederken samimi açık alanda yavaşça yürüyor. Güneş ışığı ağaçların arasından süzülerek sıcak sinematik parıltılar ve doğal lens parlamaları oluşturuyor. Ahşap evin yanındaki beyaz perde yaz esintisinde hafifçe dalgalanıyor. Küçük bir piknik sepeti taşıyor ve sessiz kır ortamının tadını çıkarıyor. Kamera yakın çekimler, orta çekimler ve akıcı sinematik geniş açılı çekimler yakalıyor. Fotogerçekçi, sıcak, rüya gibi, huzurlu Kore yaz vlogu tarzı, doğal renkler, yumuşak aydınlatma, gerçekçi hareket ve sinematik 4K kalitesi.
 ```
 
 [↑ Kategorilere dön](#catalog)
