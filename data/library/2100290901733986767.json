@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:27:16.742Z",
+  "model": "seedance2.5",
+  "prompt": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+  "promptTranslations": {
+    "en": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do"
+  },
+  "summaryTranslations": {
+    "en": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do"
+  },
+  "translationVersion": 2,
+  "summary": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+  "summaryEn": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100290901733986767",
+    "canonicalUrl": "https://x.com/GlennHasABeard/status/2100290901733986767",
+    "author": {
+      "username": "GlennHasABeard",
+      "displayName": "Glenn Williams",
+      "profileUrl": "https://x.com/GlennHasABeard"
+    },
+    "publishedAt": "2026-09-16T18:29:07.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "en",
+    "originalText": "Seedance 2.5. Five books went in. The red one and the blue one arrived.\n\nPrompt: \"the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do\"\n\nDuration: 15s. Reference: one Fluffi image. Rendered 480p, Topaz to 4K.\n\nTwo takes ended with one book. Five identical books are a number, and the model loses numbers. Two named colors are objects, and it keeps objects.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GlennHasABeard/status/2100290901733986767",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100290866405339136/img/W9Nkcg0NcjEc8G5P.jpg",
+        "analysisUrl": "https://x.com/GlennHasABeard/status/2100290901733986767"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 287
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/GlennHasABeard/status/2100290901733986767",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100290866405339136/img/W9Nkcg0NcjEc8G5P.jpg",
+  "coverPath": "covers/2100290901733986767.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100290866405339136",
+    "x-post:2100290901733986767"
+  ],
+  "analysis": {
+    "summary": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+    "summaryEn": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows green books falling off while red and blue books end up on the table, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do",
+    "sourceRange": {
+      "start": 82,
+      "end": 212
+    },
+    "translations": {
+      "zh": "红色的书和蓝色的书始终不掉落，最后都放在桌子上；只有绿色的书会掉落，且四本全都掉落",
+      "en": "the red book and the blue book never fall and are both on the table at the end, only green books ever fall and all four of them do"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
