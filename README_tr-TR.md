@@ -401,20 +401,20 @@ Yazar：[@itsSaira\_1](https://x.com/itsSaira_1) · [Orijinal gönderi](https://
 
 <a name="prompt-2100456445900710158"></a>
 
-### Çeviri sürüyor
+### Paris sokaklarında yürüyen, beyaz bir elbiseden sihirli bir şekilde kırmızı bir elbiseye dönüşen ve dondurma yiyen genç bir kadının sinematik moda videosu.
 
 Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Sinematik / Film Karesi · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Paris sokaklarında yürüyen, beyaz bir elbiseden sihirli bir şekilde kırmızı bir elbiseye dönüşen ve dondurma yiyen genç bir kadının sinematik moda videosu.
 
 <img src="covers/2100456445900710158.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Zarif Paris sokaklarında yürüyen güzel ve genç bir kadını içeren sinematik bir moda dönüşüm videosu oluşturun. Klasik mimari, kafeler, dükkanlar ve yayalarla çevrili şık bir şehir kaldırımında doğal bir şekilde yürüyen sade, beyaz bir yazlık elbiseyle başlar. Kamera, gerçekçi sinematik hareketlerle ve sığ bir alan derinliğiyle onu akıcı bir şekilde takip eder. Bir mağaza vitrininin önünden geçerken, vücudunun etrafında parıldayan kırmızı ışık izleri süzülerek büyüleyici bir moda geçişi etkisi yaratır. Kıyafeti kusursuz bir şekilde beyazdan sofistike, kolsuz kırmızı bir elbiseye dönüşür. Hareketli bir Paris kavşağında kendine güvenen adımlarla yürürken sokak seviyesinden dinamik çekimlerle devam edin. Kırmızı elbisesi içinde, bir dondurmayı zarifçe tutup yerken kameraya doğal bir şekilde baktığı güzel bir yakın planla sonlandırın. Fotogerçekçi ayrıntılar, zarif moda filmi estetiği, doğal gün ışığı, akıcı geçişler, gerçekçi cilt dokusu, sinematik lens, ince arka plan hareketi, birinci sınıf reklam görünümü.
 ```
 
 [↑ Kategorilere dön](#catalog)

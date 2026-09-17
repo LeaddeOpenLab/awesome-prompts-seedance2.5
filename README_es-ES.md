@@ -415,20 +415,20 @@ Traducción en curso
 
 <a name="prompt-2100456445900710158"></a>
 
-### Traducción en curso
+### Vídeo cinematográfico de moda de una joven caminando por las calles de París, transformándose mágicamente de un vestido blanco a un vestido rojo y comiendo un helado.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicación original](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Cine / Fotograma de película · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Vídeo cinematográfico de moda de una joven caminando por las calles de París, transformándose mágicamente de un vestido blanco a un vestido rojo y comiendo un helado.
 
 <img src="covers/2100456445900710158.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vídeo cinematográfico de transformación de moda protagonizado por una hermosa joven que camina por las elegantes calles de París. Comienza con un vestido blanco de verano limpio y sencillo, caminando con naturalidad por una acera urbana estilosa rodeada de arquitectura clásica, cafeterías, tiendas y peatones. La cámara la sigue suavemente con un movimiento cinematográfico realista y poca profundidad de campo. Al pasar por delante del escaparate de una tienda, unas estelas de luz roja brillante se arremolinan alrededor de su cuerpo, creando un efecto mágico de transición de moda. Su atuendo se transforma a la perfección de blanco a un sofisticado vestido rojo sin mangas. Continúa con tomas dinámicas a nivel de calle mientras cruza con confianza una concurrida intersección parisina. Termina con un hermoso primer plano de ella con el vestido rojo, sosteniendo y comiendo suavemente un helado mientras mira con naturalidad hacia la cámara. Detalles fotorrealistas, estética elegante de película de moda, luz natural de día, transiciones fluidas, textura de piel realista, lente cinematográfica, movimiento de fondo sutil, aspecto de anuncio publicitario premium.
 ```
 
 [↑ Volver a categorías](#catalog)

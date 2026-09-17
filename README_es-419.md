@@ -415,20 +415,20 @@ Traducción en curso
 
 <a name="prompt-2100456445900710158"></a>
 
-### Traducción en curso
+### Video cinematográfico de moda de una mujer joven caminando por calles parisinas, transformándose mágicamente de un vestido blanco a uno rojo y comiendo un helado.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicación original](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Cine / Fotograma · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video cinematográfico de moda de una mujer joven caminando por calles parisinas, transformándose mágicamente de un vestido blanco a uno rojo y comiendo un helado.
 
 <img src="covers/2100456445900710158.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinematográfico de transformación de moda protagonizado por una hermosa mujer joven que camina por elegantes calles parisinas. Comienza con un impecable vestido blanco de verano, caminando con naturalidad por una elegante acera de la ciudad rodeada de arquitectura clásica, cafés, tiendas y peatones. La cámara la sigue suavemente con un movimiento cinematográfico realista y poca profundidad de campo. Al pasar frente al escaparate de una tienda, estelas de luz roja brillante se arremolinan alrededor de su cuerpo, creando un efecto mágico de transición de moda. Su atuendo se transforma a la perfección de blanco a un sofisticado vestido rojo sin mangas. Continúa con tomas dinámicas a nivel de calle mientras camina con seguridad a través de una transitada intersección de París. Termina con un hermoso primer plano de ella con el vestido rojo, sosteniendo delicadamente y comiendo un helado mientras mira con naturalidad hacia la cámara. Detalles fotorrealistas, estética elegante de película de moda, luz natural de día, transiciones fluidas, textura de piel realista, lente cinematográfica, movimiento de fondo sutil, aspecto de comercial de primera calidad.
 ```
 
 [↑ Volver a categorías](#catalog)

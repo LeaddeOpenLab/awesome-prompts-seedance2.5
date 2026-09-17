@@ -401,20 +401,20 @@ Tradução em andamento
 
 <a name="prompt-2100456445900710158"></a>
 
-### Tradução em andamento
+### Vídeo cinematográfico de moda de uma jovem caminhando pelas ruas parisienses, transformando-se magicamente de um vestido branco para um vestido vermelho e comendo um sorvete.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicação original](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Cinematográfico / Imagem de Filme · Personagem · Item de Moda · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo cinematográfico de moda de uma jovem caminhando pelas ruas parisienses, transformando-se magicamente de um vestido branco para um vestido vermelho e comendo um sorvete.
 
 <img src="covers/2100456445900710158.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico de transformação de moda apresentando uma linda jovem caminhando pelas elegantes ruas parisienses. Ela começa com um vestido de verão branco e limpo, caminhando naturalmente por uma calçada estilosa cercada por arquitetura clássica, cafés, lojas e pedestres. A câmera a segue suavemente com movimento cinematográfico realista e profundidade de campo rasa. Conforme ela passa em frente a uma vitrine, rastros de luz vermelha brilhante giram ao redor de seu corpo, criando um efeito mágico de transição de moda. Sua roupa se transforma perfeitamente de branca para um sofisticado vestido vermelho sem mangas. Continue com tomadas dinâmicas ao nível da rua enquanto ela caminha com confiança por um movimentado cruzamento de Paris. Termine com um lindo close-up dela no vestido vermelho, segurando delicadamente e comendo um sorvete enquanto olha naturalmente para a câmera. Detalhes fotorrealistas, estética elegante de filme de moda, luz natural do dia, transições suaves, textura de pele realista, lente cinematográfica, movimento de fundo sutil, visual comercial de alto padrão.
 ```
 
 [↑ Voltar às categorias](#catalog)

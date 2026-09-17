@@ -415,20 +415,20 @@ Comic / Storyboard · Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Stadtbild
 
 <a name="prompt-2100456445900710158"></a>
 
-### Übersetzung läuft
+### Filmisches Modevideo einer jungen Frau, die durch Pariser Straßen geht, sich auf magische Weise von einem weißen in ein rotes Kleid verwandelt und ein Eis isst.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Originalbeitrag](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Kinematisch / Filmstill · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Modevideo einer jungen Frau, die durch Pariser Straßen geht, sich auf magische Weise von einem weißen in ein rotes Kleid verwandelt und ein Eis isst.
 
 <img src="covers/2100456445900710158.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein filmisches Mode-Transformationsvideo mit einer wunderschönen jungen Frau, die durch elegante Pariser Straßen geht. Sie beginnt in einem schlichten weißen Sommerkleid und spaziert ganz natürlich über einen stilvollen Bürgersteig der Stadt, umgeben von klassischer Architektur, Cafés, Geschäften und Fußgängern. Die Kamera folgt ihr sanft mit realistischen, filmischen Bewegungen und geringer Tiefenschärfe. Als sie an einem Schaufenster vorbeigeht, wirbeln leuchtend rote Lichtspuren um ihren Körper und erzeugen einen magischen Mode-Übergangseffekt. Ihr Outfit verwandelt sich nahtlos von Weiß in ein elegantes, ärmelloses rotes Kleid. Weiter geht es mit dynamischen Aufnahmen auf Straßenebene, während sie selbstbewusst über eine belebte Pariser Kreuzung geht. Schließe mit einer wunderschönen Nahaufnahme von ihr im roten Kleid ab, wie sie sanft ein Eis hält, daran isst und dabei ganz natürlich in die Kamera blickt. Fotorealistische Details, elegante Modefilm-Ästhetik, natürliches Tageslicht, weiche Übergänge, realistische Hautstruktur, filmisches Objektiv, subtile Hintergrundbewegung, erstklassiger Werbelook.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

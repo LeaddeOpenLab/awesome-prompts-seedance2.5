@@ -417,20 +417,20 @@ Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim ·
 
 <a name="prompt-2100456445900710158"></a>
 
-### Đang dịch
+### Video thời trang phong cách điện ảnh về một thiếu nữ dạo bước trên đường phố Paris, biến hóa kỳ diệu từ váy trắng sang váy đỏ và thưởng thức kem.
 
 Tác giả：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Bài gốc](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video thời trang phong cách điện ảnh về một thiếu nữ dạo bước trên đường phố Paris, biến hóa kỳ diệu từ váy trắng sang váy đỏ và thưởng thức kem.
 
 <img src="covers/2100456445900710158.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video biến hình thời trang mang phong cách điện ảnh với hình ảnh một thiếu nữ xinh đẹp đang dạo bước qua những con phố Paris thanh lịch. Ban đầu, cô diện một chiếc váy mùa hè màu trắng tinh khôi, tự nhiên bước đi trên vỉa hè thành phố phong cách bao quanh bởi kiến trúc cổ điển, các quán cà phê, cửa hiệu và người qua lại. Máy quay mượt mà dõi theo cô với chuyển động điện ảnh chân thực và độ sâu trường ảnh nông. Khi cô đi ngang qua một cửa hàng, những vệt sáng đỏ rực rỡ xoáy quanh cơ thể cô, tạo nên hiệu ứng chuyển cảnh thời trang đầy kỳ ảo. Trang phục của cô biến hóa mượt mà từ màu trắng sang một chiếc đầm không tay màu đỏ tinh tế. Tiếp tục với những khung hình góc nhìn đường phố năng động khi cô tự tin bước qua một ngã tư Paris nhộn nhịp. Kết thúc bằng một cảnh cận cảnh tuyệt đẹp về cô trong chiếc váy đỏ, nhẹ nhàng cầm và thưởng thức que kem trong khi tự nhiên nhìn về phía máy quay. Chi tiết chân thực như ảnh chụp, thẩm mỹ phim thời trang trang nhã, ánh sáng ban ngày tự nhiên, chuyển cảnh mượt mà, kết cấu da chân thực, ống kính điện ảnh, chuyển động nền tinh tế, diện mạo quảng cáo cao cấp.
 ```
 
 [↑ Về danh mục](#catalog)

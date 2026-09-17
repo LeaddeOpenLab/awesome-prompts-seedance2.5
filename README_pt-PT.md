@@ -401,20 +401,20 @@ Tradução em curso
 
 <a name="prompt-2100456445900710158"></a>
 
-### Tradução em curso
+### Vídeo cinematográfico de moda de uma jovem mulher a caminhar pelas ruas parisienses, transformando-se magicamente de um vestido branco num vestido vermelho e a comer um gelado.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicação original](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Cena de Cinema / Fotograma · Personagem · Item de Moda · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Vídeo cinematográfico de moda de uma jovem mulher a caminhar pelas ruas parisienses, transformando-se magicamente de um vestido branco num vestido vermelho e a comer um gelado.
 
 <img src="covers/2100456445900710158.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico de transformação de moda apresentando uma jovem e bela mulher a caminhar pelas elegantes ruas parisienses. Ela começa com um vestido de verão branco e simples, caminhando com naturalidade por um passeio citadino elegante rodeado por arquitetura clássica, cafés, lojas e peões. A câmara segue-a suavemente com um movimento cinematográfico realista e uma profundidade de campo reduzida. Ao passar pela montra de uma loja, rastos de luz vermelha brilhante volteiam em torno do seu corpo, criando um efeito mágico de transição de moda. O seu visual transforma-se perfeitamente de branco num sofisticado vestido vermelho sem mangas. Continue com planos dinâmicos ao nível da rua enquanto ela caminha com confiança por um cruzamento movimentado de Paris. Termine com um belo grande plano dela com o vestido vermelho, segurando delicadamente e saboreando um gelado enquanto olha naturalmente para a câmara. Pormenores fotorrealistas, estética elegante de filme de moda, luz natural do dia, transições suaves, textura de pele realista, lente cinematográfica, movimento de fundo subtil, visual comercial de alta qualidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

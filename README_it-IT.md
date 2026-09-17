@@ -415,20 +415,20 @@ Traduzione in corso
 
 <a name="prompt-2100456445900710158"></a>
 
-### Traduzione in corso
+### Video cinematografico di moda di una giovane donna che cammina per le strade parigine, trasformandosi magicamente da un abito bianco a un abito rosso e mangiando un gelato.
 
 Autore：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Post originale](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video cinematografico di moda di una giovane donna che cammina per le strade parigine, trasformandosi magicamente da un abito bianco a un abito rosso e mangiando un gelato.
 
 <img src="covers/2100456445900710158.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico di trasformazione di moda con protagonista una splendida giovane donna che cammina per le eleganti strade parigine. Inizia con un pulito abito estivo bianco, camminando con naturalezza lungo un raffinato marciapiede cittadino circondato da architettura classica, caffè, negozi e pedoni. La macchina da presa la segue fluidamente con un movimento cinematografico realistico e una ridotta profondità di campo. Mentre passa davanti alla vetrina di un negozio, scie di luce rossa brillante volteggiano attorno al suo corpo, creando un magico effetto di transizione di moda. Il suo abito si trasforma senza soluzione di continuità da bianco a un sofisticato abito rosso senza maniche. Continua con riprese dinamiche a livello della strada mentre cammina con sicurezza attraverso un incrocio trafficato di Parigi. Concludi con un bellissimo primo piano di lei nell'abito rosso, che tiene delicatamente e mangia un gelato guardando con naturalezza verso la telecamera. Dettagli fotorealistici, estetica elegante da film di moda, luce naturale del giorno, transizioni fluide, texture della pelle realistica, obiettivo cinematografico, sottile movimento sullo sfondo, look commerciale di fascia alta.
 ```
 
 [↑ Torna alle categorie](#catalog)

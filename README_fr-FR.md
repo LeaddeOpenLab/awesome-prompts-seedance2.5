@@ -415,20 +415,20 @@ Traduction en cours
 
 <a name="prompt-2100456445900710158"></a>
 
-### Traduction en cours
+### Vidéo cinématique de mode d'une jeune femme marchant dans les rues parisiennes, se transformant comme par magie d'une robe blanche en une robe rouge et mangeant une glace.
 
 Auteur：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publication originale](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
 Image cinématographique / Photogramme de film · Personnage · Article de mode · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo cinématique de mode d'une jeune femme marchant dans les rues parisiennes, se transformant comme par magie d'une robe blanche en une robe rouge et mangeant une glace.
 
 <img src="covers/2100456445900710158.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo de mode cinématique montrant une transformation vestimentaire, mettant en scène une magnifique jeune femme marchant dans d'élégantes rues parisiennes. Elle commence dans une robe d'été blanche épurée, marchant naturellement sur un trottoir citadin raffiné, entourée d'architecture classique, de cafés, de boutiques et de piétons. La caméra la suit avec fluidité grâce à un mouvement cinématique réaliste et une faible profondeur de champ. Alors qu'elle passe devant une vitrine, des traînées de lumière rouge brillante tourbillonnent autour de son corps, créant un effet magique de transition de mode. Sa tenue se transforme harmonieusement du blanc en une robe rouge sans manches sophistiquée. Poursuivez avec des plans dynamiques au niveau de la rue alors qu'elle traverse d'un pas confiant un carrefour parisien animé. Terminez par un magnifique gros plan d'elle dans la robe rouge, tenant délicatement et dégustant une glace tout en regardant naturellement la caméra. Détails photoréalistes, esthétique élégante de film de mode, lumière naturelle du jour, transitions fluides, texture de peau réaliste, objectif cinématique, mouvements d'arrière-plan subtils, allure de publicité haut de gamme.
 ```
 
 [↑ Retour aux catégories](#catalog)
