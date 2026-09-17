@@ -468,20 +468,102 @@ Zarif Paris sokaklarında yürüyen güzel ve genç bir kadını içeren sinemat
 
 <a name="prompt-2100446648107459068"></a>
 
-### Çeviri sürüyor
+### İki genç Koreli arkadaşın geleneksel hanok yaşamını, sabah kahvaltısını, hanbok giyinmeyi ve geleneksel bir sokak pazarını deneyimlemesini anlatan 30 saniyelik sinematik canlı çekim istemi.
 
 Yazar：[@itxabdullaa](https://x.com/itxabdullaa) · [Orijinal gönderi](https://x.com/itxabdullaa/status/2100446648107459068)
 
 Sinematik / Film Karesi · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İki genç Koreli arkadaşın geleneksel hanok yaşamını, sabah kahvaltısını, hanbok giyinmeyi ve geleneksel bir sokak pazarını deneyimlemesini anlatan 30 saniyelik sinematik canlı çekim istemi.
 
 <img src="covers/2100446648107459068.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+KESİN SÜRE: 30 SANİYE
+16:9 | ULTRA FOTORREALİST CANLI ÇEKİM (LIVE-ACTION)
+
+Geleneksel Kore yaşamını deneyimleyen iki genç Koreli arkadaş hakkında kesintisiz tek bir sinematik filmin ilk 30 saniyesini oluşturun. Asla yapay zekâ tarafından üretilmiş gibi değil, Kore'de çekilmiş otantik ve profesyonel bir canlı çekim gibi görünmelidir.
+
+KARAKTER SABİTLEME — MUTLAK
+
+Yüklenen Genç Koreli Kadın ve Genç Koreli Erkek Karakter Referanslarını birebir kullanın.
+
+Kadın: 23. Erkek: 24.
+
+Birebir yüzleri, gözleri, burunları, dudakları, ten renklerini, saç modellerini, saç uzunluklarını, vücut oranlarını, boy ilişkisini, yaşları ve kimlikleri koruyun. Yeniden tasarım, güzelleştirme, yaşlandırma, vücut değişiklikleri, yüz değişiklikleri veya kimlik kayması olmamalıdır. Bölüm 1 ve 2 boyunca aynı kişiler olmalıdır.
+
+HİKÂYE
+
+İki genç Koreli arkadaş sabahlarına otantik bir hanokta başlar ve geleneksel Kore yaşamını birlikte doğal bir şekilde deneyimler. Samimi, gözlemci ve saygılı. Sadece arkadaşlık, romantizm yok.
+
+SAHNE 1 — ŞAFAK | 0:00–0:06
+
+Şafak vaktinde otantik Kore hanoku. Kâğıt kapılardan süzülen güneş ışığı. Kadın uyanır, ahşap bir kapıyı açar ve avluya çıkar. Erkek başka bir odadan görünür. Birbirlerine hafifçe gülümserler ve birlikte yürürler.
+
+Gerçek ahşap, esinti ve sabah kuşları.
+
+Korece başlık: 한국의 하루
+İngilizce: A Day in Traditional Korea
+
+SAHNE 2 — KAHVALTI | 0:06–0:12
+
+Hanokun içinde, dumanı tüten pirinç, çorba, banchan, seramik kaseler ve yemek çubuklarının bulunduğu geleneksel alçak bir Kore masasında otururlar.
+
+Erkek yemeği servis eder. Kadın gülümser. Doğal bir şekilde yerler. Poz vermek veya abartılı tepkiler yok.
+
+Korece altyazı: 하루는 함께하는 아침에서 시작됩니다.
+İngilizce: A day begins with a morning shared together.
+
+SAHNE 3 — HANBOK | 0:12–0:18
+
+Çıkmak için hazırlanırlar.
+
+Kadın: referansın birebir aynısı hanbok, fildişi jeogori + mat pudra-gül rengi chima.
+Erkek: referansın birebir aynısı hanbok, krem jeogori + koyu mat lacivert baji.
+
+Kadın kurdelesini bağlarken ve erkek kolunu düzeltirken gerçekçi kumaş dokusunu gösterin. Doğal etkileşim.
+
+SAHNE 4 — HANOK SOKAĞI | 0:18–0:24
+
+Otantik hanok çatıları, ahşap kapıları, taş duvarları ve yerel sakinleri olan huzurlu, tarihi bir Kore mahallesinde yürürler.
+
+Kamera arkadan takip eder, ardından hafif bir yan kaydırma yapar. Sessiz bir sohbet, doğal güneş ışığı ve hareket.
+
+SAHNE 5 — GELENEKSEL PAZAR | 0:24–0:30
+
+Otantik esnafların, Korece tabelaların, malzemelerin, atıştırmalıkların, buharların ve yemek tezgâhlarının bulunduğu hareketli bir Kore pazarına girerler.
+
+Kadın bir tezgâhta durur. Esnaf ona geleneksel bir Kore atıştırmalığı verir. Erkek gülümserken kadın bunu doğal bir şekilde inceler. Yavaşça yüz ifadesine doğru yaklaşma (slow push).
+
+KRİTİK BİTİŞ KARESİ
+
+Tam olarak 30. saniyede, kadın tezgâhın yanında SAĞ ELİNDE atıştırmalığı tutarak durmaktadır. Erkek hemen onun SOLUNDA durmaktadır. Her ikisi de birebir aynı hanboku giymiş durumdadır ve esnafa doğru bakmaktadır.
+
+Bu kare BİREBİR Bölüm 2'nin açılış durumu OLMALIDIR.
+
+SİNEMATOGRAFİ
+
+35mm / 50mm / nadiren 85mm. Doğal elde çekim, hafif kaydırma, gerçekçi odak geçişleri, alan derinliği ve hareket bulanıklığı.
+
+Yüzen kamera, imkânsız hareketler, aşırı ağır çekim, hız değişimleri (speed ramps) veya yapay lens efektleri yok.
+
+AYDINLATMA
+
+Doğal sabah güneş ışığı, gerçekçi gölgeler, doğal ten tonları ve ölçülü renk düzenleme.
+
+SES
+
+Otantik Kore ambiyansı: kuşlar, kapılar, ayak sesleri, tabaklar, yemek çubukları, sohbetler, pazarcılar, pazar sesleri ve cızırdayan yiyecekler. Çok hafif geleneksel Kore müziği. Diyalog ve çevre sesleri baskındır.
+
+MUTLAK GERÇEKÇİLİK
+
+Gerçek insanlar, gerçekçi Koreli yüzler, doğal cilt, gözler, dişler ve saçlar. Kusursuz el ve parmaklar. Gerçekçi kıyafetler, yemekler, buhar, gölgeler ve mimari.
+
+CGI, animasyon, anime, plastik cilt, yapay zekâ yüzleri, yüz morflaması, kimlik değişiklikleri, kopyalanmış kişiler, kıyafet değişiklikleri, biçimsiz eller veya bozulmuş çevreler KESİNLİKLE YOK.
+
+Her planda birebir aynı karakterleri, gardırobu, aydınlatmayı, çevreyi ve kaliteyi koruyun. Nihai sonuç, üst düzey profesyonel bir Kore canlı çekim görüntüsü gibi olmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3018,20 +3100,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2100460643874943066"></a>
 
-### Çeviri sürüyor
+### Dingin bir Japon kış sabahında sürgülü kapıları açan, serçeleri besleyen, karları süpüren, çay içen ve karlı bir köyün yanında yürüyen bir kadını gösteren sahne.
 
 Yazar：[@noorlewisx](https://x.com/noorlewisx) · [Orijinal gönderi](https://x.com/noorlewisx/status/2100460643874943066)
 
 Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dingin bir Japon kış sabahında sürgülü kapıları açan, serçeleri besleyen, karları süpüren, çay içen ve karlı bir köyün yanında yürüyen bir kadını gösteren sahne.
 
 <img src="covers/2100460643874943066.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Geleneksel ahşap bir köy evinde dingin bir Japon kış sabahı, shoji kağıt sürgülü kapılara sahip karla kaplı tatami odası, krem rengi kazağın üzerine kahverengi tüylü bir hırka, koyu renk pantolon ve kabarık botlar giymiş kısa siyah saçlı bir kadın, diz çöküp ardından ayağa kalkarak dışarıdaki karlı köyü gözler önüne seren kapıları kaydırarak açıyor. Buz tutmuş pencerelerden süzülen yumuşak altın rengi güneş ışığı. Ahşap engawa verandasına adım atıyor, taze karda zıplayan küçük serçelere tohum serpmek için çömeliyor. Daha sonra geleneksel bir saman süpürgesiyle verandadaki karları süpürüyor. İçeride tatami üzerinde diz çöküp seramik bir çaydanlıktan küçük bir fincana buharı tüten çay dolduruyor, fincanı iki eliyle tutarak huzurla pencereden dışarı bakıyor. Ardından açık bej bir palto giymiş halde ahşap evin yanındaki karlı patikada uzaklaşıyor, geleneksel evleri, ahşap çitleri, kar yüklü çam ağaçları, uzaktaki dağları ve altın rengi gün doğumu ışığında yükselen baca dumanlarıyla karlar altındaki pitoresk bir köyü seyrediyor. Sinematik, huzurlu, samimi, son derece detaylı, doğal ışıklandırma, fotogerçekçi ama şiirsel, Studio Ghibli esintili atmosfer, 8k.
 ```
 
 [↑ Kategorilere dön](#catalog)

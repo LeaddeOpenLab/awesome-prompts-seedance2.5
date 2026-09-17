@@ -482,20 +482,102 @@ Erstelle ein filmisches Mode-Transformationsvideo mit einer wunderschönen junge
 
 <a name="prompt-2100446648107459068"></a>
 
-### Übersetzung läuft
+### Cinematische 30-sekündige Realfilm-Prompt, die zwei junge koreanische Freunde porträtiert, wie sie das traditionelle Hanok-Leben, ein morgendliches Frühstück, das Anlegen von Hanbok und einen Straßenmarkt erleben.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Originalbeitrag](https://x.com/itxabdullaa/status/2100446648107459068)
 
 Kinematisch / Filmstill · Modeartikel · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cinematische 30-sekündige Realfilm-Prompt, die zwei junge koreanische Freunde porträtiert, wie sie das traditionelle Hanok-Leben, ein morgendliches Frühstück, das Anlegen von Hanbok und einen Straßenmarkt erleben.
 
 <img src="covers/2100446648107459068.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+EXAKTE DAUER: 30 SEKUNDEN
+16:9 | ULTRA-FOTOREALISTISCHER REALFILM
+
+Erstelle die ersten 30 Sekunden eines zusammenhängenden Kinofilms über zwei junge koreanische Freunde, die das traditionelle koreanische Leben erleben. Es muss wie authentischer, professioneller Realfilm aussehen, der in Korea gedreht wurde, keinesfalls KI-generiert.
+
+FIGUREN-ARRETIERUNG — ABSOLUT
+
+Verwende exakt die hochgeladenen Charakter-Referenzen der jungen koreanischen Frau und des jungen koreanischen Mannes.
+
+Frau: 23. Mann: 24.
+
+Bewahre exakte Gesichter, Augen, Nasen, Lippen, Hauttöne, Frisuren, Haarlängen, Körperproportionen, Größenverhältnisse, Alter und Identitäten. Keine Neugestaltung, Verschönerung, Alterung, Körperveränderungen, Gesichtsveränderungen oder Identitätsabweichungen. Dieselben Personen durchgehend in Teil 1 und 2.
+
+HANDLUNG
+
+Zwei junge koreanische Freunde beginnen ihren Morgen in einem authentischen Hanok und erleben gemeinsam ganz natürlich das traditionelle koreanische Leben. Intim, beobachtend und respektvoll. Nur Freundschaft, keine Romantik.
+
+SZENE 1 — MORGENDÄMMERUNG | 0:00–0:06
+
+Authentischer koreanischer Hanok in der Morgendämmerung. Sonnenlicht durch Papiertüren. Die Frau wacht auf, öffnet eine Holztür und betritt den Innenhof. Der Mann tritt aus einem anderen Raum hervor. Sie tauschen ein feines Lächeln aus und gehen zusammen los.
+
+Echtes Holz, sanfte Brise und Morgenvögel.
+
+Koreanischer Titel: 한국의 하루
+Englisch: A Day in Traditional Korea
+
+SZENE 2 — FRÜHSTÜCK | 0:06–0:12
+
+Im Inneren des Hanok sitzen sie an einem niedrigen traditionellen koreanischen Tisch mit dampfendem Reis, Suppe, Banchan, Keramikschalen und Essstäbchen.
+
+Der Mann serviert das Essen. Die Frau lächelt. Sie essen auf natürliche Weise. Kein Posieren oder übertriebene Reaktionen.
+
+Koreanischer Untertitel: 하루는 함께하는 아침에서 시작됩니다.
+Englisch: A day begins with a morning shared together.
+
+SZENE 3 — HANBOK | 0:12–0:18
+
+Sie machen sich bereit aufzubrechen.
+
+Frau: exakter Hanbok der Referenz, elfenbeinfarbener Jeogori + gedecktes altrosa Chima.
+Mann: exakter Hanbok der Referenz, cremefarbener Jeogori + dunkles, gedecktes marineblaues Baji.
+
+Zeige realistischen Stoff, während sie ihre Schleife bindet und er seinen Ärmel richtet. Natürliche Interaktion.
+
+SZENE 4 — HANOK-GASSE | 0:18–0:24
+
+Sie gehen durch ein friedliches historisches koreanisches Viertel mit authentischen Hanok-Dächern, Holztüren, Steinmauern und einheimischen Bewohnern.
+
+Die Kamera folgt von hinten, dann eine subtile seitliche Verfolgung. Ruhiges Gespräch, natürliches Sonnenlicht und Bewegung.
+
+SZENE 5 — TRADITIONELLER MARKT | 0:24–0:30
+
+Sie betreten einen lebhaften koreanischen Markt mit authentischen Händlern, koreanischen Schildern, Zutaten, Snacks, Dampf und Essensständen.
+
+Die Frau bleibt an einem Stand stehen. Der Händler gibt ihr einen traditionellen koreanischen Snack. Sie begutachtet ihn ganz natürlich, während der Mann lächelt. Langsamer Kameraschwenk auf ihren Gesichtsausdruck.
+
+ENTSCHEIDENDER SCHLUSSFRAME
+
+Bei genau 30 Sekunden steht die Frau neben dem Stand und hält den Snack in ihrer RECHTEN HAND. Der Mann steht unmittelbar zu ihrer LINKEN. Beide tragen den exakten Hanbok und schauen zum Händler.
+
+Dieser exakte Frame MUSS der Ausgangspunkt für Teil 2 werden.
+
+KINEMATOGRAPHIE
+
+35mm / 50mm / gelegentlich 85mm. Natürliche Handkamera, subtiles Tracking, realistische Schärfenverlagerungen, Tiefenschärfe und Bewegungsunschärfe.
+
+Keine schwebende Kamera, keine unmöglichen Bewegungen, keine übertriebene Zeitlupe, keine Geschwindigkeitsrampen oder künstliche Linseneffekte.
+
+BELEUCHTUNG
+
+Natürliches morgendliches Sonnenlicht, realistische Schatten, natürliche Hauttöne und zurückhaltendes Grading.
+
+AUDIO
+
+Authentische koreanische Kulisse: Vögel, Türen, Schritte, Geschirr, Essstäbchen, Unterhaltungen, Händler, Marktgeräusche und brutzelndes Essen. Sehr subtile traditionelle koreanische Musik. Dialog und Umgebung dominieren.
+
+ABSOLUTER REALISMUS
+
+Echte Menschen, realistische koreanische Gesichter, natürliche Haut, Augen, Zähne und Haare. Korrekte Hände und Finger. Realistische Kleidung, Essen, Dampf, Schatten und Architektur.
+
+KEIN CGI, keine Animation, kein Anime, keine plastische Haut, keine KI-Gesichter, kein Gesichts-Morphing, keine Identitätswechsel, keine doppelten Personen, keine Kostümwechsel, keine fehlerhaften Hände oder verzerrte Umgebungen.
+
+Behalte exakt dieselben Charaktere, Garderobe, Beleuchtung, Umgebung und Qualität über jede Aufnahme hinweg bei. Das Endergebnis muss wie erstklassiges koreanisches Realfilmmaterial aussehen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3024,20 +3106,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2100460643874943066"></a>
 
-### Übersetzung läuft
+### Ein ruhiger japanischer Wintermorgen, der eine Frau zeigt, wie sie Schiebetüren öffnet, Spatzen füttert, Schnee fegt, Tee trinkt und an einem verschneiten Dorf entlanggeht.
 
 Autor：[@noorlewisx](https://x.com/noorlewisx) · [Originalbeitrag](https://x.com/noorlewisx/status/2100460643874943066)
 
 Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein ruhiger japanischer Wintermorgen, der eine Frau zeigt, wie sie Schiebetüren öffnet, Spatzen füttert, Schnee fegt, Tee trinkt und an einem verschneiten Dorf entlanggeht.
 
 <img src="covers/2100460643874943066.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein ruhiger japanischer Wintermorgen in einem traditionellen ländlichen Holzhaus, ein schneebedecktes Tatami-Zimmer mit Shoji-Papierschiebetüren, eine Frau mit kurzen schwarzen Haaren, die eine braune, flauschige Strickjacke über einem cremefarbenen Pullover, dunkle Hosen und flauschige Stiefel trägt, die niederkniet und dann aufsteht, um die Schiebetüren zu öffnen und den Blick auf ein verschneites Dorf draußen freizugeben. Sanftes goldenes Sonnenlicht strömt durch die gefrosteten Fenster. Sie tritt auf die hölzerne Engawa-Veranda, hockt sich hin, um Körner für kleine Spatzen zu streuen, die im Neuschnee hüpfen. Später fegt sie mit einem traditionellen Strohbesen den Schnee von der Veranda. Drinnen kniet sie auf der Tatami-Matte und gießt dampfenden Tee aus einer Keramik-Teekanne in eine kleine Tasse, hält sie mit beiden Händen und blickt friedlich aus dem Fenster. Dann geht sie einen schneebedeckten Pfad neben dem Holzhaus entlang, trägt einen hellbeigen Mantel und blickt über ein malerisches, schneebedecktes Dorf mit traditionellen Häusern, Holzzäunen, schneebedeckten Kiefern, fernen Bergen und Schornsteinrauch, der im goldenen Licht des Sonnenaufgangs aufsteigt. Filmisch, friedlich, gemütlich, hochdetailliert, natürliche Beleuchtung, fotorealistisch und doch poetisch, von Studio Ghibli inspirierte Atmosphäre, 8k.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

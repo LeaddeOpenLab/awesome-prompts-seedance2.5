@@ -484,20 +484,102 @@ Tạo một video biến hình thời trang mang phong cách điện ảnh với
 
 <a name="prompt-2100446648107459068"></a>
 
-### Đang dịch
+### Lời nhắc quay phim người đóng phong cách điện ảnh dài 30 giây khắc họa hai người bạn trẻ Hàn Quốc đang trải nghiệm cuộc sống trong ngôi nhà hanok truyền thống, bữa ăn sáng, trang phục hanbok và một khu chợ đường phố.
 
 Tác giả：[@itxabdullaa](https://x.com/itxabdullaa) · [Bài gốc](https://x.com/itxabdullaa/status/2100446648107459068)
 
 Điện ảnh / Ảnh tĩnh từ phim · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quay phim người đóng phong cách điện ảnh dài 30 giây khắc họa hai người bạn trẻ Hàn Quốc đang trải nghiệm cuộc sống trong ngôi nhà hanok truyền thống, bữa ăn sáng, trang phục hanbok và một khu chợ đường phố.
 
 <img src="covers/2100446648107459068.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+THỜI LƯỢNG CHÍNH XÁC: 30 GIÂY
+16:9 | NGƯỜI ĐÓNG SIÊU THỰC TẾ (ULTRA-PHOTOREALISTIC LIVE-ACTION)
+
+Tạo 30 giây đầu tiên của một bộ phim điện ảnh liền mạch duy nhất kể về hai người bạn trẻ Hàn Quốc cùng trải nghiệm cuộc sống truyền thống Hàn Quốc. Phim phải trông giống như cảnh quay người đóng chuyên nghiệp đích thực tại Hàn Quốc, tuyệt đối không mang cảm giác do AI tạo ra.
+
+KHÓA NHÂN VẬT — TUYỆT ĐỐI
+
+Sử dụng chính xác các tài liệu tham chiếu nhân vật Nữ thanh niên Hàn Quốc và Nam thanh niên Hàn Quốc đã tải lên.
+
+Nữ: 23 tuổi. Nam: 24 tuổi.
+
+Giữ nguyên chính xác khuôn mặt, mắt, mũi, môi, tông màu da, kiểu tóc, độ dài tóc, tỷ lệ cơ thể, tương quan chiều cao, độ tuổi và danh tính. Không thiết kế lại, không làm đẹp quá mức, không làm già đi, không thay đổi cơ thể, không thay đổi khuôn mặt hoặc làm trôi dạt danh tính. Giữ nguyên cùng những con người này trong suốt Phần 1 và Phần 2.
+
+CÂU CHUYỆN
+
+Hai người bạn trẻ Hàn Quốc bắt đầu buổi sáng của họ trong một ngôi nhà hanok truyền thống đích thực và cùng nhau trải nghiệm cuộc sống truyền thống Hàn Quốc một cách tự nhiên. Thân mật, mang tính quan sát và trân trọng. Chỉ là tình bạn, không có yếu tố lãng mạn.
+
+CẢNH 1 — BÌNH MINH | 0:00–0:06
+
+Ngôi nhà hanok Hàn Quốc đích thực vào lúc rạng đông. Ánh nắng xuyên qua những cánh cửa giấy. Người phụ nữ thức dậy, mở một cánh cửa gỗ và bước vào khoảng sân. Người đàn ông xuất hiện từ một căn phòng khác. Họ trao nhau nụ cười nhẹ nhàng và cùng nhau bước đi.
+
+Gỗ thật, làn gió mát và tiếng chim buổi sáng.
+
+Tiêu đề tiếng Hàn: 한국의 하루
+Tiếng Anh: A Day in Traditional Korea
+
+CẢNH 2 — BỮA SÁNG | 0:06–0:12
+
+Bên trong nhà hanok, họ ngồi bên chiếc bàn truyền thống thấp của Hàn Quốc với cơm nóng hổi bốc khói, canh, banchan, bát gốm và đũa.
+
+Người đàn ông xới thức ăn. Người phụ nữ mỉm cười. Họ dùng bữa một cách tự nhiên. Không tạo dáng hay có phản ứng cường điệu.
+
+Phụ đề tiếng Hàn: 하루는 함께하는 아침에서 시작됩니다.
+Tiếng Anh: A day begins with a morning shared together.
+
+CẢNH 3 — HANBOK | 0:12–0:18
+
+Họ chuẩn bị rời đi.
+
+Người phụ nữ: mặc bộ hanbok tham chiếu chính xác, jeogori màu ngà + chima màu hồng tro dịu (muted dusty-rose).
+Người đàn ông: mặc bộ hanbok tham chiếu chính xác, jeogori màu kem + baji màu xanh navy trầm đậm.
+
+Thể hiện chất liệu vải chân thực khi cô ấy buộc dải ruy băng và anh ấy chỉnh lại ống tay áo. Tương tác tự nhiên.
+
+CẢNH 4 — NGÕ HANOK | 0:18–0:24
+
+Họ đi dạo qua một khu phố lịch sử yên bình của Hàn Quốc với những mái nhà hanok đích thực, cửa gỗ, tường đá và cư dân địa phương.
+
+Máy quay đi theo từ phía sau, sau đó lia theo cạnh bên một cách tinh tế. Trò chuyện khẽ khàng, ánh nắng và chuyển động tự nhiên.
+
+CẢNH 5 — CHỢ TRUYỀN THỐNG | 0:24–0:30
+
+Họ bước vào một khu chợ Hàn Quốc nhộn nhịp với những người bán hàng đích thực, biển hiệu tiếng Hàn, nguyên liệu, đồ ăn vặt, hơi nước bốc lên và các quầy đồ ăn.
+
+Người phụ nữ dừng lại ở một quầy hàng. Người bán hàng đưa cho cô một món ăn vặt truyền thống của Hàn Quốc. Cô ngắm nhìn nó một cách tự nhiên trong khi người đàn ông mỉm cười. Máy quay đẩy chậm về phía biểu cảm của cô.
+
+KHUNG HÌNH KẾT THÚC QUAN TRỌNG
+
+Đúng 30 giây, người phụ nữ đứng cạnh quầy hàng, cầm món ăn vặt trên TAY PHẢI của mình. Người đàn ông đứng ngay phía BÊN TRÁI của cô. Cả hai đều mặc đúng bộ hanbok chuẩn xác và nhìn về phía người bán hàng.
+
+Khung hình chính xác này BẮT BUỘC phải trở thành trạng thái mở đầu của Phần 2.
+
+QUAY PHIM
+
+Ống kính 35mm / 50mm / thỉnh thoảng 85mm. Quay cầm tay (handheld) tự nhiên, bám theo tinh tế, lấy nét chuyển đổi (focus pull) chân thực, độ sâu trường ảnh và độ mờ chuyển động chân thực.
+
+Không có máy quay bay lơ lửng, không có chuyển động bất khả thi, không lạm dụng chuyển động chậm (slow motion), không đổi tốc độ đột ngột (speed ramp) hoặc hiệu ứng ống kính nhân tạo.
+
+ÁNH SÁNG
+
+Ánh sáng mặt trời buổi sáng tự nhiên, bóng đổ chân thực, tông màu da tự nhiên và chỉnh màu (color grading) tiết chế.
+
+ÂM THANH
+
+Âm thanh môi trường Hàn Quốc chân thực: tiếng chim, tiếng cửa, tiếng bước chân, bát đĩa, đũa, tiếng trò chuyện, người bán hàng rong, âm thanh khu chợ và tiếng thức ăn xèo xèo. Nhạc truyền thống Hàn Quốc rất nhẹ nhàng, tinh tế. Âm thanh đối thoại và môi trường chiếm chủ đạo.
+
+HIỆN THỰC TUYỆT ĐỐI
+
+Con người thật, khuôn mặt người Hàn Quốc chân thực, da, mắt, răng và tóc tự nhiên. Bàn tay và ngón tay chuẩn xác. Trang phục, thức ăn, khói hơi nước, bóng đổ và kiến trúc chân thực.
+
+KHÔNG CGI, không hoạt hình, không anime, không làn da bóng như nhựa, không khuôn mặt AI, không biến đổi khuôn mặt, không thay đổi danh tính, không nhân bản người, không thay đổi trang phục, không bàn tay dị dạng hay môi trường bị méo mó.
+
+Duy trì chính xác nhân vật, trang phục, ánh sáng, môi trường và chất lượng trên từng cảnh quay. Kết quả cuối cùng phải trông giống như những thước phim người đóng cao cấp của Hàn Quốc.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3113,20 +3195,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2100460643874943066"></a>
 
-### Đang dịch
+### Một buổi sáng mùa đông Nhật Bản thanh bình ghi lại cảnh người phụ nữ mở cửa trượt, cho chim sẻ ăn, quét tuyết, uống trà và tản bộ bên ngôi làng phủ đầy tuyết.
 
 Tác giả：[@noorlewisx](https://x.com/noorlewisx) · [Bài gốc](https://x.com/noorlewisx/status/2100460643874943066)
 
 Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một buổi sáng mùa đông Nhật Bản thanh bình ghi lại cảnh người phụ nữ mở cửa trượt, cho chim sẻ ăn, quét tuyết, uống trà và tản bộ bên ngôi làng phủ đầy tuyết.
 
 <img src="covers/2100460643874943066.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một buổi sáng mùa đông Nhật Bản thanh bình trong ngôi nhà gỗ thôn quê truyền thống, căn phòng trải chiếu tatami phủ hơi lạnh mùa đông với những cánh cửa trượt bằng giấy shoji, một người phụ nữ tóc đen ngắn mặc áo cardigan lông xù màu nâu bên ngoài áo len màu kem, quần tối màu và đôi bốt ấm áp, đang quỳ rồi đứng dậy trượt mở cửa để lộ ngôi làng phủ đầy tuyết bên ngoài. Ánh nắng ban mai vàng dịu dàng chiếu qua khung cửa sổ đóng băng tuyết. Cô bước ra hiên gỗ engawa, ngồi xổm xuống rải hạt cho những chú chim sẻ nhỏ đang nhảy nhót trên tuyết mới. Sau đó, cô dùng chổi rơm truyền thống quét tuyết khỏi hiên nhà. Bên trong, cô quỳ trên chiếu tatami rót trà bốc khói nghi ngút từ ấm trà gốm vào một chiếc tách nhỏ, nâng tách bằng cả hai tay và bình yên nhìn ra ngoài cửa sổ. Rồi cô bước đi trên con đường phủ đầy tuyết bên cạnh ngôi nhà gỗ, khoác chiếc áo khoác màu be nhạt, phóng tầm mắt ngắm nhìn ngôi làng phủ tuyết trắng đẹp như tranh vẽ với những ngôi nhà truyền thống, hàng rào gỗ, những cây thông trĩu tuyết, những ngọn núi xa xa và làn khói từ ống khói bốc lên trong ánh bình minh vàng. Đậm chất điện ảnh, thanh bình, ấm cúng, cực kỳ chi tiết, ánh sáng tự nhiên, chân thực nhưng đầy chất thơ, bầu không khí lấy cảm hứng từ Studio Ghibli, 8k.
 ```
 
 [↑ Về danh mục](#catalog)

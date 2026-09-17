@@ -482,20 +482,102 @@ Créez une vidéo de mode cinématique montrant une transformation vestimentaire
 
 <a name="prompt-2100446648107459068"></a>
 
-### Traduction en cours
+### Prompt cinématographique de 30 secondes en prises de vues réelles dépeignant deux jeunes amis coréens découvrant la vie traditionnelle dans un hanok, un petit-déjeuner matinal, l'habillage en hanbok et un marché de rue.
 
 Auteur：[@itxabdullaa](https://x.com/itxabdullaa) · [Publication originale](https://x.com/itxabdullaa/status/2100446648107459068)
 
 Image cinématographique / Photogramme de film · Article de mode · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique de 30 secondes en prises de vues réelles dépeignant deux jeunes amis coréens découvrant la vie traditionnelle dans un hanok, un petit-déjeuner matinal, l'habillage en hanbok et un marché de rue.
 
 <img src="covers/2100446648107459068.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+DURÉE EXACTE : 30 SECONDES
+16:9 | PRISES DE VUES RÉELLES ULTRA-PHOTORÉALISTES
+
+Créez les 30 premières secondes d'un film cinématographique continu sur deux jeunes amis coréens faisant l'expérience de la vie traditionnelle coréenne. Cela doit ressembler à d'authentiques prises de vues réelles professionnelles filmées en Corée, jamais générées par IA.
+
+VERROUILLAGE DES PERSONNAGES — ABSOLU
+
+Utilisez exactement les références de personnages téléchargées de la Jeune femme coréenne et du Jeune homme coréen.
+
+Femme : 23 ans. Homme : 24 ans.
+
+Préservez exactement les visages, yeux, nez, lèvres, teints de peau, coiffures, longueurs de cheveux, proportions corporelles, rapport de taille, âges et identités. Aucune refonte, aucun embellissement, vieillissement, modification corporelle, altération du visage ou dérive d'identité. Les mêmes personnes tout au long des Parties 1 et 2.
+
+HISTOIRE
+
+Deux jeunes amis coréens commencent leur matinée dans un hanok authentique et découvrent naturellement la vie traditionnelle coréenne ensemble. Intime, observateur et respectueux. Amitié uniquement, aucune romance.
+
+SCÈNE 1 — L'AUBE | 0:00–0:06
+
+Hanok coréen authentique à l'aube. Lumière du soleil à travers les portes de papier. La femme se réveille, ouvre une porte en bois et entre dans la cour. L'homme apparaît depuis une autre pièce. Ils échangent un sourire subtil et marchent ensemble.
+
+Vrai bois, brise et oiseaux du matin.
+
+Titre en coréen : 한국의 하루
+Anglais : A Day in Traditional Korea
+
+SCÈNE 2 — PETIT-DÉJEUNER | 0:06–0:12
+
+À l'intérieur du hanok, ils sont assis à une table basse traditionnelle coréenne garnie de riz fumant, de soupe, de banchan, de bols en céramique et de baguettes.
+
+L'homme sert la nourriture. La femme sourit. Ils mangent naturellement. Aucune pose ni réaction exagérée.
+
+Sous-titre en coréen : 하루는 함께하는 아침에서 시작됩니다.
+Anglais : A day begins with a morning shared together.
+
+SCÈNE 3 — HANBOK | 0:12–0:18
+
+Ils se préparent à sortir.
+
+Femme : hanbok exact de référence, jeogori ivoire + chima vieux rose poudré sourd.
+Homme : hanbok exact de référence, jeogori crème + baji bleu marine profond et assourdi.
+
+Montrez un tissu réaliste lorsqu'elle noue son ruban et qu'il ajuste sa manche. Interaction naturelle.
+
+SCÈNE 4 — RUELLE DE HANOK | 0:18–0:24
+
+Ils marchent à travers un quartier historique paisible de Corée avec d'authentiques toits de hanok, des portes en bois, des murs en pierre et des résidents locaux.
+
+La caméra suit par-derrière, puis subtil travelling latéral. Conversation calme, lumière naturelle du soleil et mouvement.
+
+SCÈNE 5 — MARCHÉ TRADITIONNEL | 0:24–0:30
+
+Ils entrent dans un marché coréen animé avec d'authentiques vendeurs, des enseignes en coréen, des ingrédients, des en-cas, de la vapeur et des stands de nourriture.
+
+La femme s'arrête devant un étal. Le vendeur lui tend un en-cas coréen traditionnel. Elle l'examine naturellement tandis que l'homme sourit. Lent travelling avant vers son expression.
+
+CADRE DE FIN CRITIQUE
+
+À 30 secondes exactement, la femme se tient près de l'étal en tenant l'en-cas dans sa MAIN DROITE. L'homme se tient immédiatement à sa GAUCHE. Tous deux portent le hanbok exact et regardent vers le vendeur.
+
+Ce cadre exact DOIT devenir le point de départ de la Partie 2.
+
+CINÉMATOGRAPHIE
+
+35mm / 50mm / 85mm occasionnel. Caméra à l'épaule naturelle, travellings subtils, changements de mise au point réalistes, profondeur de champ et flou de mouvement.
+
+Pas de caméra flottante, pas de mouvements impossibles, pas de ralenti excessif, pas d'accélérations de vitesse ni d'effets de lentille artificiels.
+
+ÉCLAIRAGE
+
+Lumière naturelle du matin, ombres réalistes, teints de peau naturels et étalonnage sobre.
+
+AUDIO
+
+Ambiance coréenne authentique : oiseaux, portes, bruits de pas, vaisselle, baguettes, conversations, marchands, bruits de marché et crépitement des aliments. Musique coréenne traditionnelle très subtile. Le dialogue et l'environnement prédominent.
+
+RÉALISME ABSOLU
+
+Vrais humains, visages coréens réalistes, peau, yeux, dents et cheveux naturels. Mains et doigts impeccables. Vêtements, nourriture, vapeur, ombres et architecture réalistes.
+
+AUCUNE image de synthèse, pas d'animation, pas d'anime, pas de peau plastique, pas de visages d'IA, pas de morphing de visage, pas de changement d'identité, pas de doublons de personnes, pas de changement de tenue, pas de mains déformées ni d'environnements déformés.
+
+Conservez rigoureusement les mêmes personnages, vêtements, éclairage, environnement et niveau de qualité d'un plan à l'autre. Le résultat final doit ressembler à des séquences coréennes haut de gamme en prises de vues réelles.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3024,20 +3106,20 @@ Traduction en cours
 
 <a name="prompt-2100460643874943066"></a>
 
-### Traduction en cours
+### Un matin d'hiver japonais serein montrant une femme ouvrant des portes coulissantes, nourrissant des moineaux, balayant la neige, buvant du thé et marchant près d'un village enneigé.
 
 Auteur：[@noorlewisx](https://x.com/noorlewisx) · [Publication originale](https://x.com/noorlewisx/status/2100460643874943066)
 
 Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un matin d'hiver japonais serein montrant une femme ouvrant des portes coulissantes, nourrissant des moineaux, balayant la neige, buvant du thé et marchant près d'un village enneigé.
 
 <img src="covers/2100460643874943066.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un matin d'hiver japonais serein dans une maison de campagne traditionnelle en bois, une pièce en tatami couverte de neige avec des portes coulissantes en papier shoji, une femme aux cheveux courts et noirs vêtue d'un gilet duveteux marron sur un pull crème, d'un pantalon foncé et de bottes duveteuses, agenouillée puis se levant pour faire glisser les portes et révéler un village enneigé à l'extérieur. Une douce lumière dorée du soleil traverse les fenêtres givrées. Elle s'avance sur la véranda en bois engawa, s'accroupit pour disperser des graines pour de petits moineaux sautillant dans la neige fraîche. Plus tard, elle balaie la neige de la véranda avec un balai de paille traditionnel. À l'intérieur, elle s'agenouille sur le tatami, versant du thé fumant d'une théière en céramique dans une petite tasse, la tenant à deux mains et regardant paisiblement par la fenêtre. Puis elle s'éloigne le long d'un sentier enneigé à côté de la maison en bois, vêtue d'un manteau beige clair, contemplant un village pittoresque recouvert d'un manteau de neige avec des maisons traditionnelles, des clôtures en bois, des pins chargés de neige, des montagnes lointaines et de la fumée de cheminée s'élevant dans la lumière dorée du lever du soleil. Cinématographique, paisible, chaleureux, très détaillé, éclairage naturel, photoréaliste mais poétique, atmosphère inspirée du Studio Ghibli, 8k.
 ```
 
 [↑ Retour aux catégories](#catalog)

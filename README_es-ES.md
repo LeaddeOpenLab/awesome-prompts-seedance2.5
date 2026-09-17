@@ -482,20 +482,102 @@ Crea un vídeo cinematográfico de transformación de moda protagonizado por una
 
 <a name="prompt-2100446648107459068"></a>
 
-### Traducción en curso
+### Prompt cinematográfico de 30 segundos en acción real que retrata a dos jóvenes amigos coreanos experimentando la vida tradicional en un hanok, el desayuno matutino, vistiéndose con hanbok y recorriendo un mercado callejero.
 
 Autor：[@itxabdullaa](https://x.com/itxabdullaa) · [Publicación original](https://x.com/itxabdullaa/status/2100446648107459068)
 
 Cine / Fotograma de película · Artículo de moda · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinematográfico de 30 segundos en acción real que retrata a dos jóvenes amigos coreanos experimentando la vida tradicional en un hanok, el desayuno matutino, vistiéndose con hanbok y recorriendo un mercado callejero.
 
 <img src="covers/2100446648107459068.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+DURACIÓN EXACTA: 30 SEGUNDOS
+16:9 | ACCIÓN REAL ULRAFOTORREALISTA (ULTRA-PHOTOREALISTIC LIVE-ACTION)
+
+Crea los primeros 30 segundos de una película cinematográfica continua sobre dos jóvenes amigos coreanos que experimentan la vida tradicional coreana. Debe parecer una filmación profesional auténtica en acción real rodada en Corea, nunca generada por IA.
+
+BLOQUEO DE PERSONAJES — ABSOLUTO
+
+Utiliza exactamente las referencias de personaje subidas de la Mujer coreana joven y el Hombre coreano joven.
+
+Mujer: 23 años. Hombre: 24 años.
+
+Conserva con exactitud rostros, ojos, narices, labios, tonos de piel, peinados, largos de cabello, proporciones corporales, relación de altura, edades e identidades. Sin rediseños, embellecimiento, envejecimiento, cambios corporales, cambios faciales o desviaciones de identidad. Las mismas personas a lo largo de las Partes 1 y 2.
+
+HISTORIA
+
+Dos jóvenes amigos coreanos comienzan su mañana en un hanok auténtico y experimentan juntos de manera natural la vida tradicional coreana. Íntimo, observacional y respetuoso. Solo amistad, sin romance.
+
+ESCENA 1 — EL AMANECER | 0:00–0:06
+
+Auténtico hanok coreano al amanecer. Luz solar a través de las puertas de papel. La mujer se despierta, abre una puerta de madera y sale al patio. El hombre aparece desde otra habitación. Intercambian una sonrisa sutil y caminan juntos.
+
+Madera real, brisa y pájaros matutinos.
+
+Título en coreano: 한국의 하루
+Inglés: A Day in Traditional Korea
+
+ESCENA 2 — EL DESAYUNO | 0:06–0:12
+
+Dentro del hanok, se sientan en una mesa tradicional coreana baja con arroz humeante, sopa, banchan, cuencos de cerámica y palillos.
+
+El hombre sirve la comida. La mujer sonríe. Comen de forma natural. Sin poses ni reacciones exageradas.
+
+Subtítulo en coreano: 하루는 함께하는 아침에서 시작됩니다.
+Inglés: A day begins with a morning shared together.
+
+ESCENA 3 — HANBOK | 0:12–0:18
+
+Se preparan para salir.
+
+Mujer: hanbok exacto de referencia, jeogori marfil + chima en tono rosa empolvado apagado (muted dusty-rose).
+Hombre: hanbok exacto de referencia, jeogori crema + baji azul marino profundo y apagado.
+
+Muestra la tela realista mientras ella ata su lazo y él se ajusta la manga. Interacción natural.
+
+ESCENA 4 — CALLEJÓN DE HANOK | 0:18–0:24
+
+Caminan por un tranquilo barrio histórico coreano con auténticos tejados de hanok, puertas de madera, muros de piedra y residentes locales.
+
+La cámara los sigue desde atrás, luego realiza un sutil seguimiento lateral. Conversación tranquila, luz solar natural y movimiento.
+
+ESCENA 5 — MERCADO TRADICIONAL | 0:24–0:30
+
+Entran en un animado mercado coreano con vendedores auténticos, carteles en coreano, ingredientes, aperitivos, vapor y puestos de comida.
+
+La mujer se detiene en un puesto. El vendedor le da un aperitivo tradicional coreano. Ella lo examina con naturalidad mientras el hombre sonríe. Acercamiento lento (slow push) hacia la expresión de ella.
+
+FOTOGRAMA FINAL CRÍTICO
+
+Exactamente a los 30 segundos, la mujer está de pie junto al puesto sosteniendo el aperitivo en su MANO DERECHA. El hombre está de pie inmediatamente a su IZQUIERDA. Ambos visten el hanbok exacto y miran hacia el vendedor.
+
+Este fotograma exacto DEBE convertirse en el estado inicial de la Parte 2.
+
+CINEMATOGRAFÍA
+
+35mm / 50mm / ocasional 85mm. Cámara en mano natural, seguimiento sutil, transiciones de enfoque realistas (focus pulls), profundidad de campo y desenfoque de movimiento.
+
+Sin cámara flotante, movimientos imposibles, cámara lenta excesiva, rampas de velocidad (speed ramps) ni efectos artificiales de lente.
+
+ILUMINACIÓN
+
+Luz solar matutina natural, sombras realistas, tonos de piel naturales y etalonaje contenido.
+
+AUDIO
+
+Ambiente coreano auténtico: pájaros, puertas, pasos, platos, palillos, conversación, vendedores, sonidos del mercado y comida chisporroteando. Música tradicional coreana muy sutil. El diálogo y el entorno predominan.
+
+REALISMO ABSOLUTO
+
+Humanos reales, rostros coreanos realistas, piel, ojos, dientes y cabello naturales. Manos y dedos correctos. Ropa, comida, vapor, sombras y arquitectura realistas.
+
+NADA DE CGI, animación, anime, piel plástica, rostros de IA, metamorfosis facial (face morphing), cambios de identidad, personas duplicadas, cambios de vestuario, manos deformadas o entornos distorsionados.
+
+Mantén con precisión los personajes, el vestuario, la iluminación, el entorno y la calidad en cada toma. El resultado final debe parecer metraje de acción real coreano de alta gama.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3099,20 +3181,20 @@ Traducción en curso
 
 <a name="prompt-2100460643874943066"></a>
 
-### Traducción en curso
+### Una serena mañana de invierno japonés que muestra a una mujer abriendo puertas correderas, alimentando gorriones, barriendo la nieve, bebiendo té y caminando junto a un pueblo nevado.
 
 Autor：[@noorlewisx](https://x.com/noorlewisx) · [Publicación original](https://x.com/noorlewisx/status/2100460643874943066)
 
 Personaje · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una serena mañana de invierno japonés que muestra a una mujer abriendo puertas correderas, alimentando gorriones, barriendo la nieve, bebiendo té y caminando junto a un pueblo nevado.
 
 <img src="covers/2100460643874943066.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una serena mañana de invierno japonés en una casa de campo tradicional de madera, una habitación de tatami con ambiente invernal y puertas correderas de papel shoji, una mujer de cabello negro corto que lleva un cárdigan marrón mullido sobre un suéter color crema, pantalones oscuros y botas afelpadas, arrodillada y luego levantándose para abrir las puertas corredizas revelando una aldea nevada en el exterior. Suave luz solar dorada filtrándose a través de las ventanas cubiertas de escarcha. Sale al porche de madera engawa, se agacha para esparcir semillas para los pequeños gorriones que saltan sobre la nieve fresca. Más tarde barre la nieve del porche con una escoba de paja tradicional. En el interior se arrodilla sobre el tatami sirviendo té humeante desde una tetera de cerámica en una pequeña taza, sosteniéndola con ambas manos y contemplando plácidamente por la ventana. Luego se aleja caminando por un sendero nevado junto a la casa de madera, vistiendo un abrigo beige claro, contemplando un pintoresco pueblo cubierto por un manto de nieve con casas tradicionales, cercas de madera, pinos cargados de nieve, montañas lejanas y humo de chimeneas elevándose bajo la dorada luz del amanecer. Cinemático, pacífico, acogedor, altamente detallado, iluminación natural, fotorrealista pero poético, atmósfera inspirada en Studio Ghibli, 8k.
 ```
 
 [↑ Volver a categorías](#catalog)
