@@ -371,20 +371,95 @@ Créez une séquence cinématographique de science-fantasy en CGI 3D de 15 secon
 
 <a name="prompt-2100432617912893711"></a>
 
-### Traduction en cours
+### Instruction de plan cinématographique de western fantastique ultra-photoréaliste de 30 secondes, comprenant le découpage des plans et les répliques pour la confrontation dans une ville en ruines entre un serpent géant coiffé d'un chapeau de cow-boy, un pistolero reptile vert et des dragons.
 
 Auteur：[@itxsarmadd](https://x.com/itxsarmadd) · [Publication originale](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Bande dessinée / Storyboard · Photographie · Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction de plan cinématographique de western fantastique ultra-photoréaliste de 30 secondes, comprenant le découpage des plans et les répliques pour la confrontation dans une ville en ruines entre un serpent géant coiffé d'un chapeau de cow-boy, un pistolero reptile vert et des dragons.
 
 <img src="covers/2100432617912893711.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+PAET 1- Créez une séquence de western fantastique cinématographique en prise de vue réelle ultra-photoréaliste de 30 secondes.
+
+NE PAS UTILISER DE VIDÉO DE RÉFÉRENCE TÉLÉVERSÉE.
+
+==================================================
+PERSONNAGES — IDENTIQUES DU DÉBUT À LA FIN
+==================================================
+
+SERPENT GÉANT :
+Énorme serpent préhistorique, corps musclé massif et tête large, écailles rugueuses brunes/bronzées/olive foncé, visage beige pâle, yeux ambrés aux pupilles verticales, dents réalistes, gencives humides/salive. Chapeau de cow-boy usé marron foncé/noir.
+
+PISTOLERO REPTILIEN VERT :
+Petit humanoïde vert grenouille/reptile, peau verte texturée, grands yeux exorbités, chapeau de cow-boy marron, vêtements western marron et robustes, revolver en métal foncé.
+
+CHEVAUCHEUR DE DRAGON :
+Vêtements robustes marron/bronzés et couvre-chef de protection.
+
+DRAGON :
+Grand dragon aux écailles sombres, cornes/épines, corps musclé, ailes coriaces brun rougeâtre/orange. D'autres dragons peuvent apparaître.
+
+Gardez tous les personnages, costumes, couleurs, visages, proportions et textures cohérents.
+
+==================================================
+ENVIRONNEMENT
+==================================================
+
+Ville western/fantaisie médiévale sombre et brute : pierre vieillie, bois sombre, tours, toits, poussière, fumée et débris. Lumière du jour éclatante et nuageuse, lumière du soleil cinématographique, brume volumétrique, ombres réalistes et profondeur de champ.
+
+==================================================
+SÉQUENCE DES PLANS
+==================================================
+
+0–3s : Gros plan en contre-plongée du corps du serpent géant passant à toute vitesse devant la caméra.
+
+3–6s : Pistolero reptilien vert sur le dos du serpent ; l'énorme tête de serpent entre dans le cadre.
+
+6–9s : Le serpent s'approche du personnage. Cadrage serré et tendu.
+
+9–12s : Le serpent s'enroule à travers la ville, soulevant poussière et débris.
+
+12–15s : Le serpent se déplace dans un intérieur sombre en bois/pierre.
+
+15–18s : La caméra s'incline vers de vieux bâtiments et une lanterne en verre qui se balance.
+
+18–22s : Extérieur lumineux et brumeux avec une forte lumière du soleil, de la poussière et de la fumée.
+
+22–26s : Très gros plan du serpent sous le chapeau de cow-boy ; œil ambré et gueule entrouverte visibles.
+
+26–28s : Le serpent se jette vers la caméra ; le revolver devient proéminent.
+
+28–30s : Très gros plan sur la tête du serpent avec le revolver au premier plan.
+
+FIN avec la tête du serpent proche de la caméra et le revolver visible. Pas de fondu, de titre ou d'écran noir.
+
+==================================================
+CAMÉRA / AUDIO
+==================================================
+
+Rythme cinématographique énergique. Contre-plongées, travellings, gros plans, mouvements contrôlés à la main/au stabilisateur, optiques réalistes, profondeur de champ et flou de mouvement.
+
+Dialogue en anglais :
+« What the hell is that? »
+« Stay on him. »
+« Keep moving! »
+« Don’t let it see us. »
+« Get ready. »
+
+Ajoutez des mouvements réalistes de serpent, des grognements, une respiration, le vent, la poussière, des grincements de bois et des bruits d'armes. Ajoutez des sous-titres synchronisés en anglais.
+
+==================================================
+QUALITÉ
+==================================================
+
+Qualité maximale Seedance 2.5. Prise de vue réelle ultra-photoréaliste, matériaux, éclairage et physique réalistes.
+
+AUCUN dessin animé, anime, graphisme de jeu vidéo, CGI plastique, morphing, scintillement, changement de personnage, changement de costume/chapeau, changement de couleur des yeux, changement d'échelle, doublons, membres supplémentaires, visages déformés ou physique non naturelle.
 ```
 
 [↑ Retour aux catégories](#catalog)

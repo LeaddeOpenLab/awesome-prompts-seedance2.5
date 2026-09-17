@@ -371,20 +371,95 @@ Erstelle eine 15-sekündige cineastische Science-Fantasy-3D-CGI-Sequenz mit ultr
 
 <a name="prompt-2100432617912893711"></a>
 
-### Übersetzung läuft
+### 30-sekündige Anweisung für eine ultra-fotorealistische Fantasy-Western-Filmszene, einschließlich Shotlist und Dialogen für die Konfrontation zwischen einer Riesenschlange mit Cowboyhut, einem grünen Echsen-Revolverhelden und Drachen in einer Ödlandstadt.
 
 Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Originalbeitrag](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Comic / Storyboard · Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündige Anweisung für eine ultra-fotorealistische Fantasy-Western-Filmszene, einschließlich Shotlist und Dialogen für die Konfrontation zwischen einer Riesenschlange mit Cowboyhut, einem grünen Echsen-Revolverhelden und Drachen in einer Ödlandstadt.
 
 <img src="covers/2100432617912893711.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+PAET 1- Erstelle eine 30-sekündige, ultra-fotorealistische, filmische Live-Action-Fantasy-Western-Sequenz.
+
+KEIN HOCHGELADENES REFERENZVIDEO VERWENDEN.
+
+==================================================
+FIGUREN — DURCHGEHEND IDENTISCH
+==================================================
+
+RIESENSCHLANGE:
+Enorme prähistorische Schlange, massiver muskulöser Körper und breiter Kopf, raue braune/sandfarbene/dunkelolive Schuppen, blassbeiges Gesicht, bernsteinfarbene Augen mit vertikalen Pupillen, realistische Zähne, feuchtes Zahnfleisch/Speichel. Abgetragener dunkelbrauner/schwarzer Cowboyhut.
+
+GRÜNER REPTILOIDER REVOLVERHELD:
+Kleiner grüner Frosch-/Reptil-Humanoid, strukturierte grüne Haut, große hervortretende Augen, brauner Cowboyhut, robuste braune Westernkleidung, Revolver aus dunklem Metall.
+
+DRACHENREITER:
+Robuste braune/sandfarbene Kleidung und schützende Kopfbedeckung.
+
+DRACHE:
+Großer Drache mit dunklen Schuppen, Hörnern/Stacheln, muskulösem Körper, rötlich-braunen/orangenen lederartigen Flügeln. Weitere Drachen können erscheinen.
+
+Halte alle Figuren, Kostüme, Farben, Gesichter, Proportionen und Texturen konsistent.
+
+==================================================
+UMGEBUNG
+==================================================
+
+Düstere Western-/Mittelalter-Fantasystadt: gealterter Stein, dunkles Holz, Türme, Dächer, Staub, Rauch und Trümmer. Helles, bewölktes Tageslicht, filmisches Sonnenlicht, volumetrischer Dunst, realistische Schatten und Tiefenschärfe.
+
+==================================================
+EINSTELLUNGSFOLGE
+==================================================
+
+0–3s: Froschperspektive/Nahaufnahme des riesigen Schlangenkörpers, der an der Kamera vorbeirast.
+
+3–6s: Grüner reptiloider Revolverheld auf dem Rücken der Schlange; riesiger Schlangenkopf tritt ins Bild ein.
+
+6–9s: Schlange nähert sich der Figur. Angespannte, enge Komposition.
+
+9–12s: Schlange windet sich durch die Stadt, wirbelt Staub und Schutt auf.
+
+12–15s: Schlange bewegt sich durch ein dunkles Holz-/Stein-Interieur.
+
+15–18s: Kamera schwenkt nach oben in Richtung alter Gebäude und einer schwingenden Glaslaterne.
+
+18–22s: Heller, dunstiger Außenbereich mit starkem Sonnenlicht, Staub und Rauch.
+
+22–26s: Extreme Nahaufnahme der Schlange unter dem Cowboyhut; bernsteinfarbenes Auge und leicht geöffnetes Maul sichtbar.
+
+26–28s: Schlange stößt in Richtung Kamera vor; Revolver rückt in den Vordergrund.
+
+28–30s: Extreme Nahaufnahme des Schlangengesichts mit Revolver im Vordergrund.
+
+ENDE mit Schlangengesicht nah an der Kamera und sichtbarem Revolver. Keine Blende, kein Titel oder schwarzer Bildschirm.
+
+==================================================
+KAMERA / AUDIO
+==================================================
+
+Energisches filmisches Pacing. Froschperspektiven, Tracking-Shots, Nahaufnahmen, kontrollierte Handkamera-/Gimbal-Bewegungen, realistische Optik, Tiefenschärfe und Bewegungsunschärfe.
+
+Englischer Dialog:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Füge realistische Schlangenbewegungen, Knurren, Atmen, Wind, Staub, Holzknarren und Waffengeräusche hinzu. Füge synchronisierte englische Untertitel hinzu.
+
+==================================================
+QUALITÄT
+==================================================
+
+Maximale Seedance 2.5-Qualität. Ultra-fotorealistische Live-Action, realistische Materialien, Beleuchtung und Physik.
+
+KEIN Cartoon, Anime, Spielgrafik, Plastik-CGI, Morphing, Flackern, Charakterwechsel, Kostüm-/Hutwechsel, Augenfarbwechsel, Maßstabswechsel, Duplikate, zusätzliche Gliedmaßen, verzerrte Gesichter oder unnatürliche Physik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -357,20 +357,95 @@ Ultra gerçekçi ortamlar, gerçekçi insan animasyonu, atmosferik aydınlatma, 
 
 <a name="prompt-2100432617912893711"></a>
 
-### Çeviri sürüyor
+### Kovboy şapkalı dev yılan, yeşil sürüngen silahşor ve ejderhanın harabe bir kasabadaki yüzleşmesini içeren çekim planları ve diyaloglarıyla 30 saniyelik ultra fotogerçekçi fantastik western film sahnesi komutu.
 
 Yazar：[@itxsarmadd](https://x.com/itxsarmadd) · [Orijinal gönderi](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kovboy şapkalı dev yılan, yeşil sürüngen silahşor ve ejderhanın harabe bir kasabadaki yüzleşmesini içeren çekim planları ve diyaloglarıyla 30 saniyelik ultra fotogerçekçi fantastik western film sahnesi komutu.
 
 <img src="covers/2100432617912893711.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+BÖLÜM 1 - 30 saniyelik ultra fotogerçekçi, sinematik, canlı çekim bir fantastik western sekansı oluşturun.
+
+YÜKLENMİŞ BİR REFERANS VİDEOSU KULLANMAYIN.
+
+==================================================
+KARAKTERLER — TÜMÜYLE AYNI KALACAK
+==================================================
+
+DEV YILAN:
+Muazzam tarih öncesi yılan, devasa kaslı gövde ve geniş kafa, pürüzlü kahverengi/bej/koyu zeytin yeşili pullar, soluk bej yüz, dikey gözbebeklerine sahip kehribar rengi gözler, gerçekçi dişler, ıslak diş etleri/salya. Yıpranmış koyu kahverengi/siyah kovboy şapkası.
+
+YEŞİL SÜRÜNGEN SİLAHŞOR:
+Küçük yeşil kurbağa/sürüngen insansı, dokulu yeşil deri, iri patlak gözler, kahverengi kovboy şapkası, yıpranmış kahverengi western kıyafetleri, koyu metal altıpatlar tabanca.
+
+EJDERHA BİNİCİSİ:
+Yıpranmış kahverengi/bej kıyafetler ve koruyucu başlık.
+
+EJDERHA:
+Koyu pullu büyük ejderha, boynuzlar/dikenler, kaslı gövde, kızıl-kahverengi/turuncu kösele kanatlar. İlave ejderhalar görünebilir.
+
+Tüm karakterleri, kostümleri, renkleri, yüzleri, oranları ve dokuları tutarlı tutun.
+
+==================================================
+ÇEVRE
+==================================================
+
+Kasvetli western/orta çağ fantezi kasabası: eskimiş taşlar, koyu renk ahşap, kuleler, çatılar, toz, duman ve enkaz. Parlak bulutlu gün ışığı, sinematik güneş ışığı, hacimsel pus, gerçekçi gölgeler ve alan derinliği.
+
+==================================================
+ÇEKİM SIRASI
+==================================================
+
+0–3 sn: Dev yılan gövdesinin kameranın yanından hızla geçişini gösteren alt açıdan yakın çekim.
+
+3–6 sn: Yılanın sırtındaki yeşil sürüngen silahşor; devasa yılan kafası kadraja girer.
+
+6–9 sn: Yılan karaktere yaklaşır. Gergin ve dar kompozisyon.
+
+9–12 sn: Yılan kasabanın içinden kıvrılarak geçer, tozu ve molozları savurur.
+
+12–15 sn: Yılan karanlık ahşap/taş bir iç mekânda ilerler.
+
+15–18 sn: Kamera eski binalara ve sallanan cam bir fenere doğru yukarı eğilir.
+
+18–22 sn: Güçlü güneş ışığı, toz ve dumanın olduğu aydınlık, puslu dış mekân.
+
+22–26 sn: Kovboy şapkasının altındaki yılana aşırı yakın çekim; kehribar rengi göz ve hafifçe açık ağız görünür.
+
+26–28 sn: Yılan kameraya doğru atılır; altıpatlar belirginleşir.
+
+28–30 sn: Ön planda altıpatlar varken yılan yüzünün aşırı yakın çekimi.
+
+Yılan yüzü kameraya yakın ve altıpatlar görünür halde SON BULSUN. Kararma (fade), başlık veya siyah ekran olmasın.
+
+==================================================
+KAMERA / SES
+==================================================
+
+Enerjik sinematik tempo. Alt açılar, takip çekimleri, yakın çekimler, kontrollü el kamerası/gimbal hareketi, gerçekçi optikler, alan derinliği ve hareket bulanıklığı.
+
+İngilizce diyalog:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Gerçekçi yılan hareketi, hırıltılar, nefes alıp verme, rüzgâr, toz, ahşap gıcırtıları ve silah sesleri ekleyin. Senkronize İngilizce altyazı ekleyin.
+
+==================================================
+KALİTE
+==================================================
+
+Maksimum Seedance 2.5 kalitesi. Ultra fotogerçekçi canlı çekim, gerçekçi materyaller, aydınlatma ve fizik kuralları.
+
+Çizgi film, anime, oyun grafikleri, plastik CGI, şekil bozulması (morphing), titreme (flickering), karakter değişimleri, kostüm/şapka değişimleri, göz rengi değişimleri, ölçek değişimleri, kopyalar, fazladan uzuvlar, bozuk yüzler veya doğal olmayan fizik kuralları KESİNLİKLE OLMASIN.
 ```
 
 [↑ Kategorilere dön](#catalog)

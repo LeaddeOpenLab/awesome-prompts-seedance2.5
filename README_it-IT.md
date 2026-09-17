@@ -371,20 +371,95 @@ Crea una sequenza cinematografica science-fantasy in CGI 3D di 15 secondi con am
 
 <a name="prompt-2100432617912893711"></a>
 
-### Traduzione in corso
+### Istruzioni per inquadrature cinematografiche fantasy-western ultra-fotorealistiche di 30 secondi, comprendenti storyboard e battute per il confronto in una città desolata tra un serpente gigante con cappello da cowboy, un pistolero rettile verde e draghi.
 
 Autore：[@itxsarmadd](https://x.com/itxsarmadd) · [Post originale](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Fumetto / Storyboard · Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per inquadrature cinematografiche fantasy-western ultra-fotorealistiche di 30 secondi, comprendenti storyboard e battute per il confronto in una città desolata tra un serpente gigante con cappello da cowboy, un pistolero rettile verde e draghi.
 
 <img src="covers/2100432617912893711.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+PAET 1- Crea una sequenza fantasy-western cinematografica in live-action ultra-fotorealistica di 30 secondi.
+
+NON UTILIZZARE UN VIDEO DI RIFERIMENTO CARICATO.
+
+==================================================
+PERSONAGGI — IDENTICI DALL'INIZIO ALLA FINE
+==================================================
+
+SERPENTE GIGANTE:
+Enorme serpente preistorico, massiccio corpo muscoloso e testa larga, squame ruvide marroni/nocciola/oliva scuro, volto beige chiaro, occhi ambrati con pupille verticali, denti realistici, gengive umide/saliva. Cappello da cowboy marrone scuro/nero logoro.
+
+PISTOLERO RETTILIANO VERDE:
+Piccolo umanoide rana/rettile verde, pelle verde texturizzata, grandi occhi sporgenti, cappello da cowboy marrone, abiti western marroni e rustici, revolver in metallo scuro.
+
+CAVALIERE DEL DRAGO:
+Abiti rustici marroni/nocciola e copricapo protettivo.
+
+DRAGO:
+Grande drago dalle squame scure, corna/punte, corpo muscoloso, ali coriacee bruno-rossastre/arancioni. Potrebbero apparire draghi aggiuntivi.
+
+Mantieni coerenti tutti i personaggi, i costumi, i colori, i volti, le proporzioni e le texture.
+
+==================================================
+AMBIENTAZIONE
+==================================================
+
+Città fantasy medievale/western cruda: pietra invecchiata, legno scuro, torri, tetti, polvere, fumo e detriti. Luce diurna intensa e nuvolosa, luce solare cinematografica, foschia volumetrica, ombre realistiche e profondità di campo.
+
+==================================================
+SEQUENZA DELLE INQUADRATURE
+==================================================
+
+0–3s: Primo piano dal basso del corpo del serpente gigante che sfreccia davanti alla telecamera.
+
+3–6s: Pistolero rettiliano verde sul dorso del serpente; l'enorme testa del serpente entra nell'inquadratura.
+
+6–9s: Il serpente si avvicina al personaggio. Inquadratura stretta e tesa.
+
+9–12s: Il serpente si snoda attraverso la città, sollevando polvere e detriti.
+
+12–15s: Il serpente si muove attraverso un interno buio in legno/pietra.
+
+15–18s: La telecamera si inclina verso vecchi edifici e una lanterna di vetro oscillante.
+
+18–22s: Esterno luminoso e caliginoso con forte luce solare, polvere e fumo.
+
+22–26s: Primissimo piano del serpente sotto il cappello da cowboy; occhio ambrato e fauci leggermente aperte visibili.
+
+26–28s: Il serpente scatta in avanti verso la telecamera; il revolver diventa prominente.
+
+28–30s: Primissimo piano del muso del serpente con il revolver in primo piano.
+
+TERMINA con il muso del serpente vicino alla telecamera e il revolver visibile. Nessuna dissolvenza, titolo o schermata nera.
+
+==================================================
+TELECAMERA / AUDIO
+==================================================
+
+Ritmo cinematografico ed energico. Inquadrature dal basso, carrellate, primi piani, movimenti controllati a mano libera/gimbal, ottiche realistiche, profondità di campo e motion blur.
+
+Dialoghi in inglese:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Aggiungi movimenti realistici del serpente, ringhi, respirazione, vento, polvere, scricchiolii di legno e suoni di armi. Aggiungi sottotitoli sincronizzati in inglese.
+
+==================================================
+QUALITÀ
+==================================================
+
+Massima qualità Seedance 2.5. Live action ultra-fotorealistico, materiali realistici, illuminazione e fisica coerenti.
+
+NESSUN cartone animato, anime, grafica da videogioco, CGI di plastica, morphing, sfarfallio, cambi di personaggio, cambi di costume/cappello, cambi di colore degli occhi, cambi di scala, duplicati, arti extra, volti distorti o fisica innaturale.
 ```
 
 [↑ Torna alle categorie](#catalog)

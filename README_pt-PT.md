@@ -357,20 +357,95 @@ Crie uma sequência cinematográfica de ficção científica e fantasia em CGI 3
 
 <a name="prompt-2100432617912893711"></a>
 
-### Tradução em curso
+### Instrução de planos cinematográficos de faroeste e fantasia ultrarrealistas de 30 segundos, incluindo o confronto entre uma cobra gigante de chapéu de cowboy, um pistoleiro réptil verde e um dragão numa cidade devastada, com decupagem e diálogos.
 
 Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Publicação original](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Banda desenhada / Storyboard · Fotografia · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução de planos cinematográficos de faroeste e fantasia ultrarrealistas de 30 segundos, incluindo o confronto entre uma cobra gigante de chapéu de cowboy, um pistoleiro réptil verde e um dragão numa cidade devastada, com decupagem e diálogos.
 
 <img src="covers/2100432617912893711.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+PARTE 1 - Crie uma sequência cinematográfica live-action de faroeste e fantasia ultrarrealista de 30 segundos.
+
+NÃO UTILIZE UM VÍDEO DE REFERÊNCIA CARREGADO.
+
+==================================================
+PERSONAGENS — IDÊNTICOS DO INÍCIO AO FIM
+==================================================
+
+COBRA GIGANTE:
+Cobra pré-histórica colossal, corpo musculoso e volumoso, cabeça larga, escamas ásperas em tons de castanho/bege/azeitona-escuro, rosto bege-claro, olhos de cor âmbar com pupilas verticais, dentes realistas, gengivas húmidas/saliva. Chapéu de cowboy castanho-escuro/preto desgastado.
+
+PISTOLEIRO RÉPTIL VERDE:
+Pequeno humanoide réptil/rã verde, pele verde texturada, olhos grandes e proeminentes, chapéu de cowboy castanho, vestuário rústico de faroeste em tons de castanho, revólver em metal escuro.
+
+CAVALEIRO DE DRAGÃO:
+Vestuário rústico em castanho/bege e proteção para a cabeça.
+
+DRAGÃO:
+Dragão de grande porte com escamas escuras, cornos/espigões, corpo musculado, asas de couro castanho-avermelhadas/alaranjadas. Dragões adicionais podem surgir.
+
+Mantenha todos os personagens, fatos, cores, rostos, proporções e texturas consistentes.
+
+==================================================
+AMBIENTE
+==================================================
+
+Cidade crua de fantasia medieval/faroeste: pedra envelhecida, madeira escura, torres, telhados, poeira, fumo e escombros. Luz diurna brilhante e nublada, iluminação solar cinematográfica, névoa volumétrica, sombras realistas e profundidade de campo.
+
+==================================================
+SEQUÊNCIA DE PLANOS
+==================================================
+
+0–3s: Plano aproximado em contra-picado do corpo da cobra gigante a passar velozmente pela câmara.
+
+3–6s: Pistoleiro réptil verde no dorso da cobra; a enorme cabeça da cobra entra no enquadramento.
+
+6–9s: A cobra aproxima-se do personagem. Composição tensa em plano fechado.
+
+9–12s: A cobra serpenteia pela cidade, levantando poeira e detritos.
+
+12–15s: A cobra desloca-se através de um interior escuro de pedra e madeira.
+
+15–18s: A câmara inclina-se para cima em direção a edifícios antigos e a uma lanterna de vidro a oscilar.
+
+18–22s: Exterior luminoso e enevoado com luz solar forte, poeira e fumo.
+
+22–26s: Grande plano detalhado da cobra por baixo do chapéu de cowboy; olho âmbar e boca ligeiramente aberta visíveis.
+
+26–28s: A cobra projeta-se em direção à câmara; o revólver ganha destaque.
+
+28–30s: Grande plano detalhado do rosto da cobra com o revólver em primeiro plano.
+
+TERMINE com o rosto da cobra próximo da câmara e o revólver visível. Sem transição em fade, título ou ecrã preto.
+
+==================================================
+CÂMARA / ÁUDIO
+==================================================
+
+Ritmo cinematográfico enérgico. Ângulos baixos, planos de seguimento (tracking shots), planos aproximados, movimentos de câmara à mão/gimbal controlados, ótica realista, profundidade de campo e desfoque de movimento.
+
+Diálogo em inglês:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Adicione movimento realista da cobra, rosnados, respiração, vento, poeira, ranger de madeira e sons de armas. Adicione legendas sincronizadas em inglês.
+
+==================================================
+QUALIDADE
+==================================================
+
+Máxima qualidade Seedance 2.5. Live-action ultrarrealista, materiais, iluminação e física realistas.
+
+SEM desenhos animados, anime, gráficos de videojogos, CGI plástico, morphing, cintilação (flickering), alterações de personagens, alterações de fatos/chapéus, alterações de cor de olhos, alterações de escala, duplicações, membros extra, rostos distorcidos ou física não natural.
 ```
 
 [↑ Voltar às categorias](#catalog)

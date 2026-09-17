@@ -373,20 +373,95 @@ Tạo một chuỗi phân cảnh 3D CGI khoa học kỳ ảo chuẩn điện ả
 
 <a name="prompt-2100432617912893711"></a>
 
-### Đang dịch
+### Chỉ dẫn cảnh quay phim điện ảnh viễn tây kỳ ảo siêu thực 30 giây, bao gồm phân cảnh đối đầu và lời thoại giữa rắn khổng lồ đội mũ cao bồi, tay súng thằn lằn xanh và rồng bay tại thị trấn hoang tàn.
 
 Tác giả：[@itxsarmadd](https://x.com/itxsarmadd) · [Bài gốc](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chỉ dẫn cảnh quay phim điện ảnh viễn tây kỳ ảo siêu thực 30 giây, bao gồm phân cảnh đối đầu và lời thoại giữa rắn khổng lồ đội mũ cao bồi, tay súng thằn lằn xanh và rồng bay tại thị trấn hoang tàn.
 
 <img src="covers/2100432617912893711.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+PAET 1- Tạo một phân cảnh phim hành động người đóng (live-action) giả tưởng viễn tây siêu chân thực như ảnh chụp dài 30 giây.
+
+KHÔNG SỬ DỤNG VIDEO THAM CHIẾU ĐƯỢC TẢI LÊN.
+
+==================================================
+NHÂN VẬT — ĐỒNG NHẤT XUYÊN SUỐT
+==================================================
+
+RẮN KHỔNG LỒ:
+Con rắn tiền sử khổng lồ, thân hình cơ bắp đồ sộ và đầu rộng, vảy thô ráp màu nâu/nâu vàng/ô liu sẫm, khuôn mặt màu be nhạt, mắt màu hổ phách với đồng tử dọc, răng chân thực, nướu ướt/nước dãi. Đội mũ cao bồi màu nâu sẫm/đen sờn rách.
+
+TAY SÚNG BÒ SÁT MÀU XANH LÁ:
+Người lai ếch/bò sát nhỏ màu xanh lá, da xanh có vân nổi, mắt lồi to, mũ cao bồi màu nâu, trang phục viễn tây màu nâu bụi bặm, súng lục ổ quay kim loại sẫm màu.
+
+NGƯỜI CƯỠI RỒNG:
+Trang phục màu nâu/nâu vàng bụi bặm và mũ bảo vệ đầu.
+
+RỒNG:
+Rồng lớn vảy sẫm màu, sừng/gai nhọn, cơ thể cơ bắp, cánh da màu nâu đỏ/cam. Các con rồng khác có thể xuất hiện thêm.
+
+Giữ tất cả nhân vật, trang phục, màu sắc, khuôn mặt, tỷ lệ và kết cấu nhất quán.
+
+==================================================
+MÔI TRƯỜNG
+==================================================
+
+Thị trấn giả tưởng viễn tây/trung cổ gai góc: đá phong hóa, gỗ tối màu, tháp, mái nhà, bụi bặm, khói và mảnh vụn. Ánh sáng ban ngày nhiều mây rực rỡ, ánh nắng điện ảnh, sương mù thể tích (volumetric haze), bóng đổ chân thực và độ sâu trường ảnh.
+
+==================================================
+CHUỖI CẢNH QUAY
+==================================================
+
+0–3 giây: Cận cảnh góc thấp thân rắn khổng lồ lao nhanh qua máy quay.
+
+3–6 giây: Tay súng bò sát màu xanh lá trên lưng rắn; đầu rắn khổng lồ tiến vào khung hình.
+
+6–9 giây: Rắn tiếp cận nhân vật. Bố cục cận cảnh căng thẳng.
+
+9–12 giây: Rắn cuộn mình qua thị trấn, đẩy tung bụi bặm và mảnh vụn.
+
+12–15 giây: Rắn di chuyển qua nội thất bằng gỗ/đá tối màu.
+
+15–18 giây: Máy quay nghiêng lên về phía các tòa nhà cũ và một chiếc đèn lồng thủy tinh đang đung đưa.
+
+18–22 giây: Ngoại cảnh mờ ảo rực rỡ với ánh nắng mạnh, bụi và khói.
+
+22–26 giây: Cực cận cảnh con rắn bên dưới mũ cao bồi; nhìn thấy mắt màu hổ phách và miệng hơi mở.
+
+26–28 giây: Rắn lao về phía máy quay; súng lục ổ quay trở nên nổi bật.
+
+28–30 giây: Cực cận cảnh mặt rắn với súng lục ổ quay ở tiền cảnh.
+
+KẾT THÚC với khuôn mặt rắn cận cảnh máy quay và nhìn thấy súng lục ổ quay. Không mờ dần (fade), không tiêu đề hay màn hình đen.
+
+==================================================
+CÂM BIẾN / ÂM THANH
+==================================================
+
+Nhịp độ điện ảnh tràn đầy năng lượng. Góc thấp, cú máy tracking, cận cảnh, chuyển động máy quay cầm tay/gimbal có kiểm soát, hiệu ứng quang học chân thực, độ sâu trường ảnh và độ mờ chuyển động (motion blur).
+
+Thoại tiếng Anh:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Thêm chuyển động rắn chân thực, tiếng gầm gừ, tiếng thở, tiếng gió, bụi, tiếng cót két của gỗ và âm thanh vũ khí. Thêm phụ đề tiếng Anh đồng bộ.
+
+==================================================
+CHẤT LƯỢNG
+==================================================
+
+Chất lượng tối đa Seedance 2.5. Người đóng siêu chân thực như ảnh chụp, chất liệu, ánh sáng và vật lý chân thực.
+
+KHÔNG hoạt hình, anime, đồ họa game, CGI nhựa, biến dạng hình thể (morphing), nhấp nháy, thay đổi nhân vật, thay đổi trang phục/mũ, thay đổi màu mắt, thay đổi kích thước tỷ lệ, nhân đôi, thêm chi thừa, khuôn mặt méo mó hoặc vật lý phi tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

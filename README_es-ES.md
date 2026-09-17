@@ -371,20 +371,95 @@ Crea una secuencia cinematográfica de ciencia fantasía en 3D CGI de 15 segundo
 
 <a name="prompt-2100432617912893711"></a>
 
-### Traducción en curso
+### Instrucción de toma cinematográfica de wéstern fantástico hiperrealista de 30 segundos, que incluye guion gráfico del enfrentamiento y diálogos entre una serpiente gigante con sombrero de vaquero, un pistolero lagarto verde y dragones en un pueblo desolado.
 
 Autor：[@itxsarmadd](https://x.com/itxsarmadd) · [Publicación original](https://x.com/itxsarmadd/status/2100432617912893711)
 
 Cómic / Guion gráfico · Fotografía · Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción de toma cinematográfica de wéstern fantástico hiperrealista de 30 segundos, que incluye guion gráfico del enfrentamiento y diálogos entre una serpiente gigante con sombrero de vaquero, un pistolero lagarto verde y dragones en un pueblo desolado.
 
 <img src="covers/2100432617912893711.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+PAET 1- Crea una secuencia cinematográfica de acción real de fantasía-wéstern de 30 segundos ultra fotorrealista.
+
+NO USES UN VIDEO DE REFERENCIA SUBIDO.
+
+==================================================
+PERSONAJES — IDÉNTICOS EN TODO MOMENTO
+==================================================
+
+SERPIENTE GIGANTE:
+Enorme serpiente prehistórica, cuerpo muscular masivo y cabeza ancha, escamas rugosas marrones/tostadas/oliva oscuro, rostro beige pálido, ojos ámbar con pupilas verticales, dientes realistas, encías húmedas/saliva. Sombrero de vaquero desgastado de color marrón oscuro/negro.
+
+PISTOLERO REPTILIANO VERDE:
+Pequeño humanoide rana/reptil verde, piel verde con textura, ojos grandes y saltones, sombrero de vaquero marrón, ropa wéstern marrón resistente, revólver de metal oscuro.
+
+JINETE DE DRAGÓN:
+Ropa resistente de color marrón/tostado y casco protector para la cabeza.
+
+DRAGÓN:
+Gran dragón de escamas oscuras, cuernos/espinas, cuerpo musculoso, alas coriáceas de color marrón rojizo/naranja. Pueden aparecer dragones adicionales.
+
+Mantén todos los personajes, vestuario, colores, rostros, proporciones y texturas consistentes.
+
+==================================================
+ENTORNO
+==================================================
+
+Pueblo de fantasía wéstern/medieval descarnado: piedra envejecida, madera oscura, torres, tejados, polvo, humo y escombros. Luz diurna brillante y nublada, luz solar cinematográfica, neblina volumétrica, sombras realistas y profundidad de campo.
+
+==================================================
+SECUENCIA DE TOMAS
+==================================================
+
+0–3s: Primer plano en ángulo bajo del cuerpo de la serpiente gigante pasando rápidamente frente a la cámara.
+
+3–6s: Pistolero reptiliano verde sobre la espalda de la serpiente; la enorme cabeza de la serpiente entra en el encuadre.
+
+6–9s: La serpiente se acerca al personaje. Composición cerrada y tensa.
+
+9–12s: La serpiente se enrosca por el pueblo, levantando polvo y escombros.
+
+12–15s: La serpiente se mueve a través de un interior oscuro de madera/piedra.
+
+15–18s: La cámara se inclina hacia edificios antiguos y una linterna de cristal oscilante.
+
+18–22s: Exterior brillante y brumoso con fuerte luz solar, polvo y humo.
+
+22–26s: Primer plano extremo de la serpiente debajo del sombrero de vaquero; ojo ámbar y boca entreabierta visibles.
+
+26–28s: La serpiente se abalanza hacia la cámara; el revólver adquiere prominencia.
+
+28–30s: Primer plano extremo de la cara de la serpiente con el revólver en primer plano.
+
+TERMINA con la cara de la serpiente cerca de la cámara y el revólver visible. Sin fundido, título ni pantalla negra.
+
+==================================================
+CÁMARA / AUDIO
+==================================================
+
+Ritmo cinematográfico enérgico. Ángulos bajos, tomas de seguimiento, primeros planos, movimiento controlado de cámara en mano/gimbal, óptica realista, profundidad de campo y desenfoque de movimiento.
+
+Diálogo en inglés:
+“What the hell is that?”
+“Stay on him.”
+“Keep moving!”
+“Don’t let it see us.”
+“Get ready.”
+
+Añade movimiento realista de serpiente, gruñidos, respiración, viento, polvo, crujidos de madera y sonidos de armas. Añade subtítulos sincronizados en inglés.
+
+==================================================
+CALIDAD
+==================================================
+
+Máxima calidad Seedance 2.5. Acción real ultra fotorrealista, materiales, iluminación y física realistas.
+
+NADA de caricaturas, anime, gráficos de videojuegos, CGI de plástico, morphing, parpadeo, cambios de personajes, cambios de vestuario/sombrero, cambios de color de ojos, cambios de escala, duplicados, extremidades adicionales, rostros distorsionados o física antinatural.
 ```
 
 [↑ Volver a categorías](#catalog)
