@@ -313,20 +313,65 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2100450213261672460"></a>
 
-### Tradução em andamento
+### Roteiro de vídeo de romance tropical cinematográfico apresentando um casal em uma enseada na praia e em um quiosque de sucos ao longo de um cronograma de 60 segundos.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicação original](https://x.com/doctorwasif/status/2100450213261672460)
 
 Cinematográfico / Imagem de Filme · Grupo / Casal · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Roteiro de vídeo de romance tropical cinematográfico apresentando um casal em uma enseada na praia e em um quiosque de sucos ao longo de um cronograma de 60 segundos.
 
 <img src="covers/2100450213261672460.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+“Where the Light Lands” — 60s
+
+Visual/Estilo: Romance tropical cinematográfico, hora dourada → entardecer azul-lavanda, tons quentes de coral/pêssego, flare de lente suave, profundidade de campo reduzida, granulação de filme sutil. Mistura de planos gerais de drone, primeiros planos com câmera na mão, planos estáticos, aproximações lentas (slow push-ins), inserções de natureza em câmera lenta e POV do visor de Polaroid. Química descontraída, íntima e natural.
+
+Personagens:
+A — cabelo escuro e ondulado, camisa de linho creme sobre roupa de banho, bolsa tote, câmera Polaroid.
+B — cabelo castanho-claro (sandy-brown), camisa jeans desbotada aberta, bermuda de banho, prancha de paddleboard soft-top.
+
+Cenário: Enseada tropical tranquila com águas azul-turquesa, troncos à deriva, piscinas naturais e palmeiras → quiosque de sucos acolhedor ao ar livre com luzes de cordão.
+
+CRONOGRAMA
+
+0–2s: Título “Where the Light Lands” sobre sandálias e bolsa de praia, oceano ao fundo.
+
+2–6s: B rema em águas calmas azul-turquesa.
+6–8s: Onda em câmera lenta chega à praia.
+8–10s: Prancha de paddleboard em primeiro plano, B distante na água.
+10–12s: A observa B se aproximar da praia.
+12–14s: A senta-se em um tronco à deriva, com a câmera no colo.
+14–16s: A fotografa B rindo enquanto ele chega à terra firme.
+16–18s: Macro: foto saindo da câmera.
+18–20s: POV do visor com B se aproximando com um sorriso.
+20–22s: A abana a foto em desenvolvimento.
+
+22–24s: B: “Deixa eu ver o quanto ficou ruim.”
+24–26s: A: “Na verdade ficou muito boa.”
+26–28s: B: “É exatamente isso que alguém com uma foto ruim diria.”
+28–30s: A entrega a foto para ele.
+30–32s: B analisa a foto, sorrindo.
+32–34s: B: “…Vou ficar com essa.”
+
+34–36s: Caranguejo-eremita atravessa a areia molhada.
+36–38s: Enseada vazia, ondas suaves.
+
+38–40s: As luzes do quiosque de sucos se acendem; A se junta a B.
+40–42s: B: “Você sempre pede a mesma coisa, sabia?”
+42–44s: A senta-se ao lado dele.
+44–46s: B aguarda a resposta dela.
+46–48s: A: “Por que mexer no que está dando certo?”
+48–50s: As bebidas chegam; luzes quentes de cordão brilham.
+50–52s: Eles riem, ombros se tocando.
+
+52–54s: Tomada aérea de drone sobre o oceano ao entardecer.
+54–56s: Reflexos dourados em uma piscina natural.
+56–58s: A espuma do mar apaga pegadas na areia.
+58–60s: Luzes de cordão balançam contra o céu azul-lavanda. Fade out.
 ```
 
 [↑ Voltar às categorias](#catalog)

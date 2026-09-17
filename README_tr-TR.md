@@ -313,20 +313,65 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2100450213261672460"></a>
 
-### Çeviri sürüyor
+### 60 saniyelik bir zaman çizelgesinde bir plaj koyunda ve meyve suyu barında bir çifti konu alan sinematik tropikal romantik video senaryosu.
 
 Yazar：[@doctorwasif](https://x.com/doctorwasif) · [Orijinal gönderi](https://x.com/doctorwasif/status/2100450213261672460)
 
 Sinematik / Film Karesi · Grup / Çift · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 60 saniyelik bir zaman çizelgesinde bir plaj koyunda ve meyve suyu barında bir çifti konu alan sinematik tropikal romantik video senaryosu.
 
 <img src="covers/2100450213261672460.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+“Where the Light Lands” — 60sn
+
+Görünüm/Stil: Sinematik tropikal romantizm, altın saat → lavanta mavisi alacakaranlık, sıcak mercan/şeftali tonları, yumuşak lens parlaması (lens flare), sığ alan derinliği, belirgin olmayan hafif film greni. Dron geniş açıları, omuz kamerası yakın çekimleri, statik çekimler, yavaşça yaklaşan kamera hareketleri, ağır çekim doğa detayları ve Polaroid vizör bakış açısı (POV) karışımı. Oyuncu, samimi, doğal kimya.
+
+Karakterler:
+A — koyu dalgalı saçlar, mayo üzerine giyilmiş krem keten gömlek, bez çanta, Polaroid kamera.
+B — kumral saçlar, açık soluk kot gömlek, deniz şortu, yumuşak yüzeyli (soft-top) paddleboard.
+
+Mekân: Turkuaz suları, kıyıya vurmuş odunları, gelgit havuzları ve palmiyeleri olan sakin bir tropikal koy → ipli ışıklarla aydınlatılmış rahat, açık hava meyve suyu barı.
+
+ZAMAN ÇİZELGESİ
+
+0–2sn: Terliklerin ve plaj çantasının üzerinde “Where the Light Lands” başlığı, arkada okyanus.
+
+2–6sn: B sakin turkuaz sularda kürek çekiyor.
+6–8sn: Ağır çekim dalga kıyıya ulaşıyor.
+8–10sn: Ön planda paddleboard, B suda uzakta.
+10–12sn: A, kıyıdan B’nin yaklaşmasını izliyor.
+12–14sn: A kıyıya vurmuş bir odun kütüğünde oturuyor, kamera kucağında.
+14–16sn: A, karaya çıkarken gülen B’nin fotoğrafını çekiyor.
+16–18sn: Makro: fotoğraf kameradan çıkıyor.
+18–20sn: B’nin gülümseyerek yaklaştığı vizör bakış açısı (POV).
+20–22sn: A belirginleşen fotoğrafı sallayarak kurutmaya çalışıyor.
+
+22–24sn: B: “Ne kadar kötü çıkmış bir bakayım.”
+24–26sn: A: “Aslında gerçekten çok güzel oldu.”
+26–28sn: B: “Fotoğrafı kötü çıkan biri tam olarak böyle der.”
+28–30sn: A fotoğrafı ona uzatıyor.
+30–32sn: B gülümseyerek fotoğrafı inceliyor.
+32–34sn: B: “…Bunu ben alıyorum.”
+
+34–36sn: Bir keşiş yengeci ıslak kumun üzerinden geçiyor.
+36–38sn: Boş koy, hafif dalgalar.
+
+38–40sn: Meyve suyu barının ışıkları yanıyor; A, B’nin yanına gidiyor.
+40–42sn: B: “Hep aynı şeyi söylüyorsun, farkında mısın?”
+42–44sn: A onun yanına oturuyor.
+44–46sn: B onun cevabını bekliyor.
+46–48sn: A: “İşe yarayan bir şeyi neden değiştireyim ki?”
+48–50sn: İçecekler geliyor; sıcak ipli ışıklar parıldıyor.
+50–52sn: Omuzları birbirine değerek gülüyorlar.
+
+52–54sn: Alacakaranlıkta okyanus üzerinde dron çekimi.
+54–56sn: Gelgit havuzunda altın sarısı yansımalar.
+56–58sn: Köpükler ayak izlerinin üzerinden geçiyor.
+58–60sn: İpli ışıklar lavanta mavisi gökyüzüne karşı sallanıyor. Karararak kapanış (fade out).
 ```
 
 [↑ Kategorilere dön](#catalog)

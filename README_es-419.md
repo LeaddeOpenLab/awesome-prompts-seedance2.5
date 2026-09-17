@@ -327,20 +327,65 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2100450213261672460"></a>
 
-### Traducción en curso
+### Guion de video de romance tropical cinematográfico que presenta a una pareja en una ensenada de playa y una choza de jugos a lo largo de una cronología de 60 segundos.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicación original](https://x.com/doctorwasif/status/2100450213261672460)
 
 Cine / Fotograma · Grupo / Pareja · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Guion de video de romance tropical cinematográfico que presenta a una pareja en una ensenada de playa y una choza de jugos a lo largo de una cronología de 60 segundos.
 
 <img src="covers/2100450213261672460.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+“Where the Light Lands” — 60s
+
+Aspecto/Estilo: Romance tropical cinematográfico, hora dorada → anochecer azul lavanda, tonos cálidos coral/durazno, destello de lente suave, profundidad de campo reducida, grano de película sutil. Mezcla de planos generales con dron, primeros planos cámara en mano, tomas estáticas, acercamientos lentos (push-ins), planos de detalle de naturaleza en cámara lenta y punto de vista desde el visor de una Polaroid. Química natural, íntima y juguetona.
+
+Personajes:
+A — cabello oscuro y ondulado, camisa de lino color crema sobre traje de baño, bolso tote, cámara Polaroid.
+B — cabello castaño claro, camisa de mezclilla desteñida abierta, traje de baño, tabla de paddle surf de espuma blanda.
+
+Entorno: Ensenada tropical tranquila con agua turquesa, troncos arrastrados por el agua, pozas de marea y palmeras → acogedora choza de jugos al aire libre con guirnaldas de luces.
+
+CRONOLOGÍA
+
+0–2s: Título “Where the Light Lands” sobre sandalias y bolso de playa, el océano detrás.
+
+2–6s: B rema a través de aguas tranquilas y turquesas.
+6–8s: Ola en cámara lenta llega a la orilla.
+8–10s: Tabla de paddle surf en primer plano, B a lo lejos en el agua.
+10–12s: A observa a B acercarse desde la orilla.
+12–14s: A se sienta sobre un tronco arrastrado por el mar, con la cámara en el regazo.
+14–16s: A fotografía a B riendo mientras sale a la orilla.
+16–18s: Macro: la foto se imprime desde la cámara.
+18–20s: Punto de vista desde el visor de B acercándose con una sonrisa.
+20–22s: A agita la foto que se está revelando.
+
+22–24s: B: “Déjame ver qué tan mala quedó”.
+24–26s: A: “En realidad quedó muy bien”.
+26–28s: B: “Eso es exactamente lo que dice alguien con una mala foto”.
+28–30s: A le entrega la foto.
+30–32s: B la examina, sonriendo.
+32–34s: B: “…Me voy a quedar con esta”.
+
+34–36s: Cangrejo ermitaño cruza la arena mojada.
+36–38s: Ensenada vacía, olas suaves.
+
+38–40s: Se encienden las luces de la choza de jugos; A se reúne con B.
+40–42s: B: “Siempre pides lo mismo, ¿lo sabías?”.
+42–44s: A se sienta a su lado.
+44–46s: B espera su respuesta.
+46–48s: A: “¿Por qué arreglar lo que no está roto?”.
+48–50s: Llegan las bebidas; cálidas guirnaldas de luces brillan.
+50–52s: Se ríen, tocándose los hombros.
+
+52–54s: Toma con dron sobre el océano al atardecer.
+54–56s: Reflejos dorados en una poza de marea.
+56–58s: La espuma baña las huellas.
+58–60s: Guirnaldas de luces se mecen contra el cielo azul lavanda. Fundido a negro.
 ```
 
 [↑ Volver a categorías](#catalog)

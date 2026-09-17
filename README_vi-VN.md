@@ -329,20 +329,65 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2100450213261672460"></a>
 
-### Đang dịch
+### Kịch bản video lãng mạn nhiệt đới đậm chất điện ảnh về một cặp đôi tại vụng biển và quán nước ép qua dòng thời gian 60 giây.
 
 Tác giả：[@doctorwasif](https://x.com/doctorwasif) · [Bài gốc](https://x.com/doctorwasif/status/2100450213261672460)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhóm / Cặp đôi · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Kịch bản video lãng mạn nhiệt đới đậm chất điện ảnh về một cặp đôi tại vụng biển và quán nước ép qua dòng thời gian 60 giây.
 
 <img src="covers/2100450213261672460.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+“Where the Light Lands” — 60s
+
+Phong cách/Hình ảnh: Lãng mạn nhiệt đới đậm chất điện ảnh, giờ vàng (golden hour) → hoàng hôn xanh tím oải hương, tông màu san hô/đào ấm áp, vệt sáng lóe mềm mại (lens flare), độ sâu trường ảnh nông (shallow DOF), hạt phim tinh tế. Pha trộn các cảnh quay rộng bằng flycam, cận cảnh cầm tay, các góc máy tĩnh, cảnh đẩy máy chậm (push-in), chèn cận cảnh thiên nhiên chuyển động chậm (slow-motion), và góc nhìn POV qua kính ngắm máy ảnh Polaroid. Tương tác tinh nghịch, thân mật, tự nhiên.
+
+Nhân vật:
+A — tóc gợn sóng sẫm màu, áo sơ mi vải lanh màu kem khoác ngoài đồ bơi, túi tote, máy ảnh Polaroid.
+B — tóc nâu cát, áo sơ mi denim bạc màu phanh ngực, quần bơi, ván chèo đứng mặt mềm (soft-top paddleboard).
+
+Bối cảnh: Vụng biển nhiệt đới yên tĩnh với làn nước màu ngọc bích, lũa dạt, các vũng nước triều và hàng cọ → quán nước ép ngoài trời ấm cúng trang trí dây đèn led lấp lánh.
+
+DÒNG THỜI GIAN
+
+0–2s: Tiêu đề “Where the Light Lands” xuất hiện trên nền đôi dép sandal và túi đi biển, phía sau là đại dương.
+
+2–6s: B chèo ván trên làn nước màu ngọc bích phẳng lặng.
+6–8s: Con sóng chuyển động chậm tràn vào bờ.
+8–10s: Ván chèo ở tiền cảnh, B ở phía xa dưới nước.
+10–12s: A nhìn B tiến lại gần từ phía bờ biển.
+12–14s: A ngồi trên thân cây gỗ dạt, máy ảnh đặt trên đùi.
+14–16s: A chụp ảnh B đang cười khi anh bước lên bờ.
+16–18s: Cận cảnh macro: bức ảnh được in ra từ máy ảnh.
+18–20s: Góc nhìn POV từ kính ngắm thấy B đang bước tới với nụ cười tươi.
+20–22s: A vẩy nhẹ bức ảnh đang hiện hình.
+
+22–24s: B: “Để xem nó tệ đến mức nào nào.”
+24–26s: A: “Thực ra nó đẹp lắm đấy.”
+26–28s: B: “Đó chính xác là những gì một người vừa chụp tấm ảnh xấu sẽ nói.”
+28–30s: A đưa bức ảnh cho anh.
+30–32s: B ngắm nhìn tấm hình, mỉm cười.
+32–34s: B: “…Anh sẽ giữ tấm này.”
+
+34–36s: Một chú ốc mượn hồn bò qua bãi cát ướt.
+36–38s: Vụng biển vắng vẻ, sóng vỗ êm đềm.
+
+38–40s: Đèn ở quán nước bật sáng; A tiến lại ngồi cùng B.
+40–42s: B: “Em lúc nào cũng gọi đúng một món, em biết không?”
+42–44s: A ngồi xuống cạnh anh.
+44–46s: B chờ câu trả lời của cô.
+46–48s: A: “Tại sao phải sửa thứ vốn dĩ không hỏng chứ?”
+48–50s: Đồ uống được mang ra; những dải đèn dây ấm áp tỏa sáng rực rỡ.
+50–52s: Họ bật cười, vai kề vai.
+
+52–54s: Cảnh quay flycam lướt trên đại dương lúc hoàng hôn.
+54–56s: Ánh phản chiếu màu vàng kim trong vũng nước triều.
+56–58s: Bọt sóng xóa nhòa các dấu chân.
+58–60s: Dây đèn khẽ đung đưa trên nền trời màu xanh tím oải hương. Mờ dần.
 ```
 
 [↑ Về danh mục](#catalog)

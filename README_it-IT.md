@@ -327,20 +327,65 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2100450213261672460"></a>
 
-### Traduzione in corso
+### Sceneggiatura video per una storia d'amore tropicale cinematografica con una coppia in una caletta e in una capanna dei succhi lungo una sequenza temporale di 60 secondi.
 
 Autore：[@doctorwasif](https://x.com/doctorwasif) · [Post originale](https://x.com/doctorwasif/status/2100450213261672460)
 
 Fermo immagine cinematografico / Still fotografico · Gruppo / Coppia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sceneggiatura video per una storia d'amore tropicale cinematografica con una coppia in una caletta e in una capanna dei succhi lungo una sequenza temporale di 60 secondi.
 
 <img src="covers/2100450213261672460.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+“Where the Light Lands” — 60s
+
+Look/Stile: Romanzo tropicale cinematografico, golden hour → crepuscolo blu lavanda, calde tonalità corallo/pesca, morbido bagliore della lente (lens flare), profondità di campo ridotta, sottile grana della pellicola. Mix di campi lunghi con drone, primi piani a mano, inquadrature fisse, lenti push-in, inserti naturalistici al rallentatore e POV dal mirino Polaroid. Intesa giocosa, intima e naturale.
+
+Personaggi:
+A — capelli scuri e mossi, camicia di lino color crema sopra il costume da bagno, borsa tote, fotocamera Polaroid.
+B — capelli castano sabbia, camicia di jeans sbiadita aperta, costume da bagno, paddleboard soft-top.
+
+Ambientazione: Caletta tropicale tranquilla con acqua turchese, legni trasportati dalla corrente, pozze di marea e palme → accogliente capanna dei succhi all'aperto con lucine decorative.
+
+CRONOLOGIA
+
+0–2s: Titolo “Where the Light Lands” sopra sandali e borsa da spiaggia, con l'oceano sullo sfondo.
+
+2–6s: B rema attraverso acque turchesi e calme.
+6–8s: Onda al rallentatore che raggiunge la riva.
+8–10s: Paddleboard in primo piano, B in lontananza nell'acqua.
+10–12s: A osserva B avvicinarsi dalla riva.
+12–14s: A siede su un tronco alla deriva, con la fotocamera in grembo.
+14–16s: A fotografa B mentre ride avvicinandosi alla riva.
+16–18s: Macro: la foto si stampa dalla fotocamera.
+18–20s: POV dal mirino di B che si avvicina con un sorriso.
+20–22s: A sventola la foto che si sta sviluppando.
+
+22–24s: B: “Fammi vedere quanto è venuta male”.
+24–26s: A: “In realtà è davvero bella”.
+26–28s: B: “È esattamente quello che dice chi ha scattato una brutta foto”.
+28–30s: A gli porge la foto.
+30–32s: B la osserva sorridendo.
+32–34s: B: “…Questa me la tengo”.
+
+34–36s: Un paguro attraversa la sabbia bagnata.
+36–38s: Caletta deserta, onde dolci.
+
+38–40s: Si accendono le luci della capanna dei succhi; A raggiunge B.
+40–42s: B: “Prendi sempre la stessa cosa, lo sai?”.
+42–44s: A si siede accanto a lui.
+44–46s: B attende la sua risposta.
+46–48s: A: “Perché cambiare qualcosa che funziona?”.
+48–50s: Arrivano i drink; le calde lucine decorative brillano.
+50–52s: Ridono, con le spalle che si toccano.
+
+52–54s: Ripresa con il drone sopra l'oceano al tramonto.
+54–56s: Riflessi dorati in una pozza di marea.
+56–58s: La schiuma lava via le impronte sulla sabbia.
+58–60s: Lucine decorative ondeggiano contro il cielo blu lavanda. Dissolvenza a nero.
 ```
 
 [↑ Torna alle categorie](#catalog)

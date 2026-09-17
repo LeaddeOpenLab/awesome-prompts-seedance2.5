@@ -327,20 +327,65 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2100450213261672460"></a>
 
-### Übersetzung läuft
+### Filmreifes Drehbuch für eine tropische Romanze mit einem Paar in einer Strandbucht und einer Saftbar über eine 60-sekündige Zeitleiste.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Originalbeitrag](https://x.com/doctorwasif/status/2100450213261672460)
 
 Kinematisch / Filmstill · Gruppe / Paar · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmreifes Drehbuch für eine tropische Romanze mit einem Paar in einer Strandbucht und einer Saftbar über eine 60-sekündige Zeitleiste.
 
 <img src="covers/2100450213261672460.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+„Where the Light Lands“ – 60 s
+
+Look/Stil: Filmische tropische Romanze, goldene Stunde → lavendelblaue Dämmerung, warme Korallen-/Pfirsichtöne, sanfte Lens Flares, geringe Schärfentiefe, dezente Filmkörnung. Mischung aus Drohnen-Weitwinkeln, Handkamera-Nahaufnahmen, statischen Einstellungen, langsamen Kamerafahrten nach vorne (Push-ins), Zeitlupen-Natur-Inserts und Polaroid-Sucher-POV. Verspielte, intime, natürliche Chemie.
+
+Charaktere:
+A – dunkles, welliges Haar, cremefarbenes Leinenhemd über dem Badeanzug, Tragetasche, Polaroid-Kamera.
+B – sandbraunes Haar, offenes, verblasstes Jeanshemd, Badehose, Soft-Top-Paddleboard.
+
+Kulisse: Ruhige tropische Bucht mit türkisblauem Wasser, Treibholz, Gezeitentümpeln und Palmen → gemütliche Open-Air-Saftbar mit Lichterketten.
+
+ZEITLEISTE
+
+0–2 s: Titel „Where the Light Lands“ über Sandalen und Strandtasche, Meer im Hintergrund.
+
+2–6 s: B paddelt über ruhiges, türkisblaues Wasser.
+6–8 s: Welle in Zeitlupe erreicht das Ufer.
+8–10 s: Paddleboard im Vordergrund, B in der Ferne im Wasser.
+10–12 s: A beobachtet B vom Ufer aus beim Näherkommen.
+12–14 s: A sitzt auf Treibholz, Kamera auf dem Schoß.
+14–16 s: A fotografiert B lachend, wie er an Land kommt.
+16–18 s: Makro: Foto druckt aus der Kamera.
+18–20 s: Sucher-POV von B, der sich mit einem Grinsen nähert.
+20–22 s: A fächelt das sich entwickelnde Foto trocken.
+
+22–24 s: B: „Lass mich sehen, wie schlimm es ist.“
+24–26 s: A: „Es ist eigentlich richtig gut.“
+26–28 s: B: „Genau das sagt jemand, der ein schlechtes Bild gemacht hat.“
+28–30 s: A reicht ihm das Foto.
+30–32 s: B betrachtet es lächelnd.
+32–34 s: B: „…Das hier behalte ich.“
+
+34–36 s: Einsiedlerkrebs läuft über nassen Sand.
+36–38 s: Leere Bucht, sanfte Wellen.
+
+38–40 s: Lichter der Saftbar gehen an; A gesellt sich zu B.
+40–42 s: B: „Du bestellst immer dasselbe, weißt du das?“
+42–44 s: A setzt sich neben ihn.
+44–46 s: B wartet auf ihre Antwort.
+46–48 s: A: „Warum ändern, was nicht kaputt ist?“
+48–50 s: Getränke kommen an; warme Lichterketten leuchten.
+50–52 s: Sie lachen, Schultern berühren sich.
+
+52–54 s: Drohnenaufnahme über dem Meer in der Dämmerung.
+54–56 s: Goldene Reflexionen im Gezeitentümpel.
+56–58 s: Schaum spült über Fußabdrücke.
+58–60 s: Lichterketten wiegen sich vor dem lavendelblauen Himmel. Abblende.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

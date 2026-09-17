@@ -327,20 +327,65 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2100450213261672460"></a>
 
-### Traduction en cours
+### Scénario vidéo de romance tropicale cinématographique mettant en scène un couple dans une crique et une cabane à jus sur une chronologie de 60 secondes.
 
 Auteur：[@doctorwasif](https://x.com/doctorwasif) · [Publication originale](https://x.com/doctorwasif/status/2100450213261672460)
 
 Image cinématographique / Photogramme de film · Groupe / Couple · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scénario vidéo de romance tropicale cinématographique mettant en scène un couple dans une crique et une cabane à jus sur une chronologie de 60 secondes.
 
 <img src="covers/2100450213261672460.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+« Where the Light Lands » — 60 s
+
+Look/Style : Romance tropicale cinématographique, heure dorée → crépuscule bleu lavande, tons chauds corail/pêche, doux reflets d'objectif (lens flare), faible profondeur de champ, grain argentique subtil. Mélange de plans larges au drone, gros plans caméra à l'épaule, plans fixes, légers travellings avant (push-ins), inserts de nature au ralenti et vue subjective (POV) à travers le viseur Polaroid. Alchimie joueuse, intime et naturelle.
+
+Personnages :
+A — cheveux sombres et ondulés, chemise en lin crème par-dessus le maillot de bain, sac cabas, appareil photo Polaroid.
+B — cheveux châtain clair, chemise en jean délavée ouverte, short de bain, paddle en mousse (soft-top).
+
+Décor : Crique tropicale tranquille avec eau turquoise, bois flotté, mares résiduelles et palmiers → cabane à jus en plein air chaleureuse avec guirlandes lumineuses.
+
+CHRONOLOGIE
+
+0–2 s : Titre « Where the Light Lands » sur des sandales et un sac de plage, océan en arrière-plan.
+
+2–6 s : B rame sur une eau turquoise et calme.
+6–8 s : Vague au ralenti atteignant le rivage.
+8–10 s : Paddle au premier plan, B au loin dans l'eau.
+10–12 s : A regarde B approcher depuis le rivage.
+12–14 s : A est assise sur du bois flotté, appareil photo sur les genoux.
+14–16 s : A photographie B riant alors qu'il arrive sur le rivage.
+16–18 s : Macro : la photo s'imprime depuis l'appareil.
+18–20 s : POV du viseur montrant B s'approchant avec un sourire narquois.
+20–22 s : A agite la photo en train de se développer.
+
+22–24 s : B : « Fais voir à quel point elle est ratée. »
+24–26 s : A : « Elle est vraiment super, en fait. »
+26–28 s : B : « C'est exactement ce que dit quelqu'un qui a raté une photo. »
+28–30 s : A lui tend la photo.
+30–32 s : B l'examine en souriant.
+32–34 s : B : « …Je garde celle-là. »
+
+34–36 s : Un bernard-l'ermite traverse le sable mouillé.
+36–38 s : Crique déserte, vagues douces.
+
+38–40 s : Les lumières de la cabane à jus s'allument ; A rejoint B.
+40–42 s : B : « Tu commandes toujours la même chose, tu le sais ça ? »
+42–44 s : A s'assoit à côté de lui.
+44–46 s : B attend sa réponse.
+46–48 s : A : « Pourquoi réparer ce qui n'est pas cassé ? »
+48–50 s : Les boissons arrivent ; de chaleureuses guirlandes lumineuses s'illuminent.
+50–52 s : Ils rient, les épaules se frôlant.
+
+52–54 s : Plan au drone au-dessus de l'océan au crépuscule.
+54–56 s : Reflets dorés dans une mare résiduelle.
+56–58 s : L'écume efface des empreintes de pas.
+58–60 s : Les guirlandes lumineuses oscillent contre le ciel bleu lavande. Fondu au noir.
 ```
 
 [↑ Retour aux catégories](#catalog)
