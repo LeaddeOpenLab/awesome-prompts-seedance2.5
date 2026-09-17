@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:25:57.586Z",
+  "model": "seedance",
+  "prompt": "15 秒横屏视频，写实电视剧质感，空间是一间布局正常的现代酒店客房。全程采用成年人站立时的第一人称视角，镜头高度约 1.6 米。画面中不出现警察或开门的人，包括背影、手、影子和镜中倒影。\n\n0～1 秒：纯黑画面，中央出现白色大字「抓捕开始」。\n\n1～3 秒：黑幕结束后，画面只展示正前方的一扇现代酒店客房门。镜头站在门前正常开门的距离和高度，门占据画面主体，不切远景，不展示走廊里的人。\n\n3～5 秒：房门从第一人称视角被突然用力推开，向客房内摆动。镜头随开门动作自然前移，像亲自走进房间；不出现踹门的人、开门的手或门内迎面站着的人。全片只开这一扇门一次。\n\n5～7 秒：门后是一段很短的入口过道，长度约一张书桌，约 1.2 米。过道左侧是卫生间的磨砂玻璃门，保持关闭；右侧是普通酒店客房的墙面。镜头沿平坦过道走到底，不出现长走廊、楼梯或其他房间。\n\n7～10 秒：到过道尽头后，镜头朝画面左上方平滑转约 45 度，同时向左前方移动，进入卧室区域。镜头仍保持人的视线高度，不升成俯拍。床位于房间左侧，随着转角移动自然进入画面。\n\n10～11 秒：床上是一位老人和一名成年金发外国女子，房间内只有他们两人。两人没有穿衣服，紧裹被子，只露出头、脖颈和肩部；被子始终遮住胸口和身体。女子惊讶回头，老人抓紧被角坐起。\n\n11～15 秒：房间突然安静。老人直视摄影镜头，身体前倾，伸出食指指向镜头，先惊慌，随即强装理直气壮，大声喊：「你们干什么？我在学外语！」画面底部随台词同步出现一行白字、细黑描边字幕：「你们干什么？我在学外语！」 台词结束，字幕消失，镜头停在老人指向镜头的动作上。\n\n保持客房门、左侧卫生间、短过道、左转角和左侧床位的空间关系连续。除开场标题和这一句台词字幕外，不出现其他文字或水印。",
+  "promptTranslations": {
+    "en": "15-second horizontal video, realistic TV drama texture, set in a normally laid-out modern hotel guest room. The entire video adopts a first-person POV at adult standing eye-level, with a camera height of approximately 1.6 meters. No police officers or people opening doors appear on screen, including back views, hands, shadows, and mirror reflections.\n\n0–1s: Pure black screen, with large white text appearing in the center: \"抓捕开始\".\n\n1–3s: After the black screen ends, the shot shows only a modern hotel room door directly ahead. The camera stands at a standard door-opening distance and height; the door occupies the main subject of the frame, without cutting to a wide shot and without showing anyone in the hallway.\n\n3–5s: From the first-person perspective, the room door is abruptly and forcefully pushed open, swinging into the guest room. The camera naturally moves forward with the door-opening action, as if walking into the room personally; no person kicking the door, no hand opening the door, and no one standing inside facing the entrance appears. Only this single door is opened once in the entire video.\n\n5–7s: Behind the door is a very short entryway hallway, roughly the length of a desk, about 1.2 meters. On the left side of the hallway is a frosted glass door to the bathroom, which remains closed; on the right side is a standard hotel room wall. The camera walks along the flat hallway to the end, with no long corridors, stairs, or other rooms appearing.\n\n7–10s: Reaching the end of the hallway, the camera smoothly pans roughly 45 degrees toward the upper left of the frame while moving forward-left, entering the bedroom area. The camera still maintains human eye-level height, not rising into a high-angle overhead shot. The bed is located on the left side of the room, entering the frame naturally with the cornering movement.\n\n10–11s: On the bed are an elderly man and an adult blonde foreign woman; only the two of them are in the room. Neither is wearing clothes, tightly wrapped in a duvet with only their heads, necks, and shoulders exposed; the duvet consistently conceals their chests and bodies. The woman looks back in surprise, while the old man clutches the corner of the duvet and sits up.\n\n11–15s: The room suddenly falls silent. The old man stares straight into the camera lens, leans forward, extends his index finger pointing at the camera, looking panicked at first, then immediately putting on a facade of self-righteous indignation, shouting loudly: \"你们干什么？我在学外语！\" Synchronized with the dialogue, a line of white subtitles with thin black outlines appears at the bottom of the screen: \"你们干什么？我在学外语！\" As the dialogue ends, the subtitles disappear, and the camera freezes on the old man's gesture pointing at the lens.\n\nMaintain continuous spatial relationships among the room door, the left bathroom, the short hallway, the left turn, and the bed on the left. Aside from the opening title and this single line of subtitle text, no other text or watermarks appear."
+  },
+  "summaryTranslations": {
+    "en": "First-person perspective storyboard prompt for a short satirical video simulating a surprise hotel room raid in a classic TV drama style."
+  },
+  "translationVersion": 2,
+  "summary": "以第一人称视角模拟突击查房的经典影视讽刺短视频分镜提示词。",
+  "summaryEn": "A first-person POV storyboard prompt for a satirical hotel raid video recreating a well-known TV meme.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100468572644573436",
+    "canonicalUrl": "https://x.com/krienknight/status/2100468572644573436",
+    "author": {
+      "username": "krienknight",
+      "displayName": "cyberkk",
+      "profileUrl": "https://x.com/krienknight"
+    },
+    "publishedAt": "2026-09-17T06:15:07.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "zh",
+    "originalText": "《我正在学外语》\n\n改了多次，seedance始终不给我过，只能改个保守的\n\n这方面还是要夸赞下国外模型了😂\n\ngrok提示词：\n15 秒横屏视频，写实电视剧质感，空间是一间布局正常的现代酒店客房。全程采用成年人站立时的第一人称视角，镜头高度约 1.6 米。画面中不出现警察或开门的人，包括背影、手、影子和镜中倒影。\n\n0～1 秒：纯黑画面，中央出现白色大字「抓捕开始」。\n\n1～3 秒：黑幕结束后，画面只展示正前方的一扇现代酒店客房门。镜头站在门前正常开门的距离和高度，门占据画面主体，不切远景，不展示走廊里的人。\n\n3～5 秒：房门从第一人称视角被突然用力推开，向客房内摆动。镜头随开门动作自然前移，像亲自走进房间；不出现踹门的人、开门的手或门内迎面站着的人。全片只开这一扇门一次。\n\n5～7 秒：门后是一段很短的入口过道，长度约一张书桌，约 1.2 米。过道左侧是卫生间的磨砂玻璃门，保持关闭；右侧是普通酒店客房的墙面。镜头沿平坦过道走到底，不出现长走廊、楼梯或其他房间。\n\n7～10 秒：到过道尽头后，镜头朝画面左上方平滑转约 45 度，同时向左前方移动，进入卧室区域。镜头仍保持人的视线高度，不升成俯拍。床位于房间左侧，随着转角移动自然进入画面。\n\n10～11 秒：床上是一位老人和一名成年金发外国女子，房间内只有他们两人。两人没有穿衣服，紧裹被子，只露出头、脖颈和肩部；被子始终遮住胸口和身体。女子惊讶回头，老人抓紧被角坐起。\n\n11～15 秒：房间突然安静。老人直视摄影镜头，身体前倾，伸出食指指向镜头，先惊慌，随即强装理直气壮，大声喊：「你们干什么？我在学外语！」画面底部随台词同步出现一行白字、细黑描边字幕：「你们干什么？我在学外语！」 台词结束，字幕消失，镜头停在老人指向镜头的动作上。\n\n保持客房门、左侧卫生间、短过道、左转角和左侧床位的空间关系连续。除开场标题和这一句台词字幕外，不出现其他文字或水印。\n\nseedance提示词：\n不要加“模仿《人民的名义》”。Seedance 的公开安全说明列有版权和涉黄内容审核，写出剧名会增加版权风险，也不能代替授权。此前几版仍保留了原剧名场面的台词、人物组合和床上裸露暗示，所以无法靠换几个词保证过审。火山方舟安全创作体系\n\n下面这版保留突击开门、酒店动线、床上两人被撞见和老人指镜头狡辩；人物完整着装，台词改为原创：\n\n15 秒竖屏原创讽刺喜剧，现代酒店客房，第一人称视角，不参考任何电视剧人物或演员形象，画面中不出现开门者或警察。0～1 秒：纯黑画面，中央出现白色大字「抓捕开始」。1～3 秒：黑幕结束后，只展示正前方的一扇客房门。镜头处于正常开门距离和站立高度。3～5 秒：门从第一人称视角被猛地推开。镜头跨过门槛，不展示开门的人或手。5～7 秒：门内是约一张书桌长度的短过道，左侧卫生间的磨砂玻璃门关闭。7～10 秒：镜头走到过道尽头，朝左上方平滑转约 45 度，向左前方进入卧室。床位于房间左侧。10～11 秒：床上坐着一位年长男子和一名成年金发外国女子。两人穿着完整的睡衣，腿上盖着被子，突然被闯入吓住。女子抓紧被角，男子慌忙坐直。11～15 秒：男子直视镜头，伸出食指指向镜头，强装镇定地喊：「谁让你们进来的？我这外语课还没上完！」画面底部同步出现且只出现这句字幕。镜头停在他的表情上结束。保持客房门、左侧卫生间、短过道、左转角和左侧床位的位置连续。除开场标题和台词字幕外，不出现其他文字。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/krienknight/status/2100468572644573436",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100467670294609920/img/S12EbwQgp_flyXo5.jpg",
+        "analysisUrl": "https://x.com/krienknight/status/2100468572644573436"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 197
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/krienknight/status/2100468572644573436",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100467670294609920/img/S12EbwQgp_flyXo5.jpg",
+  "coverPath": "covers/2100468572644573436.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100467670294609920",
+    "x-post:2100468572644573436"
+  ],
+  "analysis": {
+    "summary": "以第一人称视角模拟突击查房的经典影视讽刺短视频分镜提示词。",
+    "summaryEn": "A first-person POV storyboard prompt for a satirical hotel raid video recreating a well-known TV meme.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频右侧Grok部分严格按照分秒节奏呈现抓捕字幕、推门走入过道、左转进入卧室以及老人与金发女子在床上指着镜头喊“我在学外语”的完整过程。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "15 秒横屏视频，写实电视剧质感，空间是一间布局正常的现代酒店客房。全程采用成年人站立时的第一人称视角，镜头高度约 1.6 米。画面中不出现警察或开门的人，包括背影、手、影子和镜中倒影。\n\n0～1 秒：纯黑画面，中央出现白色大字「抓捕开始」。\n\n1～3 秒：黑幕结束后，画面只展示正前方的一扇现代酒店客房门。镜头站在门前正常开门的距离和高度，门占据画面主体，不切远景，不展示走廊里的人。\n\n3～5 秒：房门从第一人称视角被突然用力推开，向客房内摆动。镜头随开门动作自然前移，像亲自走进房间；不出现踹门的人、开门的手或门内迎面站着的人。全片只开这一扇门一次。\n\n5～7 秒：门后是一段很短的入口过道，长度约一张书桌，约 1.2 米。过道左侧是卫生间的磨砂玻璃门，保持关闭；右侧是普通酒店客房的墙面。镜头沿平坦过道走到底，不出现长走廊、楼梯或其他房间。\n\n7～10 秒：到过道尽头后，镜头朝画面左上方平滑转约 45 度，同时向左前方移动，进入卧室区域。镜头仍保持人的视线高度，不升成俯拍。床位于房间左侧，随着转角移动自然进入画面。\n\n10～11 秒：床上是一位老人和一名成年金发外国女子，房间内只有他们两人。两人没有穿衣服，紧裹被子，只露出头、脖颈和肩部；被子始终遮住胸口和身体。女子惊讶回头，老人抓紧被角坐起。\n\n11～15 秒：房间突然安静。老人直视摄影镜头，身体前倾，伸出食指指向镜头，先惊慌，随即强装理直气壮，大声喊：「你们干什么？我在学外语！」画面底部随台词同步出现一行白字、细黑描边字幕：「你们干什么？我在学外语！」 台词结束，字幕消失，镜头停在老人指向镜头的动作上。\n\n保持客房门、左侧卫生间、短过道、左转角和左侧床位的空间关系连续。除开场标题和这一句台词字幕外，不出现其他文字或水印。",
+    "sourceRange": {
+      "start": 65,
+      "end": 813
+    },
+    "translations": {
+      "zh": "15 秒横屏视频，写实电视剧质感，空间是一间布局正常的现代酒店客房。全程采用成年人站立时的第一人称视角，镜头高度约 1.6 米。画面中不出现警察或开门的人，包括背影、手、影子和镜中倒影。\n\n0～1 秒：纯黑画面，中央出现白色大字「抓捕开始」。\n\n1～3 秒：黑幕结束后，画面只展示正前方的一扇现代酒店客房门。镜头站在门前正常开门的距离和高度，门占据画面主体，不切远景，不展示走廊里的人。\n\n3～5 秒：房门从第一人称视角被突然用力推开，向客房内摆动。镜头随开门动作自然前移，像亲自走进房间；不出现踹门的人、开门的手或门内迎面站着的人。全片只开这一扇门一次。\n\n5～7 秒：门后是一段很短的入口过道，长度约一张书桌，约 1.2 米。过道左侧是卫生间的磨砂玻璃门，保持关闭；右侧是普通酒店客房的墙面。镜头沿平坦过道走到底，不出现长走廊、楼梯或其他房间。\n\n7～10 秒：到过道尽头后，镜头朝画面左上方平滑转约 45 度，同时向左前方移动，进入卧室区域。镜头仍保持人的视线高度，不升成俯拍。床位于房间左侧，随着转角移动自然进入画面。\n\n10～11 秒：床上是一位老人和一名成年金发外国女子，房间内只有他们两人。两人没有穿衣服，紧裹被子，只露出头、脖颈和肩部；被子始终遮住胸口和身体。女子惊讶回头，老人抓紧被角坐起。\n\n11～15 秒：房间突然安静。老人直视摄影镜头，身体前倾，伸出食指指向镜头，先惊慌，随即强装理直气壮，大声喊：「你们干什么？我在学外语！」画面底部随台词同步出现一行白字、细黑描边字幕：「你们干什么？我在学外语！」 台词结束，字幕消失，镜头停在老人指向镜头的动作上。\n\n保持客房门、左侧卫生间、短过道、左转角和左侧床位的空间关系连续。除开场标题和这一句台词字幕外，不出现其他文字或水印。",
+      "en": "A 15-second horizontal video with realistic TV drama texture, set in a modern hotel room. Shot entirely from a standing first-person POV (1.6m high). No police or door-openers appear.\n\n0–1s: Pure black screen with white bold text \"抓捕开始\" in the center.\n1–3s: Frontal view of a hotel room door, occupying the center frame.\n3–5s: The door is forcefully pushed open inward from POV. The camera naturally moves forward.\n5–7s: A short hallway (~1.2m). Closed frosted glass door to the left, plain wall to the right. Camera walks to the end.\n7–10s: Camera smoothly pans ~45 degrees left into the bedroom. A bed enters the frame on the left.\n10–11s: In bed, an elderly man and a blonde foreign woman wrapped in sheets up to the shoulders. The woman looks back startled, and the man sits up holding the blanket.\n11–15s: Silence. The man points directly at the camera, shouting: \"What are you doing? I'm learning a foreign language!\" with matching subtitles at the bottom. Frame freezes on his gesture.\n\nMaintain spatial continuity throughout. No extra text or watermarks."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "影视分镜与讽刺剧情短视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "经典国产反腐影视剧情节模仿与台词梗"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:28:04.339Z",
+  "model": "seedance2.5",
+  "prompt": "A serene Japanese winter morning in a traditional wooden countryside house, snow-covered tatami room with shoji paper sliding doors, a woman with short black hair wearing a brown fuzzy cardigan over cream sweater, dark pants and fluffy boots, kneeling then standing to slide open the doors revealing a snowy village outside. Soft golden sunlight streaming through frosted windows. She steps onto the wooden engawa porch, crouches to scatter seeds for small sparrows hopping in the fresh snow. Later she sweeps snow off the porch with a traditional straw broom. Inside she kneels on tatami pouring steaming tea from a ceramic teapot into a small cup, holding it with both hands and gazing peacefully out the window. Then she walks away along a snowy path beside the wooden house, wearing a light beige coat, looking out over a picturesque snow-blanketed village with traditional houses, wooden fences, snow-laden pine trees, distant mountains, and chimney smoke rising in the golden sunrise light. Cinematic, peaceful, cozy, highly detailed, natural lighting, photorealistic yet poetic, Studio Ghibli inspired atmosphere, 8k.",
+  "promptTranslations": {
+    "en": "A serene Japanese winter morning in a traditional wooden countryside house, snow-covered tatami room with shoji paper sliding doors, a woman with short black hair wearing a brown fuzzy cardigan over cream sweater, dark pants and fluffy boots, kneeling then standing to slide open the doors revealing a snowy village outside. Soft golden sunlight streaming through frosted windows. She steps onto the wooden engawa porch, crouches to scatter seeds for small sparrows hopping in the fresh snow. Later she sweeps snow off the porch with a traditional straw broom. Inside she kneels on tatami pouring steaming tea from a ceramic teapot into a small cup, holding it with both hands and gazing peacefully out the window. Then she walks away along a snowy path beside the wooden house, wearing a light beige coat, looking out over a picturesque snow-blanketed village with traditional houses, wooden fences, snow-laden pine trees, distant mountains, and chimney smoke rising in the golden sunrise light. Cinematic, peaceful, cozy, highly detailed, natural lighting, photorealistic yet poetic, Studio Ghibli inspired atmosphere, 8k."
+  },
+  "summaryTranslations": {
+    "en": "A serene Japanese winter morning showing a woman opening sliding doors, feeding sparrows, sweeping snow, drinking tea, and walking by a snowy village."
+  },
+  "translationVersion": 2,
+  "summary": "A serene Japanese winter morning showing a woman opening sliding doors, feeding sparrows, sweeping snow, drinking tea, and walking by a snowy village.",
+  "summaryEn": "A serene Japanese winter morning showing a woman opening sliding doors, feeding sparrows, sweeping snow, drinking tea, and walking by a snowy village.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100460643874943066",
+    "canonicalUrl": "https://x.com/noorlewisx/status/2100460643874943066",
+    "author": {
+      "username": "noorlewisx",
+      "displayName": "Noor",
+      "profileUrl": "https://x.com/noorlewisx"
+    },
+    "publishedAt": "2026-09-17T05:43:36.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "en",
+    "originalText": "A freezing morning, tea steam in the air\nAnd a snow-covered village glowing in the light\n\nMade with seedance 2.5 \n\nPrompt:\n\nA serene Japanese winter morning in a traditional wooden countryside house, snow-covered tatami room with shoji paper sliding doors, a woman with short black hair wearing a brown fuzzy cardigan over cream sweater, dark pants and fluffy boots, kneeling then standing to slide open the doors revealing a snowy village outside. Soft golden sunlight streaming through frosted windows. She steps onto the wooden engawa porch, crouches to scatter seeds for small sparrows hopping in the fresh snow. Later she sweeps snow off the porch with a traditional straw broom. Inside she kneels on tatami pouring steaming tea from a ceramic teapot into a small cup, holding it with both hands and gazing peacefully out the window. Then she walks away along a snowy path beside the wooden house, wearing a light beige coat, looking out over a picturesque snow-blanketed village with traditional houses, wooden fences, snow-laden pine trees, distant mountains, and chimney smoke rising in the golden sunrise light. Cinematic, peaceful, cozy, highly detailed, natural lighting, photorealistic yet poetic, Studio Ghibli inspired atmosphere, 8k.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/noorlewisx/status/2100460643874943066",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100460566670401536/img/Ixq-KpD5J5u7gxpF.jpg",
+        "analysisUrl": "https://x.com/noorlewisx/status/2100460643874943066"
+      }
+    ],
+    "metrics": {
+      "likeCount": 117,
+      "repostCount": 4,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 605
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/noorlewisx/status/2100460643874943066",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100460566670401536/img/Ixq-KpD5J5u7gxpF.jpg",
+  "coverPath": "covers/2100460643874943066.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100460566670401536",
+    "x-post:2100460643874943066"
+  ],
+  "analysis": {
+    "summary": "A serene Japanese winter morning showing a woman opening sliding doors, feeding sparrows, sweeping snow, drinking tea, and walking by a snowy village.",
+    "summaryEn": "A serene Japanese winter morning showing a woman opening sliding doors, feeding sparrows, sweeping snow, drinking tea, and walking by a snowy village.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video accurately reproduces the narrative sequence: woman opening the shoji doors, feeding sparrows on the engawa, sweeping snow with a broom, pouring tea, and walking out toward the snow-covered village."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A serene Japanese winter morning in a traditional wooden countryside house, snow-covered tatami room with shoji paper sliding doors, a woman with short black hair wearing a brown fuzzy cardigan over cream sweater, dark pants and fluffy boots, kneeling then standing to slide open the doors revealing a snowy village outside. Soft golden sunlight streaming through frosted windows. She steps onto the wooden engawa porch, crouches to scatter seeds for small sparrows hopping in the fresh snow. Later she sweeps snow off the porch with a traditional straw broom. Inside she kneels on tatami pouring steaming tea from a ceramic teapot into a small cup, holding it with both hands and gazing peacefully out the window. Then she walks away along a snowy path beside the wooden house, wearing a light beige coat, looking out over a picturesque snow-blanketed village with traditional houses, wooden fences, snow-laden pine trees, distant mountains, and chimney smoke rising in the golden sunrise light. Cinematic, peaceful, cozy, highly detailed, natural lighting, photorealistic yet poetic, Studio Ghibli inspired atmosphere, 8k.",
+    "sourceRange": {
+      "start": 124,
+      "end": 1248
+    },
+    "translations": {
+      "zh": "宁静的日本冬日清晨，一栋传统木制乡间民居，带有障子推拉门的积雪榻榻米房间。一名留着黑色短发的女子身穿米色毛衣外搭棕色绒毛开衫、深色长裤和毛茸茸的靴子，从跪姿起身推开拉门，展现外面的雪村景象。柔和的金色阳光透过结霜的窗户洒落。她走到木质缘侧门廊上，蹲下为在初雪中跳跃的麻雀撒下谷物种子。随后她用传统草扫帚清扫门廊积雪。屋内她跪在榻榻米上，将陶瓷茶壶中冒着热气的茶倒入小茶杯，双手捧杯平和地凝望窗外。随后她身穿浅米色大衣，沿着木屋旁的积雪小径走开，眺望风景如画、被白雪覆盖的村落，村落中有传统民居、木栅栏、积雪松树、远山，以及金色日出光芒中升起的炊烟。电影感，平和，温馨，高度细节，自然光线，真实而富有诗意，吉卜力工作室风格氛围，8k。",
+      "en": "A serene Japanese winter morning in a traditional wooden countryside house, snow-covered tatami room with shoji paper sliding doors, a woman with short black hair wearing a brown fuzzy cardigan over cream sweater, dark pants and fluffy boots, kneeling then standing to slide open the doors revealing a snowy village outside. Soft golden sunlight streaming through frosted windows. She steps onto the wooden engawa porch, crouches to scatter seeds for small sparrows hopping in the fresh snow. Later she sweeps snow off the porch with a traditional straw broom. Inside she kneels on tatami pouring steaming tea from a ceramic teapot into a small cup, holding it with both hands and gazing peacefully out the window. Then she walks away along a snowy path beside the wooden house, wearing a light beige coat, looking out over a picturesque snow-blanketed village with traditional houses, wooden fences, snow-laden pine trees, distant mountains, and chimney smoke rising in the golden sunrise light. Cinematic, peaceful, cozy, highly detailed, natural lighting, photorealistic yet poetic, Studio Ghibli inspired atmosphere, 8k."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Studio Ghibli"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
