@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:26:00.976Z",
+  "model": "seedance",
+  "prompt": "integrated_multimodal_description: [Shot 1] Live-action ultra-photorealistic close-up of a smartphone screen only, vertical 9:16 framing, approximately 15.00 seconds, real phone bezel and glass with slight environmental reflections, high-clarity display. Strictly only one person exists in the entire video: the wallpaper woman inside the phone screen. Outside the screen there must be absolutely no human, no face, no hand, no finger, no arm, no body part, and no silhouette—frame contains only the phone and its display content. The wallpaper is a half-body photo of a young beautiful Asian woman—delicate features, refined makeup, vivid expression, fashionable clothes—but the home-screen is densely covered by many app icons that block her face, eyes, and key body areas. No readable text, no captions, no subtitles, no watermarks, no logos on screen—app icons are pure graphic symbols without labels. From 00:00.000 to 00:02.000, static frame: dense icons fully covering her. From 00:02.000 to 00:12.000, the wallpaper woman suddenly comes alive inside the screen, slightly frowns with an angry-yet-coquettish look, and the lively young woman with a clear mid-high voice (S1) shouts face-on with visible lips: [Chinese] 挡住我了！ Still only inside the wallpaper, she uses only her index finger with precise targeting: the fingertip must first press directly on an icon’s exact position, then quickly swipe that icon away; icons move only when accurately pressed—random waving through empty space does nothing. She clears them one by one this way; if she moves very fast, it is still a rapid sequence of accurate press-and-swipe hits on successive icons, never aimless flailing. Some icons leave with one sharp press-swipe; a few need a second precise press-swipe. While clearing them she pouts coyly and occasionally rolls her eyes; icons gradually decrease as her face and body are revealed bit by bit. The moment the last icon leaves the screen, all index-finger press-and-swipe motions stop immediately—her on-screen hand settles and no longer keeps flicking. From 00:12.000 to 00:15.000, the screen is clean with only her photo; with the swiping hand already still, she breaks into a bright happy smile, eyes curved like crescents, makes a victory V-sign toward the viewer, and holds the freeze through 15.00 seconds. Ultra-real, smooth natural motion, true screen lighting and soft reflections. overall_soundscape: Soft phone-glass room tone, short UI tap-then-whoosh for each accurate press-and-swipe, her one shouted line and light coquettish breaths. After the last icon clears, finger-motion sounds stop. non_diegetic_music: Light playful electronic plucks at a moderate tempo, brightening when the last icons clear, then holding softly under the V-sign freeze.，3:4，15s",
+  "promptTranslations": {
+    "en": "integrated_multimodal_description: [Shot 1] Live-action ultra-photorealistic close-up of a smartphone screen only, vertical 9:16 framing, approximately 15.00 seconds, real phone bezel and glass with slight environmental reflections, high-clarity display. Strictly only one person exists in the entire video: the wallpaper woman inside the phone screen. Outside the screen there must be absolutely no human, no face, no hand, no finger, no arm, no body part, and no silhouette—frame contains only the phone and its display content. The wallpaper is a half-body photo of a young beautiful Asian woman—delicate features, refined makeup, vivid expression, fashionable clothes—but the home-screen is densely covered by many app icons that block her face, eyes, and key body areas. No readable text, no captions, no subtitles, no watermarks, no logos on screen—app icons are pure graphic symbols without labels. From 00:00.000 to 00:02.000, static frame: dense icons fully covering her. From 00:02.000 to 00:12.000, the wallpaper woman suddenly comes alive inside the screen, slightly frowns with an angry-yet-coquettish look, and the lively young woman with a clear mid-high voice (S1) shouts face-on with visible lips: [Chinese] 挡住我了！ Still only inside the wallpaper, she uses only her index finger with precise targeting: the fingertip must first press directly on an icon’s exact position, then quickly swipe that icon away; icons move only when accurately pressed—random waving through empty space does nothing. She clears them one by one this way; if she moves very fast, it is still a rapid sequence of accurate press-and-swipe hits on successive icons, never aimless flailing. Some icons leave with one sharp press-swipe; a few need a second precise press-swipe. While clearing them she pouts coyly and occasionally rolls her eyes; icons gradually decrease as her face and body are revealed bit by bit. The moment the last icon leaves the screen, all index-finger press-and-swipe motions stop immediately—her on-screen hand settles and no longer keeps flicking. From 00:12.000 to 00:15.000, the screen is clean with only her photo; with the swiping hand already still, she breaks into a bright happy smile, eyes curved like crescents, makes a victory V-sign toward the viewer, and holds the freeze through 15.00 seconds. Ultra-real, smooth natural motion, true screen lighting and soft reflections. overall_soundscape: Soft phone-glass room tone, short UI tap-then-whoosh for each accurate press-and-swipe, her one shouted line and light coquettish breaths. After the last icon clears, finger-motion sounds stop. non_diegetic_music: Light playful electronic plucks at a moderate tempo, brightening when the last icons clear, then holding softly under the V-sign freeze., 3:4, 15s"
+  },
+  "summaryTranslations": {
+    "en": "In a smartphone screen close-up, the wallpaper girl wakes up and shouts coquettishly, swiping away the app icons blocking her face one by one before happily flashing a peace sign."
+  },
+  "translationVersion": 2,
+  "summary": "手机屏幕特写中壁纸女孩醒来并娇嗔喊话，逐个划走挡住面部的App图标后开心比耶。",
+  "summaryEn": "A smartphone screen close-up where a wallpaper girl comes alive, complains about blocked vision, swipes away app icons, and poses with a V-sign.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100383168356573667",
+    "canonicalUrl": "https://x.com/PhotoX86/status/2100383168356573667",
+    "author": {
+      "username": "PhotoX86",
+      "displayName": "PhotoX86",
+      "profileUrl": "https://x.com/PhotoX86"
+    },
+    "publishedAt": "2026-09-17T00:35:45.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "zh",
+    "originalText": "女友相片做手机屏幕，怎么能被图标遮挡呢！这是一个现实的问题。\n\n生成视频：integrated_multimodal_description: [Shot 1] Live-action ultra-photorealistic close-up of a smartphone screen only, vertical 9:16 framing, approximately 15.00 seconds, real phone bezel and glass with slight environmental reflections, high-clarity display. Strictly only one person exists in the entire video: the wallpaper woman inside the phone screen. Outside the screen there must be absolutely no human, no face, no hand, no finger, no arm, no body part, and no silhouette—frame contains only the phone and its display content. The wallpaper is a half-body photo of a young beautiful Asian woman—delicate features, refined makeup, vivid expression, fashionable clothes—but the home-screen is densely covered by many app icons that block her face, eyes, and key body areas. No readable text, no captions, no subtitles, no watermarks, no logos on screen—app icons are pure graphic symbols without labels. From 00:00.000 to 00:02.000, static frame: dense icons fully covering her. From 00:02.000 to 00:12.000, the wallpaper woman suddenly comes alive inside the screen, slightly frowns with an angry-yet-coquettish look, and the lively young woman with a clear mid-high voice (S1) shouts face-on with visible lips: [Chinese] 挡住我了！ Still only inside the wallpaper, she uses only her index finger with precise targeting: the fingertip must first press directly on an icon’s exact position, then quickly swipe that icon away; icons move only when accurately pressed—random waving through empty space does nothing. She clears them one by one this way; if she moves very fast, it is still a rapid sequence of accurate press-and-swipe hits on successive icons, never aimless flailing. Some icons leave with one sharp press-swipe; a few need a second precise press-swipe. While clearing them she pouts coyly and occasionally rolls her eyes; icons gradually decrease as her face and body are revealed bit by bit. The moment the last icon leaves the screen, all index-finger press-and-swipe motions stop immediately—her on-screen hand settles and no longer keeps flicking. From 00:12.000 to 00:15.000, the screen is clean with only her photo; with the swiping hand already still, she breaks into a bright happy smile, eyes curved like crescents, makes a victory V-sign toward the viewer, and holds the freeze through 15.00 seconds. Ultra-real, smooth natural motion, true screen lighting and soft reflections. overall_soundscape: Soft phone-glass room tone, short UI tap-then-whoosh for each accurate press-and-swipe, her one shouted line and light coquettish breaths. After the last icon clears, finger-motion sounds stop. non_diegetic_music: Light playful electronic plucks at a moderate tempo, brightening when the last icons clear, then holding softly under the V-sign freeze.，3:4，15s\n\n左边海螺H3,右边seedance 2 mini",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PhotoX86/status/2100383168356573667",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100382406952026112/img/EoApo7EtIaYYMcX1.jpg",
+        "analysisUrl": "https://x.com/PhotoX86/status/2100383168356573667"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/PhotoX86/status/2100383168356573667",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100382452984504320/img/_Vqddk5Sw6hlow8F.jpg",
+        "analysisUrl": "https://x.com/PhotoX86/status/2100383168356573667"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 86
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PhotoX86/status/2100383168356573667",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100382406952026112/img/EoApo7EtIaYYMcX1.jpg",
+  "coverPath": "covers/2100383168356573667.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100382406952026112",
+    "x-video:2100382452984504320",
+    "x-post:2100383168356573667"
+  ],
+  "analysis": {
+    "summary": "手机屏幕特写中壁纸女孩醒来并娇嗔喊话，逐个划走挡住面部的App图标后开心比耶。",
+    "summaryEn": "A smartphone screen close-up where a wallpaper girl comes alive, complains about blocked vision, swipes away app icons, and poses with a V-sign.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与提示词中女子被图标遮挡、说话喊叫、手指推开图标以及最后比剪刀手微笑的动态全程完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "integrated_multimodal_description: [Shot 1] Live-action ultra-photorealistic close-up of a smartphone screen only, vertical 9:16 framing, approximately 15.00 seconds, real phone bezel and glass with slight environmental reflections, high-clarity display. Strictly only one person exists in the entire video: the wallpaper woman inside the phone screen. Outside the screen there must be absolutely no human, no face, no hand, no finger, no arm, no body part, and no silhouette—frame contains only the phone and its display content. The wallpaper is a half-body photo of a young beautiful Asian woman—delicate features, refined makeup, vivid expression, fashionable clothes—but the home-screen is densely covered by many app icons that block her face, eyes, and key body areas. No readable text, no captions, no subtitles, no watermarks, no logos on screen—app icons are pure graphic symbols without labels. From 00:00.000 to 00:02.000, static frame: dense icons fully covering her. From 00:02.000 to 00:12.000, the wallpaper woman suddenly comes alive inside the screen, slightly frowns with an angry-yet-coquettish look, and the lively young woman with a clear mid-high voice (S1) shouts face-on with visible lips: [Chinese] 挡住我了！ Still only inside the wallpaper, she uses only her index finger with precise targeting: the fingertip must first press directly on an icon’s exact position, then quickly swipe that icon away; icons move only when accurately pressed—random waving through empty space does nothing. She clears them one by one this way; if she moves very fast, it is still a rapid sequence of accurate press-and-swipe hits on successive icons, never aimless flailing. Some icons leave with one sharp press-swipe; a few need a second precise press-swipe. While clearing them she pouts coyly and occasionally rolls her eyes; icons gradually decrease as her face and body are revealed bit by bit. The moment the last icon leaves the screen, all index-finger press-and-swipe motions stop immediately—her on-screen hand settles and no longer keeps flicking. From 00:12.000 to 00:15.000, the screen is clean with only her photo; with the swiping hand already still, she breaks into a bright happy smile, eyes curved like crescents, makes a victory V-sign toward the viewer, and holds the freeze through 15.00 seconds. Ultra-real, smooth natural motion, true screen lighting and soft reflections. overall_soundscape: Soft phone-glass room tone, short UI tap-then-whoosh for each accurate press-and-swipe, her one shouted line and light coquettish breaths. After the last icon clears, finger-motion sounds stop. non_diegetic_music: Light playful electronic plucks at a moderate tempo, brightening when the last icons clear, then holding softly under the V-sign freeze.，3:4，15s",
+    "sourceRange": {
+      "start": 37,
+      "end": 2816
+    },
+    "translations": {
+      "zh": "综合多模态描述：[镜头1] 仅智能手机屏幕的真人级超逼真特写，垂直9:16构图，约15秒，真实手机边框与玻璃反光。画面中仅有手机屏幕内的壁纸女子。壁纸为年轻漂亮东亚女性的半身像，主屏幕密集覆盖着挡住她面部和身体的应用图标。00:00-00:02静止帧；00:02-00:12壁纸女子在屏幕内复活，微蹙眉头娇嗔大喊“挡住我了！”，用食指精准将图标逐个划开移出屏幕；00:12-00:15图标清理完毕，她露出灿烂笑容比出V手势并定格。附带玻璃环境音、UI划动音效及轻快背景音乐，3:4，15s",
+      "en": "integrated_multimodal_description: [Shot 1] Live-action ultra-photorealistic close-up of a smartphone screen only, vertical 9:16 framing, approximately 15.00 seconds, real phone bezel and glass with slight environmental reflections, high-clarity display. Strictly only one person exists in the entire video: the wallpaper woman inside the phone screen. Outside the screen there must be absolutely no human, no face, no hand, no finger, no arm, no body part, and no silhouette—frame contains only the phone and its display content. The wallpaper is a half-body photo of a young beautiful Asian woman—delicate features, refined makeup, vivid expression, fashionable clothes—but the home-screen is densely covered by many app icons that block her face, eyes, and key body areas. No readable text, no captions, no subtitles, no watermarks, no logos on screen—app icons are pure graphic symbols without labels. From 00:00.000 to 00:02.000, static frame: dense icons fully covering her. From 00:02.000 to 00:12.000, the wallpaper woman suddenly comes alive inside the screen, slightly frowns with an angry-yet-coquettish look, and the lively young woman with a clear mid-high voice (S1) shouts face-on with visible lips: [Chinese] 挡住我了！ Still only inside the wallpaper, she uses only her index finger with precise targeting: the fingertip must first press directly on an icon’s exact position, then quickly swipe that icon away; icons move only when accurately pressed—random waving through empty space does nothing. She clears them one by one this way; if she moves very fast, it is still a rapid sequence of accurate press-and-swipe hits on successive icons, never aimless flailing. Some icons leave with one sharp press-swipe; a few need a second precise press-swipe. While clearing them she pouts coyly and occasionally rolls her eyes; icons gradually decrease as her face and body are revealed bit by bit. The moment the last icon leaves the screen, all index-finger press-and-swipe motions stop immediately—her on-screen hand settles and no longer keeps flicking. From 00:12.000 to 00:15.000, the screen is clean with only her photo; with the swiping hand already still, she breaks into a bright happy smile, eyes curved like crescents, makes a victory V-sign toward the viewer, and holds the freeze through 15.00 seconds. Ultra-real, smooth natural motion, true screen lighting and soft reflections. overall_soundscape: Soft phone-glass room tone, short UI tap-then-whoosh for each accurate press-and-swipe, her one shouted line and light coquettish breaths. After the last icon clears, finger-motion sounds stop. non_diegetic_music: Light playful electronic plucks at a moderate tempo, brightening when the last icons clear, then holding softly under the V-sign freeze., 3:4, 15s"
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "创意手机壁纸互动与UI动效视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.92,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

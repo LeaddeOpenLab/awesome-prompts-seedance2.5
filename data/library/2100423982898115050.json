@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:29:33.822Z",
+  "model": "seedance",
+  "prompt": "A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.",
+  "promptTranslations": {
+    "en": "A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality."
+  },
+  "summaryTranslations": {
+    "en": "Video prompt for a Korean girl's cozy summer life vlog scene by a stream and wooden house."
+  },
+  "translationVersion": 2,
+  "summary": "韩国女孩在溪流与木屋旁的夏日惬意生活Vlog场景视频提示词。",
+  "summaryEn": "Prompt for generating a Korean summer countryside vlog video featuring a girl by a stream.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100423982898115050",
+    "canonicalUrl": "https://x.com/aiwithaayat/status/2100423982898115050",
+    "author": {
+      "username": "aiwithaayat",
+      "displayName": "Ayat",
+      "profileUrl": "https://x.com/aiwithaayat"
+    },
+    "publishedAt": "2026-09-17T03:17:56.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "en",
+    "originalText": "A peaceful Korean summer escape filled with sunshine, nature, and simple moments. \nSoft breeze, fresh scenery, and a little watermelon make the day feel perfect.\n\nCreated on seedance 2.0\n\nPrompt:\n\nA Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiwithaayat/status/2100423982898115050",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg",
+        "analysisUrl": "https://x.com/aiwithaayat/status/2100423982898115050"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 0,
+      "replyCount": 19,
+      "quoteCount": 0,
+      "viewCount": 388
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/aiwithaayat/status/2100423982898115050",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg",
+  "coverPath": "covers/2100423982898115050.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100423624889114624",
+    "x-post:2100423982898115050"
+  ],
+  "analysis": {
+    "summary": "韩国女孩在溪流与木屋旁的夏日惬意生活Vlog场景视频提示词。",
+    "summaryEn": "Prompt for generating a Korean summer countryside vlog video featuring a girl by a stream.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features the girl in a straw hat and white dress eating watermelon by a mountain stream and walking near the wooden house with blowing white curtains."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.",
+    "sourceRange": {
+      "start": 197,
+      "end": 1168
+    },
+    "translations": {
+      "zh": "一位美丽的韩国女孩身穿轻柔的白色夏日连衣裙，头戴天然草编遮阳帽，洋溢着清新优雅的韩系生活美学。她留着微卷的深色短发，妆容极简，神态温和自然。她在美丽的溪流旁享受宁静的夏日时光，坐在水边惬意吃着西瓜，感受清爽氛围。她在舒适的户外空间漫步，轻扶草帽眺望风景。阳光透过树叶洒下温暖的电影感高光与自然眩光。木屋旁的白窗帘在夏风中轻摇。她提着野餐小篮享受静谧乡野。镜头包含特写、中景与流畅全景。写实、温暖、梦幻的韩系夏日Vlog质感，自然色彩与电影级4K画质。",
+      "en": "A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "Korean summer countryside lifestyle vlog video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

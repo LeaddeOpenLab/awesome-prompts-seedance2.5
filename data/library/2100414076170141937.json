@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:26:40.066Z",
+  "model": "seedance2.5",
+  "prompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Post-apocalyptic Hollywood cinematic real-life documentary.\n​Setting: Famous tourist spots in Nagano Prefecture, Japan, completely abandoned and beautifully reclaimed by nature 100 years after humanity's disappearance.\n​Style & Visuals\n​Quality: Premium Hollywood film quality. Breathtaking real-life visuals, photorealistic environmental textures seamlessly blended.\n​Lighting: Dramatic and dynamic. Sun piercing through forest canopy, dense mysterious fog, soft morning rays creating beautiful contrasts.\n​Camera & Framing: Expertly stable, slow, and cinematic gimbal moves (slow pan, dolly push-in, sweeping pull-back).\n​Texture: Heavy optical lens quality with beautiful Bokeh, realistic film grain, visible humidity in the air (fog/mist), highly detailed wet moss and rusted metal.\n​Audio & ASMR\n​BGM: Quiet, emotionally stirring Hollywood-style ambient score.\n​SFX: Natural, immersive environmental sounds. Gentle wind, quiet flowing water, subtle bird calls. NO human voices.\n​Timeline & Action\n​0–5s: Zenkoji Temple entrance. Weathered wooden structure heavily overgrown with moss and ivy. Deep morning fog.\n​5–11s: Matsumoto Castle. High-angle slow pan. The moat is choked with tall reeds. Sunlight reflects emotionally on the still water.\n​11–17s: Shibu Onsen narrow street. Wooden inns covered in thick vines. Hot spring water trickles silently down mossy structures. Steam mixes with mist.\n​17–23s: Abandoned ski gondola in Hakuba. Rusted metal shell swallowed by creeping vines, enveloped in swirling mountain fog.\n​23–30s: Miwa Dam. Sweeping drone pull-back shot. Crystal-clear water naturally overflows the decaying concrete, dominated by lush greenery. Fades out to a vast, silent wide shot.\n​Negative Prompt / Constraints\n​NO humans, NO characters.\n​NO anime style, NO 3D render look, NO cartoon style.\n​NO fast camera moves, NO camera jitter.",
+  "promptTranslations": {
+    "en": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Post-apocalyptic Hollywood cinematic real-life documentary.\n​Setting: Famous tourist spots in Nagano Prefecture, Japan, completely abandoned and beautifully reclaimed by nature 100 years after humanity's disappearance.\n​Style & Visuals\n​Quality: Premium Hollywood film quality. Breathtaking real-life visuals, photorealistic environmental textures seamlessly blended.\n​Lighting: Dramatic and dynamic. Sun piercing through forest canopy, dense mysterious fog, soft morning rays creating beautiful contrasts.\n​Camera & Framing: Expertly stable, slow, and cinematic gimbal moves (slow pan, dolly push-in, sweeping pull-back).\n​Texture: Heavy optical lens quality with beautiful Bokeh, realistic film grain, visible humidity in the air (fog/mist), highly detailed wet moss and rusted metal.\n​Audio & ASMR\n​BGM: Quiet, emotionally stirring Hollywood-style ambient score.\n​SFX: Natural, immersive environmental sounds. Gentle wind, quiet flowing water, subtle bird calls. NO human voices.\n​Timeline & Action\n​0–5s: Zenkoji Temple entrance. Weathered wooden structure heavily overgrown with moss and ivy. Deep morning fog.\n​5–11s: Matsumoto Castle. High-angle slow pan. The moat is choked with tall reeds. Sunlight reflects emotionally on the still water.\n​11–17s: Shibu Onsen narrow street. Wooden inns covered in thick vines. Hot spring water trickles silently down mossy structures. Steam mixes with mist.\n​17–23s: Abandoned ski gondola in Hakuba. Rusted metal shell swallowed by creeping vines, enveloped in swirling mountain fog.\n​23–30s: Miwa Dam. Sweeping drone pull-back shot. Crystal-clear water naturally overflows the decaying concrete, dominated by lush greenery. Fades out to a vast, silent wide shot.\n​Negative Prompt / Constraints\n​NO humans, NO characters.\n​NO anime style, NO 3D render look, NO cartoon style.\n​NO fast camera moves, NO camera jitter."
+  },
+  "summaryTranslations": {
+    "en": "Post-apocalyptic cinematic multi-shot prompt of ruined tourist spots in Nagano Prefecture 100 years after humanity's disappearance."
+  },
+  "translationVersion": 2,
+  "summary": "人类消失百年后长野县废墟景点的后启示录电影风多镜头提示词。",
+  "summaryEn": "Prompt for a post-apocalyptic cinematic video showing overgrown Nagano ruins 100 years after humanity's disappearance.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100414076170141937",
+    "canonicalUrl": "https://x.com/fps_lusu/status/2100414076170141937",
+    "author": {
+      "username": "fps_lusu",
+      "displayName": "Rukiru",
+      "profileUrl": "https://x.com/fps_lusu"
+    },
+    "publishedAt": "2026-09-17T02:38:34.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "ja",
+    "originalText": "【荒廃した世界】\n​善光寺、松本城、渋温泉…。\n静けさに包まれた「もうひとつの信州」を、Seedance 2.5でシネマティックな環境映像として表現しました。\n実写AI特有の「綺麗すぎる嘘っぽさ」を消すため、ハリウッド映画のような「フィルムの質感」と「レンズのボケ味」を徹底的にプロンプトで指示しています。\n​息を呑む廃墟の美しさを、ぜひ音ありで。\n映像のベースとなったプロンプトも公開します。\n​👇Prompt\n​Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Post-apocalyptic Hollywood cinematic real-life documentary.\n​Setting: Famous tourist spots in Nagano Prefecture, Japan, completely abandoned and beautifully reclaimed by nature 100 years after humanity's disappearance.\n​Style & Visuals\n​Quality: Premium Hollywood film quality. Breathtaking real-life visuals, photorealistic environmental textures seamlessly blended.\n​Lighting: Dramatic and dynamic. Sun piercing through forest canopy, dense mysterious fog, soft morning rays creating beautiful contrasts.\n​Camera & Framing: Expertly stable, slow, and cinematic gimbal moves (slow pan, dolly push-in, sweeping pull-back).\n​Texture: Heavy optical lens quality with beautiful Bokeh, realistic film grain, visible humidity in the air (fog/mist), highly detailed wet moss and rusted metal.\n​Audio & ASMR\n​BGM: Quiet, emotionally stirring Hollywood-style ambient score.\n​SFX: Natural, immersive environmental sounds. Gentle wind, quiet flowing water, subtle bird calls. NO human voices.\n​Timeline & Action\n​0–5s: Zenkoji Temple entrance. Weathered wooden structure heavily overgrown with moss and ivy. Deep morning fog.\n​5–11s: Matsumoto Castle. High-angle slow pan. The moat is choked with tall reeds. Sunlight reflects emotionally on the still water.\n​11–17s: Shibu Onsen narrow street. Wooden inns covered in thick vines. Hot spring water trickles silently down mossy structures. Steam mixes with mist.\n​17–23s: Abandoned ski gondola in Hakuba. Rusted metal shell swallowed by creeping vines, enveloped in swirling mountain fog.\n​23–30s: Miwa Dam. Sweeping drone pull-back shot. Crystal-clear water naturally overflows the decaying concrete, dominated by lush greenery. Fades out to a vast, silent wide shot.\n​Negative Prompt / Constraints\n​NO humans, NO characters.\n​NO anime style, NO 3D render look, NO cartoon style.\n​NO fast camera moves, NO camera jitter.\n​#廃墟 #長野県 #AI動画 #Seedance #生成AI #シネマティック",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fps_lusu/status/2100414076170141937",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100414024815181824/img/O6HAP3MlGB4_9dOi.jpg",
+        "analysisUrl": "https://x.com/fps_lusu/status/2100414076170141937"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 248
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/fps_lusu/status/2100414076170141937",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100414024815181824/img/O6HAP3MlGB4_9dOi.jpg",
+  "coverPath": "covers/2100414076170141937.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100414024815181824",
+    "x-post:2100414076170141937"
+  ],
+  "analysis": {
+    "summary": "人类消失百年后长野县废墟景点的后启示录电影风多镜头提示词。",
+    "summaryEn": "Prompt for a post-apocalyptic cinematic video showing overgrown Nagano ruins 100 years after humanity's disappearance.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video sequentially showcases overgrown Zenkoji Temple, Matsumoto Castle, Shibu Onsen, Hakuba gondola, and Miwa Dam matching the timeline descriptions exactly."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Post-apocalyptic Hollywood cinematic real-life documentary.\n​Setting: Famous tourist spots in Nagano Prefecture, Japan, completely abandoned and beautifully reclaimed by nature 100 years after humanity's disappearance.\n​Style & Visuals\n​Quality: Premium Hollywood film quality. Breathtaking real-life visuals, photorealistic environmental textures seamlessly blended.\n​Lighting: Dramatic and dynamic. Sun piercing through forest canopy, dense mysterious fog, soft morning rays creating beautiful contrasts.\n​Camera & Framing: Expertly stable, slow, and cinematic gimbal moves (slow pan, dolly push-in, sweeping pull-back).\n​Texture: Heavy optical lens quality with beautiful Bokeh, realistic film grain, visible humidity in the air (fog/mist), highly detailed wet moss and rusted metal.\n​Audio & ASMR\n​BGM: Quiet, emotionally stirring Hollywood-style ambient score.\n​SFX: Natural, immersive environmental sounds. Gentle wind, quiet flowing water, subtle bird calls. NO human voices.\n​Timeline & Action\n​0–5s: Zenkoji Temple entrance. Weathered wooden structure heavily overgrown with moss and ivy. Deep morning fog.\n​5–11s: Matsumoto Castle. High-angle slow pan. The moat is choked with tall reeds. Sunlight reflects emotionally on the still water.\n​11–17s: Shibu Onsen narrow street. Wooden inns covered in thick vines. Hot spring water trickles silently down mossy structures. Steam mixes with mist.\n​17–23s: Abandoned ski gondola in Hakuba. Rusted metal shell swallowed by creeping vines, enveloped in swirling mountain fog.\n​23–30s: Miwa Dam. Sweeping drone pull-back shot. Crystal-clear water naturally overflows the decaying concrete, dominated by lush greenery. Fades out to a vast, silent wide shot.\n​Negative Prompt / Constraints\n​NO humans, NO characters.\n​NO anime style, NO 3D render look, NO cartoon style.\n​NO fast camera moves, NO camera jitter.",
+    "sourceRange": {
+      "start": 208,
+      "end": 2168
+    },
+    "translations": {
+      "zh": "基础设置：时长30秒短片，16:9宽屏，后启示录好莱坞电影写实纪录片风格。设定为人类消失100年后被自然吞噬的日本长野县著名景点（善光寺、松本城、涩温泉、白马村缆车、美和水坝），展现苔藓覆盖、光影朦胧的废墟美感与电影级质感镜头。",
+      "en": "Basic settings for a 30-second short, 16:9 aspect ratio, post-apocalyptic cinematic documentary depicting abandoned tourist spots in Nagano (Zenkoji Temple, Matsumoto Castle, Shibu Onsen, Hakuba gondola, Miwa Dam) reclaimed by nature over 100 years with moss, cinematic lighting, and slow camera motion."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic post-apocalyptic documentary video sequence",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

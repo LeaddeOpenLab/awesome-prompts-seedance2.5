@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:29:20.939Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 15-second cinematic science-fantasy 3D CGI sequence with ultra-realistic environments, realistic human animation, atmospheric lighting, sophisticated camera movement, and premium theatrical visual quality.\nTitle: THE LAST DOOR ON EARTH\nSetting: An abandoned modern city at dawn. Empty streets, silent skyscrapers, broken traffic lights, drifting dust, and pale sunlight passing through clouds.\nMain character: A solitary explorer wearing a dark gray coat, hiking boots, a canvas backpack, and a small brass key tied around his wrist.\nAction:\n0–4 seconds: He walks through the completely abandoned city and discovers one ordinary wooden door standing alone in the middle of the street.\n4–8 seconds: He approaches and slowly opens it.\n8–11 seconds: Behind the door is a breathtaking alien world with enormous floating mountains, glowing forests, violet skies, and gigantic waterfalls.\n11–15 seconds: He steps through and turns around. Suddenly thousands of identical doors appear across the alien landscape and open simultaneously, each revealing a completely different world. Rapid cinematic pullback.\nStyle: surreal science fantasy, cinematic realism, spectacular world reveal, atmospheric depth, no dialogue.",
+  "promptTranslations": {
+    "en": "Create a 15-second cinematic science-fantasy 3D CGI sequence with ultra-realistic environments, realistic human animation, atmospheric lighting, sophisticated camera movement, and premium theatrical visual quality.\nTitle: THE LAST DOOR ON EARTH\nSetting: An abandoned modern city at dawn. Empty streets, silent skyscrapers, broken traffic lights, drifting dust, and pale sunlight passing through clouds.\nMain character: A solitary explorer wearing a dark gray coat, hiking boots, a canvas backpack, and a small brass key tied around his wrist.\nAction:\n0–4 seconds: He walks through the completely abandoned city and discovers one ordinary wooden door standing alone in the middle of the street.\n4–8 seconds: He approaches and slowly opens it.\n8–11 seconds: Behind the door is a breathtaking alien world with enormous floating mountains, glowing forests, violet skies, and gigantic waterfalls.\n11–15 seconds: He steps through and turns around. Suddenly thousands of identical doors appear across the alien landscape and open simultaneously, each revealing a completely different world. Rapid cinematic pullback.\nStyle: surreal science fantasy, cinematic realism, spectacular world reveal, atmospheric depth, no dialogue."
+  },
+  "summaryTranslations": {
+    "en": "A sequence of a wooden door standing in an abandoned city leading to an alien wonderland of floating mountains and glowing plants."
+  },
+  "translationVersion": 2,
+  "summary": "废弃都市中伫立的木门通往漂浮山脉与发光植物的异星奇境序列。",
+  "summaryEn": "Cinematic sequence of an explorer opening a freestanding door in a ruined city into a surreal alien world.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100383734935740558",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2100383734935740558",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-17T00:38:00.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "en",
+    "originalText": "THE VIDEO LAB\nCreate a 15-second cinematic science-fantasy 3D CGI sequence with ultra-realistic environments, realistic human animation, atmospheric lighting, sophisticated camera movement, and premium theatrical visual quality.\nTitle: THE LAST DOOR ON EARTH\nSetting: An abandoned modern city at dawn. Empty streets, silent skyscrapers, broken traffic lights, drifting dust, and pale sunlight passing through clouds.\nMain character: A solitary explorer wearing a dark gray coat, hiking boots, a canvas backpack, and a small brass key tied around his wrist.\nAction:\n0–4 seconds: He walks through the completely abandoned city and discovers one ordinary wooden door standing alone in the middle of the street.\n4–8 seconds: He approaches and slowly opens it.\n8–11 seconds: Behind the door is a breathtaking alien world with enormous floating mountains, glowing forests, violet skies, and gigantic waterfalls.\n11–15 seconds: He steps through and turns around. Suddenly thousands of identical doors appear across the alien landscape and open simultaneously, each revealing a completely different world. Rapid cinematic pullback.\nStyle: surreal science fantasy, cinematic realism, spectacular world reveal, atmospheric depth, no dialogue.\nSeedance 2.5 @openart_ai",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RobotCleopatra/status/2100383734935740558",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100086724546211840/img/dokIhiqgWdtcmrxn.jpg",
+        "analysisUrl": "https://x.com/RobotCleopatra/status/2100383734935740558"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 661
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2100383734935740558",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100086724546211840/img/dokIhiqgWdtcmrxn.jpg",
+  "coverPath": "covers/2100383734935740558.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100086724546211840",
+    "x-post:2100383734935740558"
+  ],
+  "analysis": {
+    "summary": "废弃都市中伫立的木门通往漂浮山脉与发光植物的异星奇境序列。",
+    "summaryEn": "Cinematic sequence of an explorer opening a freestanding door in a ruined city into a surreal alien world.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video matches prompt timing, explorer attire, abandoned city setting, opening door action, and floating alien landscape."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second cinematic science-fantasy 3D CGI sequence with ultra-realistic environments, realistic human animation, atmospheric lighting, sophisticated camera movement, and premium theatrical visual quality.\nTitle: THE LAST DOOR ON EARTH\nSetting: An abandoned modern city at dawn. Empty streets, silent skyscrapers, broken traffic lights, drifting dust, and pale sunlight passing through clouds.\nMain character: A solitary explorer wearing a dark gray coat, hiking boots, a canvas backpack, and a small brass key tied around his wrist.\nAction:\n0–4 seconds: He walks through the completely abandoned city and discovers one ordinary wooden door standing alone in the middle of the street.\n4–8 seconds: He approaches and slowly opens it.\n8–11 seconds: Behind the door is a breathtaking alien world with enormous floating mountains, glowing forests, violet skies, and gigantic waterfalls.\n11–15 seconds: He steps through and turns around. Suddenly thousands of identical doors appear across the alien landscape and open simultaneously, each revealing a completely different world. Rapid cinematic pullback.\nStyle: surreal science fantasy, cinematic realism, spectacular world reveal, atmospheric depth, no dialogue.",
+    "sourceRange": {
+      "start": 14,
+      "end": 1232
+    },
+    "translations": {
+      "zh": "创建一段15秒电影级科幻奇幻3D CGI序列，包含超写实环境、逼真人物动画、氛围光照、精妙运镜和院线级视觉质感。\n标题：地球上的最后一扇门\n场景：黎明时分废弃的现代都市。空旷的街道、寂静的摩天大楼、损坏的交通灯、漂浮的尘埃以及穿透云层的微弱阳光。\n主角：一位独自行走的探险者，身着深灰色大衣、登山靴，背着帆布背包，手腕上系着一把黄铜小钥匙。\n动作：\n0–4秒：他穿过完全废弃的城市，在街道中央发现一扇伫立的普通木门。\n4–8秒：他走上前并缓缓推开门。\n8–11秒：门后展现出令人惊叹的异星世界，有巨大的漂浮山脉、发光森林、紫色天空和壮丽瀑布。\n11–15秒：他穿门而入并转身。异星地表突然涌现数千扇一模一样的门并同时打开，每扇门内都展现完全不同的世界。镜头快速拉远。\n风格：超现实科幻奇幻、电影级写实、壮观世界展现、氛围感深度、无对白。",
+      "en": "Create a 15-second cinematic science-fantasy 3D CGI sequence with ultra-realistic environments, realistic human animation, atmospheric lighting, sophisticated camera movement, and premium theatrical visual quality.\nTitle: THE LAST DOOR ON EARTH\nSetting: An abandoned modern city at dawn. Empty streets, silent skyscrapers, broken traffic lights, drifting dust, and pale sunlight passing through clouds.\nMain character: A solitary explorer wearing a dark gray coat, hiking boots, a canvas backpack, and a small brass key tied around his wrist.\nAction:\n0–4 seconds: He walks through the completely abandoned city and discovers one ordinary wooden door standing alone in the middle of the street.\n4–8 seconds: He approaches and slowly opens it.\n8–11 seconds: Behind the door is a breathtaking alien world with enormous floating mountains, glowing forests, violet skies, and gigantic waterfalls.\n11–15 seconds: He steps through and turns around. Suddenly thousands of identical doors appear across the alien landscape and open simultaneously, each revealing a completely different world. Rapid cinematic pullback.\nStyle: surreal science fantasy, cinematic realism, spectacular world reveal, atmospheric depth, no dialogue."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic sci-fi video sequence generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
