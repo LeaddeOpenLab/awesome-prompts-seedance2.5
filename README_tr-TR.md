@@ -313,20 +313,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2100417339716141116"></a>
 
-### Çeviri sürüyor
+### Fırtınada parıldayan fütüristik bir savaşçı ile ateş püskürten kara bir ejderha arasındaki 15 saniyelik sinematik fantastik savaş.
 
 Yazar：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Orijinal gönderi](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Sinematik / Film Karesi · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fırtınada parıldayan fütüristik bir savaşçı ile ateş püskürten kara bir ejderha arasındaki 15 saniyelik sinematik fantastik savaş.
 
 <img src="covers/2100417339716141116.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referansla eşleşen 15 saniyelik sinematik bir fantastik savaş videosu oluşturun: 0–1 sn, fütüristik zırhlı bir savaşçı karanlık fırtınalı bir gökyüzünde süzülürken arkasında devasa bir kara ejderha uçar; 1–2 sn, kamera yavaşça yaklaşırken savaşçıyı parıldayan mavi bir enerji sarar; 2–3 sn, ejderha bulutların arasından hızla yaklaşır ve savaşçı ona doğru döner; 3–5 sn, ejderha ağzını açar ve güçlü bir parlak turuncu ateş akışı püskürtürken savaşçı fırtınanın içinde geriye doğru uçar; 5–7 sn, ejderha savaşçıyı kovalarken ejderhanın yüzünün ve parlayan gözlerinin dramatik bir yakın çekimini gösterin; 7–9 sn, arkalarında şimşekler çakarken ve zırhından mavi enerji parlarken savaşçı havada ejderhayla yüzleşir; 9–11 sn, ejderha yoğun ateşle tekrar saldırırken savaşçı bulutların arasından yüksek hızla kaçar; 11–13 sn, fırtınayı aydınlatan ateş ve mavi enerji eşliğinde, her iki karakterin de destansı bir hava çatışmasında birbirine doğru uçtuğunu gösterin; 13–15 sn, ejderha takip ederken savaşçı aniden bulutların içine doğru uzaklaşır, karanlık gökyüzünün dramatik bir geniş açılı çekimiyle sona erer, gerçekçi sinematik CGI, detaylı zırh, devasa ejderha kanatları, hacimsel bulutlar, dinamik kamera hareketi, dramatik aydınlatma, yüksek detay, 4K kalite.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2744,20 +2744,20 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100383168356573667"></a>
 
-### Çeviri sürüyor
+### Akıllı telefon ekranının yakın çekiminde duvar kâğıdındaki kız canlanıp nazlı bir şekilde sesleniyor, yüzünü kapatan uygulama simgelerini tek tek kaydırıp kenara atıyor ve sonunda neşeyle zafer işareti yapıyor.
 
 Yazar：[@PhotoX86](https://x.com/PhotoX86) · [Orijinal gönderi](https://x.com/PhotoX86/status/2100383168356573667)
 
 Uygulama / Web Tasarımı · Karakter · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Akıllı telefon ekranının yakın çekiminde duvar kâğıdındaki kız canlanıp nazlı bir şekilde sesleniyor, yüzünü kapatan uygulama simgelerini tek tek kaydırıp kenara atıyor ve sonunda neşeyle zafer işareti yapıyor.
 
 <img src="covers/2100383168356573667.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+integrated_multimodal_description: [Shot 1] Yalnızca bir akıllı telefon ekranının canlı çekim ultra fotogerçekçi yakın planı, dikey 9:16 çerçeveleme, yaklaşık 15,00 saniye, hafif çevresel yansımalara sahip gerçek telefon çerçevesi ve camı, yüksek netlikte ekran. Tüm videoda kesinlikle tek bir kişi vardır: telefon ekranının içindeki duvar kâğıdı kadını. Ekranın dışında kesinlikle hiçbir insan, hiçbir yüz, hiçbir el, hiçbir parmak, hiçbir kol, hiçbir vücut parçası ve hiçbir silüet bulunmamalıdır; çerçeve yalnızca telefonu ve ekran içeriğini barındırır. Duvar kâğıdı, genç ve güzel bir Asyalı kadının yarım boy fotoğrafıdır; narin hatlar, zarif makyaj, canlı ifade, modaya uygun giysiler; ancak ana ekran, kadının yüzünü, gözlerini ve önemli vücut bölgelerini kapatan çok sayıda uygulama simgesiyle yoğun biçimde kaplıdır. Ekranda okunabilir metin, altyazı, su damgası, logo yoktur; uygulama simgeleri etiketsiz, saf grafik sembolleridir. 00:00.000 ile 00:02.000 arasında statik kare: onu tamamen örten yoğun simgeler. 00:02.000 ile 00:12.000 arasında, duvar kâğıdındaki kadın ekranın içinde aniden canlanır, hafifçe kaşlarını çatarak kızgın ama işveli bir bakış sergiler ve berrak orta-yüksek bir sese (S1) sahip neşeli genç kadın, dudak hareketleri net şekilde görünerek doğrudan kameraya doğru bağırır: [Chinese] 挡住我了！ Hâlâ sadece duvar kâğıdının içindeyken, yalnızca işaret parmağını hassas bir hedeflemeyle kullanır: parmak ucu önce doğrudan bir simgenin tam konumuna basmalı, ardından o simgeyi hızla kaydırarak fırlatmalıdır; simgeler yalnızca tam olarak basıldığında hareket eder; boşlukta rastgele el sallamak hiçbir işe yaramaz. Simgeleri bu şekilde tek tek temizler; çok hızlı hareket etse bile bu, birbirini izleyen simgelere yapılan seri, isabetli basma ve kaydırma vuruşları dizisidir, asla amaçsız savrulmalar değildir. Bazı simgeler tek bir keskin bas-kaydır hareketiyle ayrılır; birkaç tanesi ise ikinci bir hassas bas-kaydır gerektirir. Simgeleri temizlerken cilveli bir şekilde dudak büker ve ara sıra gözlerini devirir; yüzü ve vücudu parça parça açığa çıktıkça simgeler kademeli olarak azalır. Son simgenin ekrandan çıktığı anda, işaret parmağının tüm basma ve kaydırma hareketleri derhal durur; ekrandaki eli durulur ve artık savurma hareketine devam etmez. 00:12.000 ile 00:15.000 arasında, ekran yalnızca onun fotoğrafıyla tertemizdir; kaydırma yapan el tamamen hareketsizleşmişken, gözleri hilal gibi kavislenen parlak, mutlu bir gülümsemeye bürünür, izleyiciye doğru bir zafer V işareti yapar ve 15,00 saniye boyunca bu donmuş pozu korur. Ultra gerçekçi, akıcı doğal hareket, gerçek ekran aydınlatması ve yumuşak yansımalar. overall_soundscape: Telefon camının yumuşak oda tonu, her isabetli bas-kaydır için kısa kullanıcı arayüzü dokunma ve ardından kayma sesi, kadının bağırdığı tek replik ve hafif nazlı nefesler. Son simge temizlendikten sonra parmak hareketi sesleri kesilir. non_diegetic_music: Orta tempoda hafif, oyuncu elektronik tınılar; son simgeler temizlendiğinde parıldar, ardından V işareti donması altında yumuşakça devam eder.，3:4，15s
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -327,20 +327,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2100417339716141116"></a>
 
-### Traduzione in corso
+### Battaglia fantasy cinematografica di 15 secondi tra un guerriero futuristico luminoso e un drago nero sputafuoco in una tempesta.
 
 Autore：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Post originale](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Fermo immagine cinematografico / Still fotografico · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Battaglia fantasy cinematografica di 15 secondi tra un guerriero futuristico luminoso e un drago nero sputafuoco in una tempesta.
 
 <img src="covers/2100417339716141116.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico di 15 secondi di una battaglia fantasy corrispondente al riferimento: 0–1s, un guerriero in armatura futuristica fluttua in un cielo buio e tempestoso mentre un enorme drago nero vola dietro di lui; 1–2s, un'energia blu splendente circonda il guerriero mentre la telecamera si avvicina lentamente; 2–3s, il drago si avvicina rapidamente attraverso le nuvole e il guerriero si volta verso di lui; 3–5s, il drago spalanca la bocca ed emette un potente flusso di fuoco arancione brillante mentre il guerriero vola all'indietro attraverso la tempesta; 5–7s, mostra un drammatico primo piano del volto del drago e dei suoi occhi luminosi mentre insegue il guerriero; 7–9s, il guerriero affronta il drago a mezz'aria con fulmini che squarciano il cielo dietro di loro ed energia blu che brilla dalla sua armatura; 9–11s, il drago attacca di nuovo con fuoco intenso mentre il guerriero schiva ad alta velocità attraverso le nuvole; 11–13s, mostra entrambi i personaggi che volano l'uno verso l'altro in un epico scontro aereo, con fuoco ed energia blu che illuminano la tempesta; 13–15s, il guerriero si allontana improvvisamente tra le nuvole mentre il drago lo segue, concludendo con una drammatica inquadratura ampia del cielo scuro, CGI cinematografica realistica, armatura dettagliata, enormi ali di drago, nuvole volumetriche, movimento dinamico della telecamera, illuminazione drammatica, dettagli elevati, qualità 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2750,20 +2750,20 @@ Traduzione in corso
 
 <a name="prompt-2100383168356573667"></a>
 
-### Traduzione in corso
+### Nel primo piano dello schermo di un telefono, la ragazza dello sfondo si sveglia, protesta con civetteria, scosta a una a una le icone delle app che le coprono il viso e fa felicemente il segno della vittoria con le dita.
 
 Autore：[@PhotoX86](https://x.com/PhotoX86) · [Post originale](https://x.com/PhotoX86/status/2100383168356573667)
 
 App / Web Design · Personaggio · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Nel primo piano dello schermo di un telefono, la ragazza dello sfondo si sveglia, protesta con civetteria, scosta a una a una le icone delle app che le coprono il viso e fa felicemente il segno della vittoria con le dita.
 
 <img src="covers/2100383168356573667.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+integrated_multimodal_description: [Inquadratura 1] Primo piano ultra-fotorealistico live-action esclusivamente dello schermo di uno smartphone, inquadratura verticale 9:16, circa 15,00 secondi, vera cornice e vetro del telefono con lievi riflessi ambientali, display ad altissima nitidezza. Esiste rigorosamente una sola persona nell'intero video: la donna dello sfondo all'interno dello schermo del telefono. All'esterno dello schermo non deve esserci assolutamente alcun essere umano, nessun volto, nessuna mano, nessun dito, nessun braccio, nessuna parte del corpo e nessuna silhouette: l'inquadratura contiene solo il telefono e il contenuto del suo display. Lo sfondo è una foto a mezzo busto di una giovane e bellissima donna asiatica: lineamenti delicati, trucco raffinato, espressione vivace, abiti alla moda, ma la schermata iniziale è densamente coperta da molte icone di app che le coprono il viso, gli occhi e le parti chiave del corpo. Nessun testo leggibile, nessuna didascalia, nessun sottotitolo, nessun watermark, nessun logo sullo schermo: le icone delle app sono puri simboli grafici senza etichette. Da 00:00.000 a 00:02.000, fotogramma statico: fitte icone la coprono completamente. Da 00:02.000 a 00:12.000, la donna dello sfondo prende improvvisamente vita all'interno dello schermo, aggrotta leggermente le sopracciglia con uno sguardo tra il contrariato e il civettuolo, e la vivace giovane donna con una voce chiara medio-alta (S1) grida frontalmente a labbra visibili: [Cinese] 挡住我了！ Rimanendo unicamente all'interno dello sfondo, usa solo il suo dito indice con una precisione mirata: il polpastrello deve prima premere direttamente sull'esatta posizione di un'icona, quindi scorrere via rapidamente quell'icona; le icone si muovono solo quando vengono premute con precisione: sventolare a caso nello spazio vuoto non produce alcun effetto. Le rimuove a una a una in questo modo; se si muove molto velocemente, si tratta comunque di una rapida sequenza di precisi tocchi di pressione e scorrimento su icone successive, mai di movimenti scomposti e senza meta. Alcune icone volano via con un solo netto movimento di pressione e scorrimento; alcune richiedono un secondo tocco preciso. Mentre le toglie di mezzo fa un broncio civettuolo e occasionalmente alza gli occhi al cielo; le icone diminuiscono gradualmente rivelando poco a poco il suo viso e il suo corpo. Nel momento in cui l'ultima icona esce dallo schermo, tutti i movimenti di pressione e scorrimento con il dito indice si interrompono immediatamente: la sua mano sullo schermo si posa e non continua a muoversi. Da 00:12.000 a 00:15.000, lo schermo è pulito con solo la sua foto; con la mano che scorreva ormai ferma, sfoggia un sorriso radioso e felice, gli occhi curvati a mezzaluna, fa il segno di vittoria con la V verso lo spettatore e mantiene il fermo immagine fino a 15,00 secondi. Ultra-reale, movimento fluido e naturale, vera illuminazione dello schermo e riflessi morbidi. overall_soundscape: Suono ambientale sommesso del vetro del telefono, breve tocco UI seguito da un fruscio per ogni pressione e scorrimento precisi, la sua unica frase gridata e lievi respiri civettuoli. Dopo che l'ultima icona è scomparsa, i suoni del movimento delle dita si fermano. non_diegetic_music: Leggeri e giocosi pizzicati elettronici a tempo moderato, che si fanno più luminosi quando le ultime icone spariscono, per poi proseguire dolcemente sotto il fermo immagine del segno della V.，3:4，15s
 ```
 
 [↑ Torna alle categorie](#catalog)

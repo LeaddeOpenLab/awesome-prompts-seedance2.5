@@ -329,20 +329,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2100417339716141116"></a>
 
-### Đang dịch
+### Trận chiến kỳ ảo điện ảnh 15 giây giữa chiến binh tương lai phát sáng và rồng đen phun lửa trong cơn bão.
 
 Tác giả：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Bài gốc](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Điện ảnh / Ảnh tĩnh từ phim · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Trận chiến kỳ ảo điện ảnh 15 giây giữa chiến binh tương lai phát sáng và rồng đen phun lửa trong cơn bão.
 
 <img src="covers/2100417339716141116.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video trận chiến kỳ ảo điện ảnh dài 15 giây khớp với tài liệu tham khảo: 0–1 giây, một chiến binh mặc giáp tương lai lơ lửng trên bầu trời giông bão tối tăm trong khi một con rồng đen khổng lồ bay phía sau anh; 1–2 giây, năng lượng màu xanh lam phát sáng bao quanh chiến binh khi máy quay từ từ tiến lại gần; 2–3 giây, con rồng nhanh chóng tiếp cận qua những đám mây và chiến binh quay người về phía nó; 3–5 giây, con rồng há miệng phun ra một luồng lửa màu cam sáng cực mạnh trong khi chiến binh bay lùi lại qua cơn bão; 5–7 giây, cận cảnh kịch tính gương mặt và đôi mắt phát sáng của con rồng khi nó đuổi theo chiến binh; 7–9 giây, chiến binh đối mặt với con rồng giữa không trung với những tia sét lóe lên phía sau và năng lượng màu xanh lam phát sáng từ bộ giáp của anh; 9–11 giây, con rồng lại tấn công bằng ngọn lửa dữ dội trong khi chiến binh né tránh qua các tầng mây ở tốc độ cao; 11–13 giây, hình ảnh cả hai nhân vật bay về phía nhau trong cuộc đối đầu trên không hoành tráng, với lửa và năng lượng màu xanh lam thắp sáng cơn bão; 13–15 giây, chiến binh đột ngột lao vào những đám mây khi con rồng đuổi theo, kết thúc bằng một cảnh quay toàn cảnh kịch tính về bầu trời tối tăm, CGI điện ảnh chân thực, bộ giáp chi tiết, đôi cánh rồng khổng lồ, mây thể tích, chuyển động máy quay năng động, ánh sáng kịch tính, độ chi tiết cao, chất lượng 4K.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2839,20 +2839,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100383168356573667"></a>
 
-### Đang dịch
+### Trong cảnh cận cảnh màn hình điện thoại, cô gái hình nền thức dậy, nũng nịu cất tiếng phàn nàn, lần lượt gạt các biểu tượng ứng dụng che khuôn mặt đi rồi vui vẻ làm dấu chữ V.
 
 Tác giả：[@PhotoX86](https://x.com/PhotoX86) · [Bài gốc](https://x.com/PhotoX86/status/2100383168356573667)
 
 Thiết kế ứng dụng / web · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Trong cảnh cận cảnh màn hình điện thoại, cô gái hình nền thức dậy, nũng nịu cất tiếng phàn nàn, lần lượt gạt các biểu tượng ứng dụng che khuôn mặt đi rồi vui vẻ làm dấu chữ V.
 
 <img src="covers/2100383168356573667.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+integrated_multimodal_description: [Cảnh 1] Cận cảnh siêu thực tế dạng live-action chỉ hiển thị màn hình điện thoại thông minh, khung hình dọc 9:16, thời lượng khoảng 15,00 giây, viền và mặt kính điện thoại thật với phản chiếu môi trường nhẹ, màn hình độ nét cao. Nghiêm ngặt chỉ có một người duy nhất tồn tại trong toàn bộ video: cô gái hình nền bên trong màn hình điện thoại. Bên ngoài màn hình tuyệt đối không có người, không có mặt, không có bàn tay, không có ngón tay, không có cánh tay, không có bộ phận cơ thể và không có bóng hình—khung hình chỉ chứa chiếc điện thoại và nội dung hiển thị của nó. Hình nền là ảnh bán thân của một người phụ nữ châu Á trẻ đẹp—đường nét thanh tú, trang điểm tinh tế, biểu cảm sống động, quần áo thời trang—nhưng màn hình chính bị bao phủ dày đặc bởi nhiều biểu tượng ứng dụng che khuất khuôn mặt, đôi mắt và các vùng cơ thể quan trọng của cô ấy. Không có văn bản có thể đọc được, không có phụ đề, không có thuyết minh, không có hình mờ, không có logo trên màn hình—các biểu tượng ứng dụng là biểu tượng đồ họa thuần túy không có nhãn. Từ 00:00.000 đến 00:02.000, khung hình tĩnh: các biểu tượng dày đặc che phủ hoàn toàn cô ấy. Từ 00:02.000 đến 00:12.000, cô gái hình nền đột nhiên sống dậy bên trong màn hình, hơi nhíu mày với vẻ giận dỗi nũng nịu, và cô gái trẻ hoạt bát với giọng nói trung cao rõ ràng (S1) hét thẳng vào mặt với đôi môi nhìn thấy rõ: [Chinese] 挡住我了！ Vẫn chỉ ở bên trong hình nền, cô ấy chỉ dùng ngón tay trỏ của mình với mục tiêu chính xác: đầu ngón tay trước tiên phải nhấn trực tiếp vào vị trí chính xác của biểu tượng, sau đó nhanh chóng vuốt biểu tượng đó đi; các biểu tượng chỉ di chuyển khi được nhấn chính xác—vẫy ngẫu nhiên trong khoảng không sẽ không có tác dụng. Cô ấy dọn sạch chúng từng cái một theo cách này; nếu cô ấy di chuyển rất nhanh, đó vẫn là một chuỗi nhanh các lần nhấn và vuốt chính xác vào các biểu tượng liên tiếp, không bao giờ là sự quơ tay lung tung không mục đích. Một số biểu tượng rời đi sau một cú nhấn-vuốt dứt khoát; một số ít cần một cú nhấn-vuốt chính xác lần thứ hai. Trong khi dọn dẹp chúng, cô ấy bĩu môi hờn dỗi và thỉnh thoảng đảo mắt; các biểu tượng giảm dần khi khuôn mặt và cơ thể cô ấy dần dần lộ ra từng chút một. Khoảnh khắc biểu tượng cuối cùng rời khỏi màn hình, mọi chuyển động nhấn và vuốt bằng ngón tay trỏ dừng lại ngay lập tức—bàn tay trên màn hình của cô ấy ổn định và không còn tiếp tục phẩy nữa. Từ 00:12.000 đến 00:15.000, màn hình sạch sẽ chỉ có bức ảnh của cô ấy; khi bàn tay vuốt đã đứng yên, cô ấy nở một nụ cười rạng rỡ hạnh phúc, mắt cong như vầng trăng khuyết, làm dấu chữ V chiến thắng về phía người xem, và giữ nguyên tư thế đóng băng cho đến hết 15,00 giây. Chân thực tuyệt đối, chuyển động tự nhiên mượt mà, ánh sáng màn hình chân thực và phản chiếu mềm mại. overall_soundscape: Âm nền phòng trên mặt kính điện thoại êm dịu, tiếng gõ UI ngắn kèm tiếng vụt cho mỗi lần nhấn-vuốt chính xác, một câu hét duy nhất của cô ấy và hơi thở nũng nịu nhẹ nhàng. Sau khi biểu tượng cuối cùng được xóa sạch, âm thanh chuyển động của ngón tay dừng lại. non_diegetic_music: Những tiếng gảy điện tử vui tươi, nhẹ nhàng ở nhịp độ vừa phải, tươi sáng hơn khi các biểu tượng cuối cùng biến mất, sau đó duy trì nhẹ nhàng dưới cảnh đóng băng dấu chữ V.，3:4，15s
 ```
 
 [↑ Về danh mục](#catalog)

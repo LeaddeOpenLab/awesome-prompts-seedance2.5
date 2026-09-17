@@ -327,20 +327,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2100417339716141116"></a>
 
-### Übersetzung läuft
+### 15-sekündige filmische Fantasy-Schlacht zwischen einem leuchtenden futuristischen Krieger und einem feuerspeienden schwarzen Drachen im Sturm.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Originalbeitrag](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Kinematisch / Filmstill · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündige filmische Fantasy-Schlacht zwischen einem leuchtenden futuristischen Krieger und einem feuerspeienden schwarzen Drachen im Sturm.
 
 <img src="covers/2100417339716141116.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 15-sekündiges filmisches Fantasy-Schlachtvideo passend zur Referenz: 0–1s, ein futuristischer, gepanzerter Krieger schwebt in einem dunklen, stürmischen Himmel, während ein riesiger schwarzer Drache hinter ihm fliegt; 1–2s, leuchtende blaue Energie umgibt den Krieger, während sich die Kamera langsam nähert; 2–3s, der Drache nähert sich rasant durch die Wolken und der Krieger wendet sich ihm zu; 3–5s, der Drache öffnet sein Maul und speit einen gewaltigen Strahl hellen orangefarbenen Feuers, während der Krieger rückwärts durch den Sturm fliegt; 5–7s, zeige eine dramatische Nahaufnahme des Drachengesichts und seiner leuchtenden Augen, während er den Krieger verfolgt; 7–9s, der Krieger steht dem Drachen in der Luft gegenüber, während Blitze hinter ihnen zucken und blaue Energie aus seiner Rüstung leuchtet; 9–11s, der Drache greift erneut mit heftigem Feuer an, während der Krieger mit hoher Geschwindigkeit durch die Wolken ausweicht; 11–13s, zeige beide Charaktere, wie sie in einer epischen Luftkonfrontation aufeinander zufliegen, während Feuer und blaue Energie den Sturm erleuchten; 13–15s, der Krieger weicht plötzlich in die Wolken aus, während der Drache folgt, endend mit einer dramatischen Weitwinkelaufnahme des dunklen Himmels, realistisches filmisches CGI, detaillierte Rüstung, gewaltige Drachenflügel, volumetrische Wolken, dynamische Kamerabewegung, dramatische Beleuchtung, hoher Detailgrad, 4K-Qualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2750,20 +2750,20 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2100383168356573667"></a>
 
-### Übersetzung läuft
+### In der Nahaufnahme eines Handydisplays erwacht das Mädchen auf dem Bildschirmhintergrund, schimpft kokett, wischt nacheinander die App-Symbole aus ihrem Gesicht und zeigt am Ende glücklich ein Victory-Zeichen.
 
 Autor：[@PhotoX86](https://x.com/PhotoX86) · [Originalbeitrag](https://x.com/PhotoX86/status/2100383168356573667)
 
 App- / Webdesign · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** In der Nahaufnahme eines Handydisplays erwacht das Mädchen auf dem Bildschirmhintergrund, schimpft kokett, wischt nacheinander die App-Symbole aus ihrem Gesicht und zeigt am Ende glücklich ein Victory-Zeichen.
 
 <img src="covers/2100383168356573667.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+integrated_multimodal_description: [Einstellung 1] Ultra-fotorealistische Live-Action-Nahaufnahme ausschließlich eines Smartphone-Bildschirms, vertikales 9:16-Format, ca. 15,00 Sekunden, echter Telefonrahmen und Glas mit leichten Umgebungsreflexionen, hochklares Display. Im gesamten Video existiert strikt nur eine einzige Person: die Wallpaper-Frau im Inneren des Telefonbildschirms. Außerhalb des Bildschirms darf es absolut keinen Menschen, kein Gesicht, keine Hand, keinen Finger, keinen Arm, keinen Körperteil und keine Silhouette geben – das Bild enthält nur das Telefon und dessen Displayinhalt. Das Hintergrundbild ist ein Halbkörperfoto einer jungen, wunderschönen asiatischen Frau – zarte Züge, feines Make-up, lebhafter Ausdruck, modische Kleidung –, doch der Startbildschirm ist dicht mit vielen App-Symbolen bedeckt, die ihr Gesicht, ihre Augen und wichtige Körperbereiche verdecken. Kein lesbarer Text, keine Bildunterschriften, keine Untertitel, keine Wasserzeichen, keine Logos auf dem Bildschirm – App-Symbole sind reine grafische Symbole ohne Beschriftung. Von 00:00.000 bis 00:02.000, statisches Bild: dichte Symbole bedecken sie vollständig. Von 00:02.000 bis 00:12.000 wird die Wallpaper-Frau plötzlich im Bildschirm lebendig, runzelt leicht die Stirn mit einem wütenden, aber koketten Blick, und die lebhafte junge Frau mit einer klaren mittelhohen Stimme (S1) ruft frontal mit sichtbaren Lippenbewegungen: [Chinesisch] 挡住我了！ Immer noch ausschließlich innerhalb des Hintergrundbilds verwendet sie nur ihren Zeigefinger mit präziser Zielgenauigkeit: Die Fingerspitze muss zuerst direkt auf die exakte Position eines Symbols drücken und dieses Symbol dann schnell wegwischen; Symbole bewegen sich nur, wenn sie präzise gedrückt werden – wahlloses Winken im leeren Raum bewirkt nichts. Sie räumt sie auf diese Weise nacheinander ab; selbst wenn sie sich sehr schnell bewegt, ist es immer noch eine rasche Abfolge präziser Drück- und Wischtreffer auf aufeinanderfolgende Symbole, niemals zielloses Fuchteln. Manche Symbole verschwinden mit einem einzigen scharfen Drück-Wischvorgang; einige wenige benötigen ein zweites präzises Drücken und Wischen. Während sie sie wegräumt, schmollt sie kokett und rollt gelegentlich mit den Augen; die Symbole nehmen allmählich ab, während ihr Gesicht und ihr Körper Stück für Stück zum Vorschein kommen. In dem Moment, in dem das letzte Symbol den Bildschirm verlässt, stoppen alle Zeigefinger-Drück- und Wischbewegungen sofort – ihre Hand auf dem Bildschirm kommt zur Ruhe und wischt nicht mehr weiter. Von 00:12.000 bis 00:15.000 ist der Bildschirm sauber und zeigt nur ihr Foto; während die Wischhand bereits stillsteht, bricht sie in ein strahlendes, glückliches Lächeln aus, die Augen sichelförmig geschwungen, formt ein V-förmiges Siegeszeichen in Richtung des Betrachters und hält das Standbild bis 15,00 Sekunden lang. Ultra-real, sanfte natürliche Bewegung, echte Bildschirmbeleuchtung und weiche Reflexionen. overall_soundscape: Sanfter Raumton des Telefonglases, kurzer Benutzeroberflächen-Tippton mit anschließendem Zischen bei jedem präzisen Drücken und Wischen, ihr einziger gerufener Satz und leichte, kokette Atemzüge. Nachdem das letzte Symbol entfernt wurde, verstummen die Geräusche der Fingerbewegung. non_diegetic_music: Leichte, verspielte elektronische Zupfklänge in moderatem Tempo, die heller werden, wenn die letzten Symbole verschwinden, und dann sanft unter dem Standbild des V-Zeichens gehalten werden.，3:4，15s
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

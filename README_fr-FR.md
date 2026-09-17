@@ -327,20 +327,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2100417339716141116"></a>
 
-### Traduction en cours
+### Bataille fantastique cinématographique de 15 secondes entre un guerrier futuriste rayonnant et un dragon noir cracheur de feu dans une tempête.
 
 Auteur：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publication originale](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Image cinématographique / Photogramme de film · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Bataille fantastique cinématographique de 15 secondes entre un guerrier futuriste rayonnant et un dragon noir cracheur de feu dans une tempête.
 
 <img src="covers/2100417339716141116.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo cinématographique de 15 secondes représentant une bataille fantastique correspondant à la référence : 0–1s, un guerrier en armure futuriste flotte dans un ciel sombre et orageux tandis qu'un énorme dragon noir vole derrière lui ; 1–2s, une énergie bleue éclatante entoure le guerrier tandis que la caméra s'approche lentement ; 2–3s, le dragon s'approche rapidement à travers les nuages et le guerrier se tourne vers lui ; 3–5s, le dragon ouvre la gueule et crache un puissant jet de feu orange vif pendant que le guerrier vole à reculons à travers la tempête ; 5–7s, montrez un gros plan dramatique sur le visage du dragon et ses yeux brillants alors qu'il poursuit le guerrier ; 7–9s, le guerrier fait face au dragon dans les airs avec des éclairs qui zèbrent le ciel derrière eux et de l'énergie bleue brillant depuis son armure ; 9–11s, le dragon attaque à nouveau avec un feu intense tandis que le guerrier esquive à grande vitesse à travers les nuages ; 11–13s, montrez les deux personnages volant l'un vers l'autre dans une confrontation aérienne épique, avec du feu et de l'énergie bleue illuminant la tempête ; 13–15s, le guerrier s'éloigne soudainement dans les nuages tandis que le dragon le suit, se terminant sur un plan large dramatique du ciel sombre, CGI cinématographique réaliste, armure détaillée, ailes de dragon massives, nuages volumétriques, mouvement de caméra dynamique, éclairage dramatique, niveau de détail élevé, qualité 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2750,20 +2750,20 @@ Traduction en cours
 
 <a name="prompt-2100383168356573667"></a>
 
-### Traduction en cours
+### En gros plan sur un écran de smartphone, la fille du fond d'écran s'anime, lance une réclamation mutine, balaye une à une les icônes d'applications masquant son visage et fait joyeusement le signe V de la victoire.
 
 Auteur：[@PhotoX86](https://x.com/PhotoX86) · [Publication originale](https://x.com/PhotoX86/status/2100383168356573667)
 
 Conception d'applications / de sites web · Personnage · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** En gros plan sur un écran de smartphone, la fille du fond d'écran s'anime, lance une réclamation mutine, balaye une à une les icônes d'applications masquant son visage et fait joyeusement le signe V de la victoire.
 
 <img src="covers/2100383168356573667.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+integrated_multimodal_description: [Plan 1] Gros plan ultra-photoréaliste en prise de vues réelles uniquement sur l'écran d'un smartphone, cadrage vertical 9:16, environ 15,00 secondes, bordure et vitre réelles du téléphone avec de légers reflets de l'environnement, affichage d'une grande clarté. Strictement une seule personne existe dans toute la vidéo : la femme du fond d'écran à l'intérieur de l'écran du téléphone. À l'extérieur de l'écran, il ne doit y avoir absolument aucun humain, aucun visage, aucune main, aucun doigt, aucun bras, aucune partie du corps et aucune silhouette : le cadre ne contient que le téléphone et le contenu de son écran. Le fond d'écran est une photo en buste d'une jeune et belle femme asiatique – traits délicats, maquillage raffiné, expression vive, vêtements à la mode –, mais l'écran d'accueil est densément couvert de nombreuses icônes d'applications qui bloquent son visage, ses yeux et les zones clés de son corps. Aucun texte lisible, aucune légende, aucun sous-titre, aucun filigrane, aucun logo à l'écran – les icônes d'applications sont de purs symboles graphiques sans libellé. De 00:00.000 à 00:02.000, plan statique : des icônes denses la recouvrent entièrement. De 00:02.000 à 00:12.000, la femme du fond d'écran prend soudain vie à l'intérieur de l'écran, fronce légèrement les sourcils avec un regard à la fois irrité et charmeur, et la jeune femme vive à la voix claire moyennement aiguë (S1) crie de face avec les lèvres visibles : [Chinois] 挡住我了！ Toujours uniquement à l'intérieur du fond d'écran, elle utilise seulement son index avec un ciblage précis : le bout du doigt doit d'abord appuyer directement sur l'emplacement exact d'une icône, puis balayer rapidement cette icône ; les icônes ne bougent que lorsqu'elles sont pressées avec précision – des gestes au hasard dans le vide n'ont aucun effet. Elle les élimine une par une de cette manière ; si elle va très vite, il s'agit toujours d'une succession rapide de pressions et de balayages précis sur les icônes successives, jamais de mouvements désordonnés dans le vide. Certaines icônes disparaissent d'une seule pression-balayage nette ; quelques-unes nécessitent une seconde pression-balayage précise. Tout en les faisant disparaître, elle boude d'un air mutin et lève parfois les yeux au ciel ; les icônes diminuent peu à peu à mesure que son visage et son corps se découvrent progressivement. Dès que la dernière icône quitte l'écran, tous les mouvements de pression et de balayage de l'index s'arrêtent immédiatement : sa main sur l'écran se stabilise et cesse de donner des coups. De 00:12.000 à 00:15.000, l'écran est net avec seulement sa photo ; la main qui balayait étant déjà immobile, elle affiche un sourire radieux et heureux, les yeux plissés en croissant de lune, fait un signe V de la victoire en direction du spectateur et maintient la pose figée jusqu'à 15,00 secondes. Ultra-réaliste, mouvement fluide et naturel, éclairage réel de l'écran et reflets doux. overall_soundscape: Bruit ambiant feutré de la vitre du téléphone, bref tapotement d'interface utilisateur suivi d'un bruissement pour chaque pression-balayage précise, sa seule réplique criée et de légers soupirs charmeurs. Après la disparition de la dernière icône, les bruits de mouvement des doigts s'arrêtent. non_diegetic_music: De légers pincements électroniques ludiques à un tempo modéré, devenant plus clairs et lumineux lorsque les dernières icônes s'effacent, puis se maintenant doucement sous l'arrêt sur image du signe V.，3:4，15s
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -327,20 +327,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2100417339716141116"></a>
 
-### Traducción en curso
+### Batalla de fantasía cinemática de 15 segundos entre un guerrero futurista resplandeciente y un dragón negro que escupe fuego en una tormenta.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicación original](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Cine / Fotograma · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Batalla de fantasía cinemática de 15 segundos entre un guerrero futurista resplandeciente y un dragón negro que escupe fuego en una tormenta.
 
 <img src="covers/2100417339716141116.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinemático de batalla de fantasía de 15 segundos que coincida con la referencia: 0–1s, un guerrero con armadura futurista flota en un cielo oscuro y tormentoso mientras un enorme dragón negro vuela detrás de él; 1–2s, una brillante energía azul rodea al guerrero mientras la cámara se acerca lentamente; 2–3s, el dragón se acerca rápidamente a través de las nubes y el guerrero se gira hacia él; 3–5s, el dragón abre la boca y exhala una poderosa ráfaga de fuego naranja brillante mientras el guerrero vuela hacia atrás a través de la tormenta; 5–7s, muestra un primer plano dramático del rostro del dragón y sus ojos brillantes mientras persigue al guerrero; 7–9s, el guerrero se enfrenta al dragón en el aire con relámpagos destellando detrás de ellos y energía azul brillando en su armadura; 9–11s, el dragón ataca de nuevo con fuego intenso mientras el guerrero esquiva a través de las nubes a gran velocidad; 11–13s, muestra a ambos personajes volando uno hacia el otro en una confrontación aérea épica, con fuego y energía azul iluminando la tormenta; 13–15s, el guerrero se aleja repentinamente hacia las nubes mientras el dragón lo sigue, terminando en un plano general dramático del cielo oscuro, CGI cinemático realista, armadura detallada, enormes alas de dragón, nubes volumétricas, movimiento de cámara dinámico, iluminación dramática, alto nivel de detalle, calidad 4K.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2750,20 +2750,20 @@ Traducción en curso
 
 <a name="prompt-2100383168356573667"></a>
 
-### Traducción en curso
+### En un primer plano de la pantalla de un celular, la chica del fondo despierta, se queja con coquetería, aparta uno por uno los íconos de apps que le cubren el rostro y sonríe feliz haciendo el signo de la victoria.
 
 Autor：[@PhotoX86](https://x.com/PhotoX86) · [Publicación original](https://x.com/PhotoX86/status/2100383168356573667)
 
 Diseño de aplicaciones / web · Personaje · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** En un primer plano de la pantalla de un celular, la chica del fondo despierta, se queja con coquetería, aparta uno por uno los íconos de apps que le cubren el rostro y sonríe feliz haciendo el signo de la victoria.
 
 <img src="covers/2100383168356573667.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+integrated_multimodal_description: [Toma 1] Primer plano ultra fotorrealista de acción real únicamente de la pantalla de un teléfono inteligente, encuadre vertical 9:16, aproximadamente 15.00 segundos, bisel y cristal reales del teléfono con leves reflejos ambientales, pantalla de alta claridad. Estrictamente existe solo una persona en todo el video: la mujer del fondo de pantalla dentro de la pantalla del teléfono. Fuera de la pantalla no debe haber absolutamente ningún ser humano, ningún rostro, ninguna mano, ningún dedo, ningún brazo, ninguna parte del cuerpo y ninguna silueta; el encuadre contiene únicamente el teléfono y el contenido de su pantalla. El fondo de pantalla es una foto de medio cuerpo de una joven y hermosa mujer asiática (rasgos delicados, maquillaje refinado, expresión vívida, ropa a la moda), pero la pantalla de inicio está densamente cubierta por muchos íconos de aplicaciones que bloquean su rostro, sus ojos y áreas clave del cuerpo. Sin texto legible, sin leyendas, sin subtítulos, sin marcas de agua, sin logotipos en la pantalla; los íconos de las aplicaciones son símbolos gráficos puros sin etiquetas. De 00:00.000 a 00:02.000, fotograma estático: íconos densos que la cubren por completo. De 00:02.000 a 00:12.000, la mujer del fondo de pantalla cobra vida repentinamente dentro de la pantalla, frunce ligeramente el ceño con una mirada molesta pero coqueta, y la joven vivaz con una voz clara de tono medio-alto (S1) grita de frente con labios visibles: [Chino] 挡住我了！ Aún únicamente dentro del fondo de pantalla, utiliza solo su dedo índice con una puntería precisa: la yema del dedo primero debe presionar directamente en la posición exacta de un ícono, y luego deslizar rápidamente ese ícono hacia afuera; los íconos se mueven únicamente cuando se presionan con precisión; agitar al azar por el espacio vacío no hace nada. Los va despejando uno por uno de esta manera; si se mueve muy rápido, sigue siendo una secuencia rápida de toques precisos de presionar y deslizar sobre íconos sucesivos, nunca movimientos desordenados y sin rumbo. Algunos íconos se van con un solo presionar-deslizar enérgico; unos pocos necesitan un segundo presionar-deslizar preciso. Mientras los despeja, hace pucheros con coquetería y de vez en cuando pone los ojos en blanco; los íconos van disminuyendo gradualmente a medida que su rostro y su cuerpo se revelan poco a poco. En el momento en que el último ícono sale de la pantalla, todos los movimientos de presionar y deslizar con el dedo índice se detienen de inmediato: su mano en pantalla se apoya y ya no sigue dando golpes rápidos. De 00:12.000 a 00:15.000, la pantalla está limpia con solo su foto; con la mano que deslizaba ya quieta, esboza una sonrisa radiante y alegre, los ojos curvados como medias lunas, hace una señal de victoria con una V hacia el espectador y mantiene la pose congelada a lo largo de los 15.00 segundos. Ultra real, movimiento suave y natural, iluminación real de pantalla y reflejos suaves. overall_soundscape: Tono ambiental suave del cristal del teléfono en la habitación, toque corto de interfaz de usuario seguido de un zumbido para cada presionar-deslizar preciso, su única frase gritada y ligeras respiraciones coquetas. Después de que se despeja el último ícono, se detienen los sonidos de movimiento de los dedos. non_diegetic_music: Punteos electrónicos ligeros y juguetones a un ritmo moderado, volviéndose más brillantes cuando se despejan los últimos íconos, manteniéndose luego suavemente bajo la imagen congelada de la señal de la V.，3:4，15s
 ```
 
 [↑ Volver a categorías](#catalog)

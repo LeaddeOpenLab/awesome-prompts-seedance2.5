@@ -313,20 +313,20 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2100417339716141116"></a>
 
-### Tradução em andamento
+### Batalha fantástica cinematográfica de 15 segundos entre um guerreiro futurista brilhante e um dragão negro que cospe fogo em uma tempestade.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicação original](https://x.com/Aiwithmaha/status/2100417339716141116)
 
 Cinematográfico / Imagem de Filme · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Batalha fantástica cinematográfica de 15 segundos entre um guerreiro futurista brilhante e um dragão negro que cospe fogo em uma tempestade.
 
 <img src="covers/2100417339716141116.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico de batalha fantástica de 15 segundos correspondente à referência: 0–1s, um guerreiro com armadura futurista flutua em um céu escuro e tempestuoso enquanto um enorme dragão negro voa atrás dele; 1–2s, uma energia azul brilhante envolve o guerreiro enquanto a câmera se aproxima lentamente; 2–3s, o dragão se aproxima rapidamente através das nuvens e o guerreiro se vira em direção a ele; 3–5s, o dragão abre a boca e cospe um poderoso jato de fogo laranja brilhante enquanto o guerreiro voa para trás através da tempestade; 5–7s, mostre um close dramático do rosto do dragão e de seus olhos brilhantes enquanto ele persegue o guerreiro; 7–9s, o guerreiro encara o dragão no ar com relâmpagos piscando atrás deles e energia azul brilhando em sua armadura; 9–11s, o dragão ataca novamente com fogo intenso enquanto o guerreiro se esquiva pelas nuvens em alta velocidade; 11–13s, mostre ambos os personagens voando um em direção ao outro em um confronto aéreo épico, com fogo e energia azul iluminando a tempestade; 13–15s, o guerreiro de repente se afasta para dentro das nuvens enquanto o dragão o segue, terminando em um plano aberto dramático do céu escuro, CGI cinematográfico realista, armadura detalhada, asas de dragão gigantescas, nuvens volumétricas, movimento dinâmico de câmera, iluminação dramática, alto nível de detalhes, qualidade 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2744,20 +2744,20 @@ Tradução em andamento
 
 <a name="prompt-2100383168356573667"></a>
 
-### Tradução em andamento
+### Em um close-up da tela do celular, a garota do papel de parede ganha vida, reclama com denguice e afasta um a um os ícones de aplicativos que cobrem seu rosto, fazendo alegremente o sinal da vitória no final.
 
 Autor：[@PhotoX86](https://x.com/PhotoX86) · [Publicação original](https://x.com/PhotoX86/status/2100383168356573667)
 
 Design de Aplicativos / Web · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Em um close-up da tela do celular, a garota do papel de parede ganha vida, reclama com denguice e afasta um a um os ícones de aplicativos que cobrem seu rosto, fazendo alegremente o sinal da vitória no final.
 
 <img src="covers/2100383168356573667.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+integrated_multimodal_description: [Shot 1] Close-up ultra-fotorrealista em live-action exclusivo da tela de um smartphone, enquadramento vertical 9:16, aproximadamente 15,00 segundos, borda e vidro reais do telefone com leves reflexos ambientais, tela de alta nitidez. Estritamente apenas uma pessoa existe em todo o vídeo: a mulher do papel de parede dentro da tela do telefone. Do lado de fora da tela não deve haver absolutamente nenhum ser humano, nenhum rosto, nenhuma mão, nenhum dedo, nenhum braço, nenhuma parte do corpo e nenhuma silhueta — o quadro contém apenas o telefone e o conteúdo de sua tela. O papel de parede é uma foto de meio-corpo de uma jovem e bela mulher asiática — traços delicados, maquiagem refinada, expressão vívida, roupas elegantes —, mas a tela inicial está densamente coberta por muitos ícones de aplicativos que bloqueiam seu rosto, olhos e áreas corporais essenciais. Nenhum texto legível, sem legendas, sem subtítulos, sem marcas d'água, sem logotipos na tela — os ícones de aplicativos são símbolos gráficos puros, sem identificadores. De 00:00.000 a 00:02.000, quadro estático: ícones densos cobrindo-a completamente. De 00:02.000 a 00:12.000, a mulher do papel de parede repentinamente ganha vida dentro da tela, franze levemente a testa com uma expressão brava porém dengosa, e a jovem animada com uma voz clara de tom médio-agudo (S1) grita de frente com movimentos labiais visíveis: [Chinese] 挡住我了！ Ainda permanecendo estritamente dentro do papel de parede, ela usa apenas o dedo indicador com mira precisa: a ponta do dedo deve primeiro pressionar diretamente a posição exata de um ícone e, em seguida, deslizá-lo rapidamente para longe; os ícones só se movem quando pressionados com precisão — gestos aleatórios no espaço vazio não fazem nada. Ela os remove um por um dessa maneira; mesmo que se mova muito rápido, trata-se de uma sequência rápida de toques e deslizamentos precisos em ícones sucessivos, nunca movimentos desajeitados e sem rumo. Alguns ícones saem com um único toque-deslize firme; alguns requerem um segundo toque-deslize preciso. Enquanto os remove, ela faz um biquinho dengoso e ocasionalmente revira os olhos; os ícones diminuem gradualmente à medida que seu rosto e corpo são revelados pouco a pouco. No momento em que o último ícone sai da tela, todos os movimentos de pressionar e deslizar com o dedo indicador cessam imediatamente — sua mão na tela repousa e já não continua gesticulando. De 00:12.000 a 00:15.000, a tela fica limpa apenas com a foto dela; com a mão que deslizava já imóvel, ela abre um sorriso radiante e alegre, olhos curvados como luas crescentes, faz o sinal de vitória em V em direção ao espectador e mantém a pose congelada até os 15,00 segundos. Ultra-realista, movimento natural e suave, iluminação autêntica de tela e reflexos suaves. overall_soundscape: Som ambiente suave de vidro de telefone, pequenos toques de interface seguidos de zunidos para cada pressionamento e deslizamento preciso, sua única frase gritada e leves respirações dengosas. Após a remoção do último ícone, os sons de movimento dos dedos cessam. non_diegetic_music: Dedilhados eletrônicos leves e lúdicos em andamento moderado, clareando quando os últimos ícones desaparecem e mantendo-se suaves sob o congelamento do sinal em V.，3:4，15s
 ```
 
 [↑ Voltar às categorias](#catalog)
