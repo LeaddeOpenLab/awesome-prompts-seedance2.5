@@ -438,20 +438,43 @@ Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2100462892864979292"></a>
 
-### Übersetzung läuft
+### Mehrteiliges Sci-Fi-Action-Storyboard-Prompt, das den Zusammenbau eines kapuzenbewehrten gepanzerten Kriegers aus roten Würfeln und seinen städtischen Kampf gegen einen orangefarbenen Kampfroboter detailliert beschreibt.
 
 Autor：[@itsSaira\_1](https://x.com/itsSaira_1) · [Originalbeitrag](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Comic / Storyboard · Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Mehrteiliges Sci-Fi-Action-Storyboard-Prompt, das den Zusammenbau eines kapuzenbewehrten gepanzerten Kriegers aus roten Würfeln und seinen städtischen Kampf gegen einen orangefarbenen Kampfroboter detailliert beschreibt.
 
 <img src="covers/2100462892864979292.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+GLOBALE KONTINUITÄT — in jeder Szene
+Fotorealistische filmische Sci-Fi-Action, 16:9-Querformat, ultradetailliert, realistische Materialien, dramatische Stadtbeleuchtung, geringe Schärfentiefe, dynamische Kamerabewegung. Behalten Sie exakt dieselbe futuristische Stadt, die Farbpalette in Rot/Schwarz, die Robotertechnologie, den gepanzerten humanoiden Krieger mit Kapuze und den orangefarbenen Kampfroboter über alle Szenen hinweg konsistent bei. Jede Szene muss direkt und mit nahtloser visueller Kontinuität an die vorherige Szene anschließen. Kein Text, keine Logos, Wasserzeichen oder Benutzeroberflächen.
+SZENE 1 — 0–6s
+Nahaufnahme eines futuristischen metallischen zylindrischen Geräts, das auf einer Stadtstraße liegt, umgeben von Hunderten kleiner leuchtend grüner Würfel. Das Gerät beginnt sich von grüner Energie in intensive rote Energie zu transformieren. Langsames, filmisches Heranfahren der Kamera, realistische Reflexionen, geringe Schärfentiefe.
+SZENE 2 — 6–14s
+Das Gerät verwandelt sich in einen mächtigen, rot leuchtenden Kern mit einem kreisförmigen Symbol, umgeben von Hunderten roter Würfel, die sich über die leere Stadtstraße ausbreiten. Filmische Kameraverfolgung aus der Froschperspektive, intensive rote Beleuchtung, realistische Atmosphäre und Trümmer.
+SZENE 3 — 14–24s
+Die roten Würfel vermehren sich rasant und breiten sich über die gesamte Straße aus. Die Kamera steigt in eine hohe Vogelperspektive auf und offenbart ein riesiges Feld leuchtend roter Würfel, die das zentrale Gerät umgeben. Die Würfel beginnen sich zu bewegen und sich zu sammeln.
+SZENE 4 — 24–40s
+Tausende roter Würfel fügen sich gewaltig zum Unterkörper und den Beinen einer gigantischen humanoiden Kreatur zusammen. Die Kreatur erhebt sich von der Straße, während sich die Würfel fortlaufend ineinander verankern und eine detaillierte schwarz-rote futuristische Rüstung bilden. Untersichtkamera, gewaltige Dimensionen, Staub und Trümmer.
+SZENE 5 — 40–54s
+Die enorme humanoide Struktur formt sich weiter, bricht dann in sich zusammen und verdichtet sich zu einem kleineren, kapuzenbewehrten gepanzerten Krieger. Rote Würfel fließen um seinen Körper und verschmelzen zu einer eleganten schwarzen futuristischen Rüstung mit leuchtend roten Energiedetails. Filmische Nahaufnahmen der Transformation.
+SZENE 6 — 54–68s
+Der kapuzenbewehrte gepanzerte Krieger landet mit Wucht auf der Stadtstraße, umgeben von verstreuten roten Würfeln. Enthüllung des gesamten Charakters: schwarze futuristische Rüstung, Kapuze, leuchtend rotes mechanisches Gesicht und roter Energiekern auf der Brust. Langsame, dramatische Kameraenthüllung.
+SZENE 7 — 68–80s
+Nahaufnahme der gepanzerten Brust des Kriegers und des leuchtend roten Kerns. Ein rotes zylindrisches Energiegerät steigt aus dem Boden auf. Der Krieger greift mit einer schwarz gepanzerten Hand nach unten und hebt es an. Schnitt zwischen detaillierter Hand, Gerät und leuchtendem Brustkern.
+SZENE 8 — 80–94s
+Ein futuristischer orangefarbener Kampfroboter taucht in der zerstörten Stadtstraße gegenüber dem kapuzenbewehrten Krieger auf. Beide stehen mehrere Meter voneinander entfernt in einer angespannten Pattsituation. Der Roboter hat eine schnittige orangefarbene Rüstung, dunkle mechanische Gelenke und ein leuchtendes Visier. Filmische abwechselnde Nahaufnahmen.
+SZENE 9 — 94–108s
+Der orangefarbene Kampfroboter greift plötzlich mit hoher Geschwindigkeit an. Der kapuzenbewehrte Krieger hebt seinen Arm und entfesselt einen mächtigen roten Energiestoß. Der Roboter weicht aus und bewegt sich blitzschnell durch Rauch und Trümmer. Dynamische Tracking-Kamera, intensive Action, realistische Explosionen.
+SZENE 10 — 108–122s
+Der kapuzenbewehrte Krieger entfesselt einen massiven, konzentrierten roten Energiestrahl über die Stadtstraße. Der orangefarbene Roboter stürmt nach vorne und weicht zwischen Gebäuden und Explosionen aus. Schnelle filmische Kamerabewegung, herumfliegende Trümmer, Rauch, Funken und intensives rotes Licht.
+SZENE 11 — 122–136s
+Filmische Weitwinkelaufnahme der verwüsteten Stadtstraße. Der kapuzenbewehrte Krieger steht im Zentrum, während mehrere orangefarbene Kampfroboter und dunkel gepanzerte Gestalten ihn von beiden Seiten umzingeln. Der Krieger bereitet sich auf einen weiteren Kampf vor, während die Feinde vorrücken. Ende mit einer kraftvollen Totale.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -586,20 +609,26 @@ Behalte exakt dieselben Charaktere, Garderobe, Beleuchtung, Umgebung und Qualit�
 
 <a name="prompt-2100462425308901480"></a>
 
-### Übersetzung läuft
+### Erstelle einen 30-sekündigen ultraphotorealistischen Live-Action-Verfolgungsthriller über eine Frau, die auf einem abendlichen Straßenmarkt vor einem Verfolger in eine Gasse flieht.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Originalbeitrag](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotografie · Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle einen 30-sekündigen ultraphotorealistischen Live-Action-Verfolgungsthriller über eine Frau, die auf einem abendlichen Straßenmarkt vor einem Verfolger in eine Gasse flieht.
 
 <img src="covers/2100462425308901480.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, ultraphotorealistischen Live-Action-Urban-Verfolgungsthriller, der auf einem belebten Straßenmarkt am Abend spielt. Eine junge Frau bemerkt, dass ein Fremder ihr folgt, beschleunigt zum Laufschritt, schlängelt sich natürlich durch Fußgänger und Essensstände, duckt sich hinter einen Marktstand, wechselt dann plötzlich die Richtung und verschwindet in einer engen Gasse, kurz bevor der Verfolger eintrifft.
+
+Zeige realistische menschliche Biomechanik, Beschleunigung, Schwung, Reibung, Verlagerungen des Massenschwerpunkts, Reaktionen der Menschenmenge, Stoff- und Taschenphysik, realistische Objektinteraktionen und natürliche Umgebungsbewegungen. Verwende Handkamera-Nahaufnahmen, Over-the-Shoulder-Aufnahmen, niedrige Laufwinkel, seitliches Tracking, eine versteckte Perspektive hinter dem Stand und eine enge Gassenaufnahme mit realistischer Kameraträgheit und Autofokus.
+
+Verwende ausschließlich diegetischen Ton: Schritte, Atmung, Stimmengewirr der Menge, Verkäufer, Fahrräder, Stoffbewegungen, Verkehr und widerhallende Schritte in der Gasse. Natürliche, gemischte Marktbeleuchtung, realistische Schatten, Reflexionen, Tiefenschärfe und Bewegungsunschärfe. Ende mit einer statischen Aufnahme der leeren Gasse, während ihre Schritte verhallen.
+
+Kein CGI, keine Animation, keine Superhelden-Bewegungen, kein unmögliches Parkour, keine Teleportation, kein unrealistisches Verhalten der Menschenmenge, keine verzerrte Anatomie, keine schwebenden Objekte, keine Waffen, kein Gore, kein Text, keine Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

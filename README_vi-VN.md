@@ -440,20 +440,43 @@ Tác giả：[@Diplomeme](https://x.com/Diplomeme) · [Bài gốc](https://x.com
 
 <a name="prompt-2100462892864979292"></a>
 
-### Đang dịch
+### Lời nhắc kịch bản phân cảnh hành động khoa học viễn tưởng nhiều cảnh mô tả chi tiết sự lắp ráp của một chiến binh mặc giáp trùm đầu từ các khối lập phương màu đỏ và trận chiến đô thị của người này chống lại một robot chiến đấu màu cam.
 
 Tác giả：[@itsSaira\_1](https://x.com/itsSaira_1) · [Bài gốc](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc kịch bản phân cảnh hành động khoa học viễn tưởng nhiều cảnh mô tả chi tiết sự lắp ráp của một chiến binh mặc giáp trùm đầu từ các khối lập phương màu đỏ và trận chiến đô thị của người này chống lại một robot chiến đấu màu cam.
 
 <img src="covers/2100462892864979292.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+TÍNH LIÊN TỤC TOÀN CỤC — trong mọi cảnh
+Hành động khoa học viễn tưởng điện ảnh chân thực như ảnh chụp, tỷ lệ khung hình ngang 16:9, cực kỳ chi tiết, chất liệu chân thực, ánh sáng đô thị đầy kịch tính, độ sâu trường ảnh nông, chuyển động máy quay năng động. Giữ nguyên thành phố tương lai, bảng màu đỏ/đen, công nghệ robot, người hình người mặc giáp có mũ trùm đầu và robot chiến đấu màu cam nhất quán qua tất cả các cảnh. Mỗi cảnh phải nối tiếp trực tiếp từ cảnh trước với sự liên tục thị giác mượt mà. Không có văn bản, logo, hình mờ hoặc giao diện người dùng (UI).
+CẢNH 1 — 0–6 giây
+Cận cảnh một thiết bị hình trụ bằng kim loại tương lai nằm trên đường phố thành phố, được bao quanh bởi hàng trăm khối lập phương nhỏ phát sáng màu xanh lá cây. Thiết bị bắt đầu chuyển đổi từ năng lượng xanh lá cây sang năng lượng đỏ rực rỡ. Máy quay từ từ đẩy tới theo phong cách điện ảnh, phản xạ chân thực, độ sâu trường ảnh nông.
+CẢNH 2 — 6–14 giây
+Thiết bị trở thành một lõi phát sáng màu đỏ mạnh mẽ với biểu tượng hình tròn, được bao quanh bởi hàng trăm khối lập phương màu đỏ lan rộng khắp con phố vắng vẻ. Cú máy bám theo góc thấp mang tính điện ảnh, ánh sáng đỏ dữ dội, bầu không khí và mảnh vỡ chân thực.
+CẢNH 3 — 14–24 giây
+Các khối lập phương màu đỏ nhanh chóng nhân lên và lan rộng khắp toàn bộ đường phố. Máy quay nâng lên thành góc chụp từ trên cao, để lộ một vùng rộng lớn các khối lập phương màu đỏ phát sáng bao quanh thiết bị trung tâm. Các khối lập phương bắt đầu di chuyển và tụ lại với nhau.
+CẢNH 4 — 24–40 giây
+Hàng ngàn khối lập phương màu đỏ dữ dội tập hợp thành phần thân dưới và chân của một sinh vật dạng người khổng lồ. Sinh vật trỗi dậy từ đường phố khi các khối lập phương liên tục khóa vào nhau, tạo thành bộ giáp tương lai màu đen và đỏ chi tiết. Máy quay góc thấp, quy mô mạnh mẽ, bụi và mảnh vụn.
+CẢNH 5 — 40–54 giây
+Cấu trúc dạng người khổng lồ tiếp tục hình thành, sau đó sụp đổ và cô đọng lại thành một chiến binh mặc giáp có mũ trùm đầu nhỏ hơn. Các khối lập phương màu đỏ chảy quanh cơ thể và hợp nhất thành bộ giáp tương lai màu đen bóng bẩy với các chi tiết năng lượng màu đỏ phát sáng. Cận cảnh biến hình mang tính điện ảnh.
+CẢNH 6 — 54–68 giây
+Chiến binh mặc giáp có mũ trùm đầu đáp xuống mặt đường thành phố một cách nặng nề, xung quanh là các khối lập phương màu đỏ nằm rải rác. Tiết lộ toàn bộ nhân vật: bộ giáp tương lai màu đen, mũ trùm đầu, khuôn mặt cơ khí phát sáng màu đỏ và lõi năng lượng màu đỏ trên ngực. Máy quay hé lộ nhân vật một cách chậm rãi và kịch tính.
+CẢNH 7 — 68–80 giây
+Cận cảnh ngực bọc thép và lõi đỏ phát sáng của chiến binh. Một thiết bị năng lượng hình trụ màu đỏ trồi lên từ mặt đất. Chiến binh vươn bàn tay bọc giáp đen xuống và nhấc nó lên. Cắt cảnh chuyển tiếp giữa bàn tay chi tiết, thiết bị và lõi ngực phát sáng.
+CẢNH 8 — 80–94 giây
+Một robot chiến đấu màu cam của tương lai xuất hiện trên con phố thành phố đổ nát đối mặt với chiến binh trùm đầu. Cả hai đứng cách nhau vài mét trong thế giằng co căng thẳng. Robot có bộ giáp màu cam bóng bẩy, các khớp cơ khí sẫm màu và kính ngắm phát sáng. Cận cảnh luân phiên theo phong cách điện ảnh.
+CẢNH 9 — 94–108 giây
+Robot chiến đấu màu cam bất ngờ tấn công ở tốc độ cao. Chiến binh trùm đầu giơ tay lên và giải phóng một luồng nổ năng lượng màu đỏ mạnh mẽ. Robot né tránh và di chuyển nhanh chóng qua khói và mảnh vỡ. Máy quay bám theo chuyển động linh hoạt, hành động gay cấn, các vụ nổ chân thực.
+CẢNH 10 — 108–122 giây
+Chiến binh trùm đầu tung ra một chùm tia năng lượng màu đỏ tập trung khổng lồ dọc theo con phố thành phố. Robot màu cam lao về phía trước và né tránh giữa các tòa nhà và những vụ nổ. Chuyển động máy quay điện ảnh nhanh, mảnh vỡ bay, khói, tia lửa và ánh sáng đỏ rực rỡ.
+CẢNH 11 — 122–136 giây
+Góc quay rộng mang tính điện ảnh về con phố thành phố tan hoang. Chiến binh trùm đầu đứng ở trung tâm khi nhiều robot chiến đấu màu cam và các nhân vật mặc giáp tối màu bao vây từ cả hai phía. Chiến binh chuẩn bị cho một cuộc chiến khác khi kẻ thù tiến tới. Kết thúc bằng một cảnh quay toàn cảnh mạnh mẽ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -588,20 +611,26 @@ Duy trì chính xác nhân vật, trang phục, ánh sáng, môi trường và c
 
 <a name="prompt-2100462425308901480"></a>
 
-### Đang dịch
+### Tạo một đoạn phim giật gân rượt đuổi người đóng siêu chân thực dài 30 giây kể về một người phụ nữ chạy trốn kẻ bám đuôi trong chợ đêm đường phố vào một con hẻm.
 
 Tác giả：[@aiwithaly](https://x.com/aiwithaly) · [Bài gốc](https://x.com/aiwithaly/status/2100462425308901480)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một đoạn phim giật gân rượt đuổi người đóng siêu chân thực dài 30 giây kể về một người phụ nữ chạy trốn kẻ bám đuôi trong chợ đêm đường phố vào một con hẻm.
 
 <img src="covers/2100462425308901480.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn phim giật gân rượt đuổi người đóng (live-action) siêu chân thực dài 30 giây lấy bối cảnh tại một khu chợ đêm đường phố đông đúc. Một phụ nữ trẻ nhận ra có kẻ lạ mặt đang theo dõi mình, tăng tốc chạy, lách người tự nhiên qua dòng người đi bộ và các quầy ẩm thực, nép người sau một gian hàng chợ, rồi bất ngờ đổi hướng và biến mất vào một con hẻm nhỏ hẹp ngay trước khi kẻ bám đuôi kịp tới.
+
+Thể hiện cơ sinh học thực tế của con người, gia tốc, động lượng, ma sát, chuyển dịch trọng tâm, phản ứng của đám đông, chuyển động vật lý của vải vóc và túi xách, tương tác chân thực với đồ vật, cùng chuyển động tự nhiên của môi trường. Sử dụng các góc quay cận cảnh cầm tay (handheld close-ups), góc quay qua vai, góc thấp khi chạy, lia máy theo chiều ngang, góc nhìn ẩn nấp từ phía sau quầy hàng, và góc quay hẹp trong hẻm với quán tính chuyển động máy quay và khả năng tự động lấy nét chân thực.
+
+Chỉ sử dụng âm thanh thực tế trong cảnh quay (diegetic sound): tiếng bước chân, hơi thở, tiếng xì xào của đám đông, tiếng người bán rong, xe đạp, chuyển động cọ xát của quần áo, giao thông và tiếng bước chân vang vọng trong hẻm. Ánh sáng pha trộn tự nhiên của khu chợ, đổ bóng, phản chiếu, độ sâu trường ảnh và độ mờ chuyển động chân thực. Kết thúc bằng một cú máy tĩnh cố định quay con hẻm vắng lặng khi tiếng bước chân của cô dần tan biến.
+
+Không CGI, không hoạt hình, không động tác siêu anh hùng, không parkour phi thực tế, không dịch chuyển tức thời, không hành vi đám đông bất thường, không giải phẫu méo mó, không vật thể lơ lửng, không vũ khí, không máu me, không chữ viết, không logo hay hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

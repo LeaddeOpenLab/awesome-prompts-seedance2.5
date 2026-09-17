@@ -424,20 +424,43 @@ Tradução em curso
 
 <a name="prompt-2100462892864979292"></a>
 
-### Tradução em curso
+### Prompt de storyboard de ação de ficção científica multicena detalhando a montagem de um guerreiro encapuzado de armadura a partir de cubos vermelhos e a sua batalha urbana contra um robô de combate cor de laranja.
 
 Autor：[@itsSaira\_1](https://x.com/itsSaira_1) · [Publicação original](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Banda desenhada / Storyboard · Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de storyboard de ação de ficção científica multicena detalhando a montagem de um guerreiro encapuzado de armadura a partir de cubos vermelhos e a sua batalha urbana contra um robô de combate cor de laranja.
 
 <img src="covers/2100462892864979292.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+CONTINUIDADE GLOBAL — em cada cena
+Ação cinematográfica de ficção científica fotorrealista, paisagem 16:9, ultradetalhada, materiais realistas, iluminação urbana dramática, profundidade de campo reduzida, movimento de câmara dinâmico. Mantenha exatamente a mesma cidade futurista, paleta de cores vermelha/preta, tecnologia robótica, humanoide encapuzado de armadura e robô de combate cor de laranja consistentes em todas as cenas. Cada cena deve continuar diretamente da cena anterior com continuidade visual perfeita. Sem texto, logótipos, marca de água ou interface de utilizador.
+CENA 1 — 0–6s
+Grande plano de um dispositivo cilíndrico metálico futurista caído numa rua da cidade, rodeado por centenas de pequenos cubos verdes brilhantes. O dispositivo começa a transformar-se de energia verde para uma intensa energia vermelha. Movimento lento de aproximação cinematográfica (push-in), reflexos realistas, profundidade de campo reduzida.
+CENA 2 — 6–14s
+O dispositivo torna-se um poderoso núcleo brilhante vermelho com um símbolo circular, rodeado por centenas de cubos vermelhos que se espalham pela rua deserta da cidade. Plano de seguimento cinematográfico em ângulo contra-picado, iluminação vermelha intensa, atmosfera e detritos realistas.
+CENA 3 — 14–24s
+Os cubos vermelhos multiplicam-se rapidamente e espalham-se por toda a rua. A câmara sobe para um plano aéreo picado, revelando um enorme campo de cubos vermelhos brilhantes a rodear o dispositivo central. Os cubos começam a mover-se e a juntar-se.
+CENA 4 — 24–40s
+Milhares de cubos vermelhos montam-se violentamente na parte inferior do corpo e nas pernas de uma criatura humanoide gigantesca. A criatura ergue-se da rua enquanto os cubos se encaixam continuamente, formando uma armadura futurista detalhada a preto e vermelho. Câmara em contra-picado, escala imponente, poeira e detritos.
+CENA 5 — 40–54s
+A enorme estrutura humanoide continua a formar-se, depois colapsa e condensa-se num guerreiro encapuzado de armadura mais pequeno. Cubos vermelhos fluem em redor do seu corpo e fundem-se numa armadura futurista preta e elegante com detalhes de energia vermelha brilhante. Grandes planos cinematográficos da transformação.
+CENA 6 — 54–68s
+O guerreiro encapuzado de armadura aterra pesadamente na rua da cidade, rodeado por cubos vermelhos dispersos. Revelação completa da personagem: armadura futurista preta, capuz, rosto mecânico vermelho brilhante e núcleo de energia vermelha no peito. Revelação de câmara lenta e dramática.
+CENA 7 — 68–80s
+Grande plano do peito blindado do guerreiro e do núcleo vermelho brilhante. Um dispositivo de energia cilíndrico vermelho ergue-se do chão. O guerreiro baixa-se com uma mão blindada preta e levanta-o. Cortes alternados entre a mão detalhada, o dispositivo e o núcleo brilhante no peito.
+CENA 8 — 80–94s
+Um robô de combate cor de laranja futurista surge na rua da cidade em ruínas, de frente para o guerreiro encapuzado. Ambos ficam a vários metros de distância num impasse tenso. O robô possui uma armadura elegante cor de laranja, articulações mecânicas escuras e uma viseira brilhante. Grandes planos cinematográficos alternados.
+CENA 9 — 94–108s
+O robô de combate cor de laranja ataca repentinamente a alta velocidade. O guerreiro encapuzado ergue o braço e liberta uma poderosa rajada de energia vermelha. O robô desvia-se e move-se rapidamente por entre fumo e detritos. Câmara de seguimento dinâmica, ação intensa, explosões realistas.
+CENA 10 — 108–122s
+O guerreiro encapuzado liberta um feixe maciço e concentrado de energia vermelha pela rua da cidade. O robô cor de laranja avança e desvia-se entre edifícios e explosões. Movimento de câmara cinematográfico rápido, detritos a voar, fumo, faíscas e intensa luz vermelha.
+CENA 11 — 122–136s
+Plano geral cinematográfico da rua devastada da cidade. O guerreiro encapuzado está no centro enquanto múltiplos robôs de combate cor de laranja e figuras blindadas escuras o cercam de ambos os lados. O guerreiro prepara-se para outro combate enquanto os inimigos avançam. Termina num plano geral imponente.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -572,20 +595,26 @@ Mantenha exatamente as mesmas personagens, guarda-roupa, iluminação, ambiente 
 
 <a name="prompt-2100462425308901480"></a>
 
-### Tradução em curso
+### Crie um thriller de perseguição em live-action ultrafotorrealista de 30 segundos de uma mulher a fugir de um perseguidor num mercado de rua noturno para um beco.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicação original](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotografia · Cena de Cinema / Fotograma · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um thriller de perseguição em live-action ultrafotorrealista de 30 segundos de uma mulher a fugir de um perseguidor num mercado de rua noturno para um beco.
 
 <img src="covers/2100462425308901480.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um thriller de perseguição urbana em live-action ultrafotorrealista de 30 segundos ambientado num mercado de rua noturno e movimentado. Uma jovem apercebe-se de que um estranho a está a seguir, acelera até começar a correr, ziguezagueia naturalmente por entre peões e bancas de comida, agacha-se atrás de uma banca de mercado, muda subitamente de direção e desaparece num beco estreito momentos antes de o perseguidor chegar.
+
+Mostre biomecânica humana realista, aceleração, momento, atrito, desvios no centro de gravidade, reações da multidão, física de tecidos e malas, interação realista com objetos e movimento ambiental natural. Utilize grandes planos com câmara à mão, planos sobre o ombro, ângulos baixos em corrida, seguimento lateral, uma perspetiva oculta atrás da banca e um plano fechado no beco com inércia de câmara e focagem automática realistas.
+
+Utilize apenas som diegético: passos, respiração, burburinho da multidão, vendedores, bicicletas, movimento de tecidos, trânsito e passos a ecoar no beco. Iluminação mista e natural de mercado, sombras realistas, reflexos, profundidade de campo e desfoque de movimento. Termine num plano fixo do beco vazio à medida que os passos dela se desvanecem.
+
+Sem CGI, animação, movimentos de super-heróis, parkour impossível, teletransporte, comportamento irrealista da multidão, anatomia distorcida, objetos a flutuar, armas, sangue, texto, logótipos ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

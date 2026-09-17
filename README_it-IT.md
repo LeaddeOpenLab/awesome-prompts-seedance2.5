@@ -438,20 +438,43 @@ Traduzione in corso
 
 <a name="prompt-2100462892864979292"></a>
 
-### Traduzione in corso
+### Prompt per storyboard d'azione sci-fi multi-scena che descrive in dettaglio l'assemblaggio di un guerriero corazzato con cappuccio a partire da cubi rossi e la sua battaglia urbana contro un robot da combattimento arancione.
 
 Autore：[@itsSaira\_1](https://x.com/itsSaira_1) · [Post originale](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per storyboard d'azione sci-fi multi-scena che descrive in dettaglio l'assemblaggio di un guerriero corazzato con cappuccio a partire da cubi rossi e la sua battaglia urbana contro un robot da combattimento arancione.
 
 <img src="covers/2100462892864979292.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+CONTINUITÀ GLOBALE — in ogni scena
+Azione fantascientifica cinematografica e fotorealistica, formato orizzontale 16:9, ultra-dettagliata, materiali realistici, illuminazione urbana drammatica, profondità di campo ridotta, movimenti di macchina dinamici. Mantieni esattamente la stessa città futuristica, la tavolozza di colori rosso/nero, la tecnologia robotica, l'umanoide corazzato incappucciato e il robot da combattimento arancione coerenti in tutte le scene. Ogni scena deve proseguire direttamente da quella precedente con una continuità visiva impeccabile. Nessun testo, logo, filigrana o elemento di interfaccia.
+SCENA 1 — 0–6s
+Primo piano di un dispositivo cilindrico metallico futuristico posato su una strada cittadina, circondato da centinaia di piccoli cubi verdi luminescenti. Il dispositivo inizia a trasformarsi dall'energia verde a un'intensa energia rossa. Lento carrello in avanti cinematografico, riflessi realistici, profondità di campo ridotta.
+SCENA 2 — 6–14s
+Il dispositivo diventa un potente nucleo incandescente rosso con un simbolo circolare, circondato da centinaia di cubi rossi che si propagano lungo la strada deserta della città. Ripresa cinematografica di tracciamento dal basso, intensa illuminazione rossa, atmosfera e detriti realistici.
+SCENA 3 — 14–24s
+I cubi rossi si moltiplicano rapidamente e si espandono per tutta la strada. La telecamera sale in una ripresa zenitale dall'alto, svelando un enorme campo di cubi rossi luminescenti attorno al dispositivo centrale. I cubi iniziano a muoversi e a radunarsi.
+SCENA 4 — 24–40s
+Migliaia di cubi rossi si assemblano violentemente nella parte inferiore del corpo e nelle gambe di una gigantesca creatura umanoide. La creatura si erge dalla strada mentre i cubi continuano a incastrarsi tra loro, formando una dettagliata armatura futuristica nera e rossa. Inquadratura dal basso, scala imponente, polvere e detriti.
+SCENA 5 — 40–54s
+L'enorme struttura umanoide continua a formarsi, per poi collassare e condensarsi in un guerriero corazzato incappucciato di dimensioni minori. I cubi rossi scorrono attorno al suo corpo e si fondono in un'armatura futuristica nera e slanciata con dettagli a energia rossa incandescente. Primi piani cinematografici della trasformazione.
+SCENA 6 — 54–68s
+Il guerriero corazzato con cappuccio atterra pesantemente sulla strada cittadina, circondato da cubi rossi sparsi. Rivelazione del personaggio completo: armatura futuristica nera, cappuccio, volto meccanico rosso luminescente e nucleo a energia rossa sul petto. Rivelazione lenta e drammatica della telecamera.
+SCENA 7 — 68–80s
+Primo piano del petto corazzato del guerriero e del nucleo rosso brillante. Un dispositivo energetico cilindrico rosso emerge dal terreno. Il guerriero si china con una mano corazzata nera e lo solleva. Stacchi alternati tra la mano dettagliata, il dispositivo e il nucleo luminoso sul petto.
+SCENA 8 — 80–94s
+Un robot da combattimento arancione futuristico compare nella strada cittadina in rovina di fronte al guerriero incappucciato. Entrambi si fronteggiano a diversi metri di distanza in una tesa situazione di stallo. Il robot ha un'armatura arancione affusolata, giunture meccaniche scure e un visore luminescente. Primi piani alternati cinematografici.
+SCENA 9 — 94–108s
+Il robot da combattimento arancione attacca all'improvviso a grande velocità. Il guerriero incappucciato alza il braccio e rilascia una potente scarica di energia rossa. Il robot schiva e si muove rapidamente attraverso fumo e detriti. Telecamera di tracciamento dinamica, azione intensa, esplosioni realistiche.
+SCENA 10 — 108–122s
+Il guerriero incappucciato sprigiona un massiccio raggio concentrato di energia rossa lungo la via cittadina. Il robot arancione scatta in avanti e schiva zigzagando tra edifici ed esplosioni. Movimento di macchina rapido e cinematografico, detriti volanti, fumo, scintille e intensa luce rossa.
+SCENA 11 — 122–136s
+Ampia inquadratura cinematografica della via urbana devastata. Il guerriero incappucciato si trova al centro mentre molteplici robot da combattimento arancioni e figure con armature scure lo circondano da entrambi i lati. Il guerriero si prepara a un altro scontro mentre i nemici avanzano. Chiusura su un potente campo lungo.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -586,20 +609,26 @@ Mantieni esattamente gli stessi personaggi, guardaroba, illuminazione, ambiente 
 
 <a name="prompt-2100462425308901480"></a>
 
-### Traduzione in corso
+### Crea un thriller d'inseguimento in live-action ultra-fotorealistico di 30 secondi di una donna che fugge da uno stalker in un mercato di strada serale fin dentro un vicolo.
 
 Autore：[@aiwithaly](https://x.com/aiwithaly) · [Post originale](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un thriller d'inseguimento in live-action ultra-fotorealistico di 30 secondi di una donna che fugge da uno stalker in un mercato di strada serale fin dentro un vicolo.
 
 <img src="covers/2100462425308901480.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un thriller di inseguimento urbano in live-action ultra-fotorealistico di 30 secondi ambientato in un affollato mercato di strada serale. Una giovane donna si rende conto che uno sconosciuto la sta seguendo, accelera la corsa, si districa con naturalezza tra pedoni e bancarelle di cibo, si china dietro un banco del mercato, poi cambia improvvisamente direzione e scompare in uno stretto vicolo appena prima dell'arrivo dell'inseguitore.
+
+Mostra biomeccanica umana realistica, accelerazione, inerzia, attrito, spostamenti del baricentro, reazioni della folla, fisica di tessuti e borse, interazione realistica con gli oggetti e movimento naturale dell'ambiente. Utilizza primi piani con camera a mano, inquadrature sopra la spalla, angolazioni basse in corsa, tracking laterale, una prospettiva nascosta dietro la bancarella e un'inquadratura stretta nel vicolo con inerzia della fotocamera e messa a fuoco automatica realistiche.
+
+Usa solo suono diegetico: passi, respiro, chiacchiericcio della folla, venditori, biciclette, movimento dei vestiti, traffico e passi che echeggiano nel vicolo. Illuminazione mista naturale del mercato, ombre realistiche, riflessi, profondità di campo e sfocatura di movimento. Concludi con un'inquadratura fissa del vicolo vuoto mentre i suoi passi svaniscono.
+
+Niente CGI, animazione, movimenti da supereroi, parkour impossibile, teletrasporto, comportamento irrealistico della folla, anatomia distorta, oggetti fluttuanti, armi, sangue, testo, loghi o watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

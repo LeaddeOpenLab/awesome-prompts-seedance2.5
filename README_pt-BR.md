@@ -424,20 +424,43 @@ Tradução em andamento
 
 <a name="prompt-2100462892864979292"></a>
 
-### Tradução em andamento
+### Prompt de storyboard de ação sci-fi multicenas detalhando a montagem de um guerreiro encapuzado de armadura a partir de cubos vermelhos e sua batalha urbana contra um robô de combate laranja.
 
 Autor：[@itsSaira\_1](https://x.com/itsSaira_1) · [Publicação original](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de storyboard de ação sci-fi multicenas detalhando a montagem de um guerreiro encapuzado de armadura a partir de cubos vermelhos e sua batalha urbana contra um robô de combate laranja.
 
 <img src="covers/2100462892864979292.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+CONTINUIDADE GLOBAL — em cada cena
+Ação cinematográfica de ficção científica fotorrealista, paisagem 16:9, ultradetalhada, materiais realistas, iluminação urbana dramática, profundidade de campo rasa, movimento de câmera dinâmico. Mantenha exatamente a mesma cidade futurista, paleta de cores vermelha/preta, tecnologia robótica, humanoide encapuzado de armadura e robô de combate laranja consistentes em todas as cenas. Cada cena deve continuar diretamente da cena anterior com continuidade visual perfeita. Sem texto, logotipos, marca d'água ou interface de usuário.
+CENA 1 — 0–6s
+Close-up de um dispositivo cilíndrico metálico futurista caído em uma rua da cidade, cercado por centenas de pequenos cubos verdes brilhantes. O dispositivo começa a se transformar de energia verde para uma intensa energia vermelha. Movimento lento de aproximação cinematográfica (push-in), reflexos realistas, profundidade de campo rasa.
+CENA 2 — 6–14s
+O dispositivo se torna um poderoso núcleo brilhante vermelho com um símbolo circular, cercado por centenas de cubos vermelhos que se espalham pela rua deserta da cidade. Tomada de rastreamento cinematográfica em ângulo baixo, iluminação vermelha intensa, atmosfera e detritos realistas.
+CENA 3 — 14–24s
+Os cubos vermelhos se multiplicam rapidamente e se espalham por toda a rua. A câmera sobe para uma tomada aérea alta, revelando um enorme campo de cubos vermelhos brilhantes ao redor do dispositivo central. Os cubos começam a se mover e a se juntar.
+CENA 4 — 24–40s
+Milhares de cubos vermelhos se montam violentamente na parte inferior do corpo e nas pernas de uma criatura humanoide gigantesca. A criatura se ergue da rua enquanto os cubos se encaixam continuamente, formando uma armadura futurista detalhada em preto e vermelho. Câmera em ângulo baixo, escala imponente, poeira e detritos.
+CENA 5 — 40–54s
+A enorme estrutura humanoide continua se formando, depois colapsa e se condensa em um guerreiro encapuzado de armadura menor. Cubos vermelhos fluem ao redor de seu corpo e se fundem em uma elegante armadura futurista preta com detalhes de energia vermelha brilhante. Close-ups cinematográficos da transformação.
+CENA 6 — 54–68s
+O guerreiro encapuzado de armadura aterrissa pesadamente na rua da cidade, cercado por cubos vermelhos dispersos. Revelação completa do personagem: armadura futurista preta, capuz, rosto mecânico vermelho brilhante e núcleo de energia vermelha no peito. Revelação de câmera lenta e dramática.
+CENA 7 — 68–80s
+Close-up do peito blindado do guerreiro e do núcleo vermelho brilhante. Um dispositivo de energia cilíndrico vermelho se ergue do chão. O guerreiro se abaixa com uma mão blindada preta e o ergue. Cortes entre a mão detalhada, o dispositivo e o núcleo brilhante no peito.
+CENA 8 — 80–94s
+Um robô de combate laranja futurista aparece na rua da cidade em ruínas, de frente para o guerreiro encapuzado. Ambos ficam a vários metros de distância em um impasse tenso. O robô tem armadura laranja elegante, articulações mecânicas escuras e um visor brilhante. Close-ups cinematográficos alternados.
+CENA 9 — 94–108s
+O robô de combate laranja ataca repentinamente em alta velocidade. O guerreiro encapuzado levanta o braço e libera uma poderosa rajada de energia vermelha. O robô desvia e se move rapidamente através de fumaça e detritos. Câmera de rastreamento dinâmica, ação intensa, explosões realistas.
+CENA 10 — 108–122s
+O guerreiro encapuzado dispara um feixe maciço e concentrado de energia vermelha pela rua da cidade. O robô laranja avança e se esquiva entre edifícios e explosões. Movimento de câmera cinematográfico rápido, detritos voando, fumaça, faíscas e intensa luz vermelha.
+CENA 11 — 122–136s
+Plano cinematográfico aberto da rua devastada da cidade. O guerreiro encapuzado está no centro enquanto múltiplos robôs de combate laranja e figuras blindadas escuras o cercam por ambos os lados. O guerreiro se prepara para outro combate enquanto os inimigos avançam. Termine em um poderoso plano aberto.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -572,20 +595,26 @@ Mantenha exatamente os mesmos personagens, figurino, iluminação, ambiente e qu
 
 <a name="prompt-2100462425308901480"></a>
 
-### Tradução em andamento
+### Crie um suspense de perseguição live-action ultrafotorrealista de 30 segundos de uma mulher fugindo de um perseguidor em uma feira noturna em direção a um beco.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicação original](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotografia · Cinematográfico / Imagem de Filme · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um suspense de perseguição live-action ultrafotorrealista de 30 segundos de uma mulher fugindo de um perseguidor em uma feira noturna em direção a um beco.
 
 <img src="covers/2100462425308901480.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um suspense de perseguição urbana live-action ultrafotorrealista de 30 segundos ambientado em uma feira de rua noturna e lotada. Uma jovem percebe que um estranho a está seguindo, acelera o passo até correr, desvia naturalmente entre pedestres e barracas de comida, abaixa-se atrás de uma barraca da feira, muda repentinamente de direção e desaparece em um beco estreito pouco antes da chegada do perseguidor.
+
+Mostre biomecânica humana realista, aceleração, momento, atrito, mudanças no centro de massa, reações da multidão, física de tecidos e bolsas, interação realista com objetos e movimento ambiental natural. Use closes com câmera na mão, planos sobre o ombro, ângulos baixos durante a corrida, rastreamento lateral, uma perspectiva oculta atrás da barraca e um plano fechado no beco com inércia de câmera e foco automático realistas.
+
+Use apenas som diegético: passos, respiração, murmúrio da multidão, feirantes, bicicletas, movimento de tecidos, tráfego e passos ecoando no beco. Iluminação mista e natural da feira, sombras realistas, reflexos, profundidade de campo e desfoque de movimento. Termine com uma tomada estática do beco vazio enquanto os passos dela desaparecem.
+
+Sem CGI, animação, movimentos de super-heróis, parkour impossível, teletransporte, comportamento irrealista da multidão, anatomia distorcida, objetos flutuando, armas, sangue, texto, logotipos ou marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

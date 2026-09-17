@@ -438,20 +438,43 @@ Traducción en curso
 
 <a name="prompt-2100462892864979292"></a>
 
-### Traducción en curso
+### Prompt de guion gráfico de acción de ciencia ficción de múltiples escenas que detalla el ensamblaje de un guerrero acorazado con capucha a partir de cubos rojos y su batalla urbana contra un robot de combate naranja.
 
 Autor：[@itsSaira\_1](https://x.com/itsSaira_1) · [Publicación original](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Cómic / Guion gráfico · Cine / Fotograma · Cyberpunk / Ciencia ficción · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de guion gráfico de acción de ciencia ficción de múltiples escenas que detalla el ensamblaje de un guerrero acorazado con capucha a partir de cubos rojos y su batalla urbana contra un robot de combate naranja.
 
 <img src="covers/2100462892864979292.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+CONTINUIDAD GLOBAL — en cada escena
+Acción cinemática de ciencia ficción fotorrealista, formato horizontal 16:9, ultradetallada, materiales realistas, iluminación urbana dramática, profundidad de campo reducida, movimiento de cámara dinámico. Mantén exactamente la misma ciudad futurista, la paleta de colores rojo/negro, la tecnología robótica, el humanoide acorazado con capucha y el robot de combate naranja consistentes en todas las escenas. Cada escena debe continuar directamente de la escena anterior con una continuidad visual perfecta. Sin texto, logotipos, marcas de agua ni interfaz de usuario.
+ESCENA 1 — 0–6s
+Primer plano de un dispositivo cilíndrico metálico futurista que yace en una calle de la ciudad, rodeado por cientos de pequeños cubos verdes brillantes. El dispositivo comienza a transformarse de energía verde a una intensa energía roja. Lento acercamiento cinemático de cámara, reflejos realistas, profundidad de campo reducida.
+ESCENA 2 — 6–14s
+El dispositivo se convierte en un poderoso núcleo brillante rojo con un símbolo circular, rodeado por cientos de cubos rojos que se extienden por la calle vacía de la ciudad. Toma de seguimiento cinemática en ángulo bajo, intensa iluminación roja, atmósfera y escombros realistas.
+ESCENA 3 — 14–24s
+Los cubos rojos se multiplican rápidamente y se extienden por toda la calle. La cámara se eleva en una toma aérea cenital alta, revelando un enorme campo de cubos rojos brillantes que rodean el dispositivo central. Los cubos comienzan a moverse y agruparse.
+ESCENA 4 — 24–40s
+Miles de cubos rojos se ensamblan violentamente en la parte inferior del cuerpo y las piernas de una criatura humanoide gigantesca. La criatura surge de la calle a medida que los cubos se van encajando continuamente, formando una detallada armadura futurista negra y roja. Cámara en ángulo bajo, escala imponente, polvo y escombros.
+ESCENA 5 — 40–54s
+La enorme estructura humanoide continúa formándose, luego colapsa y se condensa en un guerrero acorazado con capucha más pequeño. Los cubos rojos fluyen alrededor de su cuerpo y se fusionan en una elegante armadura futurista negra con detalles de energía roja brillante. Primeros planos cinemáticos de la transformación.
+ESCENA 6 — 54–68s
+El guerrero acorazado con capucha aterriza pesadamente en la calle de la ciudad, rodeado de cubos rojos dispersos. Revelación del personaje completo: armadura futurista negra, capucha, rostro mecánico rojo brillante y núcleo de energía roja en el pecho. Revelación lenta y dramática con la cámara.
+ESCENA 7 — 68–80s
+Primer plano del pecho acorazado del guerrero y del brillante núcleo rojo. Un dispositivo de energía cilíndrico rojo surge del suelo. El guerrero extiende una mano acorazada negra y lo levanta. Cortes alternados entre la mano detallada, el dispositivo y el brillante núcleo del pecho.
+ESCENA 8 — 80–94s
+Un robot de combate naranja futurista aparece en la calle en ruinas de la ciudad frente al guerrero encapuchado. Ambos permanecen a varios metros de distancia en un tenso enfrentamiento. El robot tiene una elegante armadura naranja, articulaciones mecánicas oscuras y un visor brillante. Primeros planos cinemáticos alternados.
+ESCENA 9 — 94–108s
+El robot de combate naranja ataca repentinamente a gran velocidad. El guerrero encapuchado levanta el brazo y libera una potente ráfaga de energía roja. El robot esquiva y se mueve rápidamente a través del humo y los escombros. Cámara de seguimiento dinámica, acción intensa, explosiones realistas.
+ESCENA 10 — 108–122s
+El guerrero encapuchado desata un enorme rayo de energía roja concentrada por la calle de la ciudad. El robot naranja arremete hacia adelante y esquiva entre edificios y explosiones. Movimiento de cámara cinemático y rápido, escombros volando, humo, chispas e intensa luz roja.
+ESCENA 11 — 122–136s
+Toma amplia y cinemática de la devastada calle urbana. El guerrero encapuchado permanece en el centro mientras múltiples robots de combate naranjas y figuras acorazadas oscuras lo rodean desde ambos lados. El guerrero se prepara para otro combate mientras los enemigos avanzan. Termina en un imponente plano general.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -586,20 +609,26 @@ Mantén los personajes exactos, el vestuario, la iluminación, el entorno y la c
 
 <a name="prompt-2100462425308901480"></a>
 
-### Traducción en curso
+### Crea un thriller de persecución de acción real ultra fotorrealista de 30 segundos de una mujer que huye de un acosador en un mercado callejero al atardecer hacia un callejón.
 
 Autor：[@aiwithaly](https://x.com/aiwithaly) · [Publicación original](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotografía · Cine / Fotograma · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un thriller de persecución de acción real ultra fotorrealista de 30 segundos de una mujer que huye de un acosador en un mercado callejero al atardecer hacia un callejón.
 
 <img src="covers/2100462425308901480.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un thriller de persecución urbana de acción real ultra fotorrealista de 30 segundos ambientado en un concurrido mercado callejero al atardecer. Una mujer joven se da cuenta de que un extraño la está siguiendo, acelera el paso hasta empezar a correr, esquiva con naturalidad a peatones y puestos de comida, se agacha detrás de un puesto del mercado, luego cambia repentinamente de dirección y desaparece por un callejón estrecho justo antes de que llegue su perseguidor.
+
+Muestra una biomecánica humana realista, aceleración, impulso, fricción, cambios en el centro de gravedad, reacciones de la multitud, física de telas y bolsos, interacción realista con objetos y movimiento ambiental natural. Utiliza primeros planos cámara en mano, tomas por encima del hombro, ángulos bajos en carrera, seguimiento lateral, una perspectiva oculta detrás del puesto y una toma estrecha en el callejón con inercia de cámara y enfoque automático realistas.
+
+Utiliza únicamente sonido diegético: pasos, respiración, murmullo de la multitud, vendedores, bicicletas, movimiento de telas, tráfico y pasos que hacen eco en el callejón. Iluminación mixta natural de mercado, sombras realistas, reflejos, profundidad de campo y desenfoque de movimiento. Termina con un plano fijo del callejón vacío mientras sus pasos se desvanecen.
+
+Sin CGI, animación, movimientos de superhéroes, parkour imposible, teletransportación, comportamiento irreal de la multitud, anatomía distorsionada, objetos flotantes, armas, sangre, texto, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

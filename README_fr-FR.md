@@ -438,20 +438,43 @@ Traduction en cours
 
 <a name="prompt-2100462892864979292"></a>
 
-### Traduction en cours
+### Prompt de storyboard d'action de science-fiction multi-scènes détaillant l'assemblage d'un guerrier en armure à capuche à partir de cubes rouges et son combat urbain contre un robot de combat orange.
 
 Auteur：[@itsSaira\_1](https://x.com/itsSaira_1) · [Publication originale](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de storyboard d'action de science-fiction multi-scènes détaillant l'assemblage d'un guerrier en armure à capuche à partir de cubes rouges et son combat urbain contre un robot de combat orange.
 
 <img src="covers/2100462892864979292.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+CONTINUITÉ GLOBALE — dans chaque scène
+Action de science-fiction cinématographique photoréaliste, format paysage 16:9, ultra-détaillée, matériaux réalistes, éclairage urbain dramatique, faible profondeur de champ, mouvement de caméra dynamique. Conserver exactement la même ville futuriste, la même palette de couleurs rouge/noir, la même technologie robotique, le même humanoïde en armure à capuche et le même robot de combat orange dans toutes les scènes. Chaque scène doit directement s'enchaîner avec la scène précédente avec une continuité visuelle parfaite. Aucun texte, logo, filigrane ou élément d'interface.
+SCÈNE 1 — 0–6s
+Gros plan d'un dispositif cylindrique métallique futuriste posé sur une rue de la ville, entouré de centaines de petits cubes verts luminescents. Le dispositif commence à se transformer, passant d'une énergie verte à une énergie rouge intense. Lent travelling avant cinématographique, reflets réalistes, faible profondeur de champ.
+SCÈNE 2 — 6–14s
+Le dispositif devient un puissant noyau rougeoyant orné d'un symbole circulaire, entouré de centaines de cubes rouges qui se répandent à travers la rue déserte de la ville. Plan de suivi cinématique en contre-plongée, intense illumination rouge, atmosphère et débris réalistes.
+SCÈNE 3 — 14–24s
+Les cubes rouges se multiplient rapidement et envahissent toute la rue. La caméra s'élève en vue plongeante en surplomb, révélant un champ immense de cubes rouges luminescents encerclant le dispositif central. Les cubes commencent à se déplacer et à s'assembler.
+SCÈNE 4 — 24–40s
+Des milliers de cubes rouges s'assemblent violemment pour former le bas du corps et les jambes d'une gigantesque créature humanoïde. La créature s'élève depuis la rue tandis que les cubes s'emboîtent continuellement, formant une armure futuriste noire et rouge détaillée. Caméra en contre-plongée, échelle imposante, poussière et débris.
+SCÈNE 5 — 40–54s
+L'énorme structure humanoïde continue de prendre forme, puis s'effondre et se condense en un guerrier en armure à capuche plus petit. Des cubes rouges circulent autour de son corps et fusionnent pour former une armure futuriste noire épurée avec des détails d'énergie rougeoyante. Gros plans cinématographiques sur la transformation.
+SCÈNE 6 — 54–68s
+Le guerrier en armure à capuche atterrit lourdement sur la rue de la ville, entouré de cubes rouges épars. Révélation du personnage complet : armure futuriste noire, capuche, visage mécanique rouge lumineux et noyau d'énergie rouge sur la poitrine. Découverte lente et dramatique à la caméra.
+SCÈNE 7 — 68–80s
+Gros plan sur la poitrine blindée du guerrier et son noyau rouge étincelant. Un dispositif énergétique cylindrique rouge émerge du sol. Le guerrier tend une main blindée noire vers le bas et le soulève. Alternance de plans entre la main détaillée, le dispositif et le noyau pectoral lumineux.
+SCÈNE 8 — 80–94s
+Un robot de combat orange futuriste apparaît dans la rue en ruines face au guerrier à capuche. Tous deux se tiennent à plusieurs mètres de distance dans un face-à-face tendu. Le robot arbore une armure orange profilée, des articulations mécaniques sombres et une visière luminescente. Gros plans alternés cinématographiques.
+SCÈNE 9 — 94–108s
+Le robot de combat orange attaque soudainement à grande vitesse. Le guerrier à capuche lève le bras et projette une puissante déflagration d'énergie rouge. Le robot esquive et se déplace rapidement à travers la fumée et les débris. Caméra de suivi dynamique, action intense, explosions réalistes.
+SCÈNE 10 — 108–122s
+Le guerrier à capuche déchaîne un rayon massif et concentré d'énergie rouge le long de la rue urbaine. Le robot orange fonce vers l'avant et slalome entre les bâtiments et les explosions. Mouvement de caméra cinématographique rapide, débris volants, fumée, étincelles et lumière rouge intense.
+SCÈNE 11 — 122–136s
+Plan large cinématographique de la rue urbaine dévastée. Le guerrier à capuche se tient au centre tandis que de multiples robots de combat orange et silhouettes sombres en armure l'encerclent de part et d'autre. Le guerrier se prépare pour un nouveau combat pendant que les ennemis avancent. Fin sur un puissant plan d'ensemble.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -586,20 +609,26 @@ Conservez rigoureusement les mêmes personnages, vêtements, éclairage, environ
 
 <a name="prompt-2100462425308901480"></a>
 
-### Traduction en cours
+### Créez un thriller de poursuite en prise de vues réelles ultra-photoréaliste de 30 secondes montrant une femme fuyant un harceleur dans un marché de rue en soirée pour s'engouffrer dans une ruelle.
 
 Auteur：[@aiwithaly](https://x.com/aiwithaly) · [Publication originale](https://x.com/aiwithaly/status/2100462425308901480)
 
 Photographie · Image cinématographique / Photogramme de film · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un thriller de poursuite en prise de vues réelles ultra-photoréaliste de 30 secondes montrant une femme fuyant un harceleur dans un marché de rue en soirée pour s'engouffrer dans une ruelle.
 
 <img src="covers/2100462425308901480.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un thriller de poursuite urbaine en prise de vues réelles ultra-photoréaliste de 30 secondes, se déroulant dans un marché de rue bondé en soirée. Une jeune femme réalise qu'un inconnu la suit, accélère le pas pour se mettre à courir, se faufile naturellement entre les piétons et les stands de nourriture, se baisse derrière un étal de marché, puis change brusquement de direction et disparaît dans une ruelle étroite juste avant que le poursuivant n'arrive.
+
+Montrez une biomécanique humaine réaliste, l'accélération, l'élan, les frottements, les déplacements du centre de gravité, les réactions de la foule, la physique des tissus et des sacs, des interactions réalistes avec les objets et les mouvements naturels de l'environnement. Utilisez des gros plans caméra à l'épaule, des plans par-dessus l'épaule, des angles bas en course, un travelling latéral, une perspective cachée derrière l'étal et un plan serré dans la ruelle avec une inertie de caméra et un autofocus réalistes.
+
+Utilisez uniquement un son diégétique : bruits de pas, respiration, bavardages de la foule, vendeurs, bicyclettes, bruits de tissu, circulation et écho des pas dans la ruelle. Éclairage naturel mixte de marché, ombres réalistes, reflets, profondeur de champ et flou de mouvement. Terminez sur un plan fixe de la ruelle vide alors que le bruit de ses pas s'estompe.
+
+Pas d'images de synthèse, pas d'animation, pas de mouvements de super-héros, pas de parkour impossible, pas de téléportation, pas de comportement irréaliste de la foule, pas d'anatomie déformée, pas d'objets flottants, pas d'armes, pas de sang, pas de texte, pas de logos ni de filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

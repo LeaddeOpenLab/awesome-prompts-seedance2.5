@@ -424,20 +424,43 @@ Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2100462892864979292"></a>
 
-### Çeviri sürüyor
+### Kırmızı küplerden kapüşonlu zırhlı bir savaşçının bir araya gelişini ve turuncu bir savaş robotuna karşı verdiği kentsel savaşı ayrıntılarıyla anlatan çok sahneli bilimkurgu aksiyonu görsel taslak istemi.
 
 Yazar：[@itsSaira\_1](https://x.com/itsSaira_1) · [Orijinal gönderi](https://x.com/itsSaira_1/status/2100462892864979292)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kırmızı küplerden kapüşonlu zırhlı bir savaşçının bir araya gelişini ve turuncu bir savaş robotuna karşı verdiği kentsel savaşı ayrıntılarıyla anlatan çok sahneli bilimkurgu aksiyonu görsel taslak istemi.
 
 <img src="covers/2100462892864979292.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+KÜRESEL SÜREKLİLİK — her sahnede
+Fotogerçekçi sinematik bilimkurgu aksiyonu, 16:9 yatay format, ultra detaylı, gerçekçi materyaller, dramatik kentsel aydınlatma, sığ alan derinliği, dinamik kamera hareketi. Tüm sahnelerde tamamen aynı fütüristik şehri, kırmızı/siyah renk paletini, robotik teknolojiyi, kapüşonlu zırhlı insansıyı ve turuncu savaş robotunu tutarlı tutun. Her sahne, kusursuz görsel süreklilikle doğrudan bir önceki sahneden devam etmelidir. Metin, logo, filigran veya kullanıcı arayüzü yok.
+SAHNE 1 — 0–6 sn
+Şehir caddesinde yatan, parlayan yüzlerce küçük yeşil küple çevrili fütüristik metalik silindirik bir cihazın yakın çekimi. Cihaz, yeşil enerjiden yoğun kırmızı enerjiye dönüşmeye başlar. Yavaş sinematik yaklaşma (push-in), gerçekçi yansımalar, sığ alan derinliği.
+SAHNE 2 — 6–14 sn
+Cihaz, dairesel bir sembole sahip güçlü, kırmızı parlayan bir çekirdeğe dönüşür ve boş şehir caddesine yayılan yüzlerce kırmızı küple çevrelenir. Düşük açılı sinematik takip çekimi, yoğun kırmızı aydınlatma, gerçekçi atmosfer ve enkaz.
+SAHNE 3 — 14–24 sn
+Kırmızı küpler hızla çoğalır ve tüm caddeye yayılır. Kamera yüksek bir tepe çekimine yükselerek merkezi cihazı çevreleyen devasa bir parlayan kırmızı küp alanını gözler önüne serer. Küpler hareket etmeye ve bir araya toplanmaya başlar.
+SAHNE 4 — 24–40 sn
+Binlerce kırmızı küp şiddetle devasa bir insansı yaratığın alt gövdesi ve bacakları şeklinde bir araya gelir. Küpler sürekli olarak birbirine kilitlenip detaylı siyah-kırmızı fütüristik zırhı oluştururken yaratık caddeden yükselir. Düşük açılı kamera, güçlü ölçek, toz ve moloz.
+SAHNE 5 — 40–54 sn
+Devasa insansı yapı oluşmaya devam eder, ardından çöker ve daha küçük, kapüşonlu zırhlı bir savaşçıya dönüşerek yoğunlaşır. Kırmızı küpler vücudunun etrafında akar ve parlayan kırmızı enerji detaylarına sahip şık siyah fütüristik bir zırha kaynaşır. Sinematik dönüşüm yakın çekimleri.
+SAHNE 6 — 54–68 sn
+Kapüşonlu zırhlı savaşçı, etrafa saçılmış kırmızı küplerle çevrili halde şehir caddesine sert bir iniş yapar. Karakterin tamamı ortaya çıkar: siyah fütüristik zırh, kapüşon, parlayan kırmızı mekanik yüz ve göğsünde kırmızı enerji çekirdeği. Yavaş dramatik kamera açığa çıkarışı.
+SAHNE 7 — 68–80 sn
+Savaşçının zırhlı göğsünün ve parlayan kırmızı çekirdeğinin yakın çekimi. Yerden kırmızı silindirik bir enerji cihazı yükselir. Savaşçı siyah zırhlı eliyle uzanıp onu kaldırır. Detaylı el, cihaz ve parlayan göğüs çekirdeği arasında geçişler.
+SAHNE 8 — 80–94 sn
+Harap olmuş şehir caddesinde kapüşonlu savaşçının karşısında fütüristik turuncu bir savaş robotu belirir. Her ikisi de gergin bir açmazda birkaç metre arayla durur. Robot şık turuncu bir zırha, koyu mekanik eklemlere ve parlayan bir vizöre sahiptir. Sinematik dönüşümlü yakın çekimler.
+SAHNE 9 — 94–108 sn
+Turuncu savaş robotu aniden yüksek hızda saldırır. Kapüşonlu savaşçı kolunu kaldırır ve güçlü bir kırmızı enerji patlaması yayar. Robot duman ve enkazın arasından hızla sıyrılıp hareket eder. Dinamik takip kamerası, yoğun aksiyon, gerçekçi patlamalar.
+SAHNE 10 — 108–122 sn
+Kapüşonlu savaşçı şehir caddesi boyunca devasa, yoğunlaştırılmış bir kırmızı enerji ışını fırlatır. Turuncu robot ileri hücum eder, binalar ve patlamalar arasında kaçınarak ilerler. Hızlı sinematik kamera hareketi, uçuşan molozlar, duman, kıvılcımlar ve yoğun kırmızı ışık.
+SAHNE 11 — 122–136 sn
+Harap olmuş şehir caddesinin geniş sinematik çekimi. Çok sayıda turuncu savaş robotu ve karanlık zırhlı figür onu her iki taraftan kuşatırken kapüşonlu savaşçı merkezde durur. Düşmanlar ilerlerken savaşçı başka bir dövüşe hazırlanır. Güçlü bir geniş açılı çekimle sonlanır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -572,20 +595,26 @@ Her planda birebir aynı karakterleri, gardırobu, aydınlatmayı, çevreyi ve k
 
 <a name="prompt-2100462425308901480"></a>
 
-### Çeviri sürüyor
+### Akşam saatlerinde kurulan bir sokak pazarında bir takipçiden kaçıp ara sokağa giren bir kadının 30 saniyelik ultra fotogerçekçi canlı çekim kovalamaca gerilimini oluşturun.
 
 Yazar：[@aiwithaly](https://x.com/aiwithaly) · [Orijinal gönderi](https://x.com/aiwithaly/status/2100462425308901480)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Akşam saatlerinde kurulan bir sokak pazarında bir takipçiden kaçıp ara sokağa giren bir kadının 30 saniyelik ultra fotogerçekçi canlı çekim kovalamaca gerilimini oluşturun.
 
 <img src="covers/2100462425308901480.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kalabalık bir akşam sokak pazarında geçen, 30 saniyelik ultra fotogerçekçi canlı çekim bir kentsel kovalamaca gerilimi oluşturun. Genç bir kadın bir yabancının kendisini takip ettiğini fark eder, hızlanarak koşmaya başlar, yayalar ve yemek tezgahları arasından doğal bir şekilde sıyrılır, bir pazar tezgahının arkasına siner, ardından aniden yön değiştirip takipçisi ulaşmadan hemen önce dar bir sokakta kaybolur.
+
+Gerçekçi insan biyomekaniğini, ivmelenmeyi, momentumu, sürtünmeyi, kütle merkezi kaymalarını, kalabalığın tepkilerini, kumaş ve çanta fiziğini, gerçekçi nesne etkileşimini ve doğal çevresel hareketleri gösterin. El kamerası yakın planları, omuz üstü çekimler, alçak koşu açıları, yandan takip, tezgah arkasından gizli bir bakış açısı ve gerçekçi kamera eylemsizliği ile otomatik odaklamaya sahip dar sokak çekimi kullanın.
+
+Yalnızca diejetik ses kullanın: ayak sesleri, nefes alma, kalabalık uğultusu, satıcılar, bisikletler, kumaş hışırtısı, trafik ve sokakta yankılanan ayak sesleri. Doğal karma pazar aydınlatması, gerçekçi gölgeler, yansımalar, alan derinliği ve hareket bulanıklığı. Kadının ayak sesleri kaybolurken boş sokağın sabit bir çekimiyle sonlandırın.
+
+CGI, animasyon, süper kahraman hareketleri, imkansız parkur, ışınlanma, gerçekçi olmayan kalabalık davranışları, bozuk anatomi, havada duran nesneler, silahlar, vahşet/kan, metin, logolar veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)
