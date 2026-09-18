@@ -403,20 +403,20 @@ Tradução em andamento
 
 <a name="prompt-2100953182780145992"></a>
 
-### Tradução em andamento
+### Crie um curta-metragem cinematográfico de animação comovente que personifica a melancolia do outono como uma menina ruiva trazendo conforto a uma mulher que lê perto da janela em uma rua chuvosa.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicação original](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Cinematográfico / Imagem de Filme · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um curta-metragem cinematográfico de animação comovente que personifica a melancolia do outono como uma menina ruiva trazendo conforto a uma mulher que lê perto da janela em uma rua chuvosa.
 
 <img src="covers/2100953182780145992.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um curta-metragem cinematográfico de animação comovente ambientado em uma noite chuvosa de outono em uma aconchegante rua de paralelepípedos europeia. Personifique a melancolia do outono (“Khandra”) como uma doce menininha ruiva de óculos redondos, cachecol listrado, suéter verde de tricô, capa de folhas e galochas vermelhas. Ela caminha sob a chuva e leva um conforto sereno a uma jovem que lê perto da janela, cercando-a magicamente com um cobertor quentinho, chá, um livro e um gato cinza adormecido. Termine com Khandra sentada pacificamente ao lado delas, segurando uma folha dourada e sorrindo calorosamente. Cores suaves de outono, ambientação de chuva, iluminação aconchegante, narrativa emocional, realismo mágico e movimentos suaves de câmera. Inclua a narração em russo fornecida naturalmente ao longo de todo o vídeo de 23 segundos.
 ```
 
 [↑ Voltar às categorias](#catalog)

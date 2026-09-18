@@ -403,20 +403,20 @@ Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
 <a name="prompt-2100953182780145992"></a>
 
-### Çeviri sürüyor
+### Yağmurlu bir sokakta pencere kenarında kitap okuyan bir kadına teselli getiren kızıl saçlı bir kız çocuğu olarak sonbahar melankolisini kişileştiren iç ısıtıcı, sinematik bir kısa animasyon oluşturun.
 
 Yazar：[@aiwithlumi](https://x.com/aiwithlumi) · [Orijinal gönderi](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmurlu bir sokakta pencere kenarında kitap okuyan bir kadına teselli getiren kızıl saçlı bir kız çocuğu olarak sonbahar melankolisini kişileştiren iç ısıtıcı, sinematik bir kısa animasyon oluşturun.
 
 <img src="covers/2100953182780145992.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yağmurlu bir sonbahar akşamında, şirin bir Avrupa arnavut kaldırımlı sokağında geçen iç ısıtıcı, sinematik bir kısa animasyon oluşturun. Sonbahar melankolisini (“Khandra”), yuvarlak gözlüklü, çizgili atkılı, yeşil örgü kazaklı, yaprak pelerinli ve kırmızı yağmur çizmeli, nazik, kızıl saçlı küçük bir kız çocuğu olarak kişileştirin. Yağmurun altında yürür ve pencere kenarında kitap okuyan genç bir kadına sessiz bir huzur getirir; onu sihirli bir şekilde sıcak bir battaniye, çay, bir kitap ve uyuyan gri bir kediyle sarıp sarmalar. Khandra'nın onların yanında huzur içinde oturduğu, elinde altın sarısı bir yaprak tuttuğu ve sıcacık gülümsediği bir sahneyle bitirin. Yumuşak sonbahar renkleri, yağmur ambiyansı, samimi aydınlatma, duygusal hikaye anlatımı, büyülü gerçekçilik ve yumuşak kamera hareketleri. 23 saniyelik video boyunca sağlanan Rusça seslendirmeyi doğal bir şekilde dahil edin.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -417,20 +417,20 @@ Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
 <a name="prompt-2100953182780145992"></a>
 
-### Übersetzung läuft
+### Erstelle einen herzerwärmenden, filmischen Animationskurzfilm, der die Herbstmelancholie als rothaariges Mädchen personifiziert, das einer Frau, die an einer regnerischen Straße am Fenster liest, Trost spendet.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Originalbeitrag](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle einen herzerwärmenden, filmischen Animationskurzfilm, der die Herbstmelancholie als rothaariges Mädchen personifiziert, das einer Frau, die an einer regnerischen Straße am Fenster liest, Trost spendet.
 
 <img src="covers/2100953182780145992.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen herzerwärmenden, filmischen Animationskurzfilm, der an einem regnerischen Herbstabend in einer gemütlichen europäischen Kopfsteinpflasterstraße spielt. Personalisiere die Herbstmelancholie („Khandra“) als sanftes kleines rothaariges Mädchen mit runder Brille, gestreiftem Schal, grünem Strickpullover, Blätterumhang und roten Gummistiefeln. Sie geht durch den Regen und spendet einer jungen Frau, die am Fenster liest, stillen Trost, indem sie sie auf magische Weise mit einer warmen Decke, Tee, einem Buch und einer schlafenden grauen Katze umgibt. Das Ende zeigt Khandra, wie sie friedlich neben ihnen sitzt, ein goldenes Blatt hält und warmherzig lächelt. Sanfte Herbstfarben, Regenambiente, gemütliche Beleuchtung, emotionales Storytelling, magischer Realismus und sanfte Kamerabewegungen. Binde die bereitgestellte russische Erzählung während des gesamten 23-sekündigen Videos ganz natürlich ein.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -419,20 +419,20 @@ Tác giả：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Bài gốc](https
 
 <a name="prompt-2100953182780145992"></a>
 
-### Đang dịch
+### Tạo một đoạn phim hoạt hình ngắn đậm chất điện ảnh ấm áp nhân cách hóa nỗi u sầu mùa thu thành một cô bé tóc đỏ mang lại sự an ủi cho một phụ nữ đang đọc sách bên cửa sổ trên con phố mưa rơi.
 
 Tác giả：[@aiwithlumi](https://x.com/aiwithlumi) · [Bài gốc](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một đoạn phim hoạt hình ngắn đậm chất điện ảnh ấm áp nhân cách hóa nỗi u sầu mùa thu thành một cô bé tóc đỏ mang lại sự an ủi cho một phụ nữ đang đọc sách bên cửa sổ trên con phố mưa rơi.
 
 <img src="covers/2100953182780145992.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn phim hoạt hình ngắn đậm chất điện ảnh và ấm áp, lấy bối cảnh một con đường lát đá cuội ấm cúng ở châu Âu vào một buổi tối mùa thu mưa rơi. Nhân cách hóa nỗi u sầu mùa thu (“Khandra”) thành một cô bé tóc đỏ hiền dịu với cặp kính tròn, khăn quàng cổ sọc, áo len dệt kim màu xanh lá cây, áo choàng lá và ủng đi mưa màu đỏ. Cô bé bước đi dưới mưa và mang lại sự ủi an tĩnh lặng cho một phụ nữ trẻ đang đọc sách bên cửa sổ, dùng phép màu bao quanh cô ấy bằng chiếc chăn ấm, trà, một cuốn sách và một chú mèo xám đang ngủ say. Kết thúc bằng cảnh Khandra ngồi yên bình bên cạnh họ, tay cầm một chiếc lá vàng và mỉm cười ấm áp. Màu sắc mùa thu êm dịu, không gian mưa rơi, ánh sáng ấm cúng, cốt truyện giàu cảm xúc, chủ nghĩa hiện thực huyền ảo và chuyển động máy quay nhẹ nhàng. Đưa lời thuyết minh bằng tiếng Nga đã cung cấp vào video 23 giây một cách tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

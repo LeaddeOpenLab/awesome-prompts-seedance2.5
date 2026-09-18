@@ -417,20 +417,20 @@ Traducción en curso
 
 <a name="prompt-2100953182780145992"></a>
 
-### Traducción en curso
+### Crea un emotivo cortometraje animado cinematográfico que personifica la melancolía del otoño como una niña pelirroja que reconforta a una mujer que lee junto a la ventana en una calle lluviosa.
 
 Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicación original](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Cine / Fotograma de película · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un emotivo cortometraje animado cinematográfico que personifica la melancolía del otoño como una niña pelirroja que reconforta a una mujer que lee junto a la ventana en una calle lluviosa.
 
 <img src="covers/2100953182780145992.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un emotivo cortometraje animado cinematográfico ambientado en una tarde lluviosa de otoño en una acogedora calle empedrada europea. Personifica la melancolía otoñal («Khandra») como una dulce niña pelirroja con gafas redondas, bufanda a rayas, jersey de punto verde, capa de hojas y botas de agua rojas. Camina bajo la lluvia y lleva un consuelo tranquilo a una joven que lee junto a la ventana, rodeándola mágicamente con una manta cálida, té, un libro y un gato gris dormido. Termina con Khandra sentada tranquilamente junto a ellas, sosteniendo una hoja dorada y sonriendo cálidamente. Colores otoñales suaves, ambiente de lluvia, iluminación acogedora, narración emotiva, realismo mágico y movimientos de cámara suaves. Incluye la narración en ruso provista de forma natural a lo largo del vídeo de 23 segundos.
 ```
 
 [↑ Volver a categorías](#catalog)

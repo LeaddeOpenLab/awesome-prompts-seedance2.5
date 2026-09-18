@@ -417,20 +417,20 @@ Traduzione in corso
 
 <a name="prompt-2100953182780145992"></a>
 
-### Traduzione in corso
+### Crea un commovente cortometraggio animato cinematografico che personifica la malinconia autunnale in una bambina dai capelli rossi che dona conforto a una donna che legge accanto a una finestra in una strada piovosa.
 
 Autore：[@aiwithlumi](https://x.com/aiwithlumi) · [Post originale](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un commovente cortometraggio animato cinematografico che personifica la malinconia autunnale in una bambina dai capelli rossi che dona conforto a una donna che legge accanto a una finestra in una strada piovosa.
 
 <img src="covers/2100953182780145992.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un commovente cortometraggio animato cinematografico ambientato in una piovosa sera d'autunno in un'accogliente strada acciottolata europea. Personifica la malinconia autunnale ("Khandra") come una dolce bambina dai capelli rossi con occhiali rotondi, una sciarpa a righe, un maglione verde lavorato a maglia, un mantello di foglie e stivali di gomma rossi. Cammina sotto la pioggia e porta un quieto conforto a una giovane donna che legge vicino alla finestra, avvolgendola magicamente con una coperta calda, tè, un libro e un gatto grigio addormentato. Concludi con Khandra seduta serenamente accanto a loro, con in mano una foglia dorata e un sorriso caloroso. Colori autunnali tenui, atmosfera di pioggia, illuminazione accogliente, narrazione emotiva, realismo magico e delicati movimenti di macchina. Includi la narrazione in russo fornita in modo naturale lungo tutto il video di 23 secondi.
 ```
 
 [↑ Torna alle categorie](#catalog)

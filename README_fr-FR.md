@@ -417,20 +417,20 @@ Traduction en cours
 
 <a name="prompt-2100953182780145992"></a>
 
-### Traduction en cours
+### Créez un court métrage d'animation cinématographique réconfortant personnifiant la mélancolie automnale sous les traits d'une petite fille rousse apportant du réconfort à une femme lisant près d'une fenêtre dans une rue pluvieuse.
 
 Auteur：[@aiwithlumi](https://x.com/aiwithlumi) · [Publication originale](https://x.com/aiwithlumi/status/2100953182780145992)
 
 Image cinématographique / Photogramme de film · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un court métrage d'animation cinématographique réconfortant personnifiant la mélancolie automnale sous les traits d'une petite fille rousse apportant du réconfort à une femme lisant près d'une fenêtre dans une rue pluvieuse.
 
 <img src="covers/2100953182780145992.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un court métrage d'animation cinématographique réconfortant se déroulant lors d'une soirée d'automne pluvieuse dans une rue pavée européenne chaleureuse. Personnifiez la mélancolie automnale (« Khandra ») sous les traits d'une douce petite fille rousse portant des lunettes rondes, une écharpe à rayures, un pull en tricot vert, une cape de feuilles et des bottes de pluie rouges. Elle marche sous la pluie et apporte un doux réconfort à une jeune femme lisant près de la fenêtre, l'entourant comme par magie d'une couverture chaude, de thé, d'un livre et d'un chat gris endormi. La scène finale montre Khandra assise paisiblement à côté d'elles, tenant une feuille dorée et souriant chaleureusement. Couleurs d'automne douces, ambiance pluvieuse, éclairage chaleureux, narration émouvante, réalisme magique et mouvements de caméra délicats. Intégrez la narration en russe fournie de manière naturelle tout au long de la vidéo de 23 secondes.
 ```
 
 [↑ Retour aux catégories](#catalog)
