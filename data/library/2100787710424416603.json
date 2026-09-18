@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:30:33.978Z",
+  "model": "seedance",
+  "prompt": "15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts.",
+  "promptTranslations": {
+    "en": "15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic 15-second tracking shot of a Korean schoolgirl walking forward amidst floating classroom debris, raising a hand and brushing hair."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic 15-second tracking shot of a Korean schoolgirl walking forward amidst floating classroom debris, raising a hand and brushing hair.",
+  "summaryEn": "Cinematic 15-second tracking shot of a Korean schoolgirl walking forward amidst floating classroom debris, raising a hand and brushing hair.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100787710424416603",
+    "canonicalUrl": "https://x.com/Aiwithmaha/status/2100787710424416603",
+    "author": {
+      "username": "Aiwithmaha",
+      "displayName": "Maha",
+      "profileUrl": "https://x.com/Aiwithmaha"
+    },
+    "publishedAt": "2026-09-18T03:23:15.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "en",
+    "originalText": "Turning a chaotic classroom into a cinematic AI scene.Realistic motion, natural emotions, and stunning details.\n\n Created on seedance 2.0\n\nPrompt:\n15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aiwithmaha/status/2100787710424416603",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg",
+        "analysisUrl": "https://x.com/Aiwithmaha/status/2100787710424416603"
+      }
+    ],
+    "metrics": {
+      "likeCount": 137,
+      "repostCount": 9,
+      "replyCount": 66,
+      "quoteCount": 0,
+      "viewCount": 12013
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithmaha/status/2100787710424416603",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg",
+  "coverPath": "covers/2100787710424416603.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100787630216724480",
+    "x-post:2100787710424416603"
+  ],
+  "analysis": {
+    "summary": "Cinematic 15-second tracking shot of a Korean schoolgirl walking forward amidst floating classroom debris, raising a hand and brushing hair.",
+    "summaryEn": "Cinematic 15-second tracking shot of a Korean schoolgirl walking forward amidst floating classroom debris, raising a hand and brushing hair.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video portrays the Korean schoolgirl in matching uniform walking amid flying books and debris, raising her fist and brushing her hair as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts.",
+    "sourceRange": {
+      "start": 147,
+      "end": 1470
+    },
+    "translations": {
+      "zh": "15秒电影感视频提示词：一名逼真的年轻韩国女学生站在混乱的教室中央，身穿白色短袖校服衬衫、系着红色蝴蝶结领带、搭配深灰色百褶裙，身后有几名学生或坐或动。书本、纸张、笔记本和教室物品散落并在空中飞舞，营造出逼真而混乱的氛围。她表情严肃平静地缓缓走向镜头，背景里的学生对突如其来的混乱作出自然反应。镜头平稳后退，在9:16竖屏构图中以写实的平移手持感将她置于中心。纸张和物体继续以逼真的重力、动态模糊与自然物理效果在她周围下落。视频过半时，她一边继续靠近镜头一边微微抬起一只手，面容、发型、校服和身材比例始终保持一致。最后几秒，镜头拉近至她的面部，她轻轻将头发从眼前拂开，带着微妙情绪直视镜头。全程采用自然教室光效、逼真皮肤纹理、细腻织物、真实阴影、电影级景深与超写实画质，动作流畅连贯且无剪辑。",
+      "en": "15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "cinematic character video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

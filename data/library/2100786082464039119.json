@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:49.564Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: A small stone garden at night, 16:9. Locked wide-close. Dark gravel, one pine, wet cobbles. No face. No shrine gate. No temple. No readable carving.\n\nACTION: The frame starts nearly black. One photographic lightning flash whites the garden for an instant, then darkness returns a stop brighter. Rain begins at once. Heavy drops hit the cobbles and bounce. No second flash. No person entering.\n\nFOCUS: Tack-sharp on the wet cobbles as the rain hits. The pine is one stop soft.\n\nPHYSICS: Lightning is a real sky flash, not a drawn zigzag. Rain has weight. Drops splash and run. They do not hang as fog. No CGI bolt lingering in the air.\n\nLIGHT: The flash is the only hard key. After it, cool wet night. No beauty fill.\n\nSTYLE: Photoreal cinematic, period Japan, wet stone and pine needles, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One thunder crack with the flash, then heavy rain hitting cobbles. No second thunder.",
+  "promptTranslations": {
+    "en": "SCENE: A small stone garden at night, 16:9. Locked wide-close. Dark gravel, one pine, wet cobbles. No face. No shrine gate. No temple. No readable carving.\\n\\nACTION: The frame starts nearly black. One photographic lightning flash whites the garden for an instant, then darkness returns a stop brighter. Rain begins at once. Heavy drops hit the cobbles and bounce. No second flash. No person entering.\\n\\nFOCUS: Tack-sharp on the wet cobbles as the rain hits. The pine is one stop soft.\\n\\nPHYSICS: Lightning is a real sky flash, not a drawn zigzag. Rain has weight. Drops splash and run. They do not hang as fog. No CGI bolt lingering in the air.\\n\\nLIGHT: The flash is the only hard key. After it, cool wet night. No beauty fill.\\n\\nSTYLE: Photoreal cinematic, period Japan, wet stone and pine needles, soft grain. No anime. No text. No watermark. No logos.\\n\\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One thunder crack with the flash, then heavy rain hitting cobbles. No second thunder."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic 16:9 shot of a Japanese stone garden at night illuminated by a single flash of lightning followed by heavy rain."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic 16:9 shot of a Japanese stone garden at night illuminated by a single flash of lightning followed by heavy rain.",
+  "summaryEn": "Cinematic 16:9 shot of a Japanese stone garden at night illuminated by a single flash of lightning followed by heavy rain.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100786082464039119",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2100786082464039119",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-18T03:16:47.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ja",
+    "originalText": "I didn't film this. I wrote it.\n撮影していません。書きました\n\nI wanted thunder. The garden went white, then rain hit the stones. I kept that take.\n雷が欲しかった。庭が白くなって、石に雨が当たった。そのテイクを残した。\n\nPROMPT (worked, as-is):\n\nSCENE: A small stone garden at night, 16:9. Locked wide-close. Dark gravel, one pine, wet cobbles. No face. No shrine gate. No temple. No readable carving.\n\nACTION: The frame starts nearly black. One photographic lightning flash whites the garden for an instant, then darkness returns a stop brighter. Rain begins at once. Heavy drops hit the cobbles and bounce. No second flash. No person entering.\n\nFOCUS: Tack-sharp on the wet cobbles as the rain hits. The pine is one stop soft.\n\nPHYSICS: Lightning is a real sky flash, not a drawn zigzag. Rain has weight. Drops splash and run. They do not hang as fog. No CGI bolt lingering in the air.\n\nLIGHT: The flash is the only hard key. After it, cool wet night. No beauty fill.\n\nSTYLE: Photoreal cinematic, period Japan, wet stone and pine needles, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One thunder crack with the flash, then heavy rain hitting cobbles. No second thunder.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 15s / Sound On / no Start frame\n効いているのはこの1行 → ACTION の \"One photographic lightning flash whites the garden for an instant.\" 空にギザギザを描かない。二発目を足さない。\n\nSteal this. Swap the garden. Ship it.\n庭だけ替えてそのまま使ってOK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2100786082464039119",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100785997542039552/pu/img/tTtx-kcZF1tbhLl7.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2100786082464039119"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2100786082464039119",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100785997542039552/pu/img/tTtx-kcZF1tbhLl7.jpg",
+  "coverPath": "covers/2100786082464039119.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100785997542039552",
+    "x-post:2100786082464039119"
+  ],
+  "analysis": {
+    "summary": "Cinematic 16:9 shot of a Japanese stone garden at night illuminated by a single flash of lightning followed by heavy rain.",
+    "summaryEn": "Cinematic 16:9 shot of a Japanese stone garden at night illuminated by a single flash of lightning followed by heavy rain.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video exactly reflects the prompt's instructions: a dark stone garden with a pine tree and wet cobbles, illuminated by an instantaneous lightning flash and followed by heavy rainfall hitting the stones."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: A small stone garden at night, 16:9. Locked wide-close. Dark gravel, one pine, wet cobbles. No face. No shrine gate. No temple. No readable carving.\n\nACTION: The frame starts nearly black. One photographic lightning flash whites the garden for an instant, then darkness returns a stop brighter. Rain begins at once. Heavy drops hit the cobbles and bounce. No second flash. No person entering.\n\nFOCUS: Tack-sharp on the wet cobbles as the rain hits. The pine is one stop soft.\n\nPHYSICS: Lightning is a real sky flash, not a drawn zigzag. Rain has weight. Drops splash and run. They do not hang as fog. No CGI bolt lingering in the air.\n\nLIGHT: The flash is the only hard key. After it, cool wet night. No beauty fill.\n\nSTYLE: Photoreal cinematic, period Japan, wet stone and pine needles, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One thunder crack with the flash, then heavy rain hitting cobbles. No second thunder.",
+    "sourceRange": {
+      "start": 195,
+      "end": 1214
+    },
+    "translations": {
+      "zh": "场景：夜晚的小石庭，16:9，固定近宽景。暗色砾石、一棵松树、湿润卵石。无面孔、无鸟居、无寺庙、无文字雕刻。\n\n动作：画面初近全黑。一次写实闪电瞬间照亮庭院，随后恢复暗夜但亮一档。大雨随即落下，重水滴砸在卵石上反弹。无二次闪电，无人进入。\n\n对焦：雨滴击打湿卵石处清晰锐利，松树稍软焦。\n\n物理：真实天空闪光，非锯齿状画线。雨水有重量感且溅开流淌，无滞空雾气，无残留CGI雷电。\n\n光照：闪电为唯一硬光源，之后为清冷潮湿黑夜。\n\n风格：写实电影感，传统日本，湿石与松针，柔和胶片颗粒。无动漫、无文字水印。\n\n音频：纯原声音效，无配乐。单声雷鸣伴随闪电，随后大雨击石声。",
+      "en": "SCENE: A small stone garden at night, 16:9. Locked wide-close. Dark gravel, one pine, wet cobbles. No face. No shrine gate. No temple. No readable carving.\n\nACTION: The frame starts nearly black. One photographic lightning flash whites the garden for an instant, then darkness returns a stop brighter. Rain begins at once. Heavy drops hit the cobbles and bounce. No second flash. No person entering.\n\nFOCUS: Tack-sharp on the wet cobbles as the rain hits. The pine is one stop soft.\n\nPHYSICS: Lightning is a real sky flash, not a drawn zigzag. Rain has weight. Drops splash and run. They do not hang as fog. No CGI bolt lingering in the air.\n\nLIGHT: The flash is the only hard key. After it, cool wet night. No beauty fill.\n\nSTYLE: Photoreal cinematic, period Japan, wet stone and pine needles, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One thunder crack with the flash, then heavy rain hitting cobbles. No second thunder."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic text-to-video generation of a Japanese stone garden during a sudden lightning flash and rainstorm.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

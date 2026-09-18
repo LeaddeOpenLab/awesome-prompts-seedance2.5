@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:20.685Z",
+  "model": "seedance2.5",
+  "prompt": "A young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic.",
+  "promptTranslations": {
+    "en": "A young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "A young Asian woman fights off an attacker in a dark elevator with a blinking red light."
+  },
+  "translationVersion": 2,
+  "summary": "A young Asian woman fights off an attacker in a dark elevator with a blinking red light.",
+  "summaryEn": "A young Asian woman fights off an attacker in a dark elevator with a blinking red light.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100814631006801988",
+    "canonicalUrl": "https://x.com/Viniai_/status/2100814631006801988",
+    "author": {
+      "username": "Viniai_",
+      "displayName": "Vini",
+      "profileUrl": "https://x.com/Viniai_"
+    },
+    "publishedAt": "2026-09-18T05:10:13.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "en",
+    "originalText": "Woman Action\n\nSeedance 2.5\n\nPrompt :\nA young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Viniai_/status/2100814631006801988",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100814611733995520/img/yyqnOacWfPYjce00.jpg",
+        "analysisUrl": "https://x.com/Viniai_/status/2100814631006801988"
+      }
+    ],
+    "metrics": {
+      "likeCount": 50,
+      "repostCount": 8,
+      "replyCount": 34,
+      "quoteCount": 1,
+      "viewCount": 440
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Viniai_/status/2100814631006801988",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100814611733995520/img/yyqnOacWfPYjce00.jpg",
+  "coverPath": "covers/2100814631006801988.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100814611733995520",
+    "x-post:2100814631006801988"
+  ],
+  "analysis": {
+    "summary": "A young Asian woman fights off an attacker in a dark elevator with a blinking red light.",
+    "summaryEn": "A young Asian woman fights off an attacker in a dark elevator with a blinking red light.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features an Asian woman in a tactical vest fighting an assailant in a dark elevator under red emergency lighting, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic.",
+    "sourceRange": {
+      "start": 37,
+      "end": 402
+    },
+    "translations": {
+      "zh": "一名留着波波头短发、身穿深色战术背心的年轻亚裔女子独自站在昏暗的工业电梯内。头顶上的红色应急灯闪烁。一名男子从身后抓住她，她以迅速的防守动作反击并成功挣脱。幽闭的构图、深色金属墙壁、激烈的近身肉搏打斗编排。写实动作电影美学风格。",
+      "en": "A young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

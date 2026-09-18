@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:28:50.611Z",
+  "model": "seedance2.5",
+  "prompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hollywood sci-fi cinematic commercial, ultra-realistic architectural evolution.\n​Setting: Tokyo Station (Marunouchi red-brick building). A rapid, breathtaking transition from 2024 to exactly 100 years in the future (2124). Based on the provided image.\n​Style & Visuals\n​Quality: Masterpiece cinematic live-action. Hyper-photorealistic. Heavy optical lens quality, realistic film grain, and atmospheric depth (fog/mist/bloom).\n​Movement & Physics (CRITICAL): Raw, realistic physical movement. Accurate real-world speed pacing, natural weight, and gravity in motion for walking crowds and vehicles. ABSOLUTELY NO artificial \"fast-forward\" or \"floaty\" CGI feel, except during the specific time-lapse window.\n​Lighting (CRITICAL): Sophisticated cinematic volumetric lighting. STRICTLY AVOID cheap, over-saturated, flat neon colors. Use elegant, soft-diffused glowing lights, subtle bloom effects, and anamorphic lens flares.\n​Consistency: The historic red-brick Tokyo Station building in the foreground MUST remain absolutely unchanged and structurally identical throughout the entire 100-year transition.\n​Audio & ASMR\n​BGM: Epic, emotionally grounded orchestral score. Drops into a deep bass sweep during the time-lapse, then swells into a grand, awe-inspiring crescendo.\n​SFX/ASMR: Realistic bustling city sounds, footsteps, and modern traffic, transitioning to a sleek, heavy magnetic hum and clean aerodynamic whooshes in the future. NO voices.\n​Timeline & Action\n​0–6s (Present Day Reality): Start in 2024. A wide, low-angle shot of the iconic red-brick Tokyo Station. Crowds of commuters walk across the plaza at a strict, realistic human walking speed with natural gravity. Soft golden hour sunlight reflects beautifully on the wet cobblestone.\n​6–14s (The Puddle Time-Lapse): The camera drops smoothly to a close-up of a large water puddle on the plaza reflecting the station. The reflection in the water suddenly goes into a hyper-speed time-lapse. The sky blurs through days and nights in seconds. In the reflection, massive futuristic structures and floating platforms rapidly shoot up into the sky behind the station.\n​14–22s (The Future Arrives): The camera tilts up from the puddle back to the station. We are now in 2124. The camera movement and crowd speeds return strictly to raw, realistic real-world pacing. The historic red-brick station stands perfectly preserved, but it is now surrounded by a hyper-advanced utopia. Giant floating structures, a massive glowing holographic globe, and sleek flying vehicles fill the sky. The lighting is an elegant mix of warm sunset and sophisticated bioluminescent-like cyan city lights.\n​22–30s (The Enduring Legacy): A majestic, incredibly smooth drone-like pull-back shot. The camera reveals the breathtaking scale of the futuristic mega-city, with the timeless red-brick Tokyo Station sitting peacefully at its heart.\n​Negative Prompt / Constraints\n​Text Rule: Allow natural environmental signs, but STRICTLY NO narrative text, NO subtitles, NO timeline markers (like \"100 years later\", \"2024\", \"2124\").\n​NO cheap neon, NO flat glowing colors, NO cyberpunk cliché lights.\n​NO floaty physics, NO unnatural walking speeds, NO camera jitter, NO anime style, NO low-quality 3D render.",
+  "promptTranslations": {
+    "en": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hollywood sci-fi cinematic commercial, ultra-realistic architectural evolution.\n​Setting: Tokyo Station (Marunouchi red-brick building). A rapid, breathtaking transition from 2024 to exactly 100 years in the future (2124). Based on the provided image.\n​Style & Visuals\n​Quality: Masterpiece cinematic live-action. Hyper-photorealistic. Heavy optical lens quality, realistic film grain, and atmospheric depth (fog/mist/bloom).\n​Movement & Physics (CRITICAL): Raw, realistic physical movement. Accurate real-world speed pacing, natural weight, and gravity in motion for walking crowds and vehicles. ABSOLUTELY NO artificial \"fast-forward\" or \"floaty\" CGI feel, except during the specific time-lapse window.\n​Lighting (CRITICAL): Sophisticated cinematic volumetric lighting. STRICTLY AVOID cheap, over-saturated, flat neon colors. Use elegant, soft-diffused glowing lights, subtle bloom effects, and anamorphic lens flares.\n​Consistency: The historic red-brick Tokyo Station building in the foreground MUST remain absolutely unchanged and structurally identical throughout the entire 100-year transition.\n​Audio & ASMR\n​BGM: Epic, emotionally grounded orchestral score. Drops into a deep bass sweep during the time-lapse, then swells into a grand, awe-inspiring crescendo.\n​SFX/ASMR: Realistic bustling city sounds, footsteps, and modern traffic, transitioning to a sleek, heavy magnetic hum and clean aerodynamic whooshes in the future. NO voices.\n​Timeline & Action\n​0–6s (Present Day Reality): Start in 2024. A wide, low-angle shot of the iconic red-brick Tokyo Station. Crowds of commuters walk across the plaza at a strict, realistic human walking speed with natural gravity. Soft golden hour sunlight reflects beautifully on the wet cobblestone.\n​6–14s (The Puddle Time-Lapse): The camera drops smoothly to a close-up of a large water puddle on the plaza reflecting the station. The reflection in the water suddenly goes into a hyper-speed time-lapse. The sky blurs through days and nights in seconds. In the reflection, massive futuristic structures and floating platforms rapidly shoot up into the sky behind the station.\n​14–22s (The Future Arrives): The camera tilts up from the puddle back to the station. We are now in 2124. The camera movement and crowd speeds return strictly to raw, realistic real-world pacing. The historic red-brick station stands perfectly preserved, but it is now surrounded by a hyper-advanced utopia. Giant floating structures, a massive glowing holographic globe, and sleek flying vehicles fill the sky. The lighting is an elegant mix of warm sunset and sophisticated bioluminescent-like cyan city lights.\n​22–30s (The Enduring Legacy): A majestic, incredibly smooth drone-like pull-back shot. The camera reveals the breathtaking scale of the futuristic mega-city, with the timeless red-brick Tokyo Station sitting peacefully at its heart.\n​Negative Prompt / Constraints\n​Text Rule: Allow natural environmental signs, but STRICTLY NO narrative text, NO subtitles, NO timeline markers (like \"100 years later\", \"2024\", \"2124\").\n​NO cheap neon, NO flat glowing colors, NO cyberpunk cliché lights.\n​NO floaty physics, NO unnatural walking speeds, NO camera jitter, NO anime style, NO low-quality 3D render."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic video prompt depicting the 100-year evolution of Tokyo Station into a futuristic sci-fi metropolis, featuring a ground puddle time-lapse transition and shot timeline planning."
+  },
+  "translationVersion": 2,
+  "summary": "关于东京站历经百年演进为未来科幻大都市的电影级视频提示词，包含地面水洼延时过渡及镜头时间轴规划。",
+  "summaryEn": "A cinematic video prompt showing Tokyo Station evolving into a futuristic metropolis over 100 years, featuring puddle time-lapse transitions and detailed timelines.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100861168286154994",
+    "canonicalUrl": "https://x.com/fps_lusu/status/2100861168286154994",
+    "author": {
+      "username": "fps_lusu",
+      "displayName": "Rukiru",
+      "profileUrl": "https://x.com/fps_lusu"
+    },
+    "publishedAt": "2026-09-18T08:15:09.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ja",
+    "originalText": "【100年後の近未来東京駅】\n​2026年から2126年へ。\n​Seedance 2.5を使い、歴史ある東京駅が100年後にどう進化していくか。\n​個人的なこだわりは、水たまりに映る景色のタイムラプスと、未来都市になっても変わらない赤レンガ駅舎の存在感です。\nプロンプトを公開しております。\n​皆さんは、100年後の東京、本当にこんな風になっていると思いますか？\n「もっと空飛ぶ車が多い！」や「赤レンガも進化してる！」など、リプ欄で予想を聞かせてください！\n​\n​👇Prompt (Seedance 2.5)\n​Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hollywood sci-fi cinematic commercial, ultra-realistic architectural evolution.\n​Setting: Tokyo Station (Marunouchi red-brick building). A rapid, breathtaking transition from 2024 to exactly 100 years in the future (2124). Based on the provided image.\n​Style & Visuals\n​Quality: Masterpiece cinematic live-action. Hyper-photorealistic. Heavy optical lens quality, realistic film grain, and atmospheric depth (fog/mist/bloom).\n​Movement & Physics (CRITICAL): Raw, realistic physical movement. Accurate real-world speed pacing, natural weight, and gravity in motion for walking crowds and vehicles. ABSOLUTELY NO artificial \"fast-forward\" or \"floaty\" CGI feel, except during the specific time-lapse window.\n​Lighting (CRITICAL): Sophisticated cinematic volumetric lighting. STRICTLY AVOID cheap, over-saturated, flat neon colors. Use elegant, soft-diffused glowing lights, subtle bloom effects, and anamorphic lens flares.\n​Consistency: The historic red-brick Tokyo Station building in the foreground MUST remain absolutely unchanged and structurally identical throughout the entire 100-year transition.\n​Audio & ASMR\n​BGM: Epic, emotionally grounded orchestral score. Drops into a deep bass sweep during the time-lapse, then swells into a grand, awe-inspiring crescendo.\n​SFX/ASMR: Realistic bustling city sounds, footsteps, and modern traffic, transitioning to a sleek, heavy magnetic hum and clean aerodynamic whooshes in the future. NO voices.\n​Timeline & Action\n​0–6s (Present Day Reality): Start in 2024. A wide, low-angle shot of the iconic red-brick Tokyo Station. Crowds of commuters walk across the plaza at a strict, realistic human walking speed with natural gravity. Soft golden hour sunlight reflects beautifully on the wet cobblestone.\n​6–14s (The Puddle Time-Lapse): The camera drops smoothly to a close-up of a large water puddle on the plaza reflecting the station. The reflection in the water suddenly goes into a hyper-speed time-lapse. The sky blurs through days and nights in seconds. In the reflection, massive futuristic structures and floating platforms rapidly shoot up into the sky behind the station.\n​14–22s (The Future Arrives): The camera tilts up from the puddle back to the station. We are now in 2124. The camera movement and crowd speeds return strictly to raw, realistic real-world pacing. The historic red-brick station stands perfectly preserved, but it is now surrounded by a hyper-advanced utopia. Giant floating structures, a massive glowing holographic globe, and sleek flying vehicles fill the sky. The lighting is an elegant mix of warm sunset and sophisticated bioluminescent-like cyan city lights.\n​22–30s (The Enduring Legacy): A majestic, incredibly smooth drone-like pull-back shot. The camera reveals the breathtaking scale of the futuristic mega-city, with the timeless red-brick Tokyo Station sitting peacefully at its heart.\n​Negative Prompt / Constraints\n​Text Rule: Allow natural environmental signs, but STRICTLY NO narrative text, NO subtitles, NO timeline markers (like \"100 years later\", \"2024\", \"2124\").\n​NO cheap neon, NO flat glowing colors, NO cyberpunk cliché lights.\n​NO floaty physics, NO unnatural walking speeds, NO camera jitter, NO anime style, NO low-quality 3D render.\n​#生成AI #AI動画 #Seedance #東京駅 #未来予想 #シネマティック #プロンプト公開",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fps_lusu/status/2100861168286154994",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100861114234142720/img/K0JHL7DGinY8irbx.jpg",
+        "analysisUrl": "https://x.com/fps_lusu/status/2100861168286154994"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/fps_lusu/status/2100861168286154994",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100861114234142720/img/K0JHL7DGinY8irbx.jpg",
+  "coverPath": "covers/2100861168286154994.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100861114234142720",
+    "x-post:2100861168286154994"
+  ],
+  "analysis": {
+    "summary": "关于东京站历经百年演进为未来科幻大都市的电影级视频提示词，包含地面水洼延时过渡及镜头时间轴规划。",
+    "summaryEn": "A cinematic video prompt showing Tokyo Station evolving into a futuristic metropolis over 100 years, featuring puddle time-lapse transitions and detailed timelines.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频严格展示了东京站广场低角度视角、地面水坑倒影内的极速演时变迁、镜头拉回后的未来科幻建筑群与飞行器，以及最终的大景别拉镜头全景。注：当前媒体使用较低码率版本，画质结论仅针对当前输入。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Basic Settings\n​Duration: 30-second short\n​Aspect Ratio: 16:9 (Widescreen landscape format)\n​Genre: Hollywood sci-fi cinematic commercial, ultra-realistic architectural evolution.\n​Setting: Tokyo Station (Marunouchi red-brick building). A rapid, breathtaking transition from 2024 to exactly 100 years in the future (2124). Based on the provided image.\n​Style & Visuals\n​Quality: Masterpiece cinematic live-action. Hyper-photorealistic. Heavy optical lens quality, realistic film grain, and atmospheric depth (fog/mist/bloom).\n​Movement & Physics (CRITICAL): Raw, realistic physical movement. Accurate real-world speed pacing, natural weight, and gravity in motion for walking crowds and vehicles. ABSOLUTELY NO artificial \"fast-forward\" or \"floaty\" CGI feel, except during the specific time-lapse window.\n​Lighting (CRITICAL): Sophisticated cinematic volumetric lighting. STRICTLY AVOID cheap, over-saturated, flat neon colors. Use elegant, soft-diffused glowing lights, subtle bloom effects, and anamorphic lens flares.\n​Consistency: The historic red-brick Tokyo Station building in the foreground MUST remain absolutely unchanged and structurally identical throughout the entire 100-year transition.\n​Audio & ASMR\n​BGM: Epic, emotionally grounded orchestral score. Drops into a deep bass sweep during the time-lapse, then swells into a grand, awe-inspiring crescendo.\n​SFX/ASMR: Realistic bustling city sounds, footsteps, and modern traffic, transitioning to a sleek, heavy magnetic hum and clean aerodynamic whooshes in the future. NO voices.\n​Timeline & Action\n​0–6s (Present Day Reality): Start in 2024. A wide, low-angle shot of the iconic red-brick Tokyo Station. Crowds of commuters walk across the plaza at a strict, realistic human walking speed with natural gravity. Soft golden hour sunlight reflects beautifully on the wet cobblestone.\n​6–14s (The Puddle Time-Lapse): The camera drops smoothly to a close-up of a large water puddle on the plaza reflecting the station. The reflection in the water suddenly goes into a hyper-speed time-lapse. The sky blurs through days and nights in seconds. In the reflection, massive futuristic structures and floating platforms rapidly shoot up into the sky behind the station.\n​14–22s (The Future Arrives): The camera tilts up from the puddle back to the station. We are now in 2124. The camera movement and crowd speeds return strictly to raw, realistic real-world pacing. The historic red-brick station stands perfectly preserved, but it is now surrounded by a hyper-advanced utopia. Giant floating structures, a massive glowing holographic globe, and sleek flying vehicles fill the sky. The lighting is an elegant mix of warm sunset and sophisticated bioluminescent-like cyan city lights.\n​22–30s (The Enduring Legacy): A majestic, incredibly smooth drone-like pull-back shot. The camera reveals the breathtaking scale of the futuristic mega-city, with the timeless red-brick Tokyo Station sitting peacefully at its heart.\n​Negative Prompt / Constraints\n​Text Rule: Allow natural environmental signs, but STRICTLY NO narrative text, NO subtitles, NO timeline markers (like \"100 years later\", \"2024\", \"2124\").\n​NO cheap neon, NO flat glowing colors, NO cyberpunk cliché lights.\n​NO floaty physics, NO unnatural walking speeds, NO camera jitter, NO anime style, NO low-quality 3D render.",
+    "sourceRange": {
+      "start": 256,
+      "end": 3594
+    },
+    "translations": {
+      "zh": "基础设置\n时长：30秒短片\n画幅比例：16:9（宽屏横屏）\n类型：好莱坞科幻电影质感广告，超真实建筑演变。\n场景设定：东京站（丸之内红砖站舍）。基于所提供图片，从2024年迅速惊艳过渡到100年后的未来（2124年）。\n风格与视觉\n画质：杰作级电影实拍感。超逼真。具备厚重的光学镜头质感、真实胶片颗粒和氛围纵深（薄雾/泛光）。\n运动与物理（关键）：原生写实物理运动。人群走动和车辆具备真实移动节奏、自然重量与重力感。除特定延时镜头外，严禁出现虚假快进或悬浮CGI感。\n光影（关键）：精致的电影级体积光。严禁廉价高饱和平铺霓虹色。采用高雅柔和的漫射辉光、细微光晕和变形镜头光晕。\n一致性：前景的历史红砖东京站建筑在整个百年过渡中必须保持完全不变且结构一致。\n音频与ASMR\n背景音乐：史诗级动人交响配乐。延时期间转入低音扫频，随后爆发为宏伟的高潮。\n音效/ASMR：写实的城市喧嚣声、脚步声与现代交通声，随后过渡到未来感顺滑磁吸嗡鸣与破空呼啸。无台词人声。\n时间线与动作\n0–6秒（现代真实）：始于2024年。红砖东京站的低角度广角镜头。通勤人群以真实步速行走在广场上，重力感自然。柔和夕阳反射在潮湿鹅卵石地面。\n6–14秒（水洼延时）：镜头平滑下移至广场大水洼的特写，倒映着车站。倒影突然进入极速延时摄影，天空昼夜交替。倒影中车站后方迅速拔起未来宏伟建筑与悬浮平台。\n14–22秒（未来到来）：镜头从水洼上仰回车站，进入2124年。镜头与人群恢复真实世界节奏。红砖站舍完好留存，周围变为高科技乌托邦，空中充满巨型悬浮结构、全息发光地球仪与飞行器。夕阳余晖与蓝青色生物光城市照明融合。\n22–30秒（持久遗产）：宏伟平滑的无人机拉远镜头，展现未来巨型都市的震撼规模，红砖站舍坐落于其中心。\n负向提示词/约束条件\n文字规则：允许自然环境标识，但严禁叙事性文字、字幕及年份标记。\n禁止廉价霓虹、平淡荧光色、赛博朋克陈词滥调灯光。\n禁止漂浮物理效果、不自然步速、镜头抖动、动漫风格、低质量3D渲染。",
+      "en": "Basic Settings\nDuration: 30-second short\nAspect Ratio: 16:9 (Widescreen landscape format)\nGenre: Hollywood sci-fi cinematic commercial, ultra-realistic architectural evolution.\nSetting: Tokyo Station (Marunouchi red-brick building). A rapid transition from 2024 to 2124 based on the provided image.\nStyle & Visuals: Hyper-photorealistic cinematic live-action with volumetric lighting, optical lens quality, and strict preservation of the red-brick building.\nTimeline: 0–6s present day reality, 6–14s puddle reflection time-lapse, 14–22s futuristic cityscape arrival, 22–30s smooth drone pull-back.\nNegative Constraints: No subtitles, no cheap neon, no floaty physics, no anime style."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "百年东京站科幻演变延时短片生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
