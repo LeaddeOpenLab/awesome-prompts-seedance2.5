@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T16:48:42.539Z",
+  "model": "seedance2.5",
+  "prompt": "Created a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark.",
+  "promptTranslations": {
+    "en": "Created a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic thriller prompt depicting a young woman fleeing through an underground corridor into the night under emergency lights."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic thriller prompt depicting a young woman fleeing through an underground corridor into the night under emergency lights.",
+  "summaryEn": "Cinematic thriller prompt depicting a young woman fleeing through an underground corridor into the night under emergency lights.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100886741972640200",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2100886741972640200",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-18T09:56:46.000Z",
+    "collectedAt": "2026-09-18T16:16:16.321Z",
+    "language": "en",
+    "originalText": "Sometimes the only way forward is to keep running.\nOne step, one breath, and no looking back.\n\nCreated on seedance 2.5\n\nPrompt:\n\nCreated a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lianaalane/status/2100886741972640200",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100886396529737728/img/XZVhecsRb0Sfgqcv.jpg",
+        "analysisUrl": "https://x.com/Lianaalane/status/2100886741972640200"
+      }
+    ],
+    "metrics": {
+      "likeCount": 166,
+      "repostCount": 8,
+      "replyCount": 45,
+      "quoteCount": 0,
+      "viewCount": 11993
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2100886741972640200",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100886396529737728/img/XZVhecsRb0Sfgqcv.jpg",
+  "coverPath": "covers/2100886741972640200.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100886396529737728",
+    "x-post:2100886741972640200"
+  ],
+  "analysis": {
+    "summary": "Cinematic thriller prompt depicting a young woman fleeing through an underground corridor into the night under emergency lights.",
+    "summaryEn": "Cinematic thriller prompt depicting a young woman fleeing through an underground corridor into the night under emergency lights.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the prompt's sequence: the woman outside the building, looking alert, running through the underground hallway with industrial pipes and red lights, and escaping through a heavy door."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Created a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark.",
+    "sourceRange": {
+      "start": 129,
+      "end": 1213
+    },
+    "translations": {
+      "zh": "制作一段30秒的暗黑电影惊悚风格视频，展现一名年轻女性在夜晚独自走向一座大型现代建筑。镜头从远景全景切至面部特写，她神情警惕担忧地环顾四周。突然，她转身奔向狭窄的地下混凝土通道，背着单肩包，脚步声在空旷走廊中回荡。采用平滑跟拍与手持运镜、逼真动作、工业顶灯、浓重阴影及微弱的蓝绿色调。随着她深入，红色应急灯渐起营造紧张感。镜头紧随其后并在广角、侧面与低角度间切换增强悬念。结尾处她推开沉重铁门冲入黑夜。画面逼真写实、极具电影感与情绪张力，无屏幕文字或水印。",
+      "en": "Created a video, 30 seconds, in a dark cinematic thriller style, featuring a young woman walking alone toward a large modern building at night. She slowly looks around with a worried and alert expression as the camera moves from a wide establishing shot into a close-up angle of her face. Suddenly, she turns and starts running toward a narrow underground concrete passage, carrying a shoulder bag while her footsteps echo through the empty corridor. Use smooth tracking shots, handheld movement, realistic body motion, overhead industrial lights, deep shadows, and subtle blue-green cinematic tones. As she runs deeper inside, red emergency lighting gradually appears and creates a tense atmosphere. The camera follows closely from behind and shifts between wide, side, and low-angle shots to increase suspense. Near the end, she reaches a heavy door, pushes it open, and rushes outside into the dark night. Keep the visuals photorealistic, cinematic, atmospheric, and emotionally intense, with natural lighting, realistic textures, smooth motion, and no on-screen text or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

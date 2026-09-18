@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T16:48:36.164Z",
+  "model": "seedance",
+  "prompt": "A young cloud shepherd riding a fluffy flying creature races through a sky pasture where storm clouds have broken loose and become giant stampeding animals made of thunder, he lassos a lightning ram, jumps between floating islands, surfs along a rainbow that bends under his feet and tries to herd the storm back toward a gigantic weather gate before it reaches a peaceful city below; cinematic fantasy 3D animation, soft sculpted cloud characters with expressive faces, huge aerial depth, fluid camera soaring through vapor, luminous sunrise, electric violet lightning, rainbow refractions, mist trails and sparkling rain droplets, whimsical yet epic atmosphere, ending with the shepherd whistling once as every storm creature suddenly transforms into gentle raincloud sheep and pours a perfect rainbow over the city.",
+  "promptTranslations": {
+    "en": "A young cloud shepherd riding a fluffy flying creature races through a sky pasture where storm clouds have broken loose and become giant stampeding animals made of thunder, he lassos a lightning ram, jumps between floating islands, surfs along a rainbow that bends under his feet and tries to herd the storm back toward a gigantic weather gate before it reaches a peaceful city below; cinematic fantasy 3D animation, soft sculpted cloud characters with expressive faces, huge aerial depth, fluid camera soaring through vapor, luminous sunrise, electric violet lightning, rainbow refractions, mist trails and sparkling rain droplets, whimsical yet epic atmosphere, ending with the shepherd whistling once as every storm creature suddenly transforms into gentle raincloud sheep and pours a perfect rainbow over the city."
+  },
+  "summaryTranslations": {
+    "en": "A whimsical 3D animated fantasy where a young cloud shepherd lassos thunder rams, surfs rainbows, and herds storm clouds into raincloud sheep."
+  },
+  "translationVersion": 2,
+  "summary": "A whimsical 3D animated fantasy where a young cloud shepherd lassos thunder rams, surfs rainbows, and herds storm clouds into raincloud sheep.",
+  "summaryEn": "A whimsical 3D animated fantasy where a young cloud shepherd lassos thunder rams, surfs rainbows, and herds storm clouds into raincloud sheep.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100963101524820154",
+    "canonicalUrl": "https://x.com/CharaspowerAI/status/2100963101524820154",
+    "author": {
+      "username": "CharaspowerAI",
+      "displayName": "Pierrick Chevallier | IA",
+      "profileUrl": "https://x.com/CharaspowerAI"
+    },
+    "publishedAt": "2026-09-18T15:00:12.000Z",
+    "collectedAt": "2026-09-18T16:16:16.321Z",
+    "language": "en",
+    "originalText": "This is the kind of prompt that makes me love AI animation .\nNot realism.\nNot another fight scene.\n\nJust a completely absurd idea treated like a real animated feature. ☁️🌈\nFull Seedance prompt below 👇\nA young cloud shepherd riding a fluffy flying creature races through a sky pasture where storm clouds have broken loose and become giant stampeding animals made of thunder, he lassos a lightning ram, jumps between floating islands, surfs along a rainbow that bends under his feet and tries to herd the storm back toward a gigantic weather gate before it reaches a peaceful city below; cinematic fantasy 3D animation, soft sculpted cloud characters with expressive faces, huge aerial depth, fluid camera soaring through vapor, luminous sunrise, electric violet lightning, rainbow refractions, mist trails and sparkling rain droplets, whimsical yet epic atmosphere, ending with the shepherd whistling once as every storm creature suddenly transforms into gentle raincloud sheep and pours a perfect rainbow over the city.\n\n#DreaminaCPP  \n@dreamina_ai",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/CharaspowerAI/status/2100963101524820154",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100963064921063424/pu/img/0wO8dbJJNGtUxbJL.jpg",
+        "analysisUrl": "https://x.com/CharaspowerAI/status/2100963101524820154"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 664
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CharaspowerAI/status/2100963101524820154",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2100963064921063424/pu/img/0wO8dbJJNGtUxbJL.jpg",
+  "coverPath": "covers/2100963101524820154.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100963064921063424",
+    "x-post:2100963101524820154"
+  ],
+  "analysis": {
+    "summary": "A whimsical 3D animated fantasy where a young cloud shepherd lassos thunder rams, surfs rainbows, and herds storm clouds into raincloud sheep.",
+    "summaryEn": "A whimsical 3D animated fantasy where a young cloud shepherd lassos thunder rams, surfs rainbows, and herds storm clouds into raincloud sheep.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video closely portrays the cloud shepherd lassoing lightning rams, rainbow surfing, the weather portal, whistling, and the sheep turning into rainclouds."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A young cloud shepherd riding a fluffy flying creature races through a sky pasture where storm clouds have broken loose and become giant stampeding animals made of thunder, he lassos a lightning ram, jumps between floating islands, surfs along a rainbow that bends under his feet and tries to herd the storm back toward a gigantic weather gate before it reaches a peaceful city below; cinematic fantasy 3D animation, soft sculpted cloud characters with expressive faces, huge aerial depth, fluid camera soaring through vapor, luminous sunrise, electric violet lightning, rainbow refractions, mist trails and sparkling rain droplets, whimsical yet epic atmosphere, ending with the shepherd whistling once as every storm creature suddenly transforms into gentle raincloud sheep and pours a perfect rainbow over the city.",
+    "sourceRange": {
+      "start": 201,
+      "end": 1019
+    },
+    "translations": {
+      "zh": "一位年轻的云朵牧童骑着毛茸茸的飞行生物，在一片天空牧场上飞驰。暴风云挣脱了束缚，化作由雷电构成的巨大奔腾兽群。他用套索套住一只闪电公羊，在浮岛之间跳跃，脚踏弯曲的彩虹滑行，试图在风暴到达下方宁静的城市之前，将其赶回一座巨大的气象大门；电影级奇幻3D动画，拥有生动面孔的柔和雕塑风云朵角色，深远的空中纵深感，流畅的镜头穿梭于水汽之中，明亮的日出，电光紫色的闪电，彩虹折射，薄雾轨迹与闪烁的雨滴，既奇幻又史诗的氛围，结尾牧童吹了一声口哨，所有风暴生物瞬间化作温顺的雨云羊群，在城市上空洒下一道完美的彩虹。",
+      "en": "A young cloud shepherd riding a fluffy flying creature races through a sky pasture where storm clouds have broken loose and become giant stampeding animals made of thunder, he lassos a lightning ram, jumps between floating islands, surfs along a rainbow that bends under his feet and tries to herd the storm back toward a gigantic weather gate before it reaches a peaceful city below; cinematic fantasy 3D animation, soft sculpted cloud characters with expressive faces, huge aerial depth, fluid camera soaring through vapor, luminous sunrise, electric violet lightning, rainbow refractions, mist trails and sparkling rain droplets, whimsical yet epic atmosphere, ending with the shepherd whistling once as every storm creature suddenly transforms into gentle raincloud sheep and pours a perfect rainbow over the city."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic animated short scene featuring a cloud shepherd herding thunder creatures.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
