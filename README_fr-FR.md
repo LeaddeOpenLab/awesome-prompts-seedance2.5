@@ -2964,20 +2964,40 @@ Traduction en cours
 
 <a name="prompt-2100829705129877876"></a>
 
-### Traduction en cours
+### Prompt de comédie animée en 3D d'un tigre dodu poursuivant un coq avec une tapette à mouches rose dans une prairie.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2100829705129877876)
 
 Rendu 3D · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de comédie animée en 3D d'un tigre dodu poursuivant un coq avec une tapette à mouches rose dans une prairie.
 
 <img src="covers/2100829705129877876.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence comique animée en 3D de haute qualité de 15 secondes dans une prairie de campagne lumineuse et colorée.
+
+Un énorme tigre dodu orange et noir aux traits de dessin animé très expressifs poursuit joyeusement un petit coq énergique à travers un champ vert et ensoleillé. Le tigre tient une tapette à mouches rose surdimensionnée dans une patte et tente à plusieurs reprises d'attraper le coq.
+
+0–2 secondes : Commencez par un plan large en contre-plongée de la magnifique prairie sous un ciel bleu éclatant avec de doux nuages blancs, des fleurs sauvages colorées et des arbres lointains. Le tigre court vers la caméra tandis que le coq s'enfuit désespérément devant lui.
+
+2–4 secondes : Passez rapidement à un plan dynamique en contre-plongée alors que le tigre balance la tapette à mouches rose géante vers le coq. Le coq s'échappe de justesse en sautant sur le côté.
+
+4–7 secondes : Montrez le tigre faisant un saut exagéré dans les airs, les pattes tendues vers l'avant, tandis que le coq saute et volette juste hors de portée. Utilisez des mouvements de caméra énergiques et un léger flou de mouvement pour un effet comique.
+
+7–10 secondes : Alternez entre des plans rapprochés et des plans moyens alors que le tigre agite à plusieurs reprises la tapette à mouches rose à travers l'herbe. Le coq esquive chaque tentative avec des mouvements de dessin animé exagérés mais crédibles.
+
+10–12 secondes : Le tigre devient de plus en plus frustré et charge en avant à toute vitesse. Le coq change soudainement de direction, faisant perdre l'équilibre au tigre.
+
+12–15 secondes : Plan cinématographique large final : le tigre culbute dramatiquement sur l'herbe douce et reste affalé, épuisé et étourdi, tandis que le coq se tient calmement à proximité en le regardant. La tapette à mouches rose atterrit dans l'herbe non loin. Terminez sur le contraste amusant entre le tigre épuisé et le coq victorieux.
+
+Style visuel : animation 3D soignée et haut de gamme, esthétique de dessin animé cinématographique colorée, pelage et plumes détaillés, visages expressifs, animation fluide des personnages, comédie physique exagérée, ombres réalistes, lumière estivale éclatante, herbe verte vibrante, fleurs colorées, ciel bleu, profondeur de champ cinématographique, prises de vue dynamiques en contre-plongée, suivi fluide, coupes d'action rapides, léger flou de mouvement, physique crédible, humour enjoué et familial.
+
+Cohérence des personnages : conservez le même grand tigre potelé, les mêmes rayures orange et noires, le même coq, la même tapette à mouches rose et la même prairie tout au long de la vidéo.
+
+Prompt négatif : photoréalisme, prise de vue réelle, horreur, éclairage sombre, personnages déformés, visages difformes, membres supplémentaires, pattes mal formées, animaux dupliqués, anatomie anormale, scintillement, changements de personnage, texte, sous-titres, logos, filigrane
 ```
 
 [↑ Retour aux catégories](#catalog)

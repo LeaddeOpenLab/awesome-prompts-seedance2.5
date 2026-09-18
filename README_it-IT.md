@@ -2964,20 +2964,40 @@ Traduzione in corso
 
 <a name="prompt-2100829705129877876"></a>
 
-### Traduzione in corso
+### Prompt per commedia animata in 3D di una tigre paffuta che insegue un gallo con uno scacciamosche rosa in un prato.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2100829705129877876)
 
 Rendering 3D · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per commedia animata in 3D di una tigre paffuta che insegue un gallo con uno scacciamosche rosa in un prato.
 
 <img src="covers/2100829705129877876.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza comica animata in 3D di alta qualità di 15 secondi in un prato di campagna luminoso e colorato.
+
+Un'enorme tigre paffuta arancione e nera con tratti facciali da cartone animato molto espressivi insegue giocosamente un piccolo ed energico gallo attraverso un campo verdeggiante e soleggiato. La tigre tiene uno scacciamosche rosa gigante in una zampa e cerca ripetutamente di catturare il gallo.
+
+0–2 secondi: Inizia con un'inquadratura ampia dal basso dello splendido prato sotto un vivido cielo blu con soffici nuvole bianche, fiori selvatici colorati e alberi in lontananza. La tigre corre verso la telecamera mentre il gallo scappa disperatamente davanti a lei.
+
+2–4 secondi: Passa rapidamente a una dinamica inquadratura dal basso mentre la tigre fa oscillare l'enorme scacciamosche rosa verso il gallo. Il gallo scappa per un soffio, saltando di lato.
+
+4–7 secondi: Mostra la tigre compiere un balzo esagerato a mezz'aria, con le zampe protese in avanti, mentre il gallo salta e svolazza appena fuori portata. Usa movimenti energici della telecamera e una leggera sfocatura di movimento per un impatto comico.
+
+7–10 secondi: Stacca tra primi piani e mezze figure mentre la tigre fa sventolare ripetutamente lo scacciamosche rosa sull'erba. Il gallo schiva ogni tentativo con movimenti da cartone animato esagerati ma credibili.
+
+10–12 secondi: La tigre diventa sempre più frustrata e carica in avanti a tutta velocità. Il gallo cambia improvvisamente direzione, facendo perdere l'equilibrio alla tigre.
+
+12–15 secondi: Inquadratura cinematografica finale ampia: la tigre rotola drammaticamente sulla morbida erba e rimane distesa a terra, esausta e stordita, mentre il gallo se ne sta calmo lì vicino a guardarla. Lo scacciamosche rosa cade nell'erba a poca distanza. Concludi sul divertente contrasto tra la tigre esausta e il gallo vittorioso.
+
+Stile visivo: animazione 3D rifinita di alto livello, estetica da cartone animato cinematografico e colorato, pelliccia e piume dettagliate, volti espressivi, animazione fluida dei personaggi, commedia slapstick esagerata, ombre realistiche, luminosa luce solare estiva, erba verde brillante, fiori colorati, cielo blu, profondità di campo cinematografica, dinamiche inquadrature dal basso, tracking fluido, tagli d'azione rapidi, sottile sfocatura di movimento, fisica credibile, umorismo allegro e adatto a tutta la famiglia.
+
+Coerenza dei personaggi: mantieni la stessa tigre grande e paffuta, le stesse strisce arancioni e nere, lo stesso gallo, lo stesso scacciamosche rosa e lo stesso prato per l'intero video.
+
+Prompt negativo: fotorealismo, live action, horror, illuminazione scura, personaggi distorti, volti deformi, arti extra, zampe malformate, animali duplicati, anatomia innaturale, sfarfallio, cambiamenti di personaggi, testo, sottotitoli, loghi, watermark
 ```
 
 [↑ Torna alle categorie](#catalog)

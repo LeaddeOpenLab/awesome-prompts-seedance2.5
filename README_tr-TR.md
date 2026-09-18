@@ -2958,20 +2958,40 @@ Yazar：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Orijinal gönderi](https:
 
 <a name="prompt-2100829705129877876"></a>
 
-### Çeviri sürüyor
+### Çayırda pembe bir sineklikle horozu kovalayan tombul bir kaplanın 3D animasyon komedi istemi.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2100829705129877876)
 
 3D Modelleme · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çayırda pembe bir sineklikle horozu kovalayan tombul bir kaplanın 3D animasyon komedi istemi.
 
 <img src="covers/2100829705129877876.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aydınlık ve renkli bir kır çayırında geçen, 15 saniyelik, yüksek kaliteli bir 3D animasyon komedi sekansı oluşturun.
+
+Etkileyici çizgi film yüz hatlarına sahip, devasa, tombul, turuncu-siyah bir kaplan, güneşli yeşil bir alanda küçük ve enerjik bir horozu neşeyle kovalıyor. Kaplan bir patisinde devasa pembe bir sineklik tutuyor ve defalarca horozu yakalamaya çalışıyor.
+
+0–2 saniye: Yumuşak beyaz bulutların, renkli kır çiçeklerinin ve uzaktaki ağaçların yer aldığı canlı mavi bir gökyüzü altındaki güzel çayırın alt açıdan geniş çekimiyle başlayın. Horoz çaresizce önünde kaçarken, kaplan kameraya doğru koşar.
+
+2–4 saniye: Kaplan devasa pembe sinekliği horoza doğru savururken hızla dinamik bir alt açı çekimine geçin. Horoz yana sıçrayarak kıl payı kurtulur.
+
+4–7 saniye: Kaplanın patileri öne doğru uzanmış şekilde havada abartılı bir sıçrayış yaptığını, horozun ise tam yetişilemeyecek bir mesafede zıplayıp kanat çırparak kaçtığını gösterin. Komedi etkisini artırmak için enerjik kamera hareketleri ve hafif hareket bulanıklığı kullanın.
+
+7–10 saniye: Kaplan pembe sinekliği çimenlerin üzerinde tekrar tekrar savururken yakın ve orta çekimler arasında geçiş yapın. Horoz her hamleden abartılı ama inandırıcı çizgi film hareketleriyle kaçar.
+
+10–12 saniye: Kaplan giderek daha fazla hırslanır ve tam hızla ileri doğru atılır. Horoz aniden yön değiştirerek kaplanın dengesini kaybetmesine neden olur.
+
+12–15 saniye: Kapanışta sinematik geniş çekim: Kaplan dramatik bir şekilde yumuşak çimenlerin üzerine yuvarlanır ve bitkin, sersemlemiş halde yere serilir; horoz ise sakin bir şekilde yakınında durup ona bakar. Pembe sineklik yakındaki çimlerin üzerine düşer. Yorgun düşmüş kaplan ile muzaffer horoz arasındaki komik tezatla sonlandırın.
+
+Görsel stil: Kusursuz üst düzey 3D animasyon, renkli sinematik çizgi film estetiği, ayrıntılı kürk ve tüyler, etkileyici yüzler, pürüzsüz karakter animasyonu, abartılı durum komedisi (fiziksel komedi), gerçekçi gölgeler, parlak yaz güneşi ışığı, canlı yeşil çimenler, renkli çiçekler, mavi gökyüzü, sinematik alan derinliği, dinamik alt açı kamera çekimleri, akıcı kamera takibi, hızlı aksiyon kesmeleri, hafif hareket bulanıklığı, inandırıcı fizik kuralları, eğlenceli ve aile dostu mizah.
+
+Karakter tutarlılığı: Video boyunca aynı büyük tombul kaplanı, aynı turuncu-siyah çizgileri, aynı horozu, aynı pembe sinekliği ve aynı çayırı koruyun.
+
+Negatif istem: fotogerçekçilik, canlı çekim (live action), korku, karanlık aydınlatma, bozuk karakterler, deforme yüzler, fazladan uzuvlar, şekli bozuk patiler, kopyalanmış hayvanlar, doğal olmayan anatomi, titreme/kırpışma, karakter değişiklikleri, metin, altyazı, logolar, filigran
 ```
 
 [↑ Kategorilere dön](#catalog)

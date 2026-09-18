@@ -2964,20 +2964,40 @@ Illustration · Skizze / Strichzeichnung · Aquarell · Tinte / Chinesischer Sti
 
 <a name="prompt-2100829705129877876"></a>
 
-### Übersetzung läuft
+### 3D-animierter Comedy-Prompt eines rundlichen Tigers, der einen Hahn mit einer rosa Fliegenklappe auf einer Wiese jagt.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2100829705129877876)
 
 3D-Rendering · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3D-animierter Comedy-Prompt eines rundlichen Tigers, der einen Hahn mit einer rosa Fliegenklappe auf einer Wiese jagt.
 
 <img src="covers/2100829705129877876.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 15-sekündige, hochwertige 3D-animierte Comedy-Sequenz auf einer hellen, farbenfrohen ländlichen Wiese.
+
+Ein riesiger, rundlicher orange-schwarzer Tiger mit ausdrucksstarken Cartoon-Gesichtszügen jagt spielerisch einen kleinen, energiegeladenen Hahn durch ein sonniges grünes Feld. Der Tiger hält eine übergroße rosa Fliegenklappe in einer Pfote und versucht wiederholt, den Hahn zu fangen.
+
+0–2 Sekunden: Beginne mit einer weiten Froschperspektive der wunderschönen Wiese unter einem lebhaften blauen Himmel mit sanften weißen Wolken, bunten Wildblumen und fernen Bäumen. Der Tiger rennt auf die Kamera zu, während der Hahn verzweifelt vor ihm davonläuft.
+
+2–4 Sekunden: Wechsle schnell zu einer dynamischen Froschperspektive, während der Tiger die übergroße rosa Fliegenklappe in Richtung des Hahns schwingt. Der Hahn entkommt knapp durch einen Sprung zur Seite.
+
+4–7 Sekunden: Zeige den Tiger bei einem übertriebenen Sprung durch die Luft, die Pfoten nach vorne gestreckt, während der Hahn knapp außer Reichweite springt und flattert. Nutze energische Kamerabewegungen und eine leichte Bewegungsunschärfe für komödiantische Wirkung.
+
+7–10 Sekunden: Schneide zwischen Nah- und Halbnahaufnahmen, während der Tiger die rosa Fliegenklappe wiederholt über das Gras schwingt. Der Hahn weicht jedem Versuch mit übertriebenen, aber glaubwürdigen Cartoon-Bewegungen aus.
+
+10–12 Sekunden: Der Tiger wird zunehmend frustriert und stürmt mit voller Geschwindigkeit vorwärts. Der Hahn ändert plötzlich die Richtung, wodurch der Tiger das Gleichgewicht verliert.
+
+12–15 Sekunden: Finale weite filmische Aufnahme: Der Tiger stürzt dramatisch auf das weiche Gras und liegt alle viere von sich gestreckt, erschöpft und benommen da, während der Hahn ruhig in der Nähe steht und ihn ansieht. Die rosa Fliegenklappe landet in der Nähe im Gras. Ende mit dem lustigen Kontrast zwischen dem erschöpften Tiger und dem siegreichen Hahn.
+
+Visueller Stil: polierte High-End-3D-Animation, farbenfrohe filmische Cartoon-Ästhetik, detailliertes Fell und Federn, ausdrucksstarke Gesichter, flüssige Charakteranimation, übertriebene Slapstick-Comedy, realistische Schatten, helles sommerliches Sonnenlicht, leuchtend grünes Gras, bunte Blumen, blauer Himmel, filmische Tiefenschärfe, dynamische Kameraufnahmen aus der Froschperspektive, sanftes Tracking, schnelle Actionschnitte, subtile Bewegungsunschärfe, glaubwürdige Physik, verspielter, familienfreundlicher Humor.
+
+Charakterkonsistenz: Behalte denselben großen, rundlichen Tiger, dieselben orange-schwarzen Streifen, denselben Hahn, dieselbe rosa Fliegenklappe und dieselbe Wiese während des gesamten Videos bei.
+
+Negativer Prompt: Fotorealismus, Live-Action, Horror, dunkle Beleuchtung, verzerrte Charaktere, deformierte Gesichter, zusätzliche Gliedmaßen, missgebildete Pfoten, duplizierte Tiere, unnatürliche Anatomie, Flackern, Charakterveränderungen, Text, Untertitel, Logos, Wasserzeichen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

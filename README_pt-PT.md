@@ -2958,20 +2958,40 @@ Tradução em curso
 
 <a name="prompt-2100829705129877876"></a>
 
-### Tradução em curso
+### Prompt de comédia em animação 3D de um tigre gordinho a perseguir um galo com um mata-moscas cor-de-rosa num prado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2100829705129877876)
 
 Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de comédia em animação 3D de um tigre gordinho a perseguir um galo com um mata-moscas cor-de-rosa num prado.
 
 <img src="covers/2100829705129877876.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma sequência de comédia em animação 3D de alta qualidade com 15 segundos num prado campestre luminoso e colorido.
+
+Um tigre enorme e rechonchudo, cor-de-laranja e preto, com traços faciais expressivos de desenho animado, persegue de forma divertida um pequeno e enérgico galo através de um campo verde soalheiro. O tigre segura um mata-moscas cor-de-rosa gigante numa das patas e tenta repetidamente apanhar o galo.
+
+0–2 segundos: Comece com um plano geral em ângulo baixo do belo prado sob um céu azul vívido com nuvens brancas e suaves, flores silvestres coloridas e árvores distantes. O tigre corre em direção à câmara enquanto o galo foge desesperadamente à sua frente.
+
+2–4 segundos: Mude rapidamente para um plano dinâmico em ângulo baixo enquanto o tigre vibra o mata-moscas cor-de-rosa desmesurado na direção do galo. O galo escapa à justa, saltando de lado.
+
+4–7 segundos: Mostre o tigre a dar um salto exagerado pelo ar, com as patas esticadas para a frente, enquanto o galo salta e esvoaça mesmo fora de alcance. Utilize movimentos de câmara enérgicos e uma ligeira desfocagem de movimento para criar impacto cómico.
+
+7–10 segundos: Alterne entre planos aproximados e médios enquanto o tigre agita repetidamente o mata-moscas cor-de-rosa pela relva. O galo desvia-se de cada tentativa com movimentos de desenho animado exagerados, mas credíveis.
+
+10–12 segundos: O tigre fica cada vez mais frustrado e avança a toda a velocidade. O galo muda repentinamente de direção, fazendo com que o tigre perca o equilíbrio.
+
+12–15 segundos: Plano cinematográfico geral final: o tigre tomba dramaticamente sobre a relva macia e fica estatelado, exausto e atordoado, enquanto o galo permanece calmamente por perto a olhar para ele. O mata-moscas cor-de-rosa cai na relva ali perto. Termine no contraste cómico entre o tigre exausto e o galo vitorioso.
+
+Estilo visual: animação 3D requintada de alto nível, estética de desenho animado cinematográfico colorido, pelos e penas detalhados, rostos expressivos, animação suave de personagens, comédia física exagerada, sombras realistas, luz solar de verão brilhante, relva verde vibrante, flores coloridas, céu azul, profundidade de campo cinematográfica, planos de câmara dinâmicos em ângulo baixo, rastreio fluído, cortes rápidos de ação, subtil desfocagem de movimento, física credível, humor divertido para toda a família.
+
+Consistência das personagens: mantenha o mesmo tigre grande e rechonchudo, as mesmas riscas cor-de-laranja e pretas, o mesmo galo, o mesmo mata-moscas cor-de-rosa e o mesmo prado ao longo de todo o vídeo.
+
+Prompt negativo: fotorrealismo, imagem real, terror, iluminação escura, personagens distorcidas, rostos deformados, membros adicionais, patas malformadas, animais duplicados, anatomia não natural, tremeluzir, alterações de personagens, texto, legendas, logótipos, marca de água
 ```
 
 [↑ Voltar às categorias](#catalog)

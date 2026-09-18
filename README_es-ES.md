@@ -3039,20 +3039,40 @@ Traducción en curso
 
 <a name="prompt-2100829705129877876"></a>
 
-### Traducción en curso
+### Prompt de comedia animada en 3D de un tigre rechoncho persiguiendo a un gallo con un matamoscas rosa en un prado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2100829705129877876)
 
 Render 3D · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de comedia animada en 3D de un tigre rechoncho persiguiendo a un gallo con un matamoscas rosa en un prado.
 
 <img src="covers/2100829705129877876.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia cómica animada en 3D de alta calidad de 15 segundos en un prado campestre brillante y colorido.
+
+Un tigre enorme y rechoncho de color naranja y negro con expresivos rasgos faciales de caricatura persigue juguetonamente a un pequeño y enérgico gallo a través de un campo verde y soleado. El tigre sostiene un matamoscas rosa de gran tamaño en una pata e intenta atrapar al gallo repetidamente.
+
+0–2 segundos: Comienza con un plano general en ángulo contrapicado del hermoso prado bajo un cielo azul vivo con suaves nubes blancas, flores silvestres coloridas y árboles lejanos. El tigre corre hacia la cámara mientras el gallo huye desesperadamente delante de él.
+
+2–4 segundos: Pasa rápidamente a una toma dinámica en ángulo contrapicado mientras el tigre balancea el enorme matamoscas rosa hacia el gallo. El gallo escapa por poco, saltando hacia un lado.
+
+4–7 segundos: Muestra al tigre dando un salto exagerado en el aire, con las patas estiradas hacia adelante, mientras el gallo salta y vuela justo fuera de su alcance. Usa un movimiento de cámara enérgico y un ligero desenfoque de movimiento para lograr un impacto cómico.
+
+7–10 segundos: Alterna entre planos cortos y medios mientras el tigre balancea repetidamente el matamoscas rosa a través de la hierba. El gallo esquiva cada intento con movimientos de caricatura exagerados pero creíbles.
+
+10–12 segundos: El tigre se frustra cada vez más y arremete hacia adelante a toda velocidad. El gallo cambia repentinamente de dirección, haciendo que el tigre pierda el equilibrio.
+
+12–15 segundos: Plano general cinematográfico final: el tigre tropieza dramáticamente sobre la hierba suave y queda tendido, exhausto y aturdido, mientras el gallo se queda tranquilamente cerca mirándolo. El matamoscas rosa aterriza en la hierba cercana. Termina en el divertido contraste entre el tigre exhausto y el gallo victorioso.
+
+Estilo visual: animación 3D pulida de alta gama, estética de caricatura cinematográfica colorida, pelaje y plumas detallados, rostros expresivos, animación fluida de personajes, comedia física exagerada, sombras realistas, luz solar de verano brillante, hierba verde vibrante, flores coloridas, cielo azul, profundidad de campo cinematográfica, tomas de cámara dinámicas en ángulo contrapicado, seguimiento suave, cortes de acción rápidos, desenfoque de movimiento sutil, física creíble, humor juguetón apto para toda la familia.
+
+Consistencia de personajes: mantén el mismo tigre grande y rechoncho, las mismas rayas naranjas y negras, el mismo gallo, el mismo matamoscas rosa y el mismo prado a lo largo de todo el video.
+
+Prompt negativo: fotorrealismo, acción real, terror, iluminación oscura, personajes distorsionados, rostros deformes, extremidades adicionales, patas malformadas, animales duplicados, anatomía no natural, parpadeo, cambios de personaje, texto, subtítulos, logotipos, marca de agua
 ```
 
 [↑ Volver a categorías](#catalog)

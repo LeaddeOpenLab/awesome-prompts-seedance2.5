@@ -3053,20 +3053,40 @@ Minh họa · Phác Thảo / Nét Vẽ · Màu nước · Mực / Phong cách Tr
 
 <a name="prompt-2100829705129877876"></a>
 
-### Đang dịch
+### Lời nhắc hài kịch hoạt hình 3D về chú hổ béo ú đuổi theo chú gà trống bằng chiếc vỉ đập ruồi màu hồng trên đồng cỏ.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2100829705129877876)
 
 Kết xuất 3D · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hài kịch hoạt hình 3D về chú hổ béo ú đuổi theo chú gà trống bằng chiếc vỉ đập ruồi màu hồng trên đồng cỏ.
 
 <img src="covers/2100829705129877876.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phân cảnh hài kịch hoạt hình 3D chất lượng cao dài 15 giây trên một đồng cỏ nông thôn tươi sáng, đầy màu sắc.
+
+Một chú hổ béo ú, to lớn màu cam sọc đen với các đường nét khuôn mặt hoạt hình đầy biểu cảm đang tinh nghịch đuổi theo một chú gà trống nhỏ tràn đầy năng lượng trên cánh đồng xanh ngập tràn ánh nắng. Chú hổ cầm một chiếc vỉ đập ruồi màu hồng ngoại cỡ ở một bên chân và liên tục cố gắng bắt chú gà trống.
+
+0–2 giây: Bắt đầu với một góc quay rộng từ dưới lên của đồng cỏ tuyệt đẹp dưới bầu trời xanh rực rỡ với những đám mây trắng mềm mại, hoa dại đầy màu sắc và những hàng cây xa xa. Chú hổ chạy về phía máy quay trong khi chú gà trống tuyệt vọng chạy trốn ở phía trước.
+
+2–4 giây: Nhanh chóng chuyển sang một góc quay thấp sống động khi chú hổ vung chiếc vỉ đập ruồi màu hồng khổng lồ về phía chú gà trống. Chú gà trống nhảy sang một bên thoát hiểm trong gang tấc.
+
+4–7 giây: Cho thấy chú hổ thực hiện một cú nhảy phóng đại trên không trung, hai chân trước duỗi thẳng về phía trước, trong khi chú gà trống nhảy và bay vừa vặn ngoài tầm với. Sử dụng chuyển động máy quay tràn đầy năng lượng và hiệu ứng mờ chuyển động nhẹ để tạo hiệu ứng hài hước.
+
+7–10 giây: Cắt xen kẽ giữa các cảnh quay cận cảnh và trung cảnh khi chú hổ liên tục vung chiếc vỉ đập ruồi màu hồng trên bãi cỏ. Chú gà trống né tránh mọi nỗ lực với những chuyển động hoạt hình phóng đại nhưng hợp lý.
+
+10–12 giây: Chú hổ ngày càng trở nên thất vọng và lao về phía trước với tốc độ tối đa. Chú gà trống đột ngột đổi hướng, khiến chú hổ mất thăng bằng.
+
+12–15 giây: Cảnh quay điện ảnh góc rộng cuối cùng: chú hổ ngã nhào đầy kịch tính xuống bãi cỏ mềm và nằm sóng soài, kiệt sức và choáng váng, trong khi chú gà trống bình tĩnh đứng gần đó nhìn chú hổ. Chiếc vỉ đập ruồi màu hồng rơi trên bãi cỏ gần đó. Kết thúc bằng sự tương phản hài hước giữa chú hổ kiệt sức và chú gà trống chiến thắng.
+
+Phong cách hình ảnh: hoạt hình 3D cao cấp trau chuốt, thẩm mỹ hoạt hình điện ảnh đầy màu sắc, lông thú và lông vũ chi tiết, khuôn mặt biểu cảm, chuyển động nhân vật mượt mà, hài hình thể phóng đại, bóng đổ chân thực, ánh nắng mùa hè rực rỡ, cỏ xanh mướt, hoa đầy màu sắc, bầu trời xanh, độ sâu trường ảnh điện ảnh, các góc máy thấp năng động, chuyển động máy mượt mà, cắt cảnh hành động nhanh, hiệu ứng mờ chuyển động tinh tế, vật lý đáng tin cậy, hài hước vui tươi phù hợp với gia đình.
+
+Tính nhất quán của nhân vật: giữ nguyên chú hổ béo to lớn, cùng các sọc màu cam và đen, cùng một chú gà trống, cùng một chiếc vỉ đập ruồi màu hồng và cùng một đồng cỏ xuyên suốt toàn bộ video.
+
+Lời nhắc phủ định: chủ nghĩa siêu thực, người thật đóng, kinh dị, ánh sáng tối, nhân vật bị méo mó, khuôn mặt biến dạng, thừa chi, móng vuốt dị dạng, động vật bị nhân đôi, giải phẫu bất thường, nhấp nháy, thay đổi nhân vật, văn bản, phụ đề, biểu trưng, hình mờ
 ```
 
 [↑ Về danh mục](#catalog)
