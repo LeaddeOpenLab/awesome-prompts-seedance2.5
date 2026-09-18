@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**125** Prompts · Latest addition: **2026-09-17**
+**121** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -310,78 +310,70 @@ Authentic 2026 travel footage, natural Japanese scenery, realistic walking and h
 
 <a name="prompt-2097097582262825180"></a>
 
-### A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.
+### 15-second first-person POV pool hall flirtatious comedy video prompt, featuring a detailed storyboard timeline, character interactions, camera movements, billiard shot trajectory, audio design, and negative constraints.
 
 Author：[@john87445528](https://x.com/john87445528) · [Source](https://x.com/john87445528/status/2097097582262825180)
 
 Comic / Storyboard · Photography · Character · Published
 
-**Summary:** A 15-second first-person POV video prompt for a flirty comedy scene in a pool hall, featuring detailed timestamps, character interactions, camera motion, pool shot trajectories, audio cues, and negative constraints.
+**Summary:** 15-second first-person POV pool hall flirtatious comedy video prompt, featuring a detailed storyboard timeline, character interactions, camera movements, billiard shot trajectory, audio design, and negative constraints.
 
 <img src="covers/2097097582262825180.jpg" alt="Image 1" width="480" />
 
 **Prompt**
 
 ```text
-| 15 seconds | Male Protagonist First-Person POV | Siren-Style Flirtatious Comedy
+｜15 seconds｜Male lead first-person POV｜Siren-aesthetic flirtatious comedy
 
 【Plot Lock】
-The adult female protagonist #1 notices the male lead preparing to take a shot, deliberately walks into his field of vision, proactively sits sideways on the pool table cushion, flexes one leg so that the original cut of designated outfit #2 naturally reveals her thigh line, using a siren-like gaze and posture to disrupt his aim. The male lead pauses his cue and looks up; she thinks her little ploy has succeeded. Instead, the male lead impatiently flips the cue stick around and uses the thick rubber butt end to lightly tap the side of her hip through her clothes, urging her to get off the table. Having been seen through, she playfully yet helplessly steps aside. The male lead immediately resumes his shot; the cue ball strikes the target ball, and the target ball drops into the pocket.
-The sequence must fully depict "her standing initially — proactively climbing onto the table — deliberately showing off her leg line while observing his reaction." Knowing it disrupts the game, she actively tests him; the scene cannot open with her already seated, nor can it be framed as an accidental obstruction.
+The adult female lead #1 notices the male lead preparing to shoot, deliberately steps into his field of vision, actively sits sideways on the pool table cushion, bends one leg to let the original tailoring of the designated #2 costume naturally display her thigh lines, and uses a siren-aesthetic gaze and posture to disrupt his aim. The male lead pauses his cue and looks up; she assumes her little ploy has worked. Instead, the male lead impatiently flips the cue around, using the thick rubber bumper end to gently poke her side hip through her clothing, urging her off the table. Realizing her trick was seen through, she steps aside with a playful yet helpless reaction. The male lead immediately resumes his shot; the cue ball strikes the object ball, and the object ball drops cleanly into the pocket.
+The progression "she first stands—actively mounts the table—deliberately displays her leg lines and observes his reaction" must be fully presented. Knowing it will interfere with the shot, she still actively tests him; do not start with her already seated, nor portray it as accidentally blocking the way.
 
-【Characters & Wardrobe】
-The only visible character on screen is the adult female protagonist #1, maintaining consistent face, hairstyle, and body shape. #1 is fully dressed in designated #2 screenshot_31-8-2026_22160_jimeng.jianying.com outfit, wearing decorative glasses, including the specified stockings and accessories; #2 is solely an outfit code, absolutely no second character is generated. Leg presentation must adhere to the original length, openings, and hosiery of #2 itself; cuts cannot be altered, stockings cannot be removed, and clothing cannot be shortened out of nowhere just to expose leg. 
-The adult male protagonist provides only the first-person point of view, a single cue stick, and one off-camera line of dialogue. His face, body, arms, hands, shadow, and reflection do not appear on screen. No other people or character clones appear throughout the entire video.
+【Character & Attire】
+The only visible character in the frame is the adult female lead #1, maintaining consistent face, hairstyle, and body proportions. #1 wears the complete designated #2 屏幕截图_31-8-2026_22160_jimeng.jianying.com outfit, wearing decorative glasses including the designated stockings and accessories; #2 is merely a costume reference ID, absolutely do not generate a second person. The leg presentation strictly adheres to the length, slit, and hosiery of #2 itself; do not alter cuts, eliminate stockings, or artificially shorten clothing merely to expose legs.
+The adult male lead only provides the first-person viewpoint, a single pool cue, and a single off-screen voice line. His face, body, arms, hands, shadow, and reflections must not appear in frame. No other people or character clones throughout the video.
 
-【Visuals & Cinematography】
-9:16 vertical screen, 1080×1920, 30fps, approximately 26–28mm equivalent field of view. The male lead wears a lightweight eye-level head-mounted camera, preserving the look and feel of unprocessed raw smartphone footage. Looking down at the ball, looking up at the person, and straightening the body all drive realistic camera movement. The male lead does not need to hold photographic equipment and operates the cue normally; the grip hand and bridge hand always remain below the bottom edge of the frame.
-Continuous first-person throughout, no cuts to the male lead's front, third-person, or external wide shots. Subtle breathing undulations, head swaying, and imperfect reframing; a slight focus hesitation is permitted when shifting gaze from the cue ball to #1. Cool white overhead lighting, skin tones and fabric textures preserved, minor phone sensor noise in dark areas; rapid cue adjustments have appropriate motion blur, but must not blur out the end-to-end swap. No beauty filters, skin smoothing, cinematic color grading, or gimbal stabilization.
-Framing prioritizes character action readability: climbing onto the table captures her hand on the rail, seating position, and leg movement; testing captures her face and leg line simultaneously in frame; moving her away captures both her expression and the thick butt end of the cue; finally returning to the full trajectory of cue ball, red ball, and middle pocket. The camera does not linger on a single body part for long, nor does it crop out the climbing or cue-flipping actions just to focus on the face.
+【Cinematography & Filming Relationship】
+9:16 vertical screen, 1080×1920, 30fps, approximately 26–28mm equivalent field of view. The male lead wears a lightweight head-mounted camera close to eye level, preserving the raw texture of mobile phone video. Looking down at the balls, looking up at the person, and straightening up naturally drive realistic camera motion. The male lead does not need to hold filming gear and handles the cue normally; the grip hand and bridge hand always remain outside the lower edge of the frame.
+Continuous first-person POV throughout, no cuts to the male lead's front, third-person perspective, or external wide shots. Subtle breathing undulations, head swaying, and imperfect reframing; a brief focus hesitation is allowed when shifting gaze from the cue ball to #1. Cold white overhead lighting, preserving skin and fabric textures, with subtle mobile camera noise in shadow areas; fast cue spinning has appropriate motion blur, but must not blur out the end-to-end swap. No beauty filters, skin smoothing, cinematic color grading, or gimbal stabilizer camera moves.
+Framing prioritizes character action readability: when mounting the table, keep her hand on the cushion, seating position, and leg movement visible; during her teasing, keep both face and thigh lines in frame; when shooing her away, keep both her expression and the thick cue end visible; finally return to the complete path of cue ball, red ball, and side pocket. The camera must not linger on a single body part for too long, nor crop out the table mounting or cue-flipping actions just to frame the face.
 
 【Pool Hall Environment】
-A standard indoor pool hall featuring green felt cloth, reddish-brown wooden rails, black table body, silver edging, and white mesh pockets. The background consists of dark gray and brown vertical wall paneling, light-colored blinds, and dark green waiting chairs. Overhead lights illuminate the tabletop brighter than the background. Another unoccupied pool table is visible in the distance; the setting is modest, bearing traces of real use, with the overall space and lighting remaining unchanged throughout.
-No bar lights, pink hearts, neon decor, luxury tufting, or studio backdrops. Within the frame, no other patrons, staff, portrait posters, or mirror reflections appear.
+An ordinary indoor pool hall with green felt, reddish-brown wooden rails, a black table body, silver trim, and white mesh pockets. The background consists of dark gray and brown vertical wall paneling, light-colored blinds, and dark green waiting chairs. Overhead lamps illuminate the tabletop brighter than the background. Another unoccupied pool table is visible in the distance. The environment is unpretentious with signs of actual use, with overall space and lighting remaining unchanged throughout.
+No bar lighting, pink hearts, neon decor, luxury padding, or studio sets. No other customers, staff, portrait posters, or mirror reflections within camera range.
 
-【Spatial & Game Setup】
-The male lead is positioned at the center of the near long rail, while #1 begins standing opposite at the far long rail, on the right side of the frame. The two face each other across the table width of about 1.3 meters; it cannot be altered to the length of the pool table. The opposite middle pocket is located in the upper center of the frame, serving as a clear pocketing target throughout.
-There are four balls on the table at the start: one white cue ball, one red solid object ball, one blue ball, and one yellow ball. The cue ball sits in the center of the near half of the table; the red ball is approximately 25 cm in front of the opposite middle pocket. The cue ball, red ball, and middle pocket form an easily legible straight line. The blue ball and yellow ball rest on the far left and right away from the shot line, remaining completely stationary throughout.
-#1 sits on the rail to the right of the opposite middle pocket, her body angled toward the camera; one bent leg rests lightly on the right edge of the table surface, while the other leg hangs over the outside of the table. Her legs and upper body enter the male lead's aiming field of view, but she does not step on, press, or straddle any ball. She must get off the table before the male lead shoots.
-Before she sits down, the line from the cue ball to the red ball, and the red ball to the middle pocket, is established at the beginning; after she sits down, her bent leg is to the right of this trajectory, entering his field of vision and causing a distraction, but the actual shot path is not blocked by her body. While retracting her legs and sliding off the table, she must not touch or move any ball. Ball positions remain constant from the start until the stroke is made, allowing the audience to clearly understand which ball the male lead has intended to shoot all along using the same set of positions.
+【Space & Table Setup】
+The male lead stands at the center of the near long cushion; #1 initially stands on the opposite long cushion, on the right side of the frame. The two face each other across the roughly 1.3-meter table width; do not change this to facing across the full length of the table. The opposite side pocket is located at the top center of the frame, always acting as the clear target pocket.
+At the start, there are four balls on the table: one white cue ball, one solid red object ball, one blue ball, and one yellow ball. The white ball sits in the center of the near half of the table; the red ball is about 25 cm in front of the opposite side pocket, forming an easily visible straight line between cue ball, red ball, and side pocket. The blue and yellow balls rest on the left and right sides far from the shot line, remaining static throughout.
+#1 sits on the rail to the right of the opposite side pocket, her body angled toward the camera; one bent leg rests gently along the right edge of the table surface, while the other leg dangles off the table. Her legs and upper body enter the male lead's aiming field of view, but she does not step on, press, or straddle balls. She must vacate the table before the male lead shoots.
+Before she sits down, the path from cue ball to red ball to side pocket is already established at the start; after she sits, her bent leg is to the right of this path, entering the field of view and distracting attention, but the actual shot line is not physically blocked. She must not touch any ball while retracting her legs and getting off the table. Ball positions remain unchanged from start to shot release, allowing the audience to clearly understand which ball the male lead always intends to pot.
 
 【Siren Style & Ending Expression】
-Sitting posture forms a natural S-curve: body slightly angled, shoulders dropped, neck elongated, chin tilted gently sideways, waist and hips shifted slightly to one side. The bent leg and hanging leg are staggered front-to-back, with the thigh line naturally visible in her overall silhouette; her left hand supports on the rail, while her right hand tidies a strand of hair only once. Heavy-lidded, cool-toned gaze directed straight at the male lead, with only a very subtle teasing smirk at the corners of her mouth.
-The first half is cold, glamorous, restrained, and distant; the second half allows for a playful, helpless smile as the plot dictates. Upon being seen through, she shows no panic, anger, or clumsy shrieking; instead, her smile pauses for half a beat, followed by a sidelong glance, a pressed-lip smirk, and a subtle head shake, as if saying with her expression, "Fine, all you care about is pool." This line is not spoken aloud and has no subtitles.
-The flirtatious tension must be conveyed through mutual observation: after each posture adjustment, she glances at the cue tip, showing satisfaction only when seeing the cue stop; the male lead's camera repeatedly cuts from her back to the red ball, leaving clues that he actually cares more about the game. The leg display in the first half and the playful smile in the second half are lighthearted banter between adults, staying natural and composed without exaggerated expressions substituting for plot.
+Sitting posture forms a natural S-curve: body slightly angled, shoulders dropped, neck elongated, chin subtly raised to the side, waist and hips shifted slightly to one side. The bent leg and dangling leg are staggered front-to-back, with thigh lines naturally visible within the overall figure; her left hand supports her on the cushion, while her right hand adjusts her hair only once. Half-lidded, cool eyes look directly at the male lead, with only a faint teasing smile at the corners of her mouth.
+The first half is cool, restrained, and distant; the second half allows a playful, helpless smile according to the plot. When caught, she is neither startled nor angry, nor does she scream in embarrassment; instead, her smile pauses briefly, followed by a sidelong glance, a pressed smile, and a slight shake of the head, as if saying with her expression: "Fine, all you care about is pool." This line is not actually spoken, and no subtitles are added.
+The romantic tension must be expressed through mutual observation: each time she adjusts her posture, she glances at the cue tip, showing satisfaction only when she sees it pause; the male lead's camera repeatedly cuts between her and the red ball, leaving clues that he actually cares more about the game. The leg display in the first half and the playful smile in the second half are lighthearted adult banter, remaining natural and composed without exaggerated expressions replacing plot.
 
-【Cue Stick Continuity】
-A single pool cue, approximately 145 cm long: light wood slender shaft, small blue leather tip, dark thick grip, and black rubber bumper cap at the butt. The slender tip is used for shooting, while the thick rubber end is used for a single gentle nudging action.
-The flip is an end-to-end 180-degree rotation. The following must be continuously visible: the slender tip leaves the cue ball and retracts; the same cue shaft sweeps diagonally across the foreground of the frame; the slender tip rotates toward the lower side, while the dark grip and black bumper cap emerge from the other side; finally, the thick black end points at #1. The grip point can be hidden below the lower frame edge; the cue cannot vanish entirely from the frame only to reappear suddenly flipped, nor can it simply rotate along its longitudinal axis.
-When flipping the cue, the shaft passes in front of the character and must maintain a distinct foreground-background distance from her, never brushing against her hair, face, or shoulders. The rubber bumper approaches her hip side, makes brief contact once, and immediately pulls away; subsequently, #1 supports herself on the rail, draws back her leg, and slides down. Her body movement and fabric shifts synchronize with the sequence of contact; she cannot dismount the table first before a retrofitted poke action is filmed.
+【Cue Continuity】
+A single pool cue of approximately 145 cm: light-wood thin shaft, small blue leather tip, dark thick grip, and a black rubber bumper at the butt. The thin tip is used for potting, and the thick rubber end is used for one gentle shooing motion.
+The cue flip is a full 180-degree end-to-end rotation. It must be continuously visible: the thin tip leaves the cue ball and retracts; the same shaft sweeps diagonally across the camera foreground; the thin tip turns down and sideways, while the thick grip and black rubber bumper swing around from the other side; finally, the thick black end points at #1. The handhold position can stay below the bottom frame edge, but the cue must not fully exit the frame before reappearing as the opposite end, nor should it simply rotate around its long axis.
+When flipping, the cue passes in front of the character, maintaining a distinct distance from her, without brushing her hair, face, or shoulders. The rubber bumper approaches her hip side, makes contact only once briefly, and immediately pulls away; next, #1 supports herself on the cushion, pulls back her legs, and slides off. Her body movement, clothing drape changes, and contact sequence must synchronize; do not have her leave the table before filming an afterthought nudge.
 
-【Strict Chronological Storyboard】
-→ 0–3s: First-person top-down view of the pool table. Cue ball, red ball, middle pocket, and stationary blue and yellow balls on either side are established simultaneously; the slender cue tip is test-aiming behind the cue ball.
-#1, initially standing to the right of the opposite long rail, first glances toward the cue stick, then looks at the camera. She proactively grips the rail, turns sideways to sit on it, bends one leg onto the edge of the tabletop, and lets the other leg dangle outside the table. The continuous process of sitting down, lifting her leg, and fabric naturally wrinkling is visible, with #2's original tailoring presenting the thigh line. The camera follows the male lead looking up, shifting from the shot trajectory to her full seated posture.
-→ 3–5.5s: Medium shot keeping #1's face, upper body, and legs in frame. Her shoulders relax and drop, neck elongates, body forms an S-curve, fingertips tidy a strand of hair, heavy-lidded eyes look into the camera, then briefly shift to the cue stick to check if the male lead has stopped.
-The cue stops test-aiming. The camera lowers slightly to look at the ball, then looks back up at her face. Seeing this reaction, a confident smirk slowly curls at the corners of #1's mouth, and she slightly adjusts her bent knee outward to make the thigh line more prominent. The action is an obvious deliberate distraction, but without pulling at her hemline.
-→ 5.5–7s: The cue approaches the cue ball once more, yet does not strike. The male lead exhales a short breath, and the camera rises as he straightens his body, letting out an adult male voice laced with slight irritation and impatience: "Move, move." 
-#1 does not immediately move; she merely tilts her head slightly, gazing at him under heavy lids, the corner of her lips still holding the smirk of assuming she succeeded.
-→ 7–8.5s: Complete demonstration of flipping the cue stick. The light wood slender tip first retracts from behind the cue ball, the same shaft traverses diagonally across the foreground, and the slender tip rotates toward the lower side; the dark thick handle and black rubber bumper rotate to the front from the other side, completing an end-to-end half-turn flip.
-The camera has subtle head shake, but always keeps part of the cue shaft in frame. Finally, the thick black rubber end clearly appears in the lower part of the frame pointing toward #1, with the slender tip already directed toward the male lead's side.
-→ 8.5–10s: The male lead extends the thick end across the table, through her complete #2 outfit, giving a brief light tap to the outer side of #1's hip facing the table, then promptly pulls back. The medium shot establishes her face, posture, rail, and contact action simultaneously, without cutting to a localized close-up.
-#1 glances down at the black cue butt, the confident smirk on her lips freezing for half a beat. Realizing the male lead is entirely unwilling to play along with her teasing, she proactively places both hands on the rail, draws her bent leg off the tabletop, and smoothly slides down outside the table. The movement is powered by her own support, without being knocked back or falling.
-→ 10–11s: After her feet touch the ground, #1 steps half a pace aside toward the right of the frame, the sound of her soles landing audible. She glances sideways at the male lead, pursing her lips against a suppressed smile, shaking her head once gently with a touch of playful helplessness that says "you saw right through me."
-Her body angles slightly again, neck line elongated, maintaining the cool, glamorous tone; it is not an expression of panic, anger, grievance, or humiliation.
-→ 11–12s: The thick butt end of the cue is retracted and flipped end-to-end in the reverse direction: the black bumper turns toward the bottom edge, while the light wood shaft and small blue leather tip point back toward the cue ball. The camera tilts down with the male lead back to the shot line; the slender tip rests behind the cue ball, with #1 having fully cleared the line of sight.
-→ 12–14s: The male lead makes a steady stroke; the small leather tip makes actual contact with the cue ball with a crisp "clack." The cue ball rolls forward, striking the red ball; the red ball rolls in a straight line toward the opposite middle pocket, crosses the pocket lip, and drops into the white mesh pocket, producing an authentic pocketing sound.
-The cue ball remains on the table after collision, slowing to a stop; the blue and yellow balls remain untouched. After pocketing, only the white, blue, and yellow balls remain on the table; the red ball must not reappear on the surface.
-→ 14–15s: The camera tilts up slightly from the emptied middle pocket to the right. #1 stands by the table, her gaze first sweeping past the pocket location, then returning to the male lead, glancing sidelong with heavy lids, a restrained playful smirk at the corners of her mouth, letting out a soft sigh.
-She maintains a natural S-curve with staggered legs, looking like someone whose little scheme failed yet who is helpless against him. The male lead does not reply, and the video ends on her reaction of a helpless, pursed-lip smile.
+【Strict Storyboard Timeline】
+→ 0–3s: First-person POV looking down at the pool table. Cue ball, red ball, side pocket, and static blue and yellow balls are established simultaneously; the thin cue tip is practice-aiming behind the cue ball. Standing at the opposite long cushion on the right, #1 glances at the cue direction, then looks at the camera. She takes the initiative to hold the rail, sits sideways on it, bends one leg onto the table edge, and dangles the other outside. Sitting down, raising her leg, and the natural draping of the fabric are continuously visible, with the original cut of #2 displaying her thigh lines. The camera follows the male lead looking up, panning from the shot line to her complete seated posture.
+→ 3–5.5s: Maintain a medium shot framing #1's face, upper body, and legs. Her shoulders drop relaxed, neck elongates, body forms an S-curve, fingertips tuck hair, looking at the camera with half-lidded eyes, then briefly shifting gaze to the cue to confirm if he stopped. The cue halts aiming. The camera glances down at the ball briefly, then tilts back up to her face. Seeing this reaction, a subtle, confident smirk slowly forms at the corners of #1's mouth, and her bent knee subtly adjusts sideways, showing off her thigh lines more completely. The gesture clearly carries deliberate teasing interference, without pulling at hem lines.
+→ 5.5–7s: The cue approaches the cue ball again, but still does not strike. The male lead exhales shortly, the camera rising as he straightens up, and an adult male voice speaks off-camera with a touch of annoyance and impatience: "Move, move." #1 does not move immediately, only tilting her head slightly, gazing at him with half-lidded eyes, her smirk of presumed success still lingering.
+→ 7–8.5s: Fully show the flipping of the cue. The light-wood thin tip first pulls back from behind the cue ball; the same cue shaft cuts diagonally across the foreground, thin tip swinging downward to the side; the dark thick grip and black rubber bumper swing around from the other side to the front, completing an end-to-end half-circle rotation. The camera has slight head shake, but always keeps part of the cue shaft in frame. Finally, the thick black rubber end appears clearly pointing toward #1 at the bottom of the frame, with the thin tip pointing toward the male lead.
+→ 8.5–10s: The male lead reaches the thick end across the table, delivering a brief, light nudge against the outer side of #1's hip facing the table, through her complete #2 clothing, then quickly pulls it back. The medium shot simultaneously frames her face, posture, the cushion, and the contact action, without cutting to a close-up insert. #1 glances down at the black cue butt, the confident smile at the corners of her mouth pausing for a beat. Realizing the male lead is entirely ignoring her advances, she supports herself on the cushion with both hands, pulls her bent leg off the table surface, and smoothly slides down. The motion is self-supported; she is not knocked back or tripped.
+→ 10–11s: After both feet land, #1 steps half a pace to the right of the frame, the shoe landing sound clearly audible. She glances sideways at the male lead, suppressing a rising smile, shaking her head gently once, carrying a playful, helpless look of "you saw right through me." Her body angles slightly again, neck line elongated, maintaining the cool siren tone; not an expression of panic, anger, grievance, or humiliation.
+→ 11–12s: The thick cue end retracts, reversing the previous path end-to-end: the black bumper turns toward the lower edge, and the light-wood shaft and small blue tip point back toward the cue ball. The camera tilts back down with the male lead to the shot line; the thin tip rests behind the white ball, with #1 having fully cleared the line of sight.
+→ 12–14s: The male lead smoothly strikes once; the thin leather tip makes solid contact with the cue ball, emitting a crisp "clack." The cue ball rolls forward, striking the red ball; the red ball rolls in a straight line toward the opposite side pocket, clears the pocket edge, and falls into the white mesh pocket, producing an authentic pocketing sound. The cue ball stays on the table after collision, slowing to a stop; the blue and yellow balls remain untouched. After pocketing, three balls remain on the table (white, blue, yellow); the red ball must not reappear on the table surface.
+→ 14–15s: The camera tilts slightly from the empty side pocket toward the right. #1 stands by the table, her gaze first sweeping past the pocketed ball location, then returning to the male lead with half-lidded side eyes, a restrained, playful smile at her lips, exhaling gently. She maintains a natural S-curve and staggered legs, looking defeated in her little scheme yet amused by his single-mindedness. The male lead doesn't reply; the clip ends on her helpless, pressed-lip smile.
 
 【Audio】
-Synchronous on-set sound: ventilation equipment, distant indistinct voices, fabric friction from sitting on the rail, light clatter of the cue stick turning, soles hitting the floor, cue strike, ball collision, and pocketing sound. The sole line of dialogue comes from the adult male lead behind the camera: "Move, move." #1 reacts purely with expressions. No background music, voiceover narration, explanatory dialogue, or canned laughter.
+Diegetic sound: ventilation equipment, distant indistinct voices, fabric friction against the rail when mounting, cue-turning click, shoes landing, cue strike, ball collision, and pocket drop sound. The only spoken line comes from the adult male lead behind the camera: "Move, move." #1 reacts purely with facial expressions. No background music, voiceover narration, expository dialogue, or canned laughter.
 
 【Negative Constraints】
-Do not omit proactively climbing onto the table and deliberate distraction; do not film her already seated from the start; do not crop thighs out of frame; do not use upskirt angles or slow panning shots of legs/hips; do not alter outfit #2 or reveal underwear; do not duplicate characters, limbs, balls, or cues; do not show the male lead or a second #1; do not skip the cue flip by having the cue leave the frame to swap ends; do not poke with the slender tip, do not poke repeatedly, and do not cause injury or falls; do not give #1 reactions of panic, rage, or feeling wronged; do not omit the cue ball hitting the red ball and the red ball genuinely dropping into the pocket; do not substitute the cue ball scratching for the red ball pocketing, and do not let the target ball vanish into thin air; do not include subtitles, watermarks, platform UI, heart stickers, slow motion, or cinematic filters.
+Do not omit actively mounting the table or intentional interference; do not show her already seated from the start; do not crop thighs out of frame, nor use upskirt angles or slow pans over legs/butt; do not alter #2 costume or reveal underwear; do not duplicate characters, limbs, balls, or cues; do not show the male lead's body or a second #1; do not reduce the cue flip to disappearing off-screen and reappearing flipped; do not poke with the thin tip, repeatedly strike, or cause injury or falls; do not give #1 frightened, angry, or offended reactions; do not omit cue ball hitting red ball and red ball actually pocketing; do not sink the cue ball instead of the red ball, and do not make the object ball vanish into thin air; no subtitles, watermarks, platform UI, heart stickers, slow motion, or cinematic LUTs.
 ```
 
 [↑ Back to categories](#catalog)
@@ -1548,229 +1540,6 @@ Jack draws once on the cigarette, the ember glowing brighter when he does, then 
 
 ---
 
-<a name="prompt-2099089929439531390"></a>
-
-### 15s, 16:9, 4K multi-scene travel vlog prompt featuring a consistent young woman exploring a European city across four timestamped shots with dialogue.
-
-Author：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Source](https://x.com/MeenakshiYACS/status/2099089929439531390)
-
-Cinematic / Film Still · Character · Published
-
-**Summary:** 15s, 16:9, 4K multi-scene travel vlog prompt featuring a consistent young woman exploring a European city across four timestamped shots with dialogue.
-
-<img src="covers/2099089929439531390.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-15s, 16:9, 4K, cinematic realistic travel vlog. Keep the same young woman consistent throughout all scenes: long hair, white cropped top, lightweight oversized jacket, beige shorts.
-
-00:00–00:04 — HISTORIC CITY WALK
-
-A young woman confidently walks through a beautiful cobblestone street in a historic European city during golden hour. Colorful historic buildings, cozy cafés, warm streetlights and realistic pedestrians in the background.
-
-She looks directly into the camera while walking and says:
-
-"Hey everyone! I'm exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can't wait to show you what I find!"
-
-Smooth handheld travel-vlog tracking shot, shallow depth of field, golden side backlight, subtle cinematic lens flare.
-
-00:04–00:07 — LOCAL BAKERY
-
-Cut to a small local bakery. She picks up a fresh local pastry, smiles and holds it toward the camera.
-
-She says:
-
-"This looks absolutely delicious. I had to try it!"
-
-Close-following camera movement, natural hand gestures, warm bakery window lighting, realistic environment.
-
-00:07–00:10 — OUTDOOR CAFÉ
-
-She sits at a charming outdoor café, takes a sip of coffee and watches people walking by.
-
-She smiles naturally and says:
-
-"Sometimes the best part of traveling is simply slowing down and enjoying the moment."
-
-Slow cinematic push-in, warm café ambience, shallow depth of field, realistic pedestrians in the background.
-
-00:10–00:15 — SUNSET VIEWPOINT
-
-She walks toward a scenic viewpoint overlooking the entire city.
-
-The golden sunset illuminates the skyline. She turns toward the camera, opens her arms and gestures toward the view.
-
-She says:
-
-"Okay, this view is definitely the highlight of my day. Would you come here?"
-
-Slow upward camera tilt revealing the panoramic city view, glowing golden horizon and natural lens flare.
-
-STYLE:
-
-Cinematic realism, 35mm anamorphic, shallow depth of field, realistic skin texture, natural hair movement, cinematic golden-hour lighting, warm side key light, soft rim light, subtle lens flare, teal and orange color grading, subtle 35mm film grain, authentic handheld vlog camera, smooth tracking, realistic background people, highly detailed, natural motion, premium travel-film aesthetic.
-
-AVOID:
-
-Camera shake, character identity drift, distorted limbs, unnatural anatomy, lip-sync errors, subtitles, watermarks, or text appearing inside the video.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098797781792047191"></a>
-
-### Create an exactly 20.00-second, native horizontal 16:9 monochrome video depicting a muscular wingless warrior fighting six winged wraiths in an ash-covered ravine.
-
-Author：[@MadMax\_Series](https://x.com/MadMax_Series) · [Source](https://x.com/MadMax_Series/status/2098797781792047191)
-
-Cinematic / Film Still · Published
-
-**Summary:** Create an exactly 20.00-second, native horizontal 16:9 monochrome video depicting a muscular wingless warrior fighting six winged wraiths in an ash-covered ravine.
-
-<img src="covers/2098797781792047191.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Create an exactly 20.00-second, native horizontal 16:9 video at 24 fps, filling the frame with no permanent black bars.
-
-STRICT MONOCHROME PALETTE ONLY: pure black, charcoal, ash gray, metallic silver, brilliant white. No colored magic, red fire, blue lightning, warm skin tones, or colored lighting. Strong white rim light must keep bodies, muscles, feathers, and cloth readable inside the darkness.
-
-ENVIRONMENT:
-A huge ash-covered forest ravine with jagged black rock, twisted dead trees, dark gravel, broken stone, exposed roots, shallow mist pools, drifting ash, leaves, and debris. A massive circular storm vortex continuously rotates overhead while narrow brilliant-white light shafts pierce the clearing. Keep geography consistent: warrior in the central clearing, dead trees framing both sides, ravine rising behind him, storm directly overhead.
-WINGLESS WARRIOR:
-Exactly one adult male warrior. Tall, muscular athletic build, broad shoulders, shaved or very short hair, stern exhausted expression, correct human anatomy. Bare torso, weathered dark leather trousers, layered waist wrap, short torn cloth panel, fitted forearm wraps, heavy dark boots. Clothing is wet, ash-covered, and reacts naturally to wind.
-
-He has NO sword, spear, shield, gun, wings, feathers, cape, supernatural limbs, or magic. He fights only with hands, forearms, controlled kicks, body rotation, dodges, and grappling counters.
-WINGED WRAITHS:
-Exactly six adult-sized humanoid wraiths. Each has one head, one torso, two arms, two legs, and EXACTLY ONE symmetrical pair of black feathered wings attached only to its back. Lean coherent anatomy, charcoal-gray skin, clawed hands and feet, ragged black waist cloth.
-
-Wings use layered primary and secondary feathers and bend correctly during dives, power strokes, recovery strokes, braking, and takeoff.
-
-The lead wraith has a pale bone-like face and one short broken horn. The other five are darker. Maximum one or two wraiths attack the warrior at close range at any moment; the others remain clearly separated in the air.
-TIMELINE:
-
-0.00-2.20
-Begin inside fast-moving storm clouds. Camera dives downward through several separated flying wraith silhouettes. Show complete wing cycles: downward power stroke, folded recovery, feathered braking. One foreground wing passes close to camera and reveals the wingless warrior in the clearing below. He turns toward the descending threat and takes a stable defensive stance. White light shafts cut through the mist.
-
-2.20-4.20
-Low rear three-quarter shot behind the warrior. One wraith folds its wings and dives toward his left shoulder with claws extended. He sees the shadow, bends his knees, ducks below the attack, plants his right foot, rotates his hips, grabs both forearms, and redirects the creature sideways using its own momentum. It spreads its wings, recovers, and exits safely screen-right.
-
-At approximately 3.50 seconds, insert ONE near-black shutter impact frame at contact, immediately returning to visible action. No fade and no missing motion.
-
-4.20-6.40
-A second wraith skims low from screen-right. Fast side-tracking shot. It claws toward his chest. Warrior steps diagonally backward, blocks the wrist with his left forearm, redirects the claw outside his body line, and pushes the shoulder with his right hand. A nearby wing briefly wipes across foreground without intersecting him. The wraith passes and climbs back into the air.
-6.40-8.60
-Camera follows the departing creature upward, performs one controlled approximately 30-degree roll, then levels into a wide overhead storm reveal. All six wraiths circle the clearing at different heights while the warrior stands alone at center. Brilliant white shafts separate their silhouettes.
-
-Atmospheric movement briefly feels slightly slower, with feathers, ash, and mist suspended, but the warrior's breathing and foot adjustments remain natural speed.
-At approximately 6.40, while a wing obscures the lens, insert ONE single-frame near-black shutter transition, revealing the same geography.
-
-8.60-10.80
-Return to ground level. One wraith attacks clearly from the front while a second descends from behind and above; both paths remain readable.
-
-Warrior pivots away from the rear claw attack without jumping, shifts weight onto his left leg, and delivers one compact right-foot kick into the front attacker's torso. The front wraith recoils and opens its wings. The rear attacker misses, passes behind him, and climbs away. Remaining support wraiths stay separated high in the background.
-10.80-13.40
-The pale-faced lead wraith descends directly in front, performs two powerful braking wingbeats, briefly touches the ground, then grips the warrior's upper arms from the outside. Fingers, shoulders, neck, and arms remain visually separate with no merging.
-
-The lead wraith beats downward and lifts both bodies upward. The warrior's boots leave the ground ONLY after the grip is secure. Dust and ash expand outward below them. Camera spirals upward around the pair while the other wraiths circle at a safe distance.
-13.40-15.80
-Use SHORT SELECTIVE SLOW MOTION ONLY HERE.
-
-Warrior hooks his left forearm around the lead wraith's right wrist, pulls his knees inward, and rotates his hips. One support wraith attempts a passing claw strike; the warrior kicks it in the shoulder with his right boot, knocking it away.
-
-He then drives his right elbow into the lead wraith's chest. Its fingers visibly release one-by-one until it completely lets him go.
-
-At approximately 13.80, insert ONE single black impact frame at the elbow strike, immediately returning to visible action.
-Return to natural speed after approximately 15.20. Warrior begins falling naturally while the lead wraith opens its wings to stop its own descent.
-
-15.80-17.80
-Camera follows the warrior downward. He does NOT grow wings, fly, hover, or levitate. He falls through dense mist, rotates feet toward the ground, lands with bent knees, touches the ash-covered floor with his right hand for balance, then converts forward momentum into one shoulder roll across loose gravel.
-
-Dust expands with each contact. Waist cloth follows his body without clipping through his legs. He finishes on one knee, looks upward, and pushes himself back to standing.
-17.80-20.00
-Lead wraith makes one final low attack from screen-left, wings partly folded, claws extended. Hold a low frontal camera long enough to clearly see the complete approach.
-
-Warrior plants both boots, waits until it enters reach, grabs ONLY its extended wrist, rotates his torso, and redirects the wraith past his side instead of stopping it head-on.
-
-At approximately 18.90, a black wing passes close to camera and produces ONE near-black shutter frame before exiting screen-right.
-Reveal the warrior still standing in the SAME clearing, chest rising with heavy controlled breathing, arms in guarded posture. The other five wraiths circle separately overhead inside the white light shafts.
-
-End EXACTLY at 20.00 seconds on the unresolved standoff. No fade, freeze, title, logo, or end card.
-
-CAMERA:
-Aggressive but physically motivated cinematography: descending aerial push, low rear angle, ground-level side tracking, one controlled camera roll, wide storm reveal, spiral aerial grapple shot, and downward falling follow.
-
-Camera always follows a recognizable subject. No random shaking. Foreground wings may create brief wipes but must reveal the same continuous action and geography. Keep the warrior mostly inside the central safe framing area while using the 16:9 width to show the dead forest, surrounding attackers, and storm scale.
-
-ACTION:
-Most combat remains fast natural speed. NO global slow motion. Only 13.40-15.20 uses selective slow motion.
-
-Every move requires clear anticipation, contact, and follow-through. Impact holds maximum 2-3 frames; never freeze the full character. Fast wings and camera movement may use strong directional motion blur, but heads, torsos, hands, and attack paths must remain readable.
-AUDIO:
-Environmental and physical sound effects only. NO background music, score, rhythmic music, electronic music, melody, singing, choir, dialogue, narration, or intelligible voices.
-
-Use violent storm wind, distant thunder, layered wingbeats, individual feather flutter, claws cutting air, boots grinding gravel, cloth movement, body impacts, falling stone, displaced ash, and restrained non-verbal exertion breathing.
-
-During the slow-motion aerial grapple, briefly reduce the wind intensity. Restore full wind pressure during the warrior's fall. Final moment contains only storm wind, circling wings, and controlled breathing.
-STRICT CONTINUITY / ANTI-GLITCH RULES:
-Exactly ONE wingless human warrior and exactly SIX wraiths throughout.
-
-Never duplicate the warrior. Never give him wings or feathers. Never transform or identity-swap the warrior and wraiths.
-
-Every wraith always has exactly one connected pair of black feathered wings. No extra wings, broken anatomy, extra arms, missing legs, fused bodies, merged faces, duplicate heads, floating hands, or torso intersections.
-
-Warrior's feet remain grounded except when explicitly lifted by the lead wraith, falling, and landing.
-
-ONLY the lead wraith may lift the warrior. It grips his upper arms without merging into his shoulders. After release, he falls naturally and never floats independently.
-
-Maximum two close-range attackers at once. All support wraiths remain spatially separated.
-No gore, blood spray, dismemberment, organs, text, subtitles, interface, health bars, logos, social handles, watermarks, or end card.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098803826405089450"></a>
-
-### 15s vertical cinematic Hollywood monster battle featuring timed shots of helicopter strikes, armored vehicle smash, soldier attacks, close-up roar, and heavy explosive round finish.
-
-Author：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Source](https://x.com/MeenakshiYACS/status/2098803826405089450)
-
-Cinematic / Film Still · Vehicle · Published
-
-**Summary:** 15s vertical cinematic Hollywood monster battle featuring timed shots of helicopter strikes, armored vehicle smash, soldier attacks, close-up roar, and heavy explosive round finish.
-
-<img src="covers/2098803826405089450.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-15s, 9:16 vertical, 24fps, photorealistic Hollywood monster action film. Image 1 = monster, Image 2  = city, Image 3 = four-person squad. Keep them consistent.
-
-0–2.5s — Aerial view down a huge skyscraper-lined avenue. The giant monster advances between the buildings. A military helicopter sweeps across frame and fires rockets. Explosions hit its body, but it keeps advancing through smoke.
-
-2.5–5s — Low street-level shot. A heavy armored vehicle races toward the monster as the four soldiers fire rifles beside it. The helicopter attacks overhead. The monster suddenly smashes the vehicle with one massive arm, crushing and flipping it. Dust, glass and debris explode outward.
-
-5–8s — The squad advances through smoke, firing rapidly. One kneels while the others cover different angles. The monster charges and sweeps its huge arm across the street, violently throwing the soldiers aside and destroying the formation. Their weapons scatter.
-
-8–10.5s — Low-angle monster close-up. Its two orange-red eyes glow through smoke. It roars toward camera, opening its massive jaws as burning debris falls around its head. Make it enormous, terrifying and majestic.
-
-10.5–12.5s — Cut to a remote heavy grenade launcher several blocks away. It locks onto the monster and fires one powerful explosive round. Briefly track the projectile through the smoky city.
-
-12.5–15s — Wide aerial shot. The projectile strikes the monster's chest. A huge orange explosion erupts, followed by rapid secondary blasts. Fire and smoke engulf the monster, lighting the cold gray city orange. End with the blast filling frame.
-
-Fast, aggressive action, dynamic cinematic camera movement, realistic weight and destruction. No slow motion, duplicated soldiers, extra characters or limbs, teleportation, random background changes, white flashes or identity changes.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098777905010778507"></a>
 
 ### A multi-shot cyberpunk rooftop chase between a runner and an armored enforcer in heavy neon rain.
@@ -1787,208 +1556,6 @@ Cinematic / Film Still · Cyberpunk / Sci-Fi · Published
 
 ```text
 6 shots, total 30s — 0.0-5.0s, 5.0-10.0s, 10.0-15.0s, 15.0-20.0s, 20.0-25.0s, 25.0-30.0s. Hard cuts, no dissolves. Normal speed throughout, no slow motion, no ramping.\n\nCAPTURE CADENCE — CRITICAL: native 24fps, true 180-degree shutter, real 1/48s exposure every frame. Fluid, continuous motion blur. Never choppy, never juddering. No interpolation, no ghosting, no video look.\n\nNO ON-SCREEN TEXT — CRITICAL: no text of any kind anywhere in frame. No captions, subtitles, titles, credits, watermarks, logos, timecode, UI overlays.\n\nNOBODY ELSE IN FRAME — CRITICAL: no pedestrians, no other rooftop figures, no extras. Only the runner, the enforcer, and one drone are ever visible.\n\nTHE NEON FLARE — CRITICAL: neon signage below strobes the rooftops in hard magenta and cyan flashes throughout. The stepped quality of any lit moment comes entirely from this signage-flicker, never from broken footage — camera motion stays smooth throughout. Falling rain streaks diagonally, screen-right to left.\n\nSubject Lock — the runner: lean wiry build, shaved head, sharp cheekbones, rain-slicked dark skin, clean face, no visible tattoos. Matte black tactical jacket over a compression base layer, fingerless gloves, worn parkour shoes. Carries nothing but bare hands. Sprints rooftop to rooftop toward the city's edge, never breaking stride mid-leap.\n\nSubject Lock — the enforcer: bulky armored build, a featureless matte-grey full-face helmet with a single red visor slit, reinforced shoulder plating, heavy boots. Carries a stun baton crackling with blue arcs. Pursues in a steady mechanical stride, never sprinting, always closing distance.\n\nWorld Plate: a dense cyberpunk rooftop skyline at night in rain — sheet-metal water tanks, tangled cable runs, a gap between towers spanned by a rusted service bridge, neon signage glowing far below through the haze. No other structures present.\n\nTHE ATMOSPHERE — CRITICAL, depth only: heavy rain-haze at high density — runner sharp near, enforcer softened mid-distance, distant towers near-erased far. Reads as thickened wet air only, never a fog-machine look.\n\nSHOT 1 — 0.0-5.0s. THE SPRINT. Low camera at rooftop level, cant 15°, tracking the runner forward. Runner sprints across gravel rooftop, enforcer's baton-glow closing from behind. Runner screen-left sprinting, enforcer screen-right pursuing. Diegetic sound.\n\nSHOT 2 — 5.0-10.0s. THE STRIKE. Camera orbits tight at chest height, cant swinging 15-35°, never square. Baton arcs crackle past the runner's shoulder, runner ducks and shoulder-checks the enforcer's plating. Both centered, rain scattering. Diegetic sound.\n\nSHOT 3 — 10.0-15.0s. THE WATCHER. Cut to a small surveillance drone hovering between towers, its red scan-light sweeping as wind gusts rock it sideways. It corrects and holds position. Drone centered against the neon-lit haze. Diegetic sound.\n\nSHOT 4 — 15.0-20.0s. THE COLLAPSE. Low static camera at the service bridge, whip-panning up as a rusted support strut gives way. The bridge section buckles and drops; the runner leaps clear across the widening gap. Bridge diagonal across frame, runner emerging low center. Diegetic sound.\n\nSHOT 5 — 20.0-25.0s. THE SURGE. Camera drops to rooftop height, rockets forward through a rain corridor lit by a fresh neon flare. Runner sprints hard, jacket soaked, closing the last stretch toward the city's edge. Runner screen-left driving right. Diegetic sound.\n\nSHOT 6 — 25.0-30.0s. THE AFTERMATH. Camera pulls back to a wide static rooftop frame, rain falling straight now, wind dying. The runner stands alone at the tower's edge, chest heaving, as the enforcer's red visor dims below the ledge and it stops advancing. Runner small and centered, collapsed bridge dark behind. Diegetic sound.\n\nCross-Frame Rules: runner's jacket and gloves never change. Enforcer's visor-glow never fully fades until Shot 6. Only runner, enforcer, and drone ever visible. Rain direction stays constant. Bridge keeps the same collapsed shape wherever it appears. Neon-flare applies only inside Shots 1, 2, and 5. No score enters at any point.\n\nLast Frame: the runner stands alone at the rooftop's edge, rain falling straight down, the enforcer's dimmed red visor faint at the frame's edge below, the collapsed bridge looming behind under neon haze. No on-screen text, no logo, no watermark.\n\nSound Bed: diegetic only — heavy rain, the baton's electric crackle, boots pounding gravel, metal groaning and snapping, a drone's faint rotor whine. No score, no subtitles.\n\nCamera & Capture Realism: ~32mm/68° FOV, vintage 2x anamorphic with oval bokeh and streak flares off the neon, shallow depth of field, color-negative rendition, fine grain. Violent handheld — cant swinging 15-45°, punching in and ripping back, every frame mid-move but smooth in its own travel, never locked, never gimbal-glide. No CGI look, no AI smoothness, no video-game HUD, no motion smoothing.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098791384392282330"></a>
-
-### Extreme-speed continuous FPV drone tracking shot prompt of an eagle diving over Paris through the Eiffel Tower to hunt prey.
-
-Author：[@abulu8](https://x.com/abulu8) · [Source](https://x.com/abulu8/status/2098791384392282330)
-
-Cinematic / Film Still · Published
-
-**Summary:** Extreme-speed continuous FPV drone tracking shot prompt of an eagle diving over Paris through the Eiffel Tower to hunt prey.
-
-<img src="covers/2098791384392282330.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-One single CONTINUOUS FPV drone shot, no cuts, one unbroken take. EXTREME real-time speed, relentless. Only ever moves forward in time — never loops or reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full velocity. THE CLIP DOES NOT END IN AN ESCAPE OR EXIT, and there is no fade or cut to black — the take runs continuously until time runs out, still inside the action.
-
-CINEMATIC CAPTURE: shot as real FPV drone footage on a cinema camera — ultra-wide FPV lens (12–16mm) with subtle barrel distortion at the frame edges, 180-degree shutter with natural heavy motion blur on fast pans, shallow organic depth of field close to the bird, fine 35mm film grain, subtle chromatic aberration, real lens flares off the low sun, wind buffet shaking the frame in the dive, atmospheric haze softening the far city. Early-morning Paris light — golden low sun cutting through thin mist, long shadows across the rooftops, the Eiffel Tower's iron reading dark against the warm haze. Cinematic color grade: muted Parisian stone, slate-blue rooftops and soft gold highlights, lifted blacks, documentary contrast — the texture of a BBC raptor-cam documentary shot from a racing drone, NOT a game engine, NOT animation.
-
-The flight launches already banking in a wide circle at high altitude over Paris, tight on the shoulder of a massive harpy eagle — the largest and most powerful of eagles, huge grey-and-black crested head, colossal talons tucked — the city spread below in golden mist, the Eiffel Tower rising through it, tiny rooftops and the Seine glinting far down. Below on the Champ de Mars, a wheeling flock of pigeons catches the light. The eagle's head locks on — and it folds its wings and DROPS into a near-vertical hunting stoop, the camera plummeting with it, wind hammering the lens, the tower and rooftops enlarging at terrifying speed, the flock scattering in panic as death falls toward it. One pigeon bolts and the chase rips through the city: the camera banks hard 90° with the eagle around the tower's massive iron leg, then threads THROUGH the lattice of the Eiffel Tower itself — girders whipping past inches away — and bursts out the far side, scattering gulls off the rooftops, rolling past a balcony where laundry snaps in the wind, then dropping to skim low over the Seine, wingtips nearly kissing the water, tourists on the quay ducking and pointing, phones rising, a café crowd gasping. The pigeon jinks desperately upward along the tower's flank — the eagle closes — its enormous talons swing forward and OPEN, fully extended inches from the prey, backlit against the iron lattice — the single slow-motion beat — then a HARD snap back to full speed: the strike CONNECTS mid-air in an explosion of feathers, the huge talons binding the prey, and the eagle immediately powers UPWARD, massive wings hammering, the camera whipping around its climb-out in a tight spiral as it spirals up through the tower's upper lattice with its catch locked beneath it, feathers still drifting down past the girders, pigeons still scattering in every direction below, Paris falling away — the camera still whipping around its beating shoulders, climbing past the summit into the golden haze as the take runs out.
-
-Sound: the thin high wind of altitude and the soft ambient bed of Paris far below — traffic hum, faint chatter, a distant accordion, pigeon wings — then the bed CUTS to a rushing scream of wind as the stoop begins, the flock erupting in panicked wingbeats, a piercing raptor SHRIEK echoing off the ironwork, gasps and startled shouts from the streets, gulls crying and scattering — near-silence for one held breath as the talons open — then a sharp concussive IMPACT and feather-burst, the prey's cry cut short, and the deep pounding WHUMP of huge wingbeats climbing, the crowd below erupting in astonished shouts, the shriek ringing out again in triumph, wind roaring right to the last frame. No wind-down.
-
-Global style lock: cinematic photoreal FPV documentary footage — real cinema-camera texture with film grain, lens distortion, motion blur and wind buffet, golden Parisian morning grade; constantly shifting altitude and plane, a climax escalating through the strike into the climb-out with no escape beat and no fade or cut to black; consistently extraordinary render quality, no distortion artifacts, no subtitles, no watermarks. Aspect ratio 16:9.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098748314548134381"></a>
-
-### Realistic storyboard video prompt of waking up from a rooftop falling dream and watching fireworks.
-
-Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2098748314548134381)
-
-Comic / Storyboard · Photography · Cinematic / Film Still · Published
-
-**Summary:** Realistic storyboard video prompt of waking up from a rooftop falling dream and watching fireworks.
-
-<img src="covers/2098748314548134381.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Duration: 24 seconds
-Aspect ratio: 16:9 landscape
-
-Overall style:
-Realistic cinematic short film, a person having a falling dream at night, then waking up startled in a bedroom. The entire film is illuminated by post-nightfall blue-black skies, city lights, and fireworks, with no daytime, sunlight, or golden sunset.
-
-Character Reference:
-Use Image 1 to bind the sole protagonist's appearance, hairstyle, physique, and clothing. Kept consistent between the dream and after waking up.
-The protagonist wears white wired earbuds, not taken off until the ending.
-
-Scene:
-Nighttime high-rise rooftop, the edge is a low, thick, flat-topped solid concrete parapet wall, like a low step that can be stepped onto simply by lifting a foot. No metal railings, no climbing required.
-Outside the building is a glittering city and waterfront; the sky is deep blue bordering on black. The character is illuminated by soft ambient lighting on the rooftop, the face is distinguishable, with city lights and fireworks providing backlight and rim lighting.
-
-Fireworks:
-Beautiful large champagne-gold weeping willow and lavender peony fireworks blooming in batches over the distant city. The complete process of ascent, explosion, and golden fine light cascading down is preserved, with reflections mirrored on the water surface.
-At the same moment the character falls backward, fireworks detonate consecutively in a "bang, bang, bang, bang" rhythm. The blooms are distributed across the night sky on both sides of the character, illuminating the sky and the character's silhouette without obscuring the face.
-
-SHOT 1 (0—7 seconds) Stepping onto the wall from behind, turning to face the camera, falling backward with arms spread
-Subject:
-Character reference protagonist, low solid rooftop parapet wall, nighttime city.
-
-Action:
-0—3 seconds:
-Protagonist's back is to the camera, facing the city outside the building.
-One foot steps onto the low parapet wall first, the other foot follows, standing up straight effortlessly. Hands hang naturally at both sides of the body.
-The camera shoots from behind the character, clearly capturing the character stepping onto the top of the wall, with distant nighttime city lights visible.
-
-3—5 seconds:
-Protagonist turns around while standing on top of the wall, facing the camera.
-Now the protagonist faces the interior of the rooftop, with the nighttime sky outside the building behind them.
-The camera pushes forward, smoothly transitioning from the full-body rear shot to a front-facing upper-body shot after the turn. The protagonist looks at the lens with a calm, slightly dazed expression.
-
-5—7 seconds:
-Facing the camera, the protagonist spreads both arms to the left and right, palms naturally relaxed.
-After arms are spread, the protagonist maintains this posture and falls backward toward the exterior of the building, face still facing the camera, subsequently entering a face-up freefall.
-The very moment the body begins falling backward, beautiful fireworks detonate consecutively in the night sky behind, accompanied by the sounds of "bang, bang, bang, bang."
-
-Environment:
-Deep blue-black night sky, illuminated building clusters, distant waterfront. Parapet wall is low and flat, rooftop lighting is soft, character's face is not a pitch-black silhouette.
-
-Camera:
-The camera stays strictly inside the rooftop, shooting outward toward the building exterior.
-First shooting the character's back and the full-body action of stepping onto the wall; as the character turns, the lens pushes forward to a frontal upper-body shot; the protagonist spreads arms facing the camera and falls backward.
-This section does not orbit behind the character, does not suddenly reverse angle, and does not cut to the side prematurely.
-
-Style:
-Distinct night cinematography, authentic human skin texture. When fireworks light up, soft color shifts briefly appear on the face and clothing, while the background maintains nighttime tonal depth.
-
-Constraints:
-Sequence must strictly be:
-Back to camera stepping onto the wall → turning around to face the camera → frontal upper-body framing → spreading both arms → falling backward → fireworks exploding consecutively at the same time.
-Not turning around while still facing away from the camera, not spreading arms sideways.
-No run-up, no crouching to gather momentum, no jumping upward, no somersaults, no slipping.
-
-SHOT 2 (7—10 seconds) Falling through the night, close-up side profile
-Subject:
-Protagonist falling face-up.
-
-Action:
-7—8 seconds: Cut to a front-three-quarter head-and-shoulders close-up, protagonist continuing the posture with arms spread, face turned upward, hair swept upward by the airflow.
-8—10 seconds: Protagonist continues descending, earphone cords and fabric fluttering in the wind, gaze dazed, lips slightly parted, no violent thrashing. Distant fireworks still blooming consecutively.
-
-Environment:
-Building facades with lit windows streak past rapidly, background consistently remains nighttime. Afterglow of fireworks reflects on hair strands and the side of the face.
-
-Camera:
-Front-three-quarter close-up synchronously tracking downward with the character, keeping the face clear. Building lights streak upward quickly in the background, creating a vertical sense of velocity.
-
-Style:
-Realistic weightlessness and air resistance, character's expression calm, strong background motion.
-
-Constraints:
-Continue the arms-spread posture from the previous shot. Must not become flying, hovering, or horizontal gliding. No daytime architecture or sunlight.
-
-SHOT 3 (10—14 seconds) Frontal fall, street closing in
-Subject:
-Protagonist's full face and upper body, nighttime street below.
-
-Action:
-10—12 seconds: Cut to a frontal tracking close-up shot downward from above the character. Protagonist faces upward toward the camera; rooftops, streetlights, streets, and car headlights behind expand continuously.
-12—14 seconds: Protagonist slowly closes eyes, body continuing to descend. A white car and the road surface below rush in rapidly, cutting to the bedroom before any impact occurs.
-
-Environment:
-Nighttime building clusters and streets; window lights, streetlights, and car lights provide spatial layers; the ground is clearly visible but not at daylight brightness.
-
-Camera:
-The position and scale of the character's face remain stable, while the background rushes in rapidly. Finally locking on a frontal framing with closed eyes, matching into the next shot.
-
-Style:
-Urgency stems from the rapidly approaching ground, swift airflow, and intensifying wind noise, while the character still carries a dreamlike dazedness.
-
-Constraints:
-No hitting the ground, no hitting cars, no injuries appearing. No black screen, white flash, or dissolve warping; direct match cut to the bed.
-
-SHOT 4 (14—18 seconds) Waking startled from the falling dream
-Subject:
-The same protagonist lying in bed in a beautiful bedroom.
-
-Action:
-14—15 seconds: Hard cut to an overhead close-up shot on the bed. Character's face size, position, and angle are similar to the previous shot, with the background becoming a soft pillow.
-The protagonist snaps their eyes open, gasps with an open mouth, shoulders giving a brief startle shudder.
-15—16 seconds: Gaze refocused, breathing rapid, fingers briefly gripping the bedsheet tightly.
-16—18 seconds: Protagonist looks at the familiar bedside environment, realizing they are inside the room. Fingers release, brow relaxes, breathing begins to ease.
-
-Environment:
-Refined apartment bedroom at night. Cream-white linen bedding, soft pillows, walnut headboard, warm-toned wall sconce. Blue nighttime light from the window blends with indoor warm lamps, hair spread across the pillow surface.
-
-Camera:
-Static overhead close-up shot. The camera movement, which was continuous during the dream, becomes instantly stable upon waking.
-
-Style:
-Natural, brief startle reaction, gradually subsiding into calm afterward, without sustained screaming or bug-eyed staring.
-
-Constraints:
-The character is already lying in bed, not crashing into the bedroom from the sky. Clothes and earbuds remain consistent; ceiling and bed remain intact.
-
-SHOT 5 (18—24 seconds) Sitting up, removing earphones, watching fireworks outside the window
-Subject:
-Protagonist, refined bedroom, night view and fireworks outside the window.
-
-Action:
-18—20 seconds: Cut to a wide shot of the bedroom. Protagonist props themselves up with hands on the bed surface to sit up, turns toward the edge of the bed, swings legs outside, placing both feet on the rug.
-20—21 seconds: Protagonist sits steady, bowing head and slowly exhaling a breath.
-21—22 seconds: Protagonist removes both left and right earbuds using both hands, placing hands holding the earbuds in front of the thighs, earphone cords draping naturally.
-22—24 seconds: Sounds of fireworks resonate outside the window once again. Protagonist looks up toward the large window; golden weeping willow fireworks spread across the night sky, with lavender specks of light blooming beside them.
-Watching fireworks similar to those in the dream, the protagonist briefly shows confusion, then shoulders relax, sitting quietly. Holds on a frame where the character's side profile, the beautiful bedroom, and the fireworks outside the window are all visible simultaneously.
-
-Environment:
-Bed and character on the right side of the frame, large picture window located at the back left. Cream-colored bedding, walnut furniture, light-colored rug, sheer curtains, and warm lighting—aesthetic yet lived-in.
-Outside the window is a dark sky, city lights, and reflections on the water, maintaining a night scene.
-
-Camera:
-Static wide shot angled from the foot of the bed, clearly capturing the character's side profile, room layout, and fireworks at the same time. Does not cut to an isolated empty shot of the fireworks.
-
-Style:
-Interior is warm and quiet; fireworks outside the window are gorgeous. Tension after waking from the dream gradually dissipates, concluding with evocative open space.
-
-Constraints:
-Must sit up first, then remove earphones, finally look out the window. Character does not stand up to leave. Fireworks are outdoors in the distance, not obscuring the face, not strobing or overexposed.
-
-Audio:
-No dialogue, no voiceover, no subtitles.
-Opens with low-volume hazy melody, nighttime urban ambient hum, and high-altitude wind.
-5—7 seconds as the character falls backward, fireworks synchronously and consecutively burst with "bang, bang, bang, bang" sounds.
-Wind sounds gradually intensify during the falling sequence, with firework sounds carrying from afar.
-At 14 seconds cutting to the bedroom, falling wind sounds cut off immediately, accentuating the gasp, breathing, and rustling of bedding.
-After removing the earbuds, music turns into faint sound leakage, while outside firework sounds and quiet indoor ambient hum become clearer.
-
-Negative:
-Daytime, bright daylight, golden sunset shining on the face, blue sky and white clouds; metal railings, fences, climbing tall walls, hands propping against the wall, straddling the top of the wall; opening shot facing the character directly, still facing away from the camera after turning, falling before spreading arms, camera orbiting outside the building for no reason, side profile replacing frontal upper body; run-up, gathering momentum to jump, somersaults, slipping, wall collapsing, fireworks striking the character; hovering in mid-air, hitting the ground, hitting cars, gore, penetrating the ceiling, crashing into the bed; face swapping, costume change, earbuds disappearing prematurely, plastic skin, melting facial features, extra limbs, fused fingers, body teleportation; sustained screaming, fireworks covering the face, indoor explosions, overexposed strobe, pitch-black room, corrupted text, watermarks, subtitles.
 ```
 
 [↑ Back to categories](#catalog)
@@ -4924,6 +4491,32 @@ Text remains clear and stable while on screen, free of typos, garbled characters
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100760347397538127"></a>
+
+### A video generation prompt depicting a sequence at a Japanese train station, from a ticket gate error to missing the train on the platform.
+
+Author：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2100760347397538127)
+
+Character · Vehicle · Published
+
+Source：[@akiyoshisan](https://x.com/akiyoshisan) · [Source](https://x.com/akiyoshisan/status/2100386541550117317)
+
+**Summary:** A video generation prompt depicting a sequence at a Japanese train station, from a ticket gate error to missing the train on the platform.
+
+<img src="covers/2100760347397538127.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A Japanese train station. Sakura approaches the ticket gate → holds her smartphone over the IC card reader, but an error occurs → steps back once to check and operate the screen → taps it again with a "beep" → the display changes from red to green and she passes through → rushes to the platform → the moment she arrives, the train departs. She stops briefly and watches it leave.
+
+Natural brisk walking, slight bewilderment, understated disappointment. The camera maintains the distance of an observer. Focused on ambient station sounds, no dialogue, conversation, or subtitles. Person/outfit/station space maintain continuity using extracted frames + multiple references. Overacting, unnatural crowd interference, mistapping at the ticket gate, and dangerous last-minute boarding are prohibited.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100460643874943066"></a>
 

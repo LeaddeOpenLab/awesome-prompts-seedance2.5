@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:30:17.946Z",
+  "model": "seedance2.5",
+  "prompt": "日本の駅。さくらが改札へ→スマホをIC読み取り部へかざすがエラー→一度離れて画面を確認・操作→再度「ピッ」→表示が赤から緑へ変わり通過→ホームへ急ぐ→着いた瞬間、電車は発車。少しだけ立ち止まって見送る。\n\n自然な早歩き、小さな戸惑い、控えめな落胆。カメラは観察者の距離感。駅の環境音中心、セリフ・会話・字幕なし。人物／衣装／駅空間は抽出フレーム＋複数参照で連続性を維持。過剰演技、群衆の不自然な干渉、改札への誤タッチ、危険な駆け込み乗車は禁止。",
+  "promptTranslations": {
+    "en": "A Japanese train station. Sakura approaches the ticket gate → holds her smartphone over the IC card reader, but an error occurs → steps back once to check and operate the screen → taps it again with a \"beep\" → the display changes from red to green and she passes through → rushes to the platform → the moment she arrives, the train departs. She stops briefly and watches it leave.\n\nNatural brisk walking, slight bewilderment, understated disappointment. The camera maintains the distance of an observer. Focused on ambient station sounds, no dialogue, conversation, or subtitles. Person/outfit/station space maintain continuity using extracted frames + multiple references. Overacting, unnatural crowd interference, mistapping at the ticket gate, and dangerous last-minute boarding are prohibited."
+  },
+  "summaryTranslations": {
+    "en": "A video generation prompt depicting a sequence at a Japanese train station, from a ticket gate error to missing the train on the platform."
+  },
+  "translationVersion": 2,
+  "summary": "日本の駅で改札通過エラーからホームでの乗り遅れまでを描く動画生成プロンプト。",
+  "summaryEn": "Video prompt depicting a woman encountering a ticket gate error and narrowly missing her train at a Japanese station.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100386541550117317",
+      "canonicalUrl": "https://x.com/akiyoshisan/status/2100386541550117317",
+      "author": {
+        "username": "akiyoshisan",
+        "displayName": "右よし左よし秋よし@AIエンタメ",
+        "profileUrl": "https://x.com/akiyoshisan"
+      },
+      "originalText": "Seedance 2.5｜16:9｜480p｜24fps\n日本の街・商店街。日本語看板、惣菜ケース、日常の店構えを自然に入れる。\n\n前半：片手セルフィーで街歩き→クレープ店を見つける→店員から受け取る→ナプキンを添えてもらい小さく会釈→歩きながら食べる→口元にクリーム。\n\n後半：クリームに気づいて拭く→時間経過のハードカット→商店街を歩く→コロッケ店を発見→店員がトングで平たい日本式コロッケを紙袋へ→無言で受け取り・会釈→セルフィーしながら一口→次の店へ視線を向ける。\n\n演技：過剰演技なし。ただし無表情にしない。微笑み、期待、照れ、満足を小さな表情筋の変化で見せる。セルフィーなので、周囲を見るだけでなく要所で短くカメラ目線へ戻る。\n\nカメラ：全編基本は本人が片手で持つスマホのフロントカメラ。自然な広角感と歩行揺れ。第三者カメラ禁止。2〜4秒ごとに視線・場所・行動・人物・食べ物のどれかを変化。\n\n音：環境音のみ。セリフ・会話・人の声・ナレーションなし。\n\n禁止：字幕、テロップ、口パク、過剰演技、映画的過多、モデル的振る舞い、長い静止、店や小物の突然出現・消失、別人化。\n\n#DreaminaCPP @dreamina_cpp"
+    },
+    "id": "2100760347397538127",
+    "canonicalUrl": "https://x.com/akiyoshisan/status/2100760347397538127",
+    "author": {
+      "username": "akiyoshisan",
+      "displayName": "右よし左よし秋よし@AIエンタメ",
+      "profileUrl": "https://x.com/akiyoshisan"
+    },
+    "publishedAt": "2026-09-18T01:34:31.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "ja",
+    "originalText": "Seedance 2.5 / 16:9 / 480p / 24fps\n日本の駅。さくらが改札へ→スマホをIC読み取り部へかざすがエラー→一度離れて画面を確認・操作→再度「ピッ」→表示が赤から緑へ変わり通過→ホームへ急ぐ→着いた瞬間、電車は発車。少しだけ立ち止まって見送る。\n\n自然な早歩き、小さな戸惑い、控えめな落胆。カメラは観察者の距離感。駅の環境音中心、セリフ・会話・字幕なし。人物／衣装／駅空間は抽出フレーム＋複数参照で連続性を維持。過剰演技、群衆の不自然な干渉、改札への誤タッチ、危険な駆け込み乗車は禁止。\n\n@dreamina_cpp #DreaminaCPP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2100760347397538127",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100760234105221120/img/MJPrgBH_j5pzWdLo.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2100760347397538127"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2100760347397538127",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100386429801308160/img/PHz9TvM-dQD-KMhK.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2100760347397538127",
+        "sourcePostId": "2100386541550117317"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 59
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/akiyoshisan/status/2100760347397538127",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100760234105221120/img/MJPrgBH_j5pzWdLo.jpg",
+  "coverPath": "covers/2100760347397538127.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100760234105221120",
+    "x-video:2100386429801308160",
+    "x-post:2100760347397538127",
+    "x-post:2100386541550117317"
+  ],
+  "analysis": {
+    "summary": "日本の駅で改札通過エラーからホームでの乗り遅れまでを描く動画生成プロンプト。",
+    "summaryEn": "Video prompt depicting a woman encountering a ticket gate error and narrowly missing her train at a Japanese station.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely matches the prompt sequence: approaching gate, IC error, retry and pass, rushing to platform, and watching departing train."
+    },
+    "videoQuality": null,
+    "originalPrompt": "日本の駅。さくらが改札へ→スマホをIC読み取り部へかざすがエラー→一度離れて画面を確認・操作→再度「ピッ」→表示が赤から緑へ変わり通過→ホームへ急ぐ→着いた瞬間、電車は発車。少しだけ立ち止まって見送る。\n\n自然な早歩き、小さな戸惑い、控えめな落胆。カメラは観察者の距離感。駅の環境音中心、セリフ・会話・字幕なし。人物／衣装／駅空間は抽出フレーム＋複数参照で連続性を維持。過剰演技、群衆の不自然な干渉、改札への誤タッチ、危険な駆け込み乗車は禁止。",
+    "sourceRange": {
+      "start": 35,
+      "end": 257
+    },
+    "translations": {
+      "zh": "日本车站。小樱走向闸机→刷手机IC感应区报错→退后一步查看并操作手机→再次刷卡提示音响起→指示灯由红变绿通过→跑向站台→到达瞬间列车刚开出。短暂停步目送。",
+      "en": "Japanese train station. Sakura approaches the ticket gate, taps her phone on the IC card reader but gets an error, steps back to check her screen, taps again successfully, passes through, and rushes to the platform just as the train departs."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation prompt describing a realistic Japanese station scene.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
