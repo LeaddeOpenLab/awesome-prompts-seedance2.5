@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:25:23.156Z",
+  "model": "seedance2.5",
+  "prompt": "人类世界与魔法世界之间的混乱大战。武士刀对咒术，尸体与鲜血四溅，火焰吞没大地，巨龙与飞牛在天上厮杀……快节奏动作场面。\n\n24个不同的镜头角度。  画风：粗油画棒/蜡笔质感，厚重黑色轮廓，平涂色块，天蓝色天空，橙红火焰，稚拙涂鸦感，画面拥挤没有秩序。",
+  "promptTranslations": {
+    "en": "A chaotic war between the human world and the magical world. Katana against sorcery, corpses and blood splattering everywhere, flames engulfing the earth, giant dragons and flying bulls fighting fiercely in the sky... fast-paced action scene. 24 different camera angles. Art style: thick oil pastel/crayon texture, heavy black outlines, flat color blocks, sky-blue sky, orange-red flames, naive doodle feel, crowded composition without order."
+  },
+  "summaryTranslations": {
+    "en": "A fast-paced animated scene of human samurai battling a magical world, presenting a thick crayon texture and naive doodle style."
+  },
+  "translationVersion": 2,
+  "summary": "人类武士与魔法世界交战的快节奏动画场景，呈现粗蜡笔质感与幼稚涂鸦风格。",
+  "summaryEn": "Fast-paced battle between human samurai and sorcerers in a naive crayon/oil pastel style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100995032782446719",
+    "canonicalUrl": "https://x.com/teucutemsebo/status/2100995032782446719",
+    "author": {
+      "username": "teucutemsebo",
+      "displayName": "radio patrulha",
+      "profileUrl": "https://x.com/teucutemsebo"
+    },
+    "publishedAt": "2026-09-18T17:07:05.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "zh",
+    "originalText": "Made on seedance 2.5\nprompt:\n人类世界与魔法世界之间的混乱大战。武士刀对咒术，尸体与鲜血四溅，火焰吞没大地，巨龙与飞牛在天上厮杀……快节奏动作场面。\n\n24个不同的镜头角度。  画风：粗油画棒/蜡笔质感，厚重黑色轮廓，平涂色块，天蓝色天空，橙红火焰，稚拙涂鸦感，画面拥挤没有秩序。 https://t.co/liTvX7DxS9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/teucutemsebo/status/2100995032782446719",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100994792411086848/img/taGIsGgCe1i2Itsw.jpg",
+        "analysisUrl": "https://x.com/teucutemsebo/status/2100995032782446719"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/teucutemsebo/status/2100995032782446719",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100994792411086848/img/taGIsGgCe1i2Itsw.jpg",
+  "coverPath": "covers/2100995032782446719.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100994792411086848",
+    "x-post:2100995032782446719"
+  ],
+  "analysis": {
+    "summary": "人类武士与魔法世界交战的快节奏动画场景，呈现粗蜡笔质感与幼稚涂鸦风格。",
+    "summaryEn": "Fast-paced battle between human samurai and sorcerers in a naive crayon/oil pastel style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现了武士、法师施法、绿龙与飞牛搏斗及火焰，画风完全吻合粗蜡笔涂鸦风格。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "人类世界与魔法世界之间的混乱大战。武士刀对咒术，尸体与鲜血四溅，火焰吞没大地，巨龙与飞牛在天上厮杀……快节奏动作场面。\n\n24个不同的镜头角度。  画风：粗油画棒/蜡笔质感，厚重黑色轮廓，平涂色块，天蓝色天空，橙红火焰，稚拙涂鸦感，画面拥挤没有秩序。",
+    "sourceRange": {
+      "start": 29,
+      "end": 154
+    },
+    "translations": {
+      "zh": "人类世界与魔法世界之间的混乱大战。武士刀对咒术，尸体与鲜血四溅，火焰吞没大地，巨龙与飞牛在天上厮杀……快节奏动作场面。\n\n24个不同的镜头角度。  画风：粗油画棒/蜡笔质感，厚重黑色轮廓，平涂色块，天蓝色天空，橙红火焰，稚拙涂鸦感，画面拥挤没有秩序。",
+      "en": "Chaotic battle between the human and magic worlds. Katanas clash with sorcery, blood and corpses, fire consumes the ground, dragon fights a flying bull in the sky... Fast-paced action scenes.\n\n24 camera angles. Style: coarse oil pastel/crayon texture, thick black outlines, flat color blocks, sky-blue sky, orange-red flames, naive graffiti feel, crowded composition."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "violence"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
