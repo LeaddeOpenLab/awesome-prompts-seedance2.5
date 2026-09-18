@@ -3321,20 +3321,20 @@ Traduction en cours
 
 <a name="prompt-2100814631006801988"></a>
 
-### Traduction en cours
+### Une jeune femme asiatique repousse un agresseur dans un ascenseur sombre avec une lumière rouge clignotante.
 
 Auteur：[@Viniai\_](https://x.com/Viniai_) · [Publication originale](https://x.com/Viniai_/status/2100814631006801988)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une jeune femme asiatique repousse un agresseur dans un ascenseur sombre avec une lumière rouge clignotante.
 
 <img src="covers/2100814631006801988.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une jeune femme asiatique avec une coupe au carré et un gilet tactique sombre se tient seule dans un ascenseur industriel faiblement éclairé. Un gyrophare d'urgence rouge clignote au-dessus de sa tête. Un homme l'attrape par derrière et elle riposte par des mouvements défensifs rapides, réussissant à se libérer. Cadrage claustrophobe, parois métalliques sombres, chorégraphie intense de combat rapproché. Esthétique brute de film d'action.
 ```
 
 [↑ Retour aux catégories](#catalog)

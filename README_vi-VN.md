@@ -3410,20 +3410,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2100814631006801988"></a>
 
-### Đang dịch
+### Một phụ nữ trẻ châu Á đánh trả kẻ tấn công trong thang máy tối có ánh đèn đỏ nhấp nháy.
 
 Tác giả：[@Viniai\_](https://x.com/Viniai_) · [Bài gốc](https://x.com/Viniai_/status/2100814631006801988)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một phụ nữ trẻ châu Á đánh trả kẻ tấn công trong thang máy tối có ánh đèn đỏ nhấp nháy.
 
 <img src="covers/2100814631006801988.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một phụ nữ trẻ châu Á với mái tóc ngắn bob và mặc áo vest chiến thuật tối màu đứng một mình bên trong thang máy công nghiệp lờ mờ ánh sáng. Đèn khẩn cấp màu đỏ nhấp nháy trên đầu. Một người đàn ông túm lấy cô từ phía sau và cô phản đòn bằng những động tác tự vệ nhanh nhẹn, thoát ra được. Khung hình ngột ngạt ngột thở, những bức tường kim loại tối màu, biên đạo cận chiến căng thẳng. Tính thẩm mỹ của phim hành động gai góc.
 ```
 
 [↑ Về danh mục](#catalog)

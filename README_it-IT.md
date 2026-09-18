@@ -3321,20 +3321,20 @@ Traduzione in corso
 
 <a name="prompt-2100814631006801988"></a>
 
-### Traduzione in corso
+### Una giovane donna asiatica respinge un aggressore in un ascensore buio con una luce rossa lampeggiante.
 
 Autore：[@Viniai\_](https://x.com/Viniai_) · [Post originale](https://x.com/Viniai_/status/2100814631006801988)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una giovane donna asiatica respinge un aggressore in un ascensore buio con una luce rossa lampeggiante.
 
 <img src="covers/2100814631006801988.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una giovane donna asiatica con un taglio a caschetto e un gilet tattico scuro è da sola all'interno di un ascensore industriale debolmente illuminato. Una luce rossa di emergenza lampeggia sopra di lei. Un uomo la afferra da dietro e lei reagisce con rapidi movimenti difensivi, liberandosi. Inquadratura claustrofobica, pareti metalliche scure, intensa coreografia di combattimento ravvicinato. Estetica da film d'azione crudo.
 ```
 
 [↑ Torna alle categorie](#catalog)

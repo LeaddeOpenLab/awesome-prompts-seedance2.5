@@ -3315,20 +3315,20 @@ Tradução em andamento
 
 <a name="prompt-2100814631006801988"></a>
 
-### Tradução em andamento
+### Uma jovem mulher asiática repele um agressor em um elevador escuro com uma luz vermelha piscando.
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Publicação original](https://x.com/Viniai_/status/2100814631006801988)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma jovem mulher asiática repele um agressor em um elevador escuro com uma luz vermelha piscando.
 
 <img src="covers/2100814631006801988.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma jovem mulher asiática com corte de cabelo chanel e um colete tático escuro está sozinha dentro de um elevador industrial mal iluminado. Uma luz vermelha de emergência pisca acima dela. Um homem a agarra por trás e ela reage com movimentos defensivos rápidos, libertando-se. Enquadramento claustrofóbico, paredes metálicas escuras, coreografia intensa de combate corpo a corpo. Estética visceral de filme de ação.
 ```
 
 [↑ Voltar às categorias](#catalog)

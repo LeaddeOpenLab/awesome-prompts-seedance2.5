@@ -3321,20 +3321,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2100814631006801988"></a>
 
-### Übersetzung läuft
+### Eine junge asiatische Frau wehrt einen Angreifer in einem dunklen Aufzug mit blinkendem rotem Licht ab.
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Originalbeitrag](https://x.com/Viniai_/status/2100814631006801988)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine junge asiatische Frau wehrt einen Angreifer in einem dunklen Aufzug mit blinkendem rotem Licht ab.
 
 <img src="covers/2100814631006801988.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine junge asiatische Frau mit Bob-Frisur und einer dunklen taktischen Weste steht allein in einem schwach beleuchteten Industrieaufzug. Über ihr blinkt ein rotes Notlicht. Ein Mann packt sie von hinten und sie wehrt sich mit schnellen Verteidigungsbewegungen und befreit sich. Klaustrophobische Bildkomposition, dunkle Metallwände, intensive Nahkampf-Choreografie. Raue Actionfilm-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

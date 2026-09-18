@@ -3315,20 +3315,20 @@ Tradução em curso
 
 <a name="prompt-2100814631006801988"></a>
 
-### Tradução em curso
+### Uma jovem mulher asiática repele um agressor num elevador escuro com uma luz vermelha a piscar.
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Publicação original](https://x.com/Viniai_/status/2100814631006801988)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma jovem mulher asiática repele um agressor num elevador escuro com uma luz vermelha a piscar.
 
 <img src="covers/2100814631006801988.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma jovem mulher asiática com um corte de cabelo bob e um colete tático escuro está sozinha dentro de um elevador industrial mal iluminado. Uma luz vermelha de emergência pisca por cima dela. Um homem agarra-a por trás e ela riposta com movimentos defensivos rápidos, libertando-se. Enquadramento claustrofóbico, paredes metálicas escuras, coreografia intensa de combate corpo a corpo. Estética crua de filme de ação.
 ```
 
 [↑ Voltar às categorias](#catalog)

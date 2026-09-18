@@ -3315,20 +3315,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2100814631006801988"></a>
 
-### Çeviri sürüyor
+### Genç bir Asyalı kadın, yanıp sönen kırmızı ışıklı karanlık bir asansörde bir saldırganı püskürtüyor.
 
 Yazar：[@Viniai\_](https://x.com/Viniai_) · [Orijinal gönderi](https://x.com/Viniai_/status/2100814631006801988)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir Asyalı kadın, yanıp sönen kırmızı ışıklı karanlık bir asansörde bir saldırganı püskürtüyor.
 
 <img src="covers/2100814631006801988.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Küt saçlı ve koyu renkli taktik yelekli genç bir Asyalı kadın, loş ışıklı endüstriyel bir asansörde tek başına duruyor. Tepede kırmızı bir acil durum ışığı yanıp sönüyor. Bir adam onu arkadan yakalıyor ve kadın hızlı savunma hareketleriyle karşılık verip kurtuluyor. Klostrofobik çerçeveleme, karanlık metalik duvarlar, yoğun yakın dövüş koreografisi. Sert bir aksiyon filmi estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -3321,20 +3321,20 @@ Traducción en curso
 
 <a name="prompt-2100814631006801988"></a>
 
-### Traducción en curso
+### Una joven asiática repele a un atacante en un ascensor oscuro con una luz roja parpadeante.
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Publicación original](https://x.com/Viniai_/status/2100814631006801988)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una joven asiática repele a un atacante en un ascensor oscuro con una luz roja parpadeante.
 
 <img src="covers/2100814631006801988.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una joven asiática con corte de pelo bob y un chaleco táctico oscuro está sola dentro de un ascensor industrial tenuemente iluminado. Una luz roja de emergencia parpadea arriba. Un hombre la sujeta por detrás y ella contraataca con rápidos movimientos defensivos, liberándose. Encuadre claustrofóbico, paredes metálicas oscuras, intensa coreografía de combate cuerpo a cuerpo. Estética cruda de película de acción.
 ```
 
 [↑ Volver a categorías](#catalog)
