@@ -327,20 +327,52 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2101008442215264341"></a>
 
-### Traducción en curso
+### Prompt de tráiler de documental de 30 segundos sobre el gran tiburón blanco, que incluye un guion gráfico detallado con línea de tiempo, tomas de cámara, comportamientos biológicos realistas y voz en off.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publicación original](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Cómic / Guion gráfico · Fotografía · Cine / Fotograma · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de tráiler de documental de 30 segundos sobre el gran tiburón blanco, que incluye un guion gráfico detallado con línea de tiempo, tomas de cámara, comportamientos biológicos realistas y voz en off.
 
 <img src="covers/2101008442215264341.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tráiler de documental de vida silvestre de calidad prémium y ultrarrealista, de 30 segundos, centrado en el gran tiburón blanco. Cinematografía de historia natural de alta gama, seguimiento subacuático, tomas en superficie con teleobjetivo, saltos fuera del agua en cámara lenta, metraje estabilizado al nivel de la embarcación, agua azul profunda, luz diurna brillante, cáusticas realistas, sutil grano de película, tensión elegante, comportamiento con base científica, sin estilo de terror.
+
+Sujeto principal: un gran tiburón blanco adulto, proporciones enormes pero realistas, cicatrices naturales, potente movimiento de cola, comportamiento depredador sereno, patrones y marcas consistentes en todo momento.
+
+Vida silvestre secundaria: focas, aves marinas, pequeños cardúmenes de peces. Ningún humano en peligro.
+Océano abierto y frío cerca de una costa rocosa, bordes de bosques de algas (kelp), abismos azul profundo, agua superficial iluminada por el sol, hábitat de isla en alta mar.
+
+0-5s: Apertura tranquila
+Toma aérea amplia sobre un océano calmo al amanecer. Corte bajo el agua: una sombra enorme se desliza bajo la superficie.
+Voz en off en inglés: “Durante millones de años… esta silueta ha dominado los confines del océano”.
+
+5-10s: Primera revelación
+Una toma de seguimiento lateral revela al gran tiburón blanco completo desplazándose en silencio a través del agua azul. Primer plano del ojo, movimiento de las branquias, ritmo de la cola e hileras de dientes visibles solo de forma natural cuando la boca se abre ligeramente.
+Voz en off: “No solo mediante la velocidad… sino a través de la paciencia”.
+
+10-16s: Comportamiento de caza
+El tiburón navega por debajo de una colonia lejana de focas, manteniéndose en la profundidad y casi invisible. Cardúmenes de peces se abren alrededor de su cuerpo. La cámara lo sigue desde atrás y desde abajo.
+Voz en off: “Cada movimiento está calculado”.
+
+16-22s: Momento de poder
+El tiburón acelera hacia arriba a través de haces de luz solar. Corte a cámara lenta dramática mientras rompe la superficie y salta por completo en medio de una enorme cortina de espuma, para luego caer de nuevo al océano.
+Voz en off: “Cuando llega el momento… la fuerza se convierte en precisión”.
+
+22-27s: Escala majestuosa
+Toma submarina amplia: el tiburón atraviesa un corredor azul bordeado de algas kelp y luego gira por debajo de la cámara, revelando su escala colosal en contraste con peces diminutos.
+Voz en off: “Pero detrás de la leyenda… hay un animal perfectamente diseñado para su mundo”.
+
+27-30s: Revelación icónica final
+Toma al nivel de la superficie con luz diurna dorada. La aleta dorsal cruza el agua calma y luego desaparece.
+Voz en off: “El gran tiburón blanco… amo de las profundidades azules”.
+Corte seco a negro.
+
+Anatomía de tiburón fotorrealista, mecánica de natación auténtica, flotabilidad y física del agua realistas, marcas estables, ritmo documental prémium, narración natural en inglés, comportamiento con base científica, sin sangre, sin primeros planos de alimentación, sin heridas, sin texto, sin logotipos.
 ```
 
 [↑ Volver a categorías](#catalog)

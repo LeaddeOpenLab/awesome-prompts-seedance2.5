@@ -327,20 +327,52 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2101008442215264341"></a>
 
-### Traducción en curso
+### Prompt para un tráiler de documental de 30 segundos sobre el gran tiburón blanco, con guion gráfico detallado por línea de tiempo, posiciones de cámara, comportamiento biológico realista y voz en off.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publicación original](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Cómic / Guion gráfico · Fotografía · Cine / Fotograma de película · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un tráiler de documental de 30 segundos sobre el gran tiburón blanco, con guion gráfico detallado por línea de tiempo, posiciones de cámara, comportamiento biológico realista y voz en off.
 
 <img src="covers/2101008442215264341.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tráiler de documental de vida silvestre de primera calidad ultrarrealista, 30 segundos, centrado en el gran tiburón blanco. Cinematografía de historia natural de alta gama, seguimiento submarino, planos en superficie con teleobjetivo, saltos fuera del agua en cámara lenta, metraje estabilizado a nivel de embarcación, agua azul profundo, luz diurna brillante, cáusticas realistas, sutil grano de película, tensión elegante, comportamiento científicamente fundamentado, sin estilo de terror.
+
+Sujeto principal: un tiburón blanco adulto, de proporciones masivas pero realistas, cicatrices naturales, potente movimiento de la cola, comportamiento depredador sereno, marcas consistentes en todo momento.
+
+Vida silvestre secundaria: focas, aves marinas, pequeños bancos de peces. Ningún ser humano en peligro.
+Océano abierto y frío cerca de una costa rocosa, bordes de bosques de algas laminarias, caídas hacia el azul profundo, agua superficial iluminada por el sol, hábitat de isla marina.
+
+0-5 s: Inicio tranquilo
+Plano aéreo amplio sobre un océano en calma al amanecer. Corte a bajo el agua: una enorme sombra se desliza bajo la superficie.
+Voz en off en inglés: “For millions of years… this silhouette has ruled the edge of the ocean.”
+
+5-10 s: Primera revelación
+Un plano de seguimiento lateral revela al gran tiburón blanco al completo moviéndose silenciosamente a través del agua azul. Primer plano del ojo, el movimiento de las branquias, el ritmo de la cola y las filas de dientes visibles solo de forma natural cuando abre ligeramente la boca.
+Voz en off: “Not through speed alone… but through patience.”
+
+10-16 s: Comportamiento de caza
+El tiburón navega por debajo de una colonia lejana de focas, manteniéndose a gran profundidad y casi invisible. Los bancos de peces se abren alrededor de su cuerpo. La cámara lo sigue desde atrás y abajo.
+Voz en off: “Every movement is calculated.”
+
+16-22 s: Momento de poder
+El tiburón acelera hacia arriba a través de los rayos de sol. Corte a una dramática cámara lenta mientras salta completamente fuera de la superficie en una enorme pared de rocío, y luego cae de nuevo al océano.
+Voz en off: “When the moment comes… power becomes precision.”
+
+22-27 s: Escala majestuosa
+Plano general submarino: el tiburón atraviesa un corredor azul bordeado de algas, luego gira debajo de la cámara, revelando su escala colosal frente a diminutos peces.
+Voz en off: “But behind the legend… is an animal perfectly built for its world.”
+
+27-30 s: Revelación icónica final
+Plano a nivel de superficie con luz dorada de día. La aleta dorsal cruza el agua en calma y luego desaparece.
+Voz en off: “The great white shark… master of the blue.”
+Corte abrupto a negro.
+
+Anatomía de tiburón fotorrealista, mecánica de natación auténtica, flotabilidad y física del agua realistas, marcas estables, ritmo de documental prémium, narración natural en inglés, comportamiento científicamente fundamentado, sin gore, sin primeros planos de alimentación, sin heridas, sin texto, sin logotipos.
 ```
 
 [↑ Volver a categorías](#catalog)

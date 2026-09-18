@@ -327,20 +327,52 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2101008442215264341"></a>
 
-### Traduction en cours
+### Prompt de bande-annonce de 30 secondes pour un documentaire sur le grand requin blanc, comprenant un découpage temporel détaillé, des angles de caméra, des comportements biologiques réalistes et une voix hors champ.
 
 Auteur：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publication originale](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Bande dessinée / Storyboard · Photographie · Image cinématographique / Photogramme de film · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de bande-annonce de 30 secondes pour un documentaire sur le grand requin blanc, comprenant un découpage temporel détaillé, des angles de caméra, des comportements biologiques réalistes et une voix hors champ.
 
 <img src="covers/2101008442215264341.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Bande-annonce ultra-réaliste haut de gamme pour un documentaire animalier, 30 secondes, centrée sur le grand requin blanc. Cinématographie d'histoire naturelle de haut niveau, travelling sous-marin, prises de vue en surface au téléobjectif, sauts hors de l'eau au ralenti, séquences stabilisées au niveau du bateau, eau bleu profond, lumière vive du jour, caustiques réalistes, grain de pellicule subtil, tension élégante, comportement scientifiquement fondé, aucun style horrifique.
+
+Sujet principal : un grand requin blanc adulte, proportions imposantes mais réalistes, cicatrices naturelles, mouvement puissant de la queue, comportement de prédateur calme, motifs corporels constants tout au long.
+
+Faune secondaire : phoques, oiseaux marins, petits bancs de poissons. Aucun humain en danger.
+Océan ouvert et froid près d'une côte rocheuse, lisières de forêts de varech, tombants d'un bleu profond, eau de surface baignée de soleil, habitat insulaire au large.
+
+0-5s : Ouverture paisible
+Plan aérien large au-dessus d'un océan calme au lever du soleil. Coupe sous l'eau : une ombre immense glisse sous la surface.
+Voix hors champ en anglais : « Depuis des millions d'années… cette silhouette règne sur les confins de l'océan. »
+
+5-10s : Première révélation
+Un travelling latéral révèle le grand requin blanc dans son intégralité se déplaçant silencieusement dans l'eau bleue. Gros plan sur l'œil, le mouvement des ouïes, le rythme de la queue et les rangées de dents visibles uniquement de manière naturelle lorsque la gueule s'entrouvre légèrement.
+Voix hors champ : « Pas seulement grâce à la vitesse… mais grâce à la patience. »
+
+10-16s : Comportement de chasse
+Le requin croise sous une colonie de phoques au loin, restant en profondeur et presque invisible. Des bancs de poissons s'écartent autour de son corps. La caméra le suit par l'arrière et par en dessous.
+Voix hors champ : « Chaque mouvement est calculé. »
+
+16-22s : Moment de puissance
+Le requin accélère vers le haut à travers des rais de lumière solaire. Coupe vers un ralenti spectaculaire lorsqu'il jaillit entièrement hors de l'eau dans un immense mur d'écume, avant de retomber dans l'océan.
+Voix hors champ : « Quand le moment arrive… la puissance devient précision. »
+
+22-27s : Échelle majestueuse
+Plan large sous-marin : le requin traverse un couloir bleu bordé de varech, puis tourne sous la caméra, révélant ses dimensions colossales face à de minuscules poissons.
+Voix hors champ : « Mais derrière la légende… se trouve un animal parfaitement façonné pour son monde. »
+
+27-30s : Révélation iconique finale
+Prise de vue au ras de la surface sous une lumière dorée du jour. L'aileron dorsal fend une eau calme, puis disparaît.
+Voix hors champ : « Le grand requin blanc… maître des profondeurs bleues. »
+Coupe franche au noir.
+
+Anatomie photoréaliste du requin, mécanique de nage authentique, flottabilité et physique de l'eau réalistes, marques stables, rythme de documentaire haut de gamme, narration naturelle en anglais, comportement scientifiquement fondé, pas de gore, pas de gros plan d'alimentation, pas de blessure, pas de texte, pas de logos.
 ```
 
 [↑ Retour aux catégories](#catalog)

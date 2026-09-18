@@ -313,20 +313,52 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2101008442215264341"></a>
 
-### Çeviri sürüyor
+### Ayrıntılı zaman çizelgesi çekimleri, kamera açıları, gerçekçi biyolojik alışkanlıklar ve dış ses içeren 30 saniyelik büyük beyaz köpekbalığı belgesel fragmanı istemi.
 
 Yazar：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Orijinal gönderi](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Sinematik / Film Karesi · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ayrıntılı zaman çizelgesi çekimleri, kamera açıları, gerçekçi biyolojik alışkanlıklar ve dış ses içeren 30 saniyelik büyük beyaz köpekbalığı belgesel fragmanı istemi.
 
 <img src="covers/2101008442215264341.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Büyük beyaz köpekbalığına odaklanan, 30 saniyelik, ultra gerçekçi, birinci sınıf yaban hayatı belgeseli fragmanı. Üst düzey doğa tarihi sinematografisi, su altı takibi, uzun odaklı yüzey çekimleri, ağır çekim sudan fırlamalar, stabilize edilmiş tekne seviyesinden görüntüler, derin mavi su, parlak gün ışığı, gerçekçi kostikler, ince film greni, zarif gerilim, bilimsel temellere dayanan davranışlar, korku tarzı yok.
+
+Ana konu: bir yetişkin büyük beyaz köpekbalığı, devasa ancak gerçekçi oranlar, doğal yara izleri, güçlü kuyruk hareketi, sakin avcı davranışı, baştan sona tutarlı desenler.
+
+İkincil yaban hayatı: foklar, deniz kuşları, küçük sürü balıkları. Tehlikede olan hiçbir insan yok.
+Kayalık bir kıyı şeridinin yakınında soğuk açık okyanus, dev yosun (kelp) sınırları, derin mavi dik yamaçlar, güneş ışığı alan yüzey suları, kıyı açığı ada habitatı.
+
+0-5 sn: Sessiz açılış
+Gün doğumunda sakin bir okyanus üzerinde geniş hava çekimi. Su altına kesme: devasa bir gölge yüzeyin altında süzülüyor.
+İngilizce dış ses: “For millions of years… this silhouette has ruled the edge of the ocean.”
+
+5-10 sn: İlk gösterim
+Yandan takip çekimi, mavi suyun içinde sessizce ilerleyen büyük beyazın tamamını ortaya çıkarır. Gözün, solungaç hareketinin, kuyruk ritminin ve yalnızca ağız hafifçe açıldığında doğal olarak görünen diş sıralarının yakın çekimi.
+Dış ses: “Not through speed alone… but through patience.”
+
+10-16 sn: Avlanma davranışı
+Köpekbalığı, uzaktaki bir fok kolonisinin altında, derinde ve neredeyse görünmez kalarak gezinir. Balık sürüleri gövdesinin etrafında ikiye ayrılır. Kamera arkadan ve alttan takip eder.
+Dış ses: “Every movement is calculated.”
+
+16-22 sn: Güç anı
+Köpekbalığı güneş ışığı huzmelerinin arasından yukarıya doğru hızlanır. Devasa bir su serpintisi duvarı içinde yüzeyden tamamen fırlayıp ardından okyanusa geri düştüğü dramatik ağır çekime kesme.
+Dış ses: “When the moment comes… power becomes precision.”
+
+22-27 sn: Görkemli ölçek
+Su altı geniş çekimi: köpekbalığı yosunlarla çevrili mavi bir koridordan geçer, ardından kameranın altından dönerek minik balıklara kıyasla devasa boyutunu sergiler.
+Dış ses: “But behind the legend… is an animal perfectly built for its world.”
+
+27-30 sn: Son ikonik gösterim
+Altın gün ışığında su yüzeyi seviyesinden çekim. Sırt yüzgeci sakin suyu yararak geçer, ardından kaybolur.
+Dış ses: “The great white shark… master of the blue.”
+Sert bir kesmeyle siyaha geçiş.
+
+Fotogerçekçi köpekbalığı anatomisi, otantik yüzme mekaniği, gerçekçi batmazlık ve su fiziği, tutarlı desenler, birinci sınıf belgesel temposu, doğal İngilizce seslendirme, bilimsel temelli davranış, vahşet/kan yok, beslenme yakın çekimi yok, yaralanma yok, metin yok, logo yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

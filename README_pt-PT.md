@@ -313,20 +313,52 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2101008442215264341"></a>
 
-### Tradução em curso
+### Prompt para trailer de documentário de 30 segundos sobre o grande tubarão-branco, incluindo guião temporal detalhado, enquadramentos de câmara, comportamento biológico autêntico e voz-off.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publicação original](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Banda desenhada / Storyboard · Fotografia · Cena de Cinema / Fotograma · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para trailer de documentário de 30 segundos sobre o grande tubarão-branco, incluindo guião temporal detalhado, enquadramentos de câmara, comportamento biológico autêntico e voz-off.
 
 <img src="covers/2101008442215264341.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Trailer de documentário de vida selvagem de alta qualidade e ultrarrealista, 30 segundos, focado no grande tubarão-branco. Cinematografia de história natural de topo, seguimento subaquático, planos de superfície com teleobjetiva, saltos fora de água em câmara lenta, filmagens estabilizadas ao nível do barco, água azul profunda, luz do dia brilhante, cáusticas realistas, grão subtil de película, tensão elegante, comportamento fundamentado cientificamente, sem estilo de terror.
+
+Assunto principal: um grande tubarão-branco adulto, proporções maciças mas realistas, cicatrizes naturais, movimento potente da cauda, comportamento predatório calmo, marcas consistentes ao longo de todo o vídeo.
+
+Vida selvagem secundária: focas, aves marinhas, pequenos cardumes de peixes. Nenhum ser humano em perigo.
+Oceano aberto e frio junto a uma costa rochosa, margens de florestas de kelp, abismos de azul profundo, água superficial banhada pelo sol, habitat de ilha costeira.
+
+0-5s: Abertura silenciosa
+Plano aéreo geral sobre um oceano calmo ao nascer do sol. Corte para debaixo de água: uma enorme sombra desliza sob a superfície.
+Voz-off em inglês: “For millions of years… this silhouette has ruled the edge of the ocean.”
+
+5-10s: Primeira revelação
+Plano de seguimento lateral revela o tubarão-branco por inteiro a mover-se silenciosamente na água azul. Grande plano do olho, movimento das guelras, ritmo da cauda e fileiras de dentes visíveis apenas naturalmente à medida que a boca se abre ligeiramente.
+Voz-off: “Not through speed alone… but through patience.”
+
+10-16s: Comportamento de caça
+O tubarão navega por baixo de uma colónia distante de focas, mantendo-se em profundidade e quase invisível. Cardumes de peixes abrem caminho à volta do seu corpo. A câmara segue por trás e por baixo.
+Voz-off: “Every movement is calculated.”
+
+16-22s: Momento de poder
+O tubarão acelera para cima por entre feixes de luz solar. Corte para uma câmara lenta dramática enquanto se projeta completamente para fora da superfície numa enorme cortina de espuma, caindo depois de volta no oceano.
+Voz-off: “When the moment comes… power becomes precision.”
+
+22-27s: Escala majestosa
+Plano geral subaquático: o tubarão atravessa um corredor azul margeado por kelp, virando depois por baixo da câmara, revelando a sua escala colossal em contraste com minúsculos peixes.
+Voz-off: “But behind the legend… is an animal perfectly built for its world.”
+
+27-30s: Revelação icónica final
+Plano ao nível da superfície sob a luz dourada do dia. A barbatana dorsal cruza as águas calmas e depois desaparece.
+Voz-off: “The great white shark… master of the blue.”
+Corte seco para preto.
+
+Anatomia fotorrealista de tubarão, mecânica autêntica de natação, flutuabilidade e física da água realistas, marcas corporais estáveis, ritmo de documentário de alta gama, narração natural em inglês, comportamento com base científica, sem sangue ou vísceras, sem grande plano de alimentação, sem ferimentos, sem texto, sem logótipos.
 ```
 
 [↑ Voltar às categorias](#catalog)

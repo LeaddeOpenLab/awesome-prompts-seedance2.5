@@ -329,20 +329,52 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2101008442215264341"></a>
 
-### Đang dịch
+### Lời nhắc đoạn giới thiệu phim tài liệu cá mập trắng 30 giây, bao gồm phân cảnh dòng thời gian chi tiết, góc đặt máy quay, tập tính sinh vật thực tế và lời bình.
 
 Tác giả：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Bài gốc](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc đoạn giới thiệu phim tài liệu cá mập trắng 30 giây, bao gồm phân cảnh dòng thời gian chi tiết, góc đặt máy quay, tập tính sinh vật thực tế và lời bình.
 
 <img src="covers/2101008442215264341.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đoạn giới thiệu phim tài liệu về động vật hoang dã cao cấp siêu thực tế, 30 giây, tập trung vào cá mập trắng lớn. Kỹ thuật quay phim lịch sử tự nhiên cao cấp, theo dõi dưới nước, các cảnh quay mặt nước bằng ống kính tele, những cú nhảy vọt khỏi mặt nước chuyển động chậm, cảnh quay ngang mặt thuyền được chống rung, làn nước xanh thẳm, ánh sáng ban ngày rực rỡ, hiệu ứng tụ quang chân thực, hạt phim tinh tế, sự căng thẳng trang nhã, hành vi có cơ sở khoa học, không mang phong cách kinh dị.
+
+Chủ thể chính: một con cá mập trắng lớn trưởng thành, tỷ lệ khổng lồ nhưng thực tế, các vết sẹo tự nhiên, chuyển động đuôi mạnh mẽ, hành vi săn mồi điềm tĩnh, các đặc điểm nhận dạng nhất quán xuyên suốt.
+
+Động vật hoang dã phụ: hải cẩu, chim biển, đàn cá nhỏ. Không có con người gặp nguy hiểm.
+Đại dương mở lạnh giá gần bờ biển đá, rìa rừng tảo bẹ, các dốc đứng sâu thẳm xanh biếc, nước bề mặt chan hòa ánh nắng, môi trường sống quanh đảo ngoài khơi.
+
+0-5s: Mở đầu tĩnh lặng
+Góc máy rộng trên không trên đại dương phẳng lặng lúc bình minh. Cắt cảnh xuống dưới nước: một bóng đen khổng lồ lướt dưới mặt nước.
+Lời bình tiếng Anh: “For millions of years… this silhouette has ruled the edge of the ocean.”
+
+5-10s: Lần lộ diện đầu tiên
+Cảnh quay theo dõi từ bên hông hé lộ toàn bộ con cá mập trắng đang di chuyển tĩnh lặng qua làn nước xanh. Cận cảnh mắt, chuyển động của mang, nhịp đuôi và các hàng răng chỉ lộ ra một cách tự nhiên khi miệng hơi hé mở.
+Lời bình: “Not through speed alone… but through patience.”
+
+10-16s: Hành vi săn mồi
+Con cá mập tuần tra bên dưới một đàn hải cẩu ở xa, giữ vị trí sâu và gần như vô hình. Đàn cá rẽ ra quanh cơ thể nó. Máy quay theo sau từ phía sau và bên dưới.
+Lời bình: “Every movement is calculated.”
+
+16-22s: Khoảnh khắc sức mạnh
+Con cá mập tăng tốc hướng lên trên qua các tia nắng. Cắt sang chuyển động chậm đầy kịch tính khi nó lao vọt hoàn toàn lên khỏi mặt nước trong một bức tường bọt nước khổng lồ, sau đó rơi trở lại đại dương.
+Lời bình: “When the moment comes… power becomes precision.”
+
+22-27s: Quy mô uy nghi
+Cảnh quay rộng dưới nước: con cá mập đi qua một hành lang xanh viền quanh bởi tảo bẹ, sau đó lượn xuống dưới máy quay, để lộ kích thước đồ sộ của nó bên cạnh những con cá nhỏ bé.
+Lời bình: “But behind the legend… is an animal perfectly built for its world.”
+
+27-30s: Lộ diện mang tính biểu tượng cuối cùng
+Cảnh quay ngang mặt nước dưới ánh sáng vàng ban ngày. Vây lưng lướt qua mặt nước êm ả, rồi biến mất.
+Lời bình: “The great white shark… master of the blue.”
+Cắt dứt khoát sang màn hình đen.
+
+Giải phẫu cá mập chân thực như ảnh chụp, cơ chế bơi chân thực, độ nổi và vật lý nước thực tế, các đặc điểm nhận dạng ổn định, nhịp độ tài liệu cao cấp, lời dẫn tiếng Anh tự nhiên, hành vi có cơ sở khoa học, không máu me, không quay cận cảnh kiếm ăn, không thương tích, không văn bản, không logo.
 ```
 
 [↑ Về danh mục](#catalog)

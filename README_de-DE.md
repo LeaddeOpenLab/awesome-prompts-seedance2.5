@@ -327,20 +327,52 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2101008442215264341"></a>
 
-### Übersetzung läuft
+### 30-Sekunden-Trailer-Prompt für eine Dokumentation über den Weißen Hai, mit detaillierter Zeitleisten-Szenenfolge, Kameraeinstellungen, authentischem biologischen Verhalten und Voiceover.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Originalbeitrag](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Comic / Storyboard · Fotografie · Kinematisch / Filmstill · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-Sekunden-Trailer-Prompt für eine Dokumentation über den Weißen Hai, mit detaillierter Zeitleisten-Szenenfolge, Kameraeinstellungen, authentischem biologischen Verhalten und Voiceover.
 
 <img src="covers/2101008442215264341.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistischer Premium-Naturdokumentarfilm-Trailer, 30 Sekunden, fokussiert auf den Weißen Hai. Hochwertige Naturfilm-Kinematografie, Unterwasser-Tracking, Teleobjektiv-Aufnahmen an der Oberfläche, Slow-Motion-Sprünge aus dem Wasser, stabilisiertes Filmmaterial auf Bootshöhe, tiefblaues Wasser, helles Tageslicht, realistische Kaustiken, dezente Filmkörnung, elegante Spannung, wissenschaftlich fundiertes Verhalten, kein Horror-Stil.
+
+Hauptmotiv: ein ausgewachsener Weißer Hai, massive, aber realistische Proportionen, natürliche Narben, kraftvolle Schwanzbewegung, ruhiges Raubtierverhalten, durchgehend einheitliche Zeichnung.
+
+Sekundäre Tierwelt: Robben, Seevögel, kleine Schwarmfische. Keine Menschen in Gefahr.
+Kalter offener Ozean nahe einer felsigen Küstenlinie, Ränder von Kelpwäldern, tiefblaue Steilabfälle, sonnenbeschienenes Oberflächenwasser, küstenfernes Inselhabitat.
+
+0-5s: Ruhiger Auftakt
+Weite Luftaufnahme über einem ruhigen Ozean bei Sonnenaufgang. Schnitt unter Wasser: Ein gewaltiger Schatten gleitet unter der Oberfläche dahin.
+Englischer Voiceover: „Seit Millionen von Jahren … beherrscht diese Silhouette den Rand des Ozeans.“
+
+5-10s: Erste Enthüllung
+Seitliche Verfolgungsaufnahme enthüllt den gesamten Weißen Hai, wie er sich lautlos durch das blaue Wasser bewegt. Nahaufnahme von Auge, Kiemenbewegung, Schwanzrhythmus und Zahnreihen, die nur auf natürliche Weise sichtbar werden, wenn sich das Maul leicht öffnet.
+Voiceover: „Nicht durch Schnelligkeit allein … sondern durch Geduld.“
+
+10-16s: Jagdverhalten
+Der Hai kreuzt unterhalb einer entfernten Robbenkolonie, bleibt in der Tiefe und fast unsichtbar. Schwarmfische teilen sich um seinen Körper herum. Die Kamera folgt von hinten und unten.
+Voiceover: „Jede Bewegung ist kalkuliert.“
+
+16-22s: Kraftvoller Moment
+Der Hai beschleunigt nach oben durch einfallende Sonnenstrahlen. Schnitt zu dramatischer Zeitlupe, während er vollständig aus der Oberfläche bricht, umgeben von einer gewaltigen Gischtwand, und dann zurück in den Ozean fällt.
+Voiceover: „Wenn der Moment kommt … wird Kraft zu Präzision.“
+
+22-27s: Majestätische Ausmaße
+Unterwasser-Weitwinkelaufnahme: Der Hai zieht durch einen von Kelp gesäumten blauen Korridor, dreht dann unter der Kamera ab und offenbart seine enorme Größe im Vergleich zu winzigen Fischen.
+Voiceover: „Doch hinter der Legende … steht ein Tier, das perfekt für seine Welt geschaffen ist.“
+
+27-30s: Finale ikonische Enthüllung
+Aufnahme auf Oberflächenhöhe bei goldenem Tageslicht. Die Rückenflosse durchquert ruhiges Wasser und verschwindet dann.
+Voiceover: „Der Weiße Hai … Herrscher des Blaus.“
+Harter Schnitt zu Schwarz.
+
+Fotorealistische Hai-Anatomie, authentische Schwimmmechanik, realistische Auftriebs- und Wasserphysik, konsistente Zeichnungen, erstklassiges Dokumentarfilm-Timing, natürliche englische Erzählung, wissenschaftlich fundiertes Verhalten, kein Gore, keine Fress-Nahaufnahmen, keine Verletzungen, kein Text, keine Logos.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

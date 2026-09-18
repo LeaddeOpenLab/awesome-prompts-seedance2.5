@@ -327,20 +327,52 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2101008442215264341"></a>
 
-### Traduzione in corso
+### Prompt per trailer di documentario di 30 secondi sul grande squalo bianco, con storyboard dettagliato su linea temporale, inquadrature, comportamenti biologici realistici e voce fuori campo.
 
 Autore：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Post originale](https://x.com/CharaspowerAI/status/2101008442215264341)
 
 Fumetto / Storyboard · Fotografia · Fermo immagine cinematografico / Still fotografico · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trailer di documentario di 30 secondi sul grande squalo bianco, con storyboard dettagliato su linea temporale, inquadrature, comportamenti biologici realistici e voce fuori campo.
 
 <img src="covers/2101008442215264341.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trailer ultra-realistico di qualità premium per documentario naturalistico, 30 secondi, incentrato sul grande squalo bianco. Cinematografia naturalistica di alto livello, tracking subacqueo, riprese in superficie con teleobiettivo, salti fuori dall'acqua in slow-motion, riprese stabilizzate a livello della barca, acqua blu profondo, luce diurna brillante, caustiche realistiche, sottile grana della pellicola, tensione elegante, comportamento scientificamente fondato, nessuno stile horror.
+
+Soggetto principale: un grande squalo bianco adulto, proporzioni massicce ma realistiche, cicatrici naturali, potente movimento della pinna caudale, comportamento predatorio calmo, segni e macchie costanti per tutta la durata.
+
+Fauna secondaria: foche, uccelli marini, piccoli banchi di pesci. Nessun essere umano in pericolo.
+Oceano aperto e freddo vicino a una costa rocciosa, margini di foreste di kelp, scarpate nel blu profondo, acqua superficiale illuminata dal sole, habitat insulare al largo.
+
+0-5s: Apertura tranquilla
+Ampia veduta aerea su un oceano calmo all'alba. Stacco subacqueo: un'ombra enorme scivola sotto la superficie.
+Voce fuori campo in inglese: “Per milioni di anni… questa sagoma ha dominato i confini dell'oceano”.
+
+5-10s: Prima rivelazione
+Una ripresa di tracking laterale rivela il grande squalo bianco nella sua interezza mentre si muove silenziosamente attraverso l'acqua blu. Primo piano su occhio, movimento delle branchie, ritmo della coda e file di denti visibili solo naturalmente mentre la bocca si apre leggermente.
+Voce fuori campo: “Non solo grazie alla velocità… ma attraverso la pazienza”.
+
+10-16s: Comportamento di caccia
+Lo squalo naviga sotto una colonia di foche in lontananza, rimanendo in profondità e quasi invisibile. Banchi di pesci si aprono attorno al suo corpo. La telecamera lo segue da dietro e dal basso.
+Voce fuori campo: “Ogni movimento è calcolato”.
+
+16-22s: Momento di potenza
+Lo squalo accelera verso l'alto attraverso fasci di luce solare. Stacco su un drammatico rallentatore mentre compie un breach emergendo del tutto dalla superficie in un'enorme parete di spruzzi, per poi ricadere nell'oceano.
+Voce fuori campo: “Quando arriva il momento… la potenza diventa precisione”.
+
+22-27s: Scala maestosa
+Ripresa subacquea in campo lungo: lo squalo attraversa un corridoio blu orlato di kelp, poi vira sotto la telecamera, rivelando la sua scala monumentale a confronto con minuscoli pesci.
+Voce fuori campo: “Ma dietro la leggenda… c'è un animale perfettamente modellato per il suo mondo”.
+
+27-30s: Rivelazione iconica finale
+Ripresa a filo d'acqua con luce dorata diurna. La pinna dorsale attraversa l'acqua calma, poi scompare.
+Voce fuori campo: “Il grande squalo bianco… signore del blu”.
+Stacco netto a nero.
+
+Anatomia fotorealistica dello squalo, autentica dinamica di nuoto, galleggiamento e fisica dell'acqua realistici, segni stabili, ritmo documentaristico di alta qualità, narrazione naturale in inglese, comportamento scientificamente fondato, niente sangue o sventramenti, nessun primo piano di alimentazione, nessuna ferita, nessun testo, nessun logo.
 ```
 
 [↑ Torna alle categorie](#catalog)
