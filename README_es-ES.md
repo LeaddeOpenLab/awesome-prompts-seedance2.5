@@ -383,20 +383,95 @@ AUDIO: Solo efectos de sonido diegéticos. Sin música. Sin banda sonora. Sin ca
 
 <a name="prompt-2100856145250332889"></a>
 
-### Traducción en curso
+### Prompt de cortometraje 3D cinemático de 30 segundos, que incluye guion gráfico temporal e instrucciones de control de calidad, que describe el proceso de una mujer joven explorando la jungla virgen, el cañón y la cueva de Corea, y descubriendo un valle oculto.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicación original](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Cómic / Guion gráfico · Cine / Fotograma de película · Render 3D · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de cortometraje 3D cinemático de 30 segundos, que incluye guion gráfico temporal e instrucciones de control de calidad, que describe el proceso de una mujer joven explorando la jungla virgen, el cañón y la cueva de Corea, y descubriendo un valle oculto.
 
 <img src="covers/2100856145250332889.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un cortometraje de aventuras cinemático en 3D de 30 segundos protagonizado por una joven coreana que explora un río remoto y virgen en la jungla de Corea del Sur.
+Estilo visual: Animación 3D cinematográfica ultradetallada con entornos realistas, piel y cabello naturales, física del agua verosímil, vegetación realista, iluminación atmosférica, sutil grano de película, texturas detalladas y una calidad prémium de película de aventuras. La mujer debe permanecer visualmente idéntica durante todo el video. Sin apariencia de caricatura, sin piel plástica, sin criaturas fantásticas, sin CGI excesivo.
+
+[0:00–0:05] — HACIA LA JUNGLA
+
+Comienza con una toma aérea cinematográfica amplia de un denso bosque montañoso coreano tras una ligera lluvia.
+
+Una joven coreana con un atuendo práctico de aventura al aire libre, botas de senderismo, una mochila pequeña y una chaqueta impermeable camina entre una densa vegetación.
+
+Escucha el sonido del agua corriendo y mira hacia los árboles.
+
+Síguela lentamente desde atrás mientras descubre un río estrecho oculto en lo profundo del bosque.
+
+[0:05–0:11] — EL RÍO
+
+Llega a la orilla del río.
+
+Agua cristalina fluye entre grandes rocas cubiertas de musgo, rodeadas de una densa vegetación verde y árboles altos.
+
+Pisa con cuidado en el agua poco profunda y comienza a caminar contra la corriente.
+
+Usa tomas en ángulo bajo al nivel del agua que muestren sus botas entrando en el agua en movimiento, seguidas de tomas de seguimiento fluidas a su lado.
+
+Mantén el movimiento del agua físicamente realista.
+
+[0:11–0:18] — EL CAÑÓN
+
+El río se vuelve más estrecho a medida que avanza.
+
+Entra en un espectacular cañón natural rodeado de enormes paredes de roca cubiertas de musgo y pequeñas plantas.
+
+La luz del sol se filtra a través de los árboles en las alturas, creando haces naturales de luz sobre el agua.
+
+Nota una pequeña abertura detrás de una cascada y se acerca a ella con cuidado.
+
+[0:18–0:24] — LA CUEVA OCULTA
+
+Se mueve detrás de la cascada y descubre una cueva natural oculta.
+
+En su interior, las paredes están cubiertas de hermosas texturas minerales y diminutas gotas de agua.
+
+Ilumina la cueva con su linterna y descubre un arroyo subterráneo que continúa adentrándose en la montaña.
+
+Su expresión cambia de curiosidad a asombro.
+
+[0:24–0:30] — LA REVELACIÓN
+
+Sigue el arroyo subterráneo hacia la salida de la cueva.
+
+De repente, la cámara la sobrepasa y revela un impresionante valle oculto al otro lado.
+
+Un río más grande fluye a través del valle, rodeado de montañas coreanas vírgenes y niebla.
+
+Ella se queda de pie en silencio en la entrada, contemplando el paisaje.
+
+Termina con un lento retroceso cinematográfico de cámara (pull-back) que revela a la mujer como una figura diminuta rodeada por el enorme paisaje natural.
+
+CONTROL DE CALIDAD Y CONSISTENCIA
+
+Mantén exactamente la misma mujer, rostro, peinado, ropa, mochila, proporciones corporales y accesorios en cada toma.
+
+Mantén una geografía y relaciones espaciales consistentes entre la jungla, el río, el cañón, la cascada, la cueva y el valle.
+
+Sin metamorfosis del personaje, sin cambios de identidad, sin personajes duplicados, sin extremidades adicionales, sin manos distorsionadas, sin rostros deformados, sin objetos que desaparezcan, sin objetos flotantes, sin parpadeo de texturas, sin fallos en el agua, sin física antinatural, sin cambios repentinos de iluminación, sin saltos de cámara, sin artefactos de interpolación de fotogramas ni inestabilidad temporal.
+
+Utiliza acciones simples y físicamente verosímiles y transiciones de cámara fluidas.
+
+Cámara: Tomas aéreas cinematográficas, tomas de seguimiento estabilizadas, tomas al nivel del agua, detalles ambientales macro, movimientos suaves de dolly, profundidad de campo natural.
+
+Iluminación: Luz suave de jungla nublada en transición hacia una cálida luz solar y sutiles rayos atmosféricos.
+
+Ambiente: Misterioso, aventurero, pacífico, imponente.
+
+Duración: 30 segundos
+Relación de aspecto: 16:9
+Calidad: Animación 3D cinematográfica prémium, entorno y física altamente realistas.
 ```
 
 [↑ Volver a categorías](#catalog)

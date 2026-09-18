@@ -369,20 +369,95 @@ SES: Yalnızca diegetik ses efektleri. Müzik yok. Fon müziği yok. Şarkı sö
 
 <a name="prompt-2100856145250332889"></a>
 
-### Çeviri sürüyor
+### Zaman çizelgeli çekim planı ve kalite kontrol talimatları içeren, genç bir kadının el değmemiş Kore ormanlarını, kanyonlarını, mağaralarını keşfetmesini ve gizli bir vadiyi bulmasını anlatan 30 saniyelik sinematik 3D kısa film istemi.
 
 Yazar：[@SyntheSarah](https://x.com/SyntheSarah) · [Orijinal gönderi](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · 3D Modelleme · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Zaman çizelgeli çekim planı ve kalite kontrol talimatları içeren, genç bir kadının el değmemiş Kore ormanlarını, kanyonlarını, mağaralarını keşfetmesini ve gizli bir vadiyi bulmasını anlatan 30 saniyelik sinematik 3D kısa film istemi.
 
 <img src="covers/2100856145250332889.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Güney Kore'de el değmemiş, ücra bir balta girmemiş orman nehrini keşfeden genç bir Koreli kadını konu alan 30 saniyelik sinematik bir 3D macera kısa filmi oluşturun.
+Görsel stil: Gerçekçi ortamlar, doğal ten ve saç, inandırıcı su fiziği, gerçekçi bitki örtüsü, atmosferik aydınlatma, ince film greni, ayrıntılı dokular ve üst düzey macera filmi kalitesine sahip son derece ayrıntılı sinematik 3D animasyon. Kadın, video boyunca görsel olarak tamamen aynı kalmalıdır. Çizgi filmimsi görünüm yok, plastik ten yok, fantastik yaratıklar yok, aşırı CGI yok.
+
+[0:00–0:05] — BALTA GİRMEMİŞ ORMANIN İÇİNE
+
+Hafif bir yağmurun ardından yoğun bir Kore dağ ormanının geniş, sinematik havadan çekimiyle açılış yapın.
+
+Kullanışlı bir açık hava macera kıyafeti, yürüyüş botları, küçük bir sırt çantası ve su geçirmez bir ceket giymiş genç bir Koreli kadın sık bitki örtüsünün arasından yürüyor.
+
+Çağlayan suyun sesini duyar ve ağaçlara doğru bakar.
+
+Ormanın derinliklerinde gizlenmiş dar bir nehri keşfederken onu arkasından yavaşça takip edin.
+
+[0:05–0:11] — NEHİR
+
+Nehir kıyısına ulaşır.
+
+Kristal berraklığındaki su, yoğun yeşil bitki örtüsü ve uzun ağaçlarla çevrili yosun kaplı büyük kayaların arasından akar.
+
+Dikkatlice sığ suya adım atar ve akıntıya karşı yürümeye başlar.
+
+Botlarının akan suya girişini gösteren su seviyesinden çekilmiş alt açı planlar kullanın, ardından yanında yumuşak takip çekimlerine geçin.
+
+Su hareketini fiziksel olarak gerçekçi tutun.
+
+[0:11–0:18] — KANYON
+
+İlerledikçe nehir daha da daralır.
+
+Yosun ve küçük bitkilerle kaplı devasa kaya duvarlarıyla çevrili muhteşem, doğal bir kanyona girer.
+
+Güneş ışığı yukarıdaki ağaçların arasından süzülerek suyun üzerinde doğal ışık huzmeleri oluşturur.
+
+Bir şelalenin arkasında küçük bir açıklık fark eder ve oraya dikkatle yaklaşır.
+
+[0:18–0:24] — GİZLİ MAĞARA
+
+Şelalenin arkasına geçer ve gizli, doğal bir mağara keşfeder.
+
+İçeride, duvarlar güzel mineral dokuları ve minik su damlacıklarıyla kaplıdır.
+
+Fenerini mağaranın etrafına tutar ve dağın daha da derinliklerine doğru devam eden bir yer altı deresi keşfeder.
+
+Yüz ifadesi meraktan hayranlığa dönüşür.
+
+[0:24–0:30] — GİZEMİN AÇIĞA ÇIKIŞI
+
+Yer altı deresini takip ederek mağara çıkışına doğru ilerler.
+
+Aniden kamera onu geçerek diğer taraftaki nefes kesici gizli bir vadiyi gözler önüne serer.
+
+El değmemiş Kore dağları ve sisle çevrili vadiden daha büyük bir nehir akar.
+
+Girişte sessizce durup manzarayı seyreder.
+
+Kadını devasa doğal manzara ile çevrili minik bir figür olarak gösteren yavaş, sinematik bir geriye çekilme ile sonlandırın.
+
+TUTARLILIK VE KALİTE KONTROLÜ
+
+Her çekimde tam olarak aynı kadını, yüzü, saç modelini, kıyafetleri, sırt çantasını, vücut oranlarını ve aksesuarları koruyun.
+
+Orman, nehir, kanyon, şelale, mağara ve vadi arasındaki coğrafi ve mekânsal ilişkileri tutarlı tutun.
+
+Karakter biçim değiştirmesi, kimlik değişiklikleri, yinelenen karakterler, fazladan uzuvlar, bozuk eller, eğrilmiş yüz, kaybolan nesneler, havada asılı duran nesneler, doku titremesi, su hataları, doğal olmayan fizik, ani ışık değişiklikleri, kamera sıçramaları, kare enterpolasyon kusurları veya zamansal kararsızlık olmamalıdır.
+
+Basit, fiziksel olarak inandırıcı eylemler ve yumuşak kamera geçişleri kullanın.
+
+Kamera: Sinematik havadan çekimler, sarsıntısız takip çekimleri, su seviyesi çekimleri, makro çevresel ayrıntılar, yumuşak dolly hareketleri, doğal alan derinliği.
+
+Aydınlatma: Sıcak güneş ışığına ve ince atmosferik ışık huzmelerine dönüşen yumuşak, kapalı orman ışığı.
+
+Ruh hali: Gizemli, macera dolu, huzurlu, huşu uyandıran.
+
+Süre: 30 saniye
+En boy oranı: 16:9
+Kalite: Üst düzey sinematik 3D animasyon, son derece gerçekçi ortam ve fizik.
 ```
 
 [↑ Kategorilere dön](#catalog)

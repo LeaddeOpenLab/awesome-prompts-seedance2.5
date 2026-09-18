@@ -385,20 +385,95 @@ PHONG CÁCH: Điện ảnh chân thực, thời kỳ Nhật Bản cổ xưa, đ�
 
 <a name="prompt-2100856145250332889"></a>
 
-### Đang dịch
+### Lời nhắc phim ngắn 3D cấp độ điện ảnh 30 giây, bao gồm bảng phân cảnh theo dòng thời gian và các lệnh kiểm soát chất lượng, mô tả quá trình một phụ nữ trẻ khám phá rừng rậm hoang sơ, hẻm núi, hang động tại Hàn Quốc và phát hiện ra một thung lũng ẩn giấu.
 
 Tác giả：[@SyntheSarah](https://x.com/SyntheSarah) · [Bài gốc](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phim ngắn 3D cấp độ điện ảnh 30 giây, bao gồm bảng phân cảnh theo dòng thời gian và các lệnh kiểm soát chất lượng, mô tả quá trình một phụ nữ trẻ khám phá rừng rậm hoang sơ, hẻm núi, hang động tại Hàn Quốc và phát hiện ra một thung lũng ẩn giấu.
 
 <img src="covers/2100856145250332889.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phim ngắn phiêu lưu 3D phong cách điện ảnh dài 30 giây với nhân vật chính là một phụ nữ trẻ người Hàn Quốc đang khám phá một con sông hẻo lánh, hoang sơ giữa rừng rậm ở Hàn Quốc.
+Phong cách hình ảnh: Hoạt hình 3D điện ảnh cực kỳ chi tiết với môi trường chân thực, làn da và mái tóc tự nhiên, vật lý nước đáng tin cậy, thảm thực vật thực tế, ánh sáng khí quyển, hạt phim tinh tế, kết cấu chi tiết và chất lượng phim phiêu lưu cao cấp. Người phụ nữ phải giữ nguyên hình ảnh trực quan xuyên suốt toàn bộ video. Không có vẻ ngoài hoạt hình, không có làn da nhựa bóng, không có sinh vật kỳ ảo, không lạm dụng CGI.
+
+[0:00–0:05] — BƯỚC VÀO RỪNG RẬM
+
+Mở đầu bằng một cảnh quay trên không góc rộng đậm chất điện ảnh về một khu rừng núi rậm rạp ở Hàn Quốc sau cơn mưa phùn.
+
+Một phụ nữ trẻ người Hàn Quốc mặc trang phục dã ngoại mạo hiểm tiện dụng, đi ủng leo núi, đeo ba lô nhỏ và mặc áo khoác chống thấm nước đang đi qua thảm thực vật dày đặc.
+
+Cô nghe thấy tiếng nước chảy xiết và nhìn về phía hàng cây.
+
+Chầm chậm bám theo cô từ phía sau khi cô phát hiện ra một con sông hẹp ẩn sâu bên trong khu rừng.
+
+[0:05–0:11] — DÒNG SÔNG
+
+Cô đến bờ sông.
+
+Nước trong vắt như pha lê chảy giữa những tảng đá lớn phủ đầy rêu phong, xung quanh là thảm thực vật xanh mướt rậm rạp và những cây cổ thụ cao vút.
+
+Cô cẩn thận bước xuống vùng nước nông và bắt đầu đi ngược dòng.
+
+Sử dụng các góc quay thấp ngang mặt nước cho thấy đôi ủng của cô bước vào dòng nước chảy, tiếp theo là các cảnh quay theo dõi mượt mà bên cạnh cô.
+
+Giữ cho chuyển động của nước chân thực về mặt vật lý.
+
+[0:11–0:18] — HẺM NÚI
+
+Con sông trở nên hẹp hơn khi cô tiếp tục tiến bước.
+
+Cô bước vào một hẻm núi tự nhiên ngoạn mục được bao quanh bởi những bức tường đá khổng lồ phủ rêu và cây nhỏ.
+
+Ánh sáng mặt trời xuyên qua tán cây phía trên, tạo ra những luồng sáng tự nhiên chiếu qua mặt nước.
+
+Cô nhận thấy một lối mở nhỏ phía sau thác nước và cẩn thận tiến lại gần.
+
+[0:18–0:24] — HANG ĐỘNG BÍ ẨN
+
+Cô tiến ra phía sau thác nước và phát hiện ra một hang động tự nhiên ẩn giấu.
+
+Bên trong, các bức tường được bao phủ bởi những kết cấu khoáng thạch tuyệt đẹp và những giọt nước li ti.
+
+Cô rọi đèn pin quanh hang và phát hiện ra một dòng suối ngầm tiếp tục chảy sâu hơn vào trong lòng núi.
+
+Nét mặt cô chuyển từ tò mò sang kinh ngạc ngỡ ngàng.
+
+[0:24–0:30] — CẢNH TƯỢNG HÉ LỘ
+
+Cô lần theo dòng suối ngầm về phía cửa hang.
+
+Đột nhiên, máy quay lướt qua cô và hé lộ một thung lũng bí ẩn ngoạn mục ở phía bên kia.
+
+Một con sông lớn hơn chảy qua thung lũng, được bao quanh bởi những ngọn núi Hàn Quốc hoang sơ và sương mù bao phủ.
+
+Cô lặng lẽ đứng ở lối vào, ngắm nhìn khung cảnh thiên nhiên.
+
+Kết thúc bằng một cú kéo máy lùi lại chậm rãi đầy điện ảnh, để lộ người phụ nữ như một bóng hình nhỏ bé giữa phong cảnh thiên nhiên bao la hùng vĩ.
+
+KIỂM SOÁT TÍNH NHẤT QUÁN & CHẤT LƯỢNG
+
+Duy trì chính xác cùng một người phụ nữ, khuôn mặt, kiểu tóc, trang phục, ba lô, tỷ lệ cơ thể và phụ kiện trong mọi cảnh quay.
+
+Duy trì địa lý và mối quan hệ không gian nhất quán giữa rừng rậm, con sông, hẻm núi, thác nước, hang động và thung lũng.
+
+Không biến dạng nhân vật, không thay đổi danh tính, không nhân bản nhân vật, không thừa chi, bàn tay méo mó, khuôn mặt biến dạng, đồ vật biến mất, đồ vật lơ lửng, nhấp nháy vân bề mặt, lỗi hiển thị nước, vật lý phi tự nhiên, thay đổi ánh sáng đột ngột, giật góc máy, lỗi nội suy khung hình hoặc mất ổn định thời gian.
+
+Sử dụng các hành động đơn giản, đáng tin cậy về mặt vật lý và chuyển cảnh máy quay mượt mà.
+
+Máy quay: Các cảnh quay trên không điện ảnh, cảnh quay theo dõi ổn định, cảnh quay ngang mặt nước, chi tiết môi trường cận cảnh vĩ mô, chuyển động đẩy xe quay (dolly) mượt mà, độ sâu trường ảnh tự nhiên.
+
+Ánh sáng: Ánh sáng rừng u ám dịu nhẹ chuyển dần sang ánh nắng ấm áp và những tia sáng khí quyển tinh tế.
+
+Tâm trạng: Bí ẩn, mạo hiểm, yên bình, đầy kinh ngạc.
+
+Thời lượng: 30 giây
+Tỷ lệ khung hình: 16:9
+Chất lượng: Hoạt hình 3D điện ảnh cao cấp, môi trường và vật lý có độ chân thực cao.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -383,20 +383,95 @@ AUDIO : Effets sonores diégétiques uniquement. Pas de musique. Pas de bande or
 
 <a name="prompt-2100856145250332889"></a>
 
-### Traduction en cours
+### Prompt de court métrage 3D cinématique de 30 secondes, comprenant un découpage temporel et des instructions de contrôle qualité, décrivant une jeune femme explorant une jungle coréenne sauvage, des canyons et des grottes jusqu'à la découverte d'une vallée cachée.
 
 Auteur：[@SyntheSarah](https://x.com/SyntheSarah) · [Publication originale](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Rendu 3D · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de court métrage 3D cinématique de 30 secondes, comprenant un découpage temporel et des instructions de contrôle qualité, décrivant une jeune femme explorant une jungle coréenne sauvage, des canyons et des grottes jusqu'à la découverte d'une vallée cachée.
 
 <img src="covers/2100856145250332889.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un court métrage d'aventure cinématique en 3D de 30 secondes mettant en scène une jeune femme coréenne explorant une rivière de jungle isolée et sauvage en Corée du Sud.
+Style visuel : Animation 3D cinématique ultra-détaillée avec des environnements réalistes, une peau et des cheveux naturels, une physique de l'eau crédible, une végétation réaliste, un éclairage atmosphérique, un grain de film subtil, des textures détaillées et une qualité de film d'aventure haut de gamme. La femme doit rester visuellement identique tout au long de la vidéo. Pas d'aspect cartoon, pas de peau en plastique, pas de créatures fantastiques, pas d'effets CGI excessifs.
+
+[0:00–0:05] — DANS LA JUNGLE
+
+Commencez par un large plan aérien cinématique d'une dense forêt montagneuse coréenne après une pluie légère.
+
+Une jeune femme coréenne vêtue d'une tenue d'aventure outdoor pratique, de chaussures de randonnée, d'un petit sac à dos et d'une veste imperméable marche à travers une végétation épaisse.
+
+Elle entend le bruit de l'eau vive et regarde vers les arbres.
+
+Suivez-la lentement par derrière alors qu'elle découvre une rivière étroite cachée au cœur de la forêt.
+
+[0:05–0:11] — LA RIVIÈRE
+
+Elle atteint la rive de la rivière.
+
+Une eau cristalline s'écoule entre de gros rochers recouverts de mousse, entourés d'une dense végétation verte et de grands arbres.
+
+Elle s'avance prudemment dans l'eau peu profonde et commence à remonter le courant.
+
+Utilisez des plans en contre-plongée au ras de l'eau montrant ses bottes entrant dans le courant, suivis de travellings fluides à ses côtés.
+
+Conservez un mouvement de l'eau physiquement réaliste.
+
+[0:11–0:18] — LE CANYON
+
+La rivière se rétrécit à mesure qu'elle poursuit sa route.
+
+Elle pénètre dans un canyon naturel spectaculaire entouré d'immenses parois rocheuses couvertes de mousse et de petites plantes.
+
+La lumière du soleil perce à travers la canopée, créant des rayons de lumière naturels à la surface de l'eau.
+
+Elle remarque une petite ouverture derrière une cascade et s'en approche prudemment.
+
+[0:18–0:24] — LA GROTTE CACHÉE
+
+Elle passe derrière la cascade et découvre une grotte naturelle dissimulée.
+
+À l'intérieur, les parois sont couvertes de superbes textures minérales et de minuscules gouttelettes d'eau.
+
+Elle balaye la grotte avec sa lampe torche et découvre un ruisseau souterrain qui s'enfonce plus profondément dans la montagne.
+
+Son expression passe de la curiosité à l'émerveillement.
+
+[0:24–0:30] — LA RÉVÉLATION
+
+Elle suit le ruisseau souterrain vers la sortie de la grotte.
+
+Soudain, la caméra la dépasse pour révéler une vallée cachée à couper le souffle de l'autre côté.
+
+Une rivière plus large coule à travers la vallée, entourée de montagnes coréennes préservées et de brume.
+
+Elle se tient silencieuse à l'entrée, contemplant le paysage.
+
+Terminez par un lent travelling arrière cinématique révélant la femme comme une silhouette minuscule entourée par ce paysage naturel grandiose.
+
+COHÉRENCE ET CONTRÔLE DE LA QUALITÉ
+
+Conservez exactement la même femme, le même visage, la même coiffure, les mêmes vêtements, le même sac à dos, les mêmes proportions corporelles et les mêmes accessoires dans chaque plan.
+
+Maintenez une géographie et des relations spatiales cohérentes entre la jungle, la rivière, le canyon, la cascade, la grotte et la vallée.
+
+Pas de déformation de personnage, pas de changement d'identité, pas de personnages dupliqués, pas de membres supplémentaires, pas de mains déformées, pas de visage altéré, pas d'objets qui disparaissent, pas d'objets flottants, pas de scintillement de texture, pas de bugs d'eau, pas de physique contre nature, pas de changements soudains d'éclairage, pas de sauts de caméra, pas d'artefacts d'interpolation d'images ni d'instabilité temporelle.
+
+Privilégiez des actions simples, physiquement crédibles et des transitions de caméra fluides.
+
+Caméra : Plans aériens cinématiques, travellings stabilisés, plans au niveau de l'eau, détails environnementaux macro, mouvements de chariot fluides, profondeur de champ naturelle.
+
+Éclairage : Lumière douce de jungle par temps couvert évoluant vers un soleil chaud et de subtils rayons atmosphériques.
+
+Ambiance : Mystérieuse, aventureuse, paisible, grandiose.
+
+Durée : 30 secondes
+Format : 16:9
+Qualité : Animation 3D cinématique haut de gamme, environnement et physique hautement réalistes.
 ```
 
 [↑ Retour aux catégories](#catalog)

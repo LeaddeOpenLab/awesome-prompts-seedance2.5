@@ -383,20 +383,95 @@ AUDIO: Nur diegetische Soundeffekte. Keine Musik. Kein Soundtrack. Kein Gesang. 
 
 <a name="prompt-2100856145250332889"></a>
 
-### Übersetzung läuft
+### Prompt für einen 30-sekündigen cineastischen 3D-Kurzfilm mit Zeitleisten-Storyboards und Qualitätskontrollanweisungen, der die Erkundung eines unberührten koreanischen Dschungels, Canyons und Höhlensystems durch eine junge Frau bis zur Entdeckung eines verborgenen Tals beschreibt.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Originalbeitrag](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Comic / Storyboard · Kinematisch / Filmstill · 3D-Rendering · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für einen 30-sekündigen cineastischen 3D-Kurzfilm mit Zeitleisten-Storyboards und Qualitätskontrollanweisungen, der die Erkundung eines unberührten koreanischen Dschungels, Canyons und Höhlensystems durch eine junge Frau bis zur Entdeckung eines verborgenen Tals beschreibt.
 
 <img src="covers/2100856145250332889.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen cineastischen 3D-Abenteuer-Kurzfilm über eine junge Koreanerin, die einen abgelegenen, unberührten Dschungelfluss in Südkorea erkundet.
+Visueller Stil: Ultradetaillierte cineastische 3D-Animation mit realistischen Umgebungen, natürlicher Haut und Haaren, glaubwürdiger Wasserphysik, realistischer Vegetation, stimmungsvoller Beleuchtung, subtiler Filmkörnung, detaillierten Texturen und erstklassiger Abenteuerfilmqualität. Die Frau sollte während des gesamten Videos optisch identisch bleiben. Kein cartoonhaftes Aussehen, keine plastische Haut, keine Fantasy-Kreaturen, kein übermäßiges CGI.
+
+[0:00–0:05] — IN DEN DSCHUNGEL
+
+Beginne mit einer weiten cineastischen Luftaufnahme eines dichten koreanischen Bergwaldes nach leichtem Regen.
+
+Eine junge Koreanerin in praktischer Outdoor-Abenteuerkleidung, Wanderschuhen, kleinem Rucksack und einer wasserdichten Jacke geht durch dichte Vegetation.
+
+Sie hört das Rauschen von Wasser und blickt in Richtung der Bäume.
+
+Folge ihr langsam von hinten, während sie einen schmalen Fluss tief im Wald entdeckt.
+
+[0:05–0:11] — DER FLUSS
+
+Sie erreicht das Flussufer.
+
+Kristallklares Wasser fließt zwischen großen moosbedeckten Felsen, umgeben von dichter grüner Vegetation und hohen Bäumen.
+
+Sie tritt vorsichtig in das seichte Wasser und beginnt flussaufwärts zu gehen.
+
+Nutze Aufnahmen aus der Froschperspektive auf Wasserebene, die zeigen, wie ihre Stiefel in das fließende Wasser treten, gefolgt von sanften Kamerafahrten neben ihr.
+
+Halte die Wasserbewegung physikalisch realistisch.
+
+[0:11–0:18] — DER CANYON
+
+Der Fluss wird schmaler, während sie weitergeht.
+
+Sie betritt einen spektakulären natürlichen Canyon, der von riesigen Felswänden umgeben ist, die mit Moos und kleinen Pflanzen bedeckt sind.
+
+Sonnenlicht bricht durch die Baumkronen darüber und erzeugt natürliche Lichtstrahlen über dem Wasser.
+
+Sie bemerkt eine kleine Öffnung hinter einem Wasserfall und nähert sich ihr vorsichtig.
+
+[0:18–0:24] — DIE VERBORGENE HÖHLE
+
+Sie tritt hinter den Wasserfall und entdeckt eine verborgene Naturhöhle.
+
+Im Inneren sind die Wände mit wunderschönen Mineralstrukturen und winzigen Wassertropfen bedeckt.
+
+Sie leuchtet mit ihrer Taschenlampe in der Höhle umher und entdeckt einen unterirdischen Bach, der tiefer in den Berg führt.
+
+Ihr Gesichtsausdruck wechselt von Neugier zu Staunen.
+
+[0:24–0:30] — DIE ENTHÜLLUNG
+
+Sie folgt dem unterirdischen Bach in Richtung Höhlenausgang.
+
+Plötzlich fährt die Kamera an ihr vorbei und gibt den Blick auf ein atemberaubendes verborgenes Tal auf der anderen Seite frei.
+
+Ein größerer Fluss fließt durch das Tal, umgeben von unberührten koreanischen Bergen und Nebel.
+
+Sie steht schweigend am Höhleneingang und blickt auf die Landschaft.
+
+Ende mit einem langsamen cineastischen Zurückfahren der Kamera (Pull-Back), das die Frau als winzige Figur inmitten der gewaltigen Naturlandschaft zeigt.
+
+KONSISTENZ & QUALITÄTSKONTROLLE
+
+Behalte in jeder Einstellung exakt dieselbe Frau, dasselbe Gesicht, dieselbe Frisur, dieselbe Kleidung, denselben Rucksack, dieselben Körperproportionen und Accessoires bei.
+
+Gewährleiste eine konsistente Geografie und räumliche Beziehungen zwischen Dschungel, Fluss, Canyon, Wasserfall, Höhle und Tal.
+
+Kein Morphen von Charakteren, keine Identitätswechsel, keine doppelten Charaktere, keine zusätzlichen Gliedmaßen, keine verzerrten Hände, kein verzogenes Gesicht, keine verschwindenden Objekte, keine schwebenden Objekte, kein Flackern von Texturen, keine Wasser-Glitches, keine unnatürliche Physik, keine plötzlichen Lichtwechsel, keine Kamerasprünge, keine Artefakte der Frame-Interpolation oder zeitliche Instabilitäten.
+
+Verwende einfache, physikalisch glaubwürdige Aktionen und sanfte Kameraübergänge.
+
+Kamera: Cineastische Luftaufnahmen, stabilisierte Tracking-Shots, Aufnahmen auf Wasserebene, Makro-Umgebungsdetails, sanfte Dolly-Bewegungen, natürliche Tiefenschärfe.
+
+Beleuchtung: Sanftes, diffuses Dschungellicht bei bewölktem Himmel, das in warmes Sonnenlicht und subtile atmosphärische Lichtstrahlen übergeht.
+
+Stimmung: Geheimnisvoll, abenteuerlich, friedlich, ehrfurchtgebietend.
+
+Dauer: 30 Sekunden
+Seitenverhältnis: 16:9
+Qualität: Hochwertige cineastische 3D-Animation, hochrealistische Umgebung und Physik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -369,20 +369,95 @@ ESTILO: Fotorrealista cinematográfico, Japão de época, pedra molhada e agulha
 
 <a name="prompt-2100856145250332889"></a>
 
-### Tradução em andamento
+### Prompt de curta-metragem cinematográfico em 3D de 30 segundos, incluindo storyboard com linha do tempo e instruções de controle de qualidade, descrevendo uma jovem mulher explorando a selva, cânions e cavernas intocados da Coreia e descobrindo um vale oculto.
 
 Autor：[@SyntheSarah](https://x.com/SyntheSarah) · [Publicação original](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de curta-metragem cinematográfico em 3D de 30 segundos, incluindo storyboard com linha do tempo e instruções de controle de qualidade, descrevendo uma jovem mulher explorando a selva, cânions e cavernas intocados da Coreia e descobrindo um vale oculto.
 
 <img src="covers/2100856145250332889.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um curta-metragem de aventura cinematográfico em 3D de 30 segundos apresentando uma jovem mulher coreana explorando um rio remoto e intocado na selva da Coreia do Sul.
+Estilo visual: Animação 3D cinematográfica ultradetalhada com ambientes realistas, pele e cabelo naturais, física de água verossímil, vegetação realista, iluminação atmosférica, granulação de filme sutil, texturas detalhadas e qualidade de filme de aventura premium. A mulher deve permanecer visualmente idêntica ao longo de todo o vídeo. Sem aparência cartunesca, sem pele de plástico, sem criaturas de fantasia, sem CGI excessivo.
+
+[0:00–0:05] — DENTRO DA SELVA
+
+Abra com um plano aéreo cinematográfico amplo de uma densa floresta montanhosa coreana após uma chuva leve.
+
+Uma jovem mulher coreana vestindo um traje prático de aventura ao ar livre, botas de caminhada, uma mochila pequena e uma jaqueta impermeável caminha pela vegetação densa.
+
+Ela ouve o som de água corrente e olha em direção às árvores.
+
+Siga-a lentamente por trás enquanto ela descobre um rio estreito escondido no fundo da floresta.
+
+[0:05–0:11] — O RIO
+
+Ela chega à margem do rio.
+
+Água cristalina flui entre grandes rochas cobertas de musgo, cercada por densa vegetação verde e árvores altas.
+
+Ela entra com cuidado na água rasa e começa a caminhar rio acima.
+
+Use planos em ângulo baixo no nível da água mostrando suas botas entrando na água corrente, seguidos por planos de rastreamento suaves ao lado dela.
+
+Mantenha o movimento da água fisicamente realista.
+
+[0:11–0:18] — O CÂNION
+
+O rio se torna mais estreito à medida que ela continua.
+
+Ela entra em um espetacular cânion natural cercado por enormes paredões de rocha cobertos de musgo e pequenas plantas.
+
+A luz do sol rompe por entre as árvores acima, criando feixes naturais de luz sobre a água.
+
+Ela nota uma pequena abertura atrás de uma cachoeira e se aproxima dela com cuidado.
+
+[0:18–0:24] — A CAVERNA OCULTA
+
+Ela se move para trás da cachoeira e descobre uma caverna natural oculta.
+
+No interior, as paredes estão cobertas com belas texturas minerais e minúsculas gotas de água.
+
+Ela ilumina a caverna com sua lanterna e descobre um riacho subterrâneo que continua mais fundo na montanha.
+
+Sua expressão muda de curiosidade para espanto.
+
+[0:24–0:30] — A REVELAÇÃO
+
+Ela segue o riacho subterrâneo em direção à saída da caverna.
+
+De repente, a câmera passa por ela e revela um deslumbrante vale oculto do outro lado.
+
+Um rio maior flui pelo vale, cercado por montanhas coreanas intocadas e névoa.
+
+Ela permanece em silêncio na entrada, contemplando a paisagem.
+
+Termine com um recuo cinematográfico lento da câmera, revelando a mulher como uma figura minúscula cercada pela enorme paisagem natural.
+
+CONSISTÊNCIA E CONTROLE DE QUALIDADE
+
+Mantenha exatamente a mesma mulher, rosto, penteado, roupas, mochila, proporções corporais e acessórios em cada tomada.
+
+Mantenha a geografia e as relações espaciais consistentes entre a selva, o rio, o cânion, a cachoeira, a caverna e o vale.
+
+Sem metamorfose de personagens, alterações de identidade, personagens duplicados, membros extras, mãos distorcidas, rosto deformado, objetos que desaparecem, objetos flutuantes, cintilação de texturas, falhas na água, física não natural, mudanças bruscas de iluminação, saltos de câmera, artefatos de interpolação de quadros ou instabilidade temporal.
+
+Use ações simples e fisicamente verossímeis e transições de câmera suaves.
+
+Câmera: Planos aéreos cinematográficos, planos de rastreamento estabilizados, planos no nível da água, detalhes ambientais em macro, movimento suave de travelling, profundidade de campo natural.
+
+Iluminação: Luz suave de selva nublada fazendo transição para uma luz solar quente e raios atmosféricos sutis.
+
+Clima: Misterioso, aventureiro, pacífico, inspirador.
+
+Duração: 30 segundos
+Proporção de tela: 16:9
+Qualidade: Animação 3D cinematográfica premium, ambiente e física altamente realistas.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -383,20 +383,95 @@ AUDIO: Solo effetti sonori diegetici. Nessuna musica. Nessuna colonna sonora. Ne
 
 <a name="prompt-2100856145250332889"></a>
 
-### Traduzione in corso
+### Prompt per cortometraggio 3D cinematografico di 30 secondi con storyboard cronologico e istruzioni per il controllo qualità, che descrive l'esplorazione da parte di una giovane donna di giungla, canyon e grotte incontaminate in Corea fino alla scoperta di una valle nascosta.
 
 Autore：[@SyntheSarah](https://x.com/SyntheSarah) · [Post originale](https://x.com/SyntheSarah/status/2100856145250332889)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Rendering 3D · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per cortometraggio 3D cinematografico di 30 secondi con storyboard cronologico e istruzioni per il controllo qualità, che descrive l'esplorazione da parte di una giovane donna di giungla, canyon e grotte incontaminate in Corea fino alla scoperta di una valle nascosta.
 
 <img src="covers/2100856145250332889.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un cortometraggio d'avventura cinematografico in 3D di 30 secondi con protagonista una giovane donna coreana che esplora un fiume remoto e incontaminato nella giungla della Corea del Sud.
+Stile visivo: Animazione 3D cinematografica ultra-dettagliata con ambienti realistici, pelle e capelli naturali, fisica dell'acqua credibile, vegetazione realistica, illuminazione atmosferica, grana della pellicola sottile, texture dettagliate e qualità premium da film d'avventura. La donna deve rimanere visivamente identica per tutta la durata del video. Nessun aspetto cartoonesco, nessuna pelle di plastica, nessuna creatura fantastica, nessuna CGI eccessiva.
+
+[0:00–0:05] — NELLA GIUNGLA
+
+Inizia con un'ampia ripresa aerea cinematografica di una fitta foresta montuosa coreana dopo una pioggia leggera.
+
+Una giovane donna coreana con un pratico abbigliamento da avventura all'aperto, scarponi da trekking, un piccolo zaino e una giacca impermeabile cammina attraverso la fitta vegetazione.
+
+Sente il rumore dell'acqua scrosciante e guarda verso gli alberi.
+
+Seguila lentamente da dietro mentre scopre uno stretto fiume nascosto nelle profondità della foresta.
+
+[0:05–0:11] — IL FIUME
+
+Raggiunge la riva del fiume.
+
+Acqua cristallina scorre tra grandi rocce ricoperte di muschio, circondate da una fitta vegetazione verde e da alberi ad alto fusto.
+
+Entra con cautela nell'acqua bassa e inizia a camminare controcorrente.
+
+Usa inquadrature dal basso a pelo d'acqua che mostrano i suoi scarponi entrare nell'acqua corrente, seguite da fluide riprese di tracciamento accanto a lei.
+
+Mantieni il movimento dell'acqua fisicamente realistico.
+
+[0:11–0:18] — IL CANYON
+
+Il fiume si restringe man mano che prosegue.
+
+Entra in uno spettacolare canyon naturale circondato da enormi pareti rocciose ricoperte di muschio e piccole piante.
+
+La luce del sole filtra attraverso le cime degli alberi, creando fasci di luce naturali sull'acqua.
+
+Nota una piccola apertura dietro una cascata e vi si avvicina con cautela.
+
+[0:18–0:24] — LA GROTTA NASCOSTA
+
+Passa dietro la cascata e scopre una grotta naturale nascosta.
+
+All'interno, le pareti sono ricoperte da splendide texture minerali e minuscole goccioline d'acqua.
+
+Illumina la grotta con la torcia e scopre un ruscello sotterraneo che prosegue più a fondo nella montagna.
+
+La sua espressione passa dalla curiosità allo stupore.
+
+[0:24–0:30] — LA RIVELAZIONE
+
+Segue il ruscello sotterraneo verso l'uscita della grotta.
+
+All'improvviso, la telecamera la supera e rivela una vallata nascosta mozzafiato dall'altra parte.
+
+Un fiume più grande scorre attraverso la valle, circondato da montagne coreane incontaminate e nebbia.
+
+Rimane in silenzio all'ingresso, contemplando il paesaggio.
+
+Termina con un lento allontanamento cinematografico della telecamera (pull-back) che mostra la donna come una figura minuscola circondata dall'enorme paesaggio naturale.
+
+COERENZA E CONTROLLO DI QUALITÀ
+
+Mantieni esattamente la stessa donna, viso, acconciatura, vestiti, zaino, proporzioni corporee e accessori in ogni inquadratura.
+
+Mantieni una geografia e relazioni spaziali coerenti tra giungla, fiume, canyon, cascata, grotta e valle.
+
+Nessun morphing del personaggio, nessun cambio di identità, nessun personaggio duplicato, nessun arto in più, mani prive di distorsioni, nessun volto deformato, nessun oggetto che scompare, nessun oggetto fluttuante, nessuno sfarfallio di texture, nessun glitch dell'acqua, nessuna fisica innaturale, nessun cambio improvviso di luce, nessun salto di inquadratura, nessun artefatto di interpolazione dei fotogrammi o instabilità temporale.
+
+Utilizza azioni semplici e fisicamente credibili con transizioni di telecamera fluide.
+
+Telecamera: Riprese aeree cinematografiche, riprese di tracciamento stabilizzate, inquadrature a livello dell'acqua, dettagli ambientali macro, movimenti dolly fluidi, profondità di campo naturale.
+
+Illuminazione: Luce soffusa da giungla coperta che passa a una calda luce solare e a sottili raggi atmosferici.
+
+Atmosfera: Misteriosa, avventurosa, pacifica, grandiosa.
+
+Durata: 30 secondi
+Rapporto d'aspetto: 16:9
+Qualità: Animazione 3D cinematografica premium, ambiente e fisica altamente realistici.
 ```
 
 [↑ Torna alle categorie](#catalog)
