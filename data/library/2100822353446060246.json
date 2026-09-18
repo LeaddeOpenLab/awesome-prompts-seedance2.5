@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:37.401Z",
+  "model": "seedance",
+  "prompt": "Ultra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic shot of a woman in a dark coat standing in a snowy mountain storm."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic shot of a woman in a dark coat standing in a snowy mountain storm.",
+  "summaryEn": "Cinematic shot of a woman in a dark coat standing in a snowy mountain storm.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100822353446060246",
+    "canonicalUrl": "https://x.com/AIwithMinal/status/2100822353446060246",
+    "author": {
+      "username": "AIwithMinal",
+      "displayName": "AIwithMinal",
+      "profileUrl": "https://x.com/AIwithMinal"
+    },
+    "publishedAt": "2026-09-18T05:40:55.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "Through the coldest storm, she kept moving—toward the light, toward hope, toward a new beginning.\n\nCreated with seedance 2.0\n\nPrompt:\n\nUltra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithMinal/status/2100822353446060246",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg",
+        "analysisUrl": "https://x.com/AIwithMinal/status/2100822353446060246"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 2,
+      "replyCount": 21,
+      "quoteCount": 1,
+      "viewCount": 787
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithMinal/status/2100822353446060246",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg",
+  "coverPath": "covers/2100822353446060246.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100821852797227008",
+    "x-post:2100822353446060246"
+  ],
+  "analysis": {
+    "summary": "Cinematic shot of a woman in a dark coat standing in a snowy mountain storm.",
+    "summaryEn": "Cinematic shot of a woman in a dark coat standing in a snowy mountain storm.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features the woman in a dark coat amidst a frozen, snowy mountain setting matching the prompt's core character and atmospheric descriptors."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition.",
+    "sourceRange": {
+      "start": 135,
+      "end": 689
+    },
+    "translations": {
+      "zh": "超写实电影感画面，年轻女子独自伫立于辽阔冰封雪原，身穿深色防风大衣，长发随风飘扬，神情疲惫而坚定，伴随暴风雪与暗沉乌云，背景为雪山，冷蓝氛围，写实雪花粒子，电影级调色与光影，85mm镜头。",
+      "en": "Ultra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.7,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

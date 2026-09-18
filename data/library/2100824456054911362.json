@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:34.280Z",
+  "model": "seedance2.5",
+  "prompt": "Cinematic 15-second fashion film, photorealistic, 4K, shallow depth of field. A beautiful young woman with long wavy honey-blonde hair and gold stud earrings walks a quiet Parisian shopping street in an elegant white square-neck sleeveless midi dress. She smiles at a luxury boutique window displaying a mannequin in a matching red satin square-neck dress, stacked red gift boxes with black bows, a tan leather bag, red heels, and shopping bags. Glowing orange-gold light ribbons spiral around the red dress, fly through the glass, wrap around her, and instantly transform her white dress into the same flowing red satin dress. Cut to low-angle tracking shot of her legs and swirling red skirt as she crosses a zebra crossing in nude pointed heels. She takes a vanilla soft-serve cone from a vintage ice cream cart with a pink umbrella, smiles, takes a bite, then walks away down the wide Paris boulevard lined with Haussmann buildings, parked cars, and cafés. Soft overcast daylight, natural hair movement, fashion-editorial color grade, no text, no logos.",
+  "promptTranslations": {
+    "en": "Cinematic 15-second fashion film, photorealistic, 4K, shallow depth of field. A beautiful young woman with long wavy honey-blonde hair and gold stud earrings walks a quiet Parisian shopping street in an elegant white square-neck sleeveless midi dress. She smiles at a luxury boutique window displaying a mannequin in a matching red satin square-neck dress, stacked red gift boxes with black bows, a tan leather bag, red heels, and shopping bags. Glowing orange-gold light ribbons spiral around the red dress, fly through the glass, wrap around her, and instantly transform her white dress into the same flowing red satin dress. Cut to low-angle tracking shot of her legs and swirling red skirt as she crosses a zebra crossing in nude pointed heels. She takes a vanilla soft-serve cone from a vintage ice cream cart with a pink umbrella, smiles, takes a bite, then walks away down the wide Paris boulevard lined with Haussmann buildings, parked cars, and cafés. Soft overcast daylight, natural hair movement, fashion-editorial color grade, no text, no logos."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic video of a woman in Paris whose white dress magically transforms into red satin before she enjoys ice cream."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic video of a woman in Paris whose white dress magically transforms into red satin before she enjoys ice cream.",
+  "summaryEn": "Cinematic video of a woman in Paris whose white dress magically transforms into red satin before she enjoys ice cream.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100824456054911362",
+    "canonicalUrl": "https://x.com/Zyrellix/status/2100824456054911362",
+    "author": {
+      "username": "Zyrellix",
+      "displayName": "Zyrella",
+      "profileUrl": "https://x.com/Zyrellix"
+    },
+    "publishedAt": "2026-09-18T05:49:16.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "A little Parisian magic one dress at a time Fashion feels different when it comes with a touch of cinematic magic.\n\nMade with seedance 2.5\n\nPrompt:\n\nCinematic 15-second fashion film, photorealistic, 4K, shallow depth of field. A beautiful young woman with long wavy honey-blonde hair and gold stud earrings walks a quiet Parisian shopping street in an elegant white square-neck sleeveless midi dress. She smiles at a luxury boutique window displaying a mannequin in a matching red satin square-neck dress, stacked red gift boxes with black bows, a tan leather bag, red heels, and shopping bags. Glowing orange-gold light ribbons spiral around the red dress, fly through the glass, wrap around her, and instantly transform her white dress into the same flowing red satin dress. Cut to low-angle tracking shot of her legs and swirling red skirt as she crosses a zebra crossing in nude pointed heels. She takes a vanilla soft-serve cone from a vintage ice cream cart with a pink umbrella, smiles, takes a bite, then walks away down the wide Paris boulevard lined with Haussmann buildings, parked cars, and cafés. Soft overcast daylight, natural hair movement, fashion-editorial color grade, no text, no logos.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zyrellix/status/2100824456054911362",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100824178417172481/img/RHqpEJ7psA81kDS_.jpg",
+        "analysisUrl": "https://x.com/Zyrellix/status/2100824456054911362"
+      }
+    ],
+    "metrics": {
+      "likeCount": 59,
+      "repostCount": 6,
+      "replyCount": 29,
+      "quoteCount": 0,
+      "viewCount": 402
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zyrellix/status/2100824456054911362",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100824178417172481/img/RHqpEJ7psA81kDS_.jpg",
+  "coverPath": "covers/2100824456054911362.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100824178417172481",
+    "x-post:2100824456054911362"
+  ],
+  "analysis": {
+    "summary": "Cinematic video of a woman in Paris whose white dress magically transforms into red satin before she enjoys ice cream.",
+    "summaryEn": "Cinematic video of a woman in Paris whose white dress magically transforms into red satin before she enjoys ice cream.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video accurately follows each scene described, including the boutique window, dress transformation, crosswalk, and ice cream cart."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cinematic 15-second fashion film, photorealistic, 4K, shallow depth of field. A beautiful young woman with long wavy honey-blonde hair and gold stud earrings walks a quiet Parisian shopping street in an elegant white square-neck sleeveless midi dress. She smiles at a luxury boutique window displaying a mannequin in a matching red satin square-neck dress, stacked red gift boxes with black bows, a tan leather bag, red heels, and shopping bags. Glowing orange-gold light ribbons spiral around the red dress, fly through the glass, wrap around her, and instantly transform her white dress into the same flowing red satin dress. Cut to low-angle tracking shot of her legs and swirling red skirt as she crosses a zebra crossing in nude pointed heels. She takes a vanilla soft-serve cone from a vintage ice cream cart with a pink umbrella, smiles, takes a bite, then walks away down the wide Paris boulevard lined with Haussmann buildings, parked cars, and cafés. Soft overcast daylight, natural hair movement, fashion-editorial color grade, no text, no logos.",
+    "sourceRange": {
+      "start": 149,
+      "end": 1206
+    },
+    "translations": {
+      "zh": "电影感15秒时尚短片，逼真，4K，浅景深。一位留着浅金波浪长发、戴金色耳钉的美丽年轻女子身穿优雅的白色方领无袖过膝连衣裙，走在宁静的巴黎商业街上。她对着一家奢侈品精品店橱窗微笑，橱窗里展示着穿同款红色缎面方领裙的人台、带黑色蝴蝶结的叠放红色礼品盒、浅棕色皮包、红色高跟鞋和购物袋。发光的橙金色光带盘旋在红裙周围，穿过玻璃包裹住她，瞬间将她的白裙转变为同款飘逸的红色缎面裙。镜头切至仰拍追踪她的双腿和舞动的红裙，她踩着裸色尖头高跟鞋穿过斑马线。她从带有粉色遮阳伞的复古冰淇淋车上拿了一只香草软冰淇淋蛋筒，微笑，咬了一口，然后沿着两侧排列着奥斯曼建筑、停放车辆和咖啡馆的巴黎宽阔大道走远。柔和阴天光线，自然的头发摆动，时尚大片调色，无文字，无标识。",
+      "en": "Cinematic 15-second fashion film, photorealistic, 4K, shallow depth of field. A beautiful young woman with long wavy honey-blonde hair and gold stud earrings walks a quiet Parisian shopping street in an elegant white square-neck sleeveless midi dress. She smiles at a luxury boutique window displaying a mannequin in a matching red satin square-neck dress, stacked red gift boxes with black bows, a tan leather bag, red heels, and shopping bags. Glowing orange-gold light ribbons spiral around the red dress, fly through the glass, wrap around her, and instantly transform her white dress into the same flowing red satin dress. Cut to low-angle tracking shot of her legs and swirling red skirt as she crosses a zebra crossing in nude pointed heels. She takes a vanilla soft-serve cone from a vintage ice cream cart with a pink umbrella, smiles, takes a bite, then walks away down the wide Paris boulevard lined with Haussmann buildings, parked cars, and cafés. Soft overcast daylight, natural hair movement, fashion-editorial color grade, no text, no logos."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "fashion",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
