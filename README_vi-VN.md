@@ -397,20 +397,20 @@ Tạo một video dài 30 giây theo phong cách giật gân điện ảnh u t�
 
 <a name="prompt-2100963101524820154"></a>
 
-### Đang dịch
+### Một tác phẩm kỳ ảo hoạt hình 3D kỳ thú kể về một người chăn mây trẻ tuổi quăng dây bắt cừu sấm sét, lướt cầu vồng và lùa những đám mây giông thành bầy cừu mây mưa.
 
 Tác giả：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Bài gốc](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một tác phẩm kỳ ảo hoạt hình 3D kỳ thú kể về một người chăn mây trẻ tuổi quăng dây bắt cừu sấm sét, lướt cầu vồng và lùa những đám mây giông thành bầy cừu mây mưa.
 
 <img src="covers/2100963101524820154.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người chăn mây trẻ tuổi cưỡi trên một sinh vật bay lông xù xì đang phi nước đại qua một đồng cỏ trên bầu trời, nơi những đám mây giông đã thoát ra và biến thành những con thú khổng lồ chạy tán loạn tạo từ sấm sét, cậu ta quăng dây thòng lọng bắt một con cừu đực sấm sét, nhảy giữa các hòn đảo lơ lửng, lướt trên dải cầu vồng uốn lượn dưới chân và cố gắng lùa cơn bão trở lại cánh cổng thời tiết khổng lồ trước khi nó chạm tới thành phố yên bình bên dưới; hoạt hình 3D kỳ ảo đậm chất điện ảnh, các nhân vật mây được điêu khắc mềm mại với khuôn mặt biểu cảm, chiều sâu không gian trên không bao la, chuyển động máy quay mượt mà lướt qua làn hơi nước, bình minh rực rỡ, tia chớp màu tím điện quang, khúc xạ cầu vồng, vệt sương mù và những hạt mưa lấp lánh, bầu không khí kỳ quặc nhưng hoành tráng, kết thúc bằng tiếng huýt sáo của người chăn mây khiến mọi sinh vật giông bão đột ngột biến thành những chú cừu mây mưa hiền lành và trải một dải cầu vồng hoàn hảo xuống thành phố.
 ```
 
 [↑ Về danh mục](#catalog)

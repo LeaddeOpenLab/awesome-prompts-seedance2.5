@@ -395,20 +395,20 @@ Crea un video di 30 secondi in stile thriller cinematografico cupo, con protagon
 
 <a name="prompt-2100963101524820154"></a>
 
-### Traduzione in corso
+### Una stravagante fantasia animata in 3D in cui un giovane pastore di nuvole prende al lazo arieti di tuono, fa surf sugli arcobaleni e raduna nuvole di tempesta trasformandole in pecorelle di pioggia.
 
 Autore：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Post originale](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una stravagante fantasia animata in 3D in cui un giovane pastore di nuvole prende al lazo arieti di tuono, fa surf sugli arcobaleni e raduna nuvole di tempesta trasformandole in pecorelle di pioggia.
 
 <img src="covers/2100963101524820154.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un giovane pastore di nuvole a cavallo di una soffice creatura volante corre attraverso un pascolo celeste dove nuvole temporalesche si sono liberate e sono diventate animali giganti all'impazzata fatti di tuono, cattura con il lazo un ariete di fulmini, salta tra isole fluttuanti, fa surf lungo un arcobaleno che si piega sotto i suoi piedi e cerca di radunare la tempesta verso una gigantesca porta meteorologica prima che raggiunga una pacifica città sottostante; animazione 3D fantasy cinematografica, personaggi di nuvole morbidamente scolpiti con volti espressivi, enorme profondità aerea, cinepresa fluida che si libra attraverso il vapore, alba luminosa, fulmini viola elettrico, rifrazioni dell'arcobaleno, scie di nebbia e gocce di pioggia scintillanti, atmosfera stravagante ma epica, che si conclude con il pastore che fischia una volta mentre ogni creatura della tempesta si trasforma improvvisamente in docili pecore di nuvole piovose e versa un arcobaleno perfetto sulla città.
 ```
 
 [↑ Torna alle categorie](#catalog)

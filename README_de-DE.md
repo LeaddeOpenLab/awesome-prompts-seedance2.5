@@ -395,20 +395,20 @@ Erstelle ein Video, 30 Sekunden, im Stil eines düsteren Kino-Thrillers, das ein
 
 <a name="prompt-2100963101524820154"></a>
 
-### Übersetzung läuft
+### Eine skurrile 3D-Animationsfantasie, in der ein junger Wolkenhirte Donnerwidder mit dem Lasso fängt, auf Regenbögen surft und Gewitterwolken zu Regenwolkenschafen hütet.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Originalbeitrag](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine skurrile 3D-Animationsfantasie, in der ein junger Wolkenhirte Donnerwidder mit dem Lasso fängt, auf Regenbögen surft und Gewitterwolken zu Regenwolkenschafen hütet.
 
 <img src="covers/2100963101524820154.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein junger Wolkenhirte, der auf einer flauschigen fliegenden Kreatur reitet, rast über eine Himmelsweide, auf der Gewitterwolken ausgebrochen sind und sich in riesige, stampfende, aus Donner gemachte Tiere verwandelt haben; er fängt einen Blitzwidder mit dem Lasso, springt zwischen schwebenden Inseln hin und her, surft auf einem Regenbogen entlang, der sich unter seinen Füßen biegt, und versucht, den Sturm zurück zu einem gigantischen Wettertor zu treiben, bevor er eine friedliche Stadt darunter erreicht; filmische Fantasy-3D-Animation, weich modellierte Wolkenfiguren mit ausdrucksstarken Gesichtern, gewaltige Tiefe aus der Vogelperspektive, flüssige Kamera, die durch Dunst gleitet, leuchtender Sonnenaufgang, elektrisch-violetter Blitz, Regenbogenbrechungen, Nebelspuren und funkelnde Regentropfen, skurrile und dennoch epische Atmosphäre, endend damit, dass der Hirte einmal pfeift, woraufhin sich jede Sturmkreatur plötzlich in sanfte Regenwolkenschafe verwandelt und einen perfekten Regenbogen über die Stadt gießt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

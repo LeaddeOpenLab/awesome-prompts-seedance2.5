@@ -395,20 +395,20 @@ Crea un video de 30 segundos en un estilo de thriller cinematográfico oscuro, p
 
 <a name="prompt-2100963101524820154"></a>
 
-### Traducción en curso
+### Una caprichosa fantasía animada en 3D donde un joven pastor de nubes laza carneros de trueno, surfea arcoíris y arrea nubes de tormenta para convertirlas en ovejas de nubes de lluvia.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publicación original](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Cine / Fotograma · Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una caprichosa fantasía animada en 3D donde un joven pastor de nubes laza carneros de trueno, surfea arcoíris y arrea nubes de tormenta para convertirlas en ovejas de nubes de lluvia.
 
 <img src="covers/2100963101524820154.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un joven pastor de nubes montado en una criatura voladora y esponjosa corre a través de un pastizal celestial donde las nubes de tormenta se han desatado y se han convertido en gigantescos animales desbocados hechos de truenos; él laza a un carnero de relámpagos, salta entre islas flotantes, surfea a lo largo de un arcoíris que se dobla bajo sus pies e intenta arrear la tormenta de regreso hacia una gigantesca puerta meteorológica antes de que alcance una pacífica ciudad abajo; animación 3D de fantasía cinematográfica, personajes de nubes suavemente esculpidos con rostros expresivos, enorme profundidad aérea, cámara fluida elevándose a través del vapor, amanecer luminoso, relámpagos de color violeta eléctrico, refracciones de arcoíris, estelas de niebla y gotas de lluvia brillantes, atmósfera caprichosa pero épica, terminando con el pastor silbando una vez mientras cada criatura de tormenta se transforma de repente en apacibles ovejas de nube de lluvia y derrama un arcoíris perfecto sobre la ciudad.
 ```
 
 [↑ Volver a categorías](#catalog)

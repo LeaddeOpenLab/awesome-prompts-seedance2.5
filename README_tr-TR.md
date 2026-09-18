@@ -381,20 +381,20 @@ Gece vakti büyük modern bir binaya doğru tek başına yürüyen genç bir kad
 
 <a name="prompt-2100963101524820154"></a>
 
-### Çeviri sürüyor
+### Genç bir bulut çobanının gök gürültüsü koçlarını kementlediği, gökkuşaklarında sörf yaptığı ve fırtına bulutlarını yağmur bulutu koyunlarına dönüştürdüğü tuhaf bir 3D animasyon fantezisi.
 
 Yazar：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Orijinal gönderi](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir bulut çobanının gök gürültüsü koçlarını kementlediği, gökkuşaklarında sörf yaptığı ve fırtına bulutlarını yağmur bulutu koyunlarına dönüştürdüğü tuhaf bir 3D animasyon fantezisi.
 
 <img src="covers/2100963101524820154.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kabarık, uçan bir yaratığa binen genç bir bulut çobanı, fırtına bulutlarının serbest kalıp gök gürültüsünden yapılmış devasa, dört nala koşan hayvanlara dönüştüğü bir gökyüzü otlağında yarışıyor; şimşek saçan bir koçu kementliyor, yüzen adalar arasında zıplıyor, ayaklarının altında bükülen bir gökkuşağının üzerinde sörf yapıyor ve fırtınayı aşağıdaki huzurlu bir şehre ulaşmadan önce devasa bir hava kapısına doğru geri gütmeye çalışıyor; sinematik fantezi 3D animasyon, etkileyici yüzlere sahip yumuşak heykelsi bulut karakterleri, muazzam hava derinliği, buharın içinden süzülen akıcı kamera, ışıl ışıl gün doğumu, elektrik moru şimşekler, gökkuşağı kırılmaları, sis izleri ve parıldayan yağmur damlacıkları, tuhaf ama epik bir atmosfer; çobanın bir kez ıslık çalmasıyla her fırtına yaratığının aniden uysal yağmur bulutu koyunlarına dönüşmesi ve şehrin üzerine kusursuz bir gökkuşağı dökmesiyle son buluyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

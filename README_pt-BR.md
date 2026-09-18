@@ -381,20 +381,20 @@ Crie um vídeo de 30 segundos em estilo de suspense cinematográfico sombrio, ap
 
 <a name="prompt-2100963101524820154"></a>
 
-### Tradução em andamento
+### Uma fantasia extravagante em animação 3D onde um jovem pastor de nuvens laça carneiros de trovão, surfa em arco-íris e conduz nuvens de tempestade transformando-as em ovelhas de nuvens de chuva.
 
 Autor：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publicação original](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma fantasia extravagante em animação 3D onde um jovem pastor de nuvens laça carneiros de trovão, surfa em arco-íris e conduz nuvens de tempestade transformando-as em ovelhas de nuvens de chuva.
 
 <img src="covers/2100963101524820154.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um jovem pastor de nuvens montado em uma criatura voadora felpuda corre por uma pastagem celestial onde nuvens de tempestade se soltaram e se transformaram em animais gigantes em debandada feitos de trovão, ele laça um carneiro de relâmpago, pula entre ilhas flutuantes, surfa ao longo de um arco-íris que se curva sob seus pés e tenta conduzir a tempestade de volta para um portão climático gigantesco antes que ela alcance uma cidade pacífica abaixo; animação 3D de fantasia cinematográfica, personagens de nuvens suavemente esculpidos com rostos expressivos, enorme profundidade aérea, câmera fluida planando através do vapor, nascer do sol luminoso, relâmpagos violeta elétrico, refrações de arco-íris, rastros de névoa e gotas de chuva cintilantes, atmosfera lúdica e ao mesmo tempo épica, terminando com o pastor assobiando uma vez enquanto cada criatura da tempestade se transforma repentinamente em ovelhas dóceis de nuvens de chuva e derrama um arco-íris perfeito sobre a cidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

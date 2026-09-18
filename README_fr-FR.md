@@ -395,20 +395,20 @@ Créer une vidéo de 30 secondes dans un style de thriller cinématographique so
 
 <a name="prompt-2100963101524820154"></a>
 
-### Traduction en cours
+### Une fantaisie animée en 3D pleine de fantaisie où un jeune berger des nuages attrape au lasso des béliers de tonnerre, surfe sur des arcs-en-ciel et rassemble des nuages d'orage en moutons de pluie.
 
 Auteur：[@CharaspowerAI](https://x.com/CharaspowerAI) · [Publication originale](https://x.com/CharaspowerAI/status/2100963101524820154)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une fantaisie animée en 3D pleine de fantaisie où un jeune berger des nuages attrape au lasso des béliers de tonnerre, surfe sur des arcs-en-ciel et rassemble des nuages d'orage en moutons de pluie.
 
 <img src="covers/2100963101524820154.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un jeune berger des nuages chevauchant une créature volante duveteuse fait la course à travers un pâturage céleste où des nuages d'orage se sont libérés et sont devenus des animaux géants en débandade faits de tonnerre, il attrape au lasso un bélier d'éclairs, saute entre des îles flottantes, surfe le long d'un arc-en-ciel qui plie sous ses pieds et essaie de ramener l'orage vers une gigantesque porte météorologique avant qu'il n'atteigne une paisible ville en contrebas ; animation 3D fantastique cinématographique, personnages de nuages doucement sculptés aux visages expressifs, immense profondeur aérienne, caméra fluide planant à travers la vapeur, lever de soleil lumineux, éclairs violet électrique, réfractions d'arc-en-ciel, traînées de brume et gouttes de pluie scintillantes, atmosphère fantaisiste mais épique, se terminant par le berger sifflant une fois tandis que chaque créature de tempête se transforme soudainement en doux moutons de nuages de pluie et déverse un arc-en-ciel parfait sur la ville.
 ```
 
 [↑ Retour aux catégories](#catalog)
