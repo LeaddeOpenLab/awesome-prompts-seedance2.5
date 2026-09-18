@@ -466,20 +466,41 @@ Qualidade: Animação 3D cinematográfica premium, ambiente e física altamente 
 
 <a name="prompt-2100861168286154994"></a>
 
-### Tradução em curso
+### Prompt de vídeo cinematográfico sobre a evolução centenária da Estação de Tóquio para uma metrópole futurista de ficção científica, incluindo transição de time-lapse em poça de água e planeamento da linha temporal dos planos.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Publicação original](https://x.com/fps_lusu/status/2100861168286154994)
 
 Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo cinematográfico sobre a evolução centenária da Estação de Tóquio para uma metrópole futurista de ficção científica, incluindo transição de time-lapse em poça de água e planeamento da linha temporal dos planos.
 
 <img src="covers/2100861168286154994.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Definições Básicas
+Duração: Curta de 30 segundos
+Proporção de Ecrã: 16:9 (Formato paisagem panorâmico)
+Género: Comercial cinematográfico de ficção científica estilo Hollywood, evolução arquitetónica ultrarrealista.
+Cenário: Estação de Tóquio (edifício de tijolos vermelhos de Marunouchi). Uma transição rápida e impressionante de 2024 para exatamente 100 anos no futuro (2124). Baseado na imagem fornecida.
+Estilo e Visuais
+Qualidade: Live-action cinematográfico de obra-prima. Hiper-fotorrealista. Qualidade ótica de lente pesada, grão de filme realista e profundidade atmosférica (nevoeiro/névoa/bloom).
+Movimento e Física (CRÍTICO): Movimento físico cru e realista. Ritmo de velocidade preciso do mundo real, peso natural e gravidade em movimento para multidões a caminhar e veículos. ABSOLUTAMENTE NENHUMA sensação de CGI artificial "acelerada" ou "flutuante", exceto durante a janela específica de time-lapse.
+Iluminação (CRÍTICO): Iluminação volumétrica cinematográfica sofisticada. EVITAR RIGOROSAMENTE cores néon baratas, sobressaturadas e planas. Utilize luzes brilhantes elegantes e suavemente difusas, efeitos de bloom subtis e reflexos de lente anamórficos (flares).
+Consistência: O histórico edifício de tijolos vermelhos da Estação de Tóquio no primeiro plano DEVE permanecer absolutamente inalterado e estruturalmente idêntico ao longo de toda a transição de 100 anos.
+Áudio e ASMR
+BGM: Banda sonora orquestral épica e emocionalmente fundamentada. Desce para uma varredura de graves profundos durante o time-lapse e depois culmina num crescendo grandioso e inspirador.
+SFX/ASMR: Sons realistas de cidade movimentada, passos e tráfego moderno, fazendo a transição para um zumbido magnético elegante e pesado e sibilos aerodinâmicos limpos no futuro. SEM vozes.
+Linha Temporal e Ação
+0–6s (Realidade dos Dias de Hoje): Começa em 2024. Um plano amplo e em ângulo baixo da icónica Estação de Tóquio de tijolos vermelhos. Multidões de transeuntes atravessam a praça a uma velocidade de marcha humana estrita e realista com gravidade natural. A suave luz solar da golden hour reflete-se lindamente na calçada molhada.
+6–14s (O Time-Lapse da Poça): A câmara desce suavemente para um grande plano de uma grande poça de água na praça que reflete a estação. O reflexo na água entra subitamente num time-lapse em hipervelocidade. O céu transforma-se num borrão passando por dias e noites em segundos. No reflexo, estruturas futuristas colossais e plataformas flutuantes erguem-se rapidamente no céu atrás da estação.
+14–22s (O Futuro Chega): A câmara inclina-se para cima, da poça de volta para a estação. Estamos agora em 2124. O movimento da câmara e a velocidade das multidões regressam rigorosamente ao ritmo cru e realista do mundo real. A histórica estação de tijolos vermelhos permanece perfeitamente preservada, mas está agora rodeada por uma utopia hiperavançada. Estruturas flutuantes gigantes, um enorme globo holográfico brilhante e veículos voadores elegantes preenchem o céu. A iluminação é uma mistura elegante de pôr do sol quente e luzes sofisticadas da cidade em ciano com aspeto bioluminescente.
+22–30s (O Legado Duradouro): Um plano de afastamento majestoso e incrivelmente suave ao estilo de um drone. A câmara revela a escala impressionante da megacidade futurista, com a intemporal Estação de Tóquio de tijolos vermelhos situada pacificamente no seu coração.
+Prompt Negativo / Restrições
+Regra de Texto: Permita sinais ambientais naturais, mas ESTRITAMENTE NENHUM texto narrativo, NENHUMA legenda, NENHUM marcador de linha do tempo (como "100 years later", "2024", "2124").
+SEM néon barato, SEM cores brilhantes planas, SEM luzes cliché de cyberpunk.
+SEM física flutuante, SEM velocidades de caminhada não naturais, SEM trepidação de câmara, SEM estilo de anime, SEM renderização 3D de baixa qualidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -480,20 +480,41 @@ Qualità: Animazione 3D cinematografica premium, ambiente e fisica altamente rea
 
 <a name="prompt-2100861168286154994"></a>
 
-### Traduzione in corso
+### Prompt video di livello cinematografico sull'evoluzione secolare della Stazione di Tokyo in una metropoli fantascientifica futuristica, con transizione time-lapse tramite pozzanghera e pianificazione della timeline delle inquadrature.
 
 Autore：[@fps\_lusu](https://x.com/fps_lusu) · [Post originale](https://x.com/fps_lusu/status/2100861168286154994)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video di livello cinematografico sull'evoluzione secolare della Stazione di Tokyo in una metropoli fantascientifica futuristica, con transizione time-lapse tramite pozzanghera e pianificazione della timeline delle inquadrature.
 
 <img src="covers/2100861168286154994.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Impostazioni di base
+​Durata: Cortometraggio di 30 secondi
+​Rapporto d'aspetto: 16:9 (Formato orizzontale widescreen)
+​Genere: Spot cinematografico di fantascienza in stile hollywoodiano, evoluzione architettonica ultra-realistica.
+​Ambientazione: Stazione di Tokyo (edificio in mattoni rossi di Marunouchi). Una transizione rapida e mozzafiato dal 2024 a esattamente 100 anni nel futuro (2124). Basato sull'immagine fornita.
+​Stile e grafica
+​Qualità: Capolavoro cinematografico live-action. Iper-fotorealistico. Forte qualità della lente ottica, grana della pellicola realistica e profondità atmosferica (nebbia/foschia/bloom).
+​Movimento e fisica (CRITICO): Movimento fisico crudo e realistico. Ritmo di velocità preciso del mondo reale, peso naturale e gravità in movimento per folle di pedoni e veicoli. ASSOLUTAMENTE NESSUNA sensazione CGI artificiale di "avanzamento rapido" o "fluttuante", eccetto durante la specifica finestra del time-lapse.
+​Illuminazione (CRITICO): Sofisticata illuminazione volumetrica cinematografica. EVITARE RIGOROSAMENTE colori al neon scadenti, ipersaturi e piatti. Usare luci soffuse e diffuse eleganti, sottili effetti bloom e bagliori di lente anamorfica (lens flare).
+​Coerenza: Lo storico edificio in mattoni rossi della Stazione di Tokyo in primo piano DEVE rimanere assolutamente invariato e strutturalmente identico durante l'intera transizione di 100 anni.
+​Audio e ASMR
+​BGM: Colonna sonora orchestrale epica ed emotivamente radicata. Scende in uno sweep di bassi profondi durante il time-lapse, per poi crescere in un crescendo grandioso e maestoso.
+​SFX/ASMR: Suoni realistici di città frenetica, passi e traffico moderno, che transitano verso un elegante e pesante ronzio magnetico e fruscii aerodinamici puliti nel futuro. NESSUNA voce.
+​Linea temporale e azione
+​0–6s (Realtà attuale): Inizio nel 2024. Un'inquadratura ampia dal basso dell'iconica Stazione di Tokyo in mattoni rossi. Folle di pendolari attraversano la piazza a un passo umano rigorosamente realistico con gravità naturale. La morbida luce del sole dell'ora d'oro si riflette magnificamente sui ciottoli bagnati.
+​6–14s (Il time-lapse della pozzanghera): La telecamera scende fluidamente verso un primo piano di una grande pozzanghera d'acqua sulla piazza che riflette la stazione. Il riflesso nell'acqua entra improvvisamente in un time-lapse a velocità iper-rapida. Il cielo si dissolve attraverso giorni e notti in pochi secondi. Nel riflesso, imponenti strutture futuristiche e piattaforme galleggianti si innalzano rapidamente nel cielo dietro la stazione.
+​14–22s (Il futuro arriva): La telecamera si inclina verso l'alto dalla pozzanghera tornando verso la stazione. Siamo ora nel 2124. Il movimento della telecamera e le velocità della folla tornano rigorosamente a un ritmo crudo e realistico del mondo reale. La storica stazione in mattoni rossi si erge perfettamente conservata, ma è ora circondata da un'utopia iper-avanzata. Gigantesche strutture fluttuanti, un enorme globo olografico luminoso e sinuosi veicoli volanti riempiono il cielo. L'illuminazione è un elegante mix di un caldo tramonto e sofisticate luci cittadine ciano simili a bioluminescenza.
+​22–30s (L'eredità duratura): Una maestosa e incredibilmente fluida inquadratura all'indietro in stile drone. La telecamera rivela la scala mozzafiato della megalopoli futuristica, con la storica Stazione di Tokyo in mattoni rossi adagiata pacificamente al suo centro.
+​Prompt negativo / Vincoli
+​Regola sul testo: Sono consentite le insegne ambientali naturali, ma RIGOROSAMENTE NESSUN testo narrativo, NESSUN sottotitolo, NESSUN marcatore temporale (come "100 years later", "2024", "2124").
+​NO neon scadente, NO colori luminosi piatti, NO luci cliché cyberpunk.
+​NO fisica fluttuante, NO velocità di camminata innaturali, NO tremolio della telecamera, NO stile anime, NO rendering 3D di bassa qualità.
 ```
 
 [↑ Torna alle categorie](#catalog)

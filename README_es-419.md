@@ -480,20 +480,41 @@ Calidad: Animación 3D cinematográfica prémium, entorno y física altamente re
 
 <a name="prompt-2100861168286154994"></a>
 
-### Traducción en curso
+### Prompt de video de nivel cinematográfico sobre la evolución de la Estación de Tokio a lo largo de un siglo hacia una metrópoli futurista de ciencia ficción, que incluye una transición en time-lapse en un charco del suelo y la planificación de la línea de tiempo de las tomas.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Publicación original](https://x.com/fps_lusu/status/2100861168286154994)
 
 Cine / Fotograma · Cyberpunk / Ciencia ficción · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video de nivel cinematográfico sobre la evolución de la Estación de Tokio a lo largo de un siglo hacia una metrópoli futurista de ciencia ficción, que incluye una transición en time-lapse en un charco del suelo y la planificación de la línea de tiempo de las tomas.
 
 <img src="covers/2100861168286154994.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Configuración básica
+​Duración: Corto de 30 segundos
+​Relación de aspecto: 16:9 (Formato panorámico widescreen)
+​Género: Comercial cinematográfico de ciencia ficción estilo Hollywood, evolución arquitectónica ultrarrealista.
+​Escenario: Estación de Tokio (edificio de ladrillo rojo de Marunouchi). Una transición rápida e impresionante de 2024 a exactamente 100 años en el futuro (2124). Basado en la imagen proporcionada.
+​Estilo y visuales
+​Calidad: Obra maestra cinematográfica en acción real. Hiper-fotorrealista. Calidad marcada de lente óptica, grano de película realista y profundidad atmosférica (niebla/bruma/resplandor bloom).
+​Movimiento y física (CRÍTICO): Movimiento físico crudo y realista. Ritmo de velocidad preciso del mundo real, peso natural y gravedad en el movimiento para multitudes a pie y vehículos. ABSOLUTAMENTE NINGUNA sensación artificial de CGI "en cámara rápida" o "ingrávida", excepto durante la ventana específica de cámara rápida (time-lapse).
+​Iluminación (CRÍTICO): Iluminación volumétrica cinematográfica sofisticada. EVITAR ESTRICTAMENTE colores de neón planos, sobresaturados y de baja calidad. Usar luces elegantes con brillo difuso suave, efectos sutiles de resplandor bloom y destellos de lente anamórfica.
+​Consistencia: El histórico edificio de ladrillo rojo de la Estación de Tokio en primer plano DEBE permanecer absolutamente inalterado y estructuralmente idéntico a lo largo de toda la transición de 100 años.
+​Audio y ASMR
+​BGM: Banda sonora orquestal épica y emocionalmente arraigada. Desciende a un barrido de graves profundos durante el time-lapse, y luego se eleva en un crescendo grandioso e imponente.
+​SFX/ASMR: Sonidos bulliciosos realistas de ciudad, pisadas y tráfico moderno, en transición hacia un zumbido magnético estilizado y pesado y zumbidos aerodinámicos limpios en el futuro. SIN voces.
+​Línea de tiempo y acción
+​0–6s (Realidad del presente): Comienza en 2024. Un plano general en contrapicado de la icónica Estación de Tokio de ladrillo rojo. Multitudes de transeúntes caminan por la plaza a un paso humano estrictamente realista con gravedad natural. La suave luz del sol de la hora dorada se refleja hermosamente en los adoquines mojados.
+​6–14s (El time-lapse del charco): La cámara desciende suavemente a un primer plano de un gran charco de agua en la plaza que refleja la estación. El reflejo en el agua pasa repentinamente a un time-lapse de hipervelocidad. El cielo se difumina a través de días y noches en cuestión de segundos. En el reflejo, enormes estructuras futuristas y plataformas flotantes se elevan rápidamente hacia el cielo detrás de la estación.
+​14–22s (Llega el futuro): La cámara se inclina hacia arriba desde el charco de vuelta a la estación. Ahora estamos en 2124. El movimiento de la cámara y las velocidades de las multitudes regresan estrictamente a un ritmo crudo y realista del mundo real. La histórica estación de ladrillo rojo permanece perfectamente preservada, pero ahora está rodeada por una utopía hiperavanzada. Gigantescas estructuras flotantes, un enorme globo holográfico brillante y vehículos voladores estilizados llenan el cielo. La iluminación es una mezcla elegante de un atardecer cálido y sofisticadas luces urbanas cian similares a bioluminiscencia.
+​22–30s (El legado perdurable): Un plano majestuoso e increíblemente fluido de alejamiento tipo dron. La cámara revela la impresionante escala de la megaciudad futurista, con la atemporal Estación de Tokio de ladrillo rojo reposando plácidamente en su corazón.
+​Prompt negativo / Restricciones
+​Regla de texto: Se permiten letreros ambientales naturales, pero ESTRICTAMENTE NINGÚN texto narrativo, NINGÚN subtítulo, NINGÚN marcador de línea de tiempo (como "100 years later", "2024", "2124").
+​NADA de neón barato, NADA de colores brillantes planos, NADA de luces cliché cyberpunk.
+​NADA de física ingrávida, NADA de velocidades de marcha antinaturales, NADA de temblor de cámara, NADA de estilo anime, NADA de render 3D de baja calidad.
 ```
 
 [↑ Volver a categorías](#catalog)

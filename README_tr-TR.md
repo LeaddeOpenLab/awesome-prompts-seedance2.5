@@ -466,20 +466,41 @@ Kalite: Üst düzey sinematik 3D animasyon, son derece gerçekçi ortam ve fizik
 
 <a name="prompt-2100861168286154994"></a>
 
-### Çeviri sürüyor
+### Tokyo İstasyonu'nun bir asır içinde fütüristik bir bilimkurgu metropolüne evrilmesini konu alan, su birikintisi time-lapse geçişi ve çekim zaman çizelgesi planlaması içeren sinematik video istemi.
 
 Yazar：[@fps\_lusu](https://x.com/fps_lusu) · [Orijinal gönderi](https://x.com/fps_lusu/status/2100861168286154994)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tokyo İstasyonu'nun bir asır içinde fütüristik bir bilimkurgu metropolüne evrilmesini konu alan, su birikintisi time-lapse geçişi ve çekim zaman çizelgesi planlaması içeren sinematik video istemi.
 
 <img src="covers/2100861168286154994.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Temel Ayarlar
+Süre: 30 saniyelik kısa video
+En-Boy Oranı: 16:9 (Geniş ekran manzara formatı)
+Tür: Hollywood bilimkurgu sinematik reklamı, ultra gerçekçi mimari evrim.
+Mekân: Tokyo İstasyonu (Marunouchi kırmızı tuğlalı binası). 2024 yılından tam 100 yıl sonrasına (2124) hızlı, nefes kesici bir geçiş. Sağlanan görsele dayanmaktadır.
+Stil ve Görseller
+Kalite: Başyapıt düzeyinde sinematik canlı çekim (live-action). Hiper-fotogerçekçi. Ağır optik lens kalitesi, gerçekçi film greni ve atmosferik derinlik (sis/pus/bloom).
+Hareket ve Fizik (KRİTİK): Ham, gerçekçi fiziksel hareket. Yürüyen kalabalıklar ve araçlar için hareket halinde doğru gerçek dünya hız temposu, doğal ağırlık ve yerçekimi. Belirli time-lapse penceresi hariç, KESİNLİKLE hiçbir yapay "hızlı sarma" veya "havada süzülen" CGI hissi olmamalıdır.
+Aydınlatma (KRİTİK): Sofistike sinematik hacimsel aydınlatma. Ucuz, aşırı doygun, düz neon renklerden KESİNLİKLE KAÇININ. Zarif, yumuşak dağılmış parlayan ışıklar, ince parlama (bloom) efektleri ve anamorfik lens parlamaları (flares) kullanın.
+Tutarlılık: Ön plandaki tarihi kırmızı tuğlalı Tokyo İstasyonu binası, 100 yıllık geçiş boyunca KESİNLİKLE tamamen değişmeden ve yapısal olarak birebir aynı kalmalıdır.
+Ses ve ASMR
+BGM: Epik, duygusal olarak temellendirilmiş orkestra müziği. Time-lapse sırasında derin bir bas geçişine düşer, ardından görkemli, hayranlık uyandıran bir kreşendoya yükselir.
+SFX/ASMR: Gelecekte şık, ağır bir manyetik uğultuya ve temiz aerodinamik rüzgâr seslerine dönüşen gerçekçi kalabalık şehir sesleri, ayak sesleri ve modern trafik. İnsan sesi YOKTUR.
+Zaman Çizelgesi ve Eylem
+0–6 sn (Günümüz Gerçekliği): 2024'te başlayın. İkonik kırmızı tuğlalı Tokyo İstasyonu'nun geniş, düşük açılı bir çekimi. İşe gidip gelen kalabalıklar, doğal yerçekimi ile katı, gerçekçi bir insan yürüme hızında meydandan geçer. Yumuşak altın saat güneş ışığı ıslak arnavut kaldırımlarına güzelce yansır.
+6–14 sn (Su Birikintisi Time-Lapse'i): Kamera, meydandaki istasyonu yansıtan büyük bir su birikintisinin yakın çekimine doğru pürüzsüzce alçalır. Sudaki yansıma aniden hiper hızda bir time-lapse moduna geçer. Gökyüzü saniyeler içinde günleri ve geceleri bulanıklaştırarak geçer. Yansımada, istasyonun arkasında devasa fütüristik yapılar ve yüzen platformlar hızla gökyüzüne doğru yükselir.
+14–22 sn (Gelecek Geliyor): Kamera su birikintisinden tekrar istasyona doğru yukarı eğilir (tilt up). Artık 2124 yılındayız. Kamera hareketi ve kalabalık hızları kesinlikle ham, gerçekçi gerçek dünya temposuna geri döner. Tarihi kırmızı tuğlalı istasyon mükemmel şekilde korunmuş durumdadır, ancak artık hiper gelişmiş bir ütopya ile çevrilidir. Devasa yüzen yapılar, parlayan devasa bir holografik küre ve şık uçan araçlar gökyüzünü doldurur. Aydınlatma; sıcak gün batımı ile sofistike, biyolüminesans benzeri camgöbeği şehir ışıklarının zarif bir karışımıdır.
+22–30 sn (Kalıcı Miras): Görkemli, inanılmaz derecede pürüzsüz drone benzeri bir geriye çekilme çekimi. Kamera, kalbinde huzurla duran zamansız kırmızı tuğlalı Tokyo İstasyonu ile fütüristik mega şehrin nefes kesici ölçeğini gözler önüne serer.
+Negatif Komut / Kısıtlamalar
+Metin Kuralı: Doğal çevresel tabelalara izin verin, ancak KESİNLİKLE anlatı metni YOK, altyazı YOK, zaman çizelgesi işaretleyicileri (ör. "100 years later", "2024", "2124") YOK.
+Ucuz neon YOK, düz parlayan renkler YOK, klişe siberpunk ışıkları YOK.
+Havada süzülen fizik YOK, doğal olmayan yürüme hızları YOK, kamera titremesi YOK, anime tarzı YOK, düşük kaliteli 3D render YOK.
 ```
 
 [↑ Kategorilere dön](#catalog)

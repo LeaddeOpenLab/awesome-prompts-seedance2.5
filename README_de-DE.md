@@ -480,20 +480,41 @@ Qualität: Hochwertige cineastische 3D-Animation, hochrealistische Umgebung und 
 
 <a name="prompt-2100861168286154994"></a>
 
-### Übersetzung läuft
+### Cineastischer Video-Prompt über die jahrhundertelange Evolution des Bahnhofs Tokio zu einer futuristischen Sci-Fi-Metropole, inklusive Pfützen-Zeitraffer-Übergang und Kamera-Timeline-Planung.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Originalbeitrag](https://x.com/fps_lusu/status/2100861168286154994)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cineastischer Video-Prompt über die jahrhundertelange Evolution des Bahnhofs Tokio zu einer futuristischen Sci-Fi-Metropole, inklusive Pfützen-Zeitraffer-Übergang und Kamera-Timeline-Planung.
 
 <img src="covers/2100861168286154994.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Grundeinstellungen
+​Dauer: 30-Sekunden-Kurzvideo
+​Seitenverhältnis: 16:9 (Breitbild-Querformat)
+​Genre: Hollywood-Sci-Fi-Kino-Werbespot, ultra-realistische architektonische Evolution.
+​Schauplatz: Bahnhof Tokio (Marunouchi-Rotklinkergebäude). Ein rasanter, atemberaubender Übergang von 2024 zu exakt 100 Jahren in der Zukunft (2124). Basierend auf dem bereitgestellten Bild.
+​Stil & Optik
+​Qualität: Meisterhaftes cineastisches Live-Action-Material. Hyper-fotorealistisch. Ausgeprägte optische Linsenqualität, realistisches Filmkorn und atmosphärische Tiefe (Nebel/Dunst/Bloom).
+​Bewegung & Physik (KRITISCH): Rohe, realistische physische Bewegung. Präzises reales Geschwindigkeitstempo, natürliches Gewicht und Schwerkraft in der Bewegung für gehende Menschenmengen und Fahrzeuge. ABSOLUT KEIN künstliches „Vorspul-“ oder „schwebendes“ CGI-Gefühl, außer während des spezifischen Zeitraffer-Fensters.
+​Beleuchtung (KRITISCH): Ausgefeilte cineastische volumetrische Beleuchtung. Billige, übersättigte, flache Neonfarben STRIKT VERMEIDEN. Elegante, weich gestreute Leuchtlichter, subtile Bloom-Effekte und anamorphotische Blendenflecke (Lens Flares) verwenden.
+​Konsistenz: Das historische Rotklinkergebäude des Bahnhofs Tokio im Vordergrund MUSS während des gesamten 100-jährigen Übergangs absolut unverändert und strukturell identisch bleiben.
+​Audio & ASMR
+​BGM: Epische, emotional geerdete Orchestermusik. Geht während des Zeitraffers in einen tiefen Bass-Sweep über und schwillt dann zu einem grandiosen, ehrfurchtgebietenden Crescendo an.
+​SFX/ASMR: Realistische geschäftige Stadtgeräusche, Schritte und moderner Verkehr, die in ein elegantes, schweres magnetisches Summen und saubere aerodynamische Zischlaute in der Zukunft übergehen. KEINE Stimmen.
+​Zeitachse & Handlung
+​0–6s (Gegenwärtige Realität): Beginn im Jahr 2024. Eine weite Untersicht-Einstellung des ikonischen Rotklinker-Bahnhofs Tokio. Pendlerströme überqueren den Platz mit einer strikt realistischen menschlichen Gehgeschwindigkeit und natürlicher Schwerkraft. Sanftes Sonnenlicht der Goldenen Stunde spiegelt sich wunderschön auf dem nassen Kopfsteinpflaster.
+​6–14s (Der Pfützen-Zeitraffer): Die Kamera senkt sich sanft zu einer Nahaufnahme einer großen Wasserpfütze auf dem Platz ab, die den Bahnhof widerspiegelt. Die Spiegelung im Wasser geht plötzlich in einen Hyperspeed-Zeitraffer über. Der Himmel zieht in Sekundenschnelle durch Tage und Nächte. In der Spiegelung schießen massive futuristische Strukturen und schwebende Plattformen hinter dem Bahnhof rasend schnell in den Himmel.
+​14–22s (Die Zukunft trifft ein): Die Kamera schwenkt von der Pfütze nach oben zurück zum Bahnhof. Wir befinden uns nun im Jahr 2124. Die Kamerabewegung und die Geschwindigkeiten der Menschenmenge kehren strikt zu einem rohen, realistischen Tempo der realen Welt zurück. Der historische Rotklinkerbahnhof steht perfekt erhalten da, ist nun jedoch von einer hochentwickelten Utopie umgeben. Riesige schwebende Strukturen, ein riesiger leuchtender holografischer Globus und schnittige Flugfahrzeuge füllen den Himmel. Die Beleuchtung ist eine elegante Mischung aus warmem Sonnenuntergang und anspruchsvollen, biolumineszenzartigen cyanfarbenen Stadtlichtern.
+​22–30s (Das bleibende Vermächtnis): Eine majestätische, unglaublich weiche, drohnenartige Rückzug-Einstellung (Pull-Back). Die Kamera enthüllt das atemberaubende Ausmaß der futuristischen Megastadt, in deren Herzen der zeitlose Rotklinker-Bahnhof Tokio friedlich ruht.
+​Negativer Prompt / Einschränkungen
+​Textregel: Natürliche Umgebungsschilder erlaubt, aber STRIKT KEIN narrativer Text, KEINE Untertitel, KEINE Zeitachsen-Markierungen (wie „100 years later“, „2024“, „2124“).
+​KEIN billiges Neon, KEINE flachen leuchtenden Farben, KEINE Cyberpunk-Klischee-Lichter.
+​KEINE schwebende Physik, KEINE unnatürlichen Gehgeschwindigkeiten, KEIN Kamerazittern, KEIN Anime-Stil, KEIN minderwertiges 3D-Rendering.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

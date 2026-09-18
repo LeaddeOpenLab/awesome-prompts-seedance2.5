@@ -480,20 +480,41 @@ Qualité : Animation 3D cinématique haut de gamme, environnement et physique ha
 
 <a name="prompt-2100861168286154994"></a>
 
-### Traduction en cours
+### Prompt vidéo de qualité cinématographique sur l'évolution séculaire de la gare de Tokyo en une métropole de science-fiction futuriste, comprenant une transition en time-lapse via une flaque d'eau et la planification temporelle des prises de vue.
 
 Auteur：[@fps\_lusu](https://x.com/fps_lusu) · [Publication originale](https://x.com/fps_lusu/status/2100861168286154994)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo de qualité cinématographique sur l'évolution séculaire de la gare de Tokyo en une métropole de science-fiction futuriste, comprenant une transition en time-lapse via une flaque d'eau et la planification temporelle des prises de vue.
 
 <img src="covers/2100861168286154994.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Paramètres de base
+​Durée : Court-métrage de 30 secondes
+​Format d'image : 16:9 (Format paysage écran large)
+​Genre : Publicité cinématographique de science-fiction hollywoodienne, évolution architecturale ultra-réaliste.
+​Décor : Gare de Tokyo (bâtiment en briques rouges de Marunouchi). Une transition rapide et époustouflante de 2024 à exactement 100 ans dans le futur (2124). Basé sur l'image fournie.
+​Style et visuels
+​Qualité : Chef-d'œuvre cinématographique en prise de vues réelles. Hyper-photoréaliste. Qualité marquée d'objectif optique, grain de film réaliste et profondeur atmosphérique (brume/brouillard/flou lumineux bloom).
+​Mouvement et physique (CRITIQUE) : Mouvement physique brut et réaliste. Cadence de vitesse précise du monde réel, poids naturel et gravité en mouvement pour les foules à pied et les véhicules. ABSOLUMENT AUCUN effet CGI artificiel « en accéléré » ou « flottant », sauf pendant la fenêtre spécifique de time-lapse.
+​Éclairage (CRITIQUE) : Éclairage volumétrique cinématographique sophistiqué. ÉVITER STRICTEMENT les couleurs néon bon marché, sursaturées et plates. Utiliser des lumières luminescentes élégantes à diffusion douce, des effets subtils de bloom et des reflets d'objectif anamorphique.
+​Cohérence : Le bâtiment historique en briques rouges de la gare de Tokyo au premier plan DOIT rester absolument inchangé et structurellement identique tout au long de la transition de 100 ans.
+​Audio et ASMR
+​BGM : Bande-son orchestrale épique et émotionnellement ancrée. Plonge dans un balayage de basses profondes pendant le time-lapse, puis enfle en un crescendo grandiose et saisissant.
+​SFX/ASMR : Bruits de ville animée réalistes, bruits de pas et trafic moderne, passant à un bourdonnement magnétique élégant et lourd et à des vrombissements aérodynamiques nets dans le futur. AUCUNE voix.
+​Chronologie et action
+​0–6s (Réalité actuelle) : Début en 2024. Un plan large en contre-plongée de l'emblématique gare de Tokyo en briques rouges. Des foules de navetteurs traversent la place à une vitesse de marche humaine strictement réaliste avec une gravité naturelle. La douce lumière du soleil de l'heure dorée se reflète magnifiquement sur les pavés mouillés.
+​6–14s (Le time-lapse de la flaque d'eau) : La caméra descend doucement vers un gros plan d'une grande flaque d'eau sur la place reflétant la gare. Le reflet dans l'eau passe soudainement en time-lapse à hyper-vitesse. Le ciel défile à toute allure à travers les jours et les nuits en quelques secondes. Dans le reflet, des structures futuristes massives et des plateformes flottantes s'élèvent rapidement dans le ciel derrière la gare.
+​14–22s (Le futur arrive) : La caméra s'incline vers le haut depuis la flaque pour revenir vers la gare. Nous sommes désormais en 2124. Le mouvement de la caméra et les vitesses de la foule reviennent strictement à un rythme brut et réaliste du monde réel. La gare historique en briques rouges se dresse parfaitement préservée, mais elle est désormais entourée d'une utopie hyper-avancée. Des structures flottantes géantes, un énorme globe holographique lumineux et des véhicules volants profilés remplissent le ciel. L'éclairage est un mélange élégant de coucher de soleil chaleureux et de lumières urbaines cyan sophistiquées semblables à de la bioluminescence.
+​22–30s (L'héritage durable) : Un plan de recul majestueux et incroyablement fluide, semblable à un vol de drone. La caméra révèle l'échelle époustouflante de la mégapole futuriste, avec l'intemporelle gare de Tokyo en briques rouges trônant paisiblement en son cœur.
+​Prompt négatif / Contraintes
+​Règle de texte : Panneaux environnementaux naturels autorisés, mais STRICTEMENT AUCUN texte narratif, AUCUN sous-titre, AUCUN marqueur temporel (comme « 100 years later », « 2024 », « 2124 »).
+​PAS de néon bon marché, PAS de couleurs luminescentes plates, PAS de lumières clichés cyberpunk.
+​PAS de physique flottante, PAS de vitesses de marche non naturelles, PAS de tremblement de caméra, PAS de style anime, PAS de rendu 3D de basse qualité.
 ```
 
 [↑ Retour aux catégories](#catalog)

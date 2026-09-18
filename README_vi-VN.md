@@ -482,20 +482,41 @@ Chất lượng: Hoạt hình 3D điện ảnh cao cấp, môi trường và v�
 
 <a name="prompt-2100861168286154994"></a>
 
-### Đang dịch
+### 关于东京站历经百年演进为未来科幻大都市的电影级视频提示词，包含地面水洼延时过渡及镜头时间轴规划。
 
 Tác giả：[@fps\_lusu](https://x.com/fps_lusu) · [Bài gốc](https://x.com/fps_lusu/status/2100861168286154994)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 关于东京站历经百年演进为未来科幻大都市的电影级视频提示词，包含地面水洼延时过渡及镜头时间轴规划。
 
 <img src="covers/2100861168286154994.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cài đặt Cơ bản
+​Thời lượng: Video ngắn 30 giây
+​Tỷ lệ khung hình: 16:9 (Định dạng phong cảnh màn ảnh rộng)
+​Thể loại: Phim quảng cáo điện ảnh khoa học viễn tưởng phong cách Hollywood, tiến trình tiến hóa kiến trúc siêu thực.
+​Bối cảnh: Ga Tokyo (Tòa nhà gạch đỏ Marunouchi). Một sự chuyển tiếp nhanh chóng, ngoạn mục từ năm 2024 đến chính xác 100 năm sau trong tương lai (năm 2124). Dựa trên hình ảnh được cung cấp.
+​Phong cách & Hình ảnh
+​Chất lượng: Hành động trực tiếp điện ảnh đỉnh cao (Masterpiece cinematic live-action). Siêu chân thực (Hyper-photorealistic). Chất lượng ống kính quang học mạnh mẽ, hạt phim chân thực và chiều sâu khí quyển (sương mù/khói mờ/hiệu ứng tỏa sáng bloom).
+​Chuyển động & Vật lý (QUAN TRỌNG): Chuyển động vật lý thô mộc, chân thực. Tốc độ nhịp nhàng chuẩn xác theo thế giới thực, trọng lượng tự nhiên và trọng lực trong chuyển động của đám đông đi bộ và các phương tiện. TUYỆT ĐỐI KHÔNG mang lại cảm giác CGI "tua nhanh" hay "trôi nổi" nhân tạo, ngoại trừ trong khoảng thời gian tua nhanh thời gian (time-lapse) cụ thể.
+​Ánh sáng (QUAN TRỌNG): Ánh sáng thể tích điện ảnh tinh tế. NGHIÊM CẤM các màu neon rẻ tiền, quá bão hòa, phẳng lặng. Sử dụng ánh sáng phát quang khuếch tán mềm mại, thanh lịch, hiệu ứng bloom tinh tế và hiệu ứng lóe sáng ống kính anamorphic (anamorphic lens flares).
+​Tính nhất quán: Tòa nhà gạch đỏ lịch sử của Ga Tokyo ở tiền cảnh PHẢI giữ nguyên vẹn tuyệt đối và đồng nhất về cấu trúc trong suốt toàn bộ quá trình chuyển tiếp 100 năm.
+​Âm thanh & ASMR
+​BGM: Bản nhạc giao hưởng sử thi, giàu cảm xúc. Hạ xuống một đợt sóng âm trầm sâu trong quá trình time-lapse, sau đó dâng trào thành một cao trào hoành tráng, đầy kinh ngạc.
+​SFX/ASMR: Âm thanh thành phố nhộn nhịp chân thực, tiếng bước chân và tiếng giao thông hiện đại, chuyển dần sang tiếng rền từ tính trầm nặng, bóng bẩy và tiếng gió rít khí động học sạch sẽ trong tương lai. KHÔNG CÓ giọng nói.
+​Dòng thời gian & Hành động
+​0–6 giây (Thực tại Ngày nay): Bắt đầu vào năm 2024. Một góc máy rộng, góc thấp quay tòa nhà Ga Tokyo bằng gạch đỏ mang tính biểu tượng. Đám đông người đi làm qua lại quảng trường với tốc độ đi bộ nghiêm ngặt, chân thực của con người cùng trọng lực tự nhiên. Ánh nắng giờ vàng dịu nhẹ phản chiếu tuyệt đẹp trên mặt đường lát đá cuội ướt.
+​6–14 giây (Time-Lapse Vũng nước): Máy quay hạ thấp mượt mà xuống góc cận cảnh một vũng nước lớn trên quảng trường phản chiếu nhà ga. Hình ảnh phản chiếu dưới nước đột nhiên bước vào một đợt tua nhanh thời gian tốc độ cực cao. Bầu trời mờ ảo chuyển qua ngày và đêm chỉ trong vài giây. Trong hình ảnh phản chiếu, các cấu trúc tương lai khổng lồ và các bệ nổi nhanh chóng mọc vút lên bầu trời phía sau nhà ga.
+​14–22 giây (Tương lai Xuất hiện): Máy quay nghiêng lên từ vũng nước quay trở lại nhà ga. Chúng ta hiện đang ở năm 2124. Chuyển động của máy quay và tốc độ đám đông quay trở lại nghiêm ngặt với nhịp độ thế giới thực chân thực, thô mộc. Nhà ga gạch đỏ lịch sử vẫn đứng sừng sững, được bảo tồn hoàn hảo, nhưng nay được bao quanh bởi một thế giới không tưởng siêu hiện đại. Các công trình nổi khổng lồ, quả cầu ba chiều phát sáng đồ sộ và các phương tiện bay bóng bẩy lấp đầy bầu trời. Ánh sáng là sự pha trộn thanh lịch giữa hoàng hôn ấm áp và ánh đèn thành phố màu lục lam phát quang sinh học tinh tế.
+​22–30 giây (Di sản Trường tồn): Một cú lia máy kéo lùi mượt mà đáng kinh ngạc, mang tầm vóc flycam hùng vĩ. Máy quay mở ra quy mô ngoạn mục của siêu đô thị tương lai, với Ga Tokyo bằng gạch đỏ bất biến nằm yên bình ngay tại trung tâm.
+​Lời nhắc Phủ định / Ràng buộc (Negative Prompt)
+​Quy tắc văn bản: Cho phép các biển hiệu môi trường tự nhiên, nhưng NGHIÊM CẤM văn bản tường thuật, KHÔNG phụ đề, KHÔNG có mốc thời gian (như "100 years later", "2024", "2124").
+​KHÔNG dùng đèn neon rẻ tiền, KHÔNG dùng màu phát sáng phẳng, KHÔNG dùng ánh sáng rập khuôn phong cách cyberpunk.
+​KHÔNG có vật lý trôi nổi, KHÔNG có tốc độ đi bộ phi tự nhiên, KHÔNG rung lắc máy ảnh, KHÔNG theo phong cách anime, KHÔNG dựng hình 3D chất lượng thấp.
 ```
 
 [↑ Về danh mục](#catalog)
