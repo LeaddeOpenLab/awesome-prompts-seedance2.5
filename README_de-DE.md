@@ -349,20 +349,32 @@ Kinematisch / Filmstill · Charakter · Veröffentlicht
 
 <a name="prompt-2100786082464039119"></a>
 
-### Übersetzung läuft
+### Kinematografische 16:9-Aufnahme eines japanischen Steingartens bei Nacht, beleuchtet von einem einzelnen Blitz, gefolgt von starkem Regen.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kinematografische 16:9-Aufnahme eines japanischen Steingartens bei Nacht, beleuchtet von einem einzelnen Blitz, gefolgt von starkem Regen.
 
 <img src="covers/2100786082464039119.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+SZENE: Ein kleiner Steingarten bei Nacht, 16:9. Feste Halbtotale. Dunkler Kies, eine Kiefer, nasses Kopfsteinpflaster. Kein Gesicht. Kein Schreintor. Kein Tempel. Keine lesbare Schnitzerei.
+
+AKTION: Das Bild beginnt fast schwarz. Ein fotografischer Blitz erhellt den Garten für einen Augenblick in Weiß, dann kehrt die Dunkelheit um eine Blendenstufe heller zurück. Der Regen setzt sofort ein. Schwere Tropfen treffen auf das Kopfsteinpflaster und prallen ab. Kein zweiter Blitz. Keine eintretende Person.
+
+FOKUS: Gestochen scharf auf dem nassen Kopfsteinpflaster, wenn der Regen aufschlägt. Die Kiefer ist um eine Blendenstufe weicher.
+
+PHYSIK: Der Blitz ist ein reales Himmelsaufleuchten, kein gezeichneter Zickzack. Der Regen hat Gewicht. Tropfen spritzen und fließen. Sie hängen nicht als Nebel in der Luft. Kein CGI-Blitz, der in der Luft verweilt.
+
+LICHT: Der Blitz ist das einzige harte Hauptlicht. Danach kühle, feuchte Nacht. Kein Beauty-Aufheller.
+
+STIL: Fotorealistisch-kinematografisch, historisches Japan, nasser Stein und Kiefernnadeln, weiche Körnung. Kein Anime. Kein Text. Kein Wasserzeichen. Keine Logos.
+
+AUDIO: Nur diegetische Soundeffekte. Keine Musik. Kein Soundtrack. Kein Gesang. Keine Sprache. Keine Erzählung. Ein Donnerschlag mit dem Blitz, dann starker Regen, der auf das Kopfsteinpflaster prasselt. Kein zweiter Donner.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -335,20 +335,32 @@ Prompt para vídeo cinematográfico de 15 segundos: Uma jovem estudante coreana 
 
 <a name="prompt-2100786082464039119"></a>
 
-### Tradução em curso
+### Plano cinematográfico em 16:9 de um jardim de pedra japonês à noite iluminado por um único clarão de relâmpago seguido de chuva intensa.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Plano cinematográfico em 16:9 de um jardim de pedra japonês à noite iluminado por um único clarão de relâmpago seguido de chuva intensa.
 
 <img src="covers/2100786082464039119.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+CENA: Um pequeno jardim de pedra à noite, 16:9. Plano fixo médio-aberto. Gravilha escura, um pinheiro, calçada molhada. Sem rosto. Sem pórtico de santuário. Sem templo. Sem inscrições legíveis.
+
+AÇÃO: O enquadramento começa quase negro. Um clarão fotográfico de relâmpago branqueia o jardim por um instante, depois a escuridão regressa um stop mais luminosa. A chuva começa de imediato. Gotas pesadas atingem a calçada e ressaltam. Sem segundo relâmpago. Nenhuma pessoa a entrar.
+
+FOCO: Extremamente nítido na calçada molhada quando a chuva atinge. O pinheiro está um stop mais suave.
+
+FÍSICA: O relâmpago é um clarão real no céu, não um ziguezague desenhado. A chuva tem peso. As gotas salpicam e escorrem. Não ficam suspensas como nevoeiro. Nenhum raio CGI a pairar no ar.
+
+LUZ: O relâmpago é a única luz principal dura. Depois dele, uma noite fresca e húmida. Sem luz de preenchimento cosmética.
+
+ESTILO: Fotorrealista cinematográfico, Japão de época, pedra molhada e agulhas de pinheiro, grão suave. Sem anime. Sem texto. Sem marca de água. Sem logótipos.
+
+ÁUDIO: Apenas efeitos sonoros diegéticos. Sem música. Sem banda sonora. Sem canto. Sem fala. Sem narração. Um estrondo de trovão com o relâmpago, depois chuva intensa a bater na calçada. Sem segundo trovão.
 ```
 
 [↑ Voltar às categorias](#catalog)

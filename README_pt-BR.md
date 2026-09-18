@@ -335,20 +335,32 @@ Prompt para vídeo cinematográfico de 15 segundos: Uma jovem estudante coreana 
 
 <a name="prompt-2100786082464039119"></a>
 
-### Tradução em andamento
+### Tomada cinematográfica em 16:9 de um jardim de pedras japonês à noite iluminado por um único clarão de relâmpago seguido por chuva pesada.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Tomada cinematográfica em 16:9 de um jardim de pedras japonês à noite iluminado por um único clarão de relâmpago seguido por chuva pesada.
 
 <img src="covers/2100786082464039119.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+CENA: Um pequeno jardim de pedra à noite, 16:9. Plano fixo médio-aberto. Cascalho escuro, um pinheiro, paralelepípedos molhados. Sem rosto. Sem portal de santuário. Sem templo. Sem inscrições legíveis.
+
+AÇÃO: O enquadramento começa quase preto. Um clarão fotográfico de relâmpago esbranquiça o jardim por um instante, depois a escuridão retorna um ponto mais clara. A chuva começa imediatamente. Gotas pesadas atingem os paralelepípedos e ricocheteiam. Sem segundo relâmpago. Nenhuma pessoa entrando.
+
+FOCO: Extremamente nítido nos paralelepípedos molhados quando a chuva atinge. O pinheiro está um ponto mais suave.
+
+FÍSICA: O relâmpago é um clarão real no céu, não um zigue-zague desenhado. A chuva tem peso. As gotas espirram e escorrem. Não ficam suspensas como neblina. Nenhum raio CGI pairando no ar.
+
+LUZ: O relâmpago é a única luz principal dura. Depois dele, uma noite fresca e úmida. Sem luz de preenchimento de beleza.
+
+ESTILO: Fotorrealista cinematográfico, Japão de época, pedra molhada e agulhas de pinheiro, granulação suave. Sem anime. Sem texto. Sem marca d'água. Sem logotipos.
+
+ÁUDIO: Apenas efeitos sonoros diegéticos. Sem música. Sem trilha sonora. Sem cantos. Sem falas. Sem narração. Um estrondo de trovão com o relâmpago, seguido de chuva pesada batendo nos paralelepípedos. Sem segundo trovão.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -349,20 +349,32 @@ Prompt per video cinematografico di 15 secondi: Una giovane studentessa coreana 
 
 <a name="prompt-2100786082464039119"></a>
 
-### Traduzione in corso
+### Inquadratura cinematografica in 16:9 di un giardino di pietra giapponese di notte, illuminato da un unico lampo seguito da una pioggia battente.
 
 Autore：[@studiokagurajp](https://x.com/studiokagurajp) · [Post originale](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Inquadratura cinematografica in 16:9 di un giardino di pietra giapponese di notte, illuminato da un unico lampo seguito da una pioggia battente.
 
 <img src="covers/2100786082464039119.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+SCENA: Un piccolo giardino di pietra di notte, 16:9. Campo medio fisso. Ghiaia scura, un pino, ciottoli bagnati. Nessun volto. Nessun portale di santuario. Nessun tempio. Nessuna incisione leggibile.
+
+AZIONE: L'inquadratura inizia quasi nera. Un lampo fotografico illumina a giorno di bianco il giardino per un istante, poi torna l'oscurità con uno stop di luminosità in più. La pioggia inizia subito. Gocce pesanti colpiscono i ciottoli e rimbalzano. Nessun secondo lampo. Nessuna persona che entra.
+
+MESSA A FUOCO: Estremamente nitida sui ciottoli bagnati mentre la pioggia li colpisce. Il pino è più morbido di uno stop.
+
+FISICA: Il lampo è un vero bagliore del cielo, non uno zig-zag disegnato. La pioggia ha peso. Le gocce schizzano e scorrono. Non restano sospese come nebbia. Nessun fulmine in CGI che indugia nell'aria.
+
+LUCE: Il lampo è l'unica luce chiave dura. Dopo di esso, una notte fredda e umida. Nessun riempimento di bellezza.
+
+STILE: Fotorealistico cinematografico, Giappone d'epoca, pietra bagnata e aghi di pino, grana morbida. Niente anime. Nessun testo. Nessuna filigrana. Nessun logo.
+
+AUDIO: Solo effetti sonori diegetici. Nessuna musica. Nessuna colonna sonora. Nessun canto. Nessun parlato. Nessuna narrazione. Un boato di tuono con il lampo, poi una pioggia battente che colpisce i ciottoli. Nessun secondo tuono.
 ```
 
 [↑ Torna alle categorie](#catalog)

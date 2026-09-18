@@ -349,20 +349,32 @@ Prompt pour vidéo cinématographique de 15 secondes : Une jeune écolière cor�
 
 <a name="prompt-2100786082464039119"></a>
 
-### Traduction en cours
+### Plan cinématographique 16:9 d'un jardin de pierres japonais la nuit, illuminé par un seul éclair suivi d'une pluie battante.
 
 Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Plan cinématographique 16:9 d'un jardin de pierres japonais la nuit, illuminé par un seul éclair suivi d'une pluie battante.
 
 <img src="covers/2100786082464039119.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+SCÈNE : Un petit jardin de pierres la nuit, 16:9. Plan large-rapproché fixe. Gravier sombre, un pin, pavés mouillés. Aucun visage. Pas de porte de sanctuaire. Pas de temple. Pas de gravure lisible.
+
+ACTION : Le cadre commence presque noir. Un éclair photographique blanchit le jardin pendant un instant, puis l'obscurité revient, un cran plus lumineuse. La pluie commence immédiatement. De lourdes gouttes frappent les pavés et rebondissent. Pas de second éclair. Aucune personne qui entre.
+
+MISE AU POINT : Parfaitement nette sur les pavés mouillés au moment où la pluie s'abat. Le pin est un cran plus doux.
+
+PHYSIQUE : L'éclair est une véritable lueur dans le ciel, pas un zigzag dessiné. La pluie a du poids. Les gouttes éclaboussent et ruissellent. Elles ne restent pas en suspension comme de la brume. Pas d'éclair CGI persistant dans les airs.
+
+LUMIÈRE : L'éclair est la seule source principale dure. Après lui, une nuit fraîche et humide. Pas de lumière de remplissage esthétique.
+
+STYLE : Cinématographique photoréaliste, Japon d'époque, pierre mouillée et aiguilles de pin, grain doux. Pas d'anime. Pas de texte. Pas de filigrane. Pas de logos.
+
+AUDIO : Effets sonores diégétiques uniquement. Pas de musique. Pas de bande originale. Pas de chant. Pas de paroles. Pas de narration. Un coup de tonnerre avec l'éclair, puis une pluie battante frappant les pavés. Pas de second tonnerre.
 ```
 
 [↑ Retour aux catégories](#catalog)

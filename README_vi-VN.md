@@ -351,20 +351,32 @@ Lời nhắc video điện ảnh dài 15 giây: Một nữ sinh Hàn Quốc th�
 
 <a name="prompt-2100786082464039119"></a>
 
-### Đang dịch
+### Cảnh quay điện ảnh tỉ lệ 16:9 về một khu vườn đá Nhật Bản ban đêm được chiếu sáng bởi một tia chớp duy nhất, theo sau là cơn mưa lớn.
 
 Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay điện ảnh tỉ lệ 16:9 về một khu vườn đá Nhật Bản ban đêm được chiếu sáng bởi một tia chớp duy nhất, theo sau là cơn mưa lớn.
 
 <img src="covers/2100786082464039119.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+BỐI CẢNH: Một khu vườn đá nhỏ vào ban đêm, 16:9. Góc máy cố định cận rộng. Sỏi tối màu, một cây thông, đá cuội ướt. Không có mặt người. Không có cổng đền. Không có chùa chiền. Không có hoa văn chạm khắc đọc được.
+
+CỬ ĐỘNG: Khung hình bắt đầu gần như tối đen. Một tia chớp như ảnh chụp làm trắng xóa khu vườn trong tích tắc, sau đó bóng tối trở lại sáng hơn một stop. Mưa lập tức bắt đầu rơi. Những hạt mưa nặng hạt va vào đá cuội và nảy lên. Không có tia chớp thứ hai. Không có người bước vào.
+
+TIÊU ĐIỂM: Cực kỳ sắc nét vào những viên đá cuội ướt khi mưa rơi xuống. Cây thông mờ nhẹ một stop.
+
+VẬT LÝ: Sét là một luồng sáng lóe thực sự trên bầu trời, không phải là hình vẽ ngoằn ngoèo dích dắc. Mưa có độ nặng. Các hạt mưa văng bắn và chảy tràn, không lơ lửng như sương mù. Không có tia sét CGI vương lại trong không khí.
+
+ÁNH SÁNG: Tia chớp là nguồn sáng chính cứng duy nhất. Sau đó là màn đêm ẩm ướt, mát lạnh. Không có ánh sáng phụ làm đẹp.
+
+PHONG CÁCH: Điện ảnh chân thực, thời kỳ Nhật Bản cổ xưa, đá ướt và lá thông, hạt nhiễu nhẹ. Không hoạt hình anime. Không chữ viết. Không hình mờ watermark. Không logo.
+
+ÂM THANH: Chỉ có hiệu ứng âm thanh thuộc bối cảnh (diegetic SFX). Không âm nhạc. Không nhạc nền. Không ca hát. Không lời nói. Không thuyết minh. Một tiếng sấm nổ vang cùng tia chớp, sau đó là tiếng mưa lớn đập vào đá cuội. Không có tiếng sấm thứ hai.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -335,20 +335,32 @@ Sinematik / Film Karesi · Karakter · Yayımlandı
 
 <a name="prompt-2100786082464039119"></a>
 
-### Çeviri sürüyor
+### Gece vakti tek bir şimşek çakmasıyla aydınlanan ve ardından şiddetli yağmurun başladığı bir Japon taş bahçesinin 16:9 sinematik çekimi.
 
 Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece vakti tek bir şimşek çakmasıyla aydınlanan ve ardından şiddetli yağmurun başladığı bir Japon taş bahçesinin 16:9 sinematik çekimi.
 
 <img src="covers/2100786082464039119.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+SAHNE: Gece vakti küçük bir taş bahçe, 16:9. Sabit geniş-yakın çekim. Koyu renk çakıl, tek bir çam ağacı, ıslak parke taşları. Yüz yok. Tapınak kapısı yok. Tapınak yok. Okunabilir bir oyma yok.
+
+EYLEM: Kare neredeyse tamamen siyah başlar. Fotoğrafik tek bir şimşek çakması bahçeyi bir anlığına beyaza bürür, ardından karanlık bir stop daha aydınlık şekilde geri döner. Yağmur anında başlar. Ağır damlalar parke taşlarına çarpar ve sıçrar. İkinci bir şimşek yok. İçeri giren kimse yok.
+
+ODAK: Yağmur çarptıkça ıslak parke taşları üzerinde jilet gibi keskin. Çam ağacı bir stop yumuşak.
+
+FİZİK: Şimşek çizilmiş bir zikzak değil, gökyüzünde gerçek bir parlamadır. Yağmurun bir ağırlığı vardır. Damlalar sıçrar ve akar. Sis gibi havada asılı kalmazlar. Havada oyalanan CGI yıldırımı yok.
+
+IŞIK: Şimşek tek sert ana ışıktır. Ardından serin, ıslak bir gece. Güzellik amaçlı dolgu ışığı yok.
+
+TARZ: Fotogerçekçi sinematik, dönem Japonyası, ıslak taş ve çam iğneleri, yumuşak gren. Anime yok. Metin yok. Filigran yok. Logo yok.
+
+SES: Yalnızca diegetik ses efektleri. Müzik yok. Fon müziği yok. Şarkı söyleme yok. Konuşma yok. Dış ses yok. Şimşekle birlikte bir gök gürültüsü patlaması, ardından parke taşlarına çarpan şiddetli yağmur. İkinci bir gök gürültüsü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

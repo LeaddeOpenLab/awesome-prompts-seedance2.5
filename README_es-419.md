@@ -349,20 +349,32 @@ Prompt para video cinematográfico de 15 segundos: Una joven colegiala coreana r
 
 <a name="prompt-2100786082464039119"></a>
 
-### Traducción en curso
+### Toma cinematográfica en 16:9 de un jardín de piedra japonés por la noche iluminado por un único destello de relámpago seguido de una intensa lluvia.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicación original](https://x.com/studiokagurajp/status/2100786082464039119)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Toma cinematográfica en 16:9 de un jardín de piedra japonés por la noche iluminado por un único destello de relámpago seguido de una intensa lluvia.
 
 <img src="covers/2100786082464039119.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+ESCENA: Un pequeño jardín de piedra por la noche, 16:9. Plano general cercano fijo. Grava oscura, un pino, adoquines húmedos. Sin rostros. Sin puerta de santuario. Sin templo. Sin grabados legibles.
+
+ACCIÓN: El encuadre comienza casi negro. Un destello fotográfico de relámpago blanquea el jardín por un instante, luego la oscuridad regresa un paso más luminosa. La lluvia comienza de inmediato. Gotas pesadas golpean los adoquines y rebotan. Sin un segundo destello. Sin personas entrando.
+
+ENFOQUE: Completamente nítido en los adoquines húmedos mientras la lluvia cae. El pino está un paso suave.
+
+FÍSICA: El relámpago es un destello de cielo real, no un zigzag dibujado. La lluvia tiene peso. Las gotas salpican y corren. No quedan suspendidas como niebla. Ningún rayo CGI flotando en el aire.
+
+ILUMINACIÓN: El destello es la única luz clave dura. Después de él, una noche fría y húmeda. Sin luz de relleno estética.
+
+ESTILO: Fotorrealista cinematográfico, Japón de época, piedra húmeda y acículas de pino, grano suave. Sin anime. Sin texto. Sin marcas de agua. Sin logotipos.
+
+AUDIO: Solo efectos de sonido diegéticos. Sin música. Sin banda sonora. Sin cantos. Sin voces. Sin narración. Un estruendo de trueno con el destello, luego lluvia intensa golpeando los adoquines. Sin un segundo trueno.
 ```
 
 [↑ Volver a categorías](#catalog)
