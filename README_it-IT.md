@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101138386132386252"></a>
 
-### Traduzione in corso
+### Spot pubblicitario fotorealistico di 15 secondi per la cura della pelle con una donna coreana in una stanza luminosa ed elegante che applica prodotti per la cura della pelle.
 
 Autore：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Post originale](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot pubblicitario fotorealistico di 15 secondi per la cura della pelle con una donna coreana in una stanza luminosa ed elegante che applica prodotti per la cura della pelle.
 
 <img src="covers/2101138386132386252.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video fotorealistico di 15 secondi per la cura della pelle con protagonista una giovane donna coreana in una stanza bianca, luminosa ed elegante. Inizia con un primissimo piano del suo viso naturale mentre si tocca delicatamente la guancia con la punta del dito, mostrando una texture della pelle realistica e una morbida luce diurna. Mostra poi un flacone trasparente per la cura della pelle posizionato su un tavolo di marmo bianco mentre la sua mano si allunga lentamente verso di esso. Continua mostrandola mentre applica delicatamente il prodotto sul viso usando entrambe le mani, mantenendo coerenti i tratti del viso e l'aspetto. Mostrala mentre chiude pacificamente gli occhi massaggiando delicatamente entrambe le guance con la punta delle dita. Concludi con un'inquadratura più ampia in cui indossa un semplice abito bianco ed è in piedi accanto a una grande finestra, mentre le tende bianche trasparenti si muovono naturalmente alla luce del sole. Mantieni i movimenti fluidi e realistici, con mani naturali, pelle realistica, illuminazione cinematografica morbida, un'atmosfera di lusso pulito, movimenti di camera delicati e senza distorsioni o dettagli dall'aspetto artificiale.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3831,20 +3831,20 @@ Fotografia naturalistica ultra-realistica, luce naturale diurna, morbida illumin
 
 <a name="prompt-2101156829896290702"></a>
 
-### Traduzione in corso
+### Video amatoriale su MiniDV di 15 secondi dei primi anni 2000 di una giovane donna coreana che inciampa ripetutamente in una coperta in una camera da letto piovosa a Seul.
 
 Autore：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Post originale](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video amatoriale su MiniDV di 15 secondi dei primi anni 2000 di una giovane donna coreana che inciampa ripetutamente in una coperta in una camera da letto piovosa a Seul.
 
 <img src="covers/2101156829896290702.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Video amatoriale su Sony MiniDV ultra-realistico dei primi anni 2000 di 15 secondi, filmato con disinvoltura da un'altra persona. Soggetto: Giovane donna coreana, 24 anni, naturalmente attraente, pelle realistica, trucco minimale, lunghi capelli scuri sciolti in modo naturale. Indossa una felpa con cappuccio oversize color bordeaux e pantaloni casual morbidi, portando una semplice borsa a tracolla di tela. Mantenere la sua esatta identità, i tratti somatici, l'acconciatura, le proporzioni corporee e l'aspetto per tutta la durata. Luogo e atmosfera: Piccolo e vecchio appartamento di Seul durante una prima mattina buia e piovosa. Camera da letto accogliente collegata a un piccolo ingresso, letto semplice con una morbida coperta, mobili in legno, finestra coperta di pioggia che mostra edifici residenziali vicini sfocati all'esterno. Atmosfera cupa da ora blu, fredda luce blu-grigia dalla finestra piovosa mista a una debole luce calda interna. Colori tenui, ombre morbide, ambiente leggermente sottoesposto, pioggia costante all'esterno. Atmosfera tranquilla, assonnata e intima. Stile: Autentico filmato video amatoriale su Sony MiniDV dei primi anni 2000 ripreso da un'altra persona. Completamente spontaneo e non posato. Movimento naturale a mano libera, lieve tremolio della fotocamera, inquadratura imperfetta, delicata reinquadratura, occasionale ricerca dell'autofocus, lievi variazioni di esposizione, colori sbiaditi, contrasto morbido, autentica compressione DV, sottile rumore digitale in condizioni di scarsa illuminazione e rumore del microfono. Movimento fluido e continuo in tempo reale per tutto il tempo. Nessun balbettio, scatto, salto di fotogrammi, fotogrammi duplicati, aspetto in stop-motion, sfocatura di movimento eccessiva, variazioni di velocità, resa a basso framerate, stabilizzazione o movimento cinematografico moderno. 00:00–00:04: È seduta sul bordo del letto, assonnata e leggermente intontita, con la felpa oversize bordeaux e i pantaloni casual morbidi. Si alza in piedi e prende la sua borsa a tracolla di tela vicino all'ingresso. 00:04–00:07: Fa un paio di passi verso la porta, ma la coperta è ancora parzialmente avvolta attorno a una caviglia. Le tira delicatamente il piede all'indietro. Si ferma e guarda verso il basso, confusa. 00:07–00:10: Tenta di fare un altro passo. La coperta si impiglia di nuovo e scivola sul pavimento insieme a lei. La guarda dall'alto con un'espressione leggermente infastidita, poi si china e cerca di liberare la caviglia. 00:10–00:12: Finalmente riesce a liberare il piede, si alza in piedi e fa un passo deciso verso la porta. 00:12–00:15: La coperta si impiglia ancora una volta attorno alla caviglia e tira delicatamente indietro. Si blocca, abbassa lo sguardo su di essa, poi guarda lentamente dritta nella videocamera con un'espressione del tutto impassibile. Dopo un lieve sospiro, dà un piccolo calcio alla coperta per allontanarla e si allontana. Audio: Solo suono naturale: pioggia battente contro la finestra, quiete dell'appartamento, passi leggeri, fruscio del tessuto e della coperta sul pavimento, leggero movimento dei vestiti e il suo sospiro naturale. Nessuna musica, narrazione o effetto sonoro aggiunto. Obiettivo: Carino, spontaneo e leggermente divertente, come una normale mattina assonnata immortalata per caso su una vecchia videocamera MiniDV di famiglia. L'umorismo deve derivare interamente dalla coperta che rifiuta ripetutamente di lasciarla andare. Il suo sguardo impassibile finale dritto verso la telecamera rappresenta il culmine comico. Qualità del movimento: Mantenere tutti i movimenti fluidi, continui e fisicamente realistici. La coperta deve comportarsi in modo naturale con una fisica realistica dei tessuti e una leggera tensione quando è impigliata attorno alla caviglia. Nessun movimento a scatti improvviso, strattone esagerato o moto caotico. L'estetica vintage MiniDV deve derivare dalla texture dell'immagine, dall'autofocus, dal comportamento dell'esposizione, dai colori tenui e dall'utilizzo a mano libera, non da un framerate ridotto o da movimenti a scatti.
 ```
 
 [↑ Torna alle categorie](#catalog)

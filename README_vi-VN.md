@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101138386132386252"></a>
 
-### Đang dịch
+### Quảng cáo chăm sóc da chân thực dài 15 giây với hình ảnh người phụ nữ Hàn Quốc trong căn phòng sáng sủa, trang nhã đang thoa sản phẩm dưỡng da.
 
 Tác giả：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Bài gốc](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo chăm sóc da chân thực dài 15 giây với hình ảnh người phụ nữ Hàn Quốc trong căn phòng sáng sủa, trang nhã đang thoa sản phẩm dưỡng da.
 
 <img src="covers/2101138386132386252.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video chăm sóc da chân thực như ảnh chụp dài 15 giây với nhân vật chính là một phụ nữ trẻ người Hàn Quốc trong căn phòng màu trắng sáng sủa và trang nhã. Bắt đầu bằng cảnh cận cảnh cực đại khuôn mặt mộc tự nhiên khi cô nhẹ nhàng chạm đầu ngón tay vào má, cho thấy kết cấu da chân thực và ánh sáng ban ngày dịu nhẹ. Sau đó hiển thị chai dưỡng da trong suốt đặt trên bàn đá cẩm thạch trắng khi tay cô từ từ với lấy nó. Tiếp tục với cảnh cô nhẹ nhàng thoa sản phẩm dưỡng da lên mặt bằng cả hai tay, giữ cho các đường nét trên khuôn mặt và diện mạo của cô luôn nhất quán. Chiếu cảnh cô bình yên nhắm mắt lại trong khi dùng đầu ngón tay massage nhẹ nhàng hai bên má. Kết thúc bằng một góc máy rộng hơn khi cô mặc chiếc váy trắng đơn giản đứng bên cạnh cửa sổ lớn, trong khi rèm cửa voan trắng chuyển động tự nhiên trong ánh nắng. Giữ cho các chuyển động mượt mà và chân thực, đôi tay tự nhiên, làn da sống động, ánh sáng điện ảnh dịu nhẹ, không khí sang trọng tinh tế, chuyển động máy quay êm ái, và không có biến dạng hoặc chi tiết nhân tạo.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3920,20 +3920,20 @@ Nhiếp ảnh động vật hoang dã siêu thực tế, ánh sáng ban ngày t�
 
 <a name="prompt-2101156829896290702"></a>
 
-### Đang dịch
+### Video gia đình MiniDV đầu thập niên 2000 dài 15 giây ghi lại cảnh một phụ nữ trẻ Hàn Quốc liên tục bị chiếc chăn níu chân trong phòng ngủ ở Seoul vào ngày mưa.
 
 Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video gia đình MiniDV đầu thập niên 2000 dài 15 giây ghi lại cảnh một phụ nữ trẻ Hàn Quốc liên tục bị chiếc chăn níu chân trong phòng ngủ ở Seoul vào ngày mưa.
 
 <img src="covers/2101156829896290702.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Video gia đình quay bằng máy Sony MiniDV đầu thập niên 2000 dài 15 giây siêu thực, được quay một cách ngẫu nhiên bởi một người khác. Chủ thể: Người phụ nữ trẻ Hàn Quốc, 24 tuổi, ngoại hình cuốn hút tự nhiên, làn da chân thực, trang điểm tối giản, tóc dài tối màu buông xõa tự nhiên. Mặc áo hoodie màu hạt dẻ rộng thùng thình và quần dài thường ngày dáng rộng, đeo một chiếc túi vải canvas đơn giản. Giữ nguyên danh tính chính xác, các đường nét trên khuôn mặt, kiểu tóc, tỷ lệ cơ thể và diện mạo của cô ấy trong suốt video. Địa điểm & Không khí: Căn hộ cũ nhỏ ở Seoul vào một buổi sáng sớm trời mưa và tối. Phòng ngủ ấm cúng nối liền với một lối vào nhỏ, giường ngủ đơn giản với chiếc chăn mềm, đồ nội thất bằng gỗ, cửa sổ đọng nước mưa nhìn ra các tòa nhà chung cư lân cận mờ ảo bên ngoài. Không khí giờ xanh tối sẫm, ánh sáng xám xanh lạnh lẽo từ khung cửa sổ mưa hòa lẫn với ánh đèn ấm áp yếu ớt trong phòng. Màu sắc trầm, bóng đổ nhẹ nhàng, không gian xung quanh hơi thiếu sáng, mưa rơi đều bên ngoài. Không khí yên tĩnh, ngái ngủ, thân mật. Phong cách: Thước phim gia đình Sony MiniDV đầu thập niên 2000 chân thực do người khác quay. Hoàn toàn tự nhiên và không dàn dựng. Chuyển động cầm tay tự nhiên, rung máy nhẹ, khung hình không hoàn hảo, chỉnh lại khung hình nhẹ nhàng, thỉnh thoảng lấy nét tự động bị trượt tìm nét, thay đổi phơi sáng nhẹ, màu sắc nhạt dần, độ tương phản dịu, độ nén DV chân thực, nhiễu kỹ thuật số trong điều kiện ánh sáng yếu và nhiễu micrô tinh tế. Chuyển động thời gian thực mượt mà và liên tục trong suốt video. Không giật hình, rung lắc lỗi khung, bỏ khung hình, trùng lặp khung hình, diện mạo stop-motion, nhòe chuyển động quá mức, thay đổi tốc độ, cảm giác tốc độ khung hình thấp, chống rung hay chuyển động điện ảnh hiện đại. 00:00–00:04: Cô ngồi trên mép giường, ngái ngủ và hơi lờ đờ, mặc áo hoodie màu hạt dẻ rộng thùng thình và quần dài thường ngày dáng rộng. Cô đứng dậy và với lấy chiếc túi vải canvas gần ngưỡng cửa. 00:04–00:07: Cô bước vài bước về phía cửa, nhưng chiếc chăn vẫn quấn hờ quanh một bên mắt cá chân. Nó nhẹ nhàng kéo chân cô về phía sau. Cô dừng lại và nhìn xuống, bối rối. 00:07–00:10: Cô cố bước thêm một bước nữa. Chiếc chăn lại vướng vào và trượt trên sàn cùng với cô. Cô nhìn xuống nó với vẻ mặt hơi khó chịu, sau đó cúi xuống và cố gỡ mắt cá chân ra. 00:10–00:12: Cuối cùng cô cũng giải thoát được chân mình, đứng dậy và bước một bước đầy tự tin về phía cửa. 00:12–00:15: Chiếc chăn lại vướng vào mắt cá chân cô một lần nữa và nhẹ nhàng kéo giật lại. Cô đứng sững lại, nhìn xuống nó, rồi từ từ nhìn thẳng vào máy quay với vẻ mặt hoàn toàn không cảm xúc. Sau một tiếng thở dài nhẹ, cô đá nhẹ chiếc chăn ra xa và bước đi. Âm thanh: Chỉ có âm thanh tự nhiên—tiếng mưa đều đều đập vào cửa sổ, không gian căn hộ yên tĩnh, tiếng bước chân khẽ, tiếng vải và chăn sột soạt trên sàn, chuyển động nhẹ của quần áo và tiếng thở dài tự nhiên của cô. Không có âm nhạc, lời tường thuật hay hiệu ứng âm thanh thêm vào. Mục tiêu: Dễ thương, gần gũi và hài hước nhẹ nhàng, giống như một buổi sáng ngái ngủ bình thường vô tình được ghi lại trên chiếc máy quay MiniDV cũ của gia đình. Sự hài hước hoàn toàn đến từ việc chiếc chăn liên tục không chịu để cô rời đi. Cái nhìn không cảm xúc cuối cùng của cô về phía máy quay là điểm nhấn hài hước đắt giá. Chất lượng chuyển động: Giữ cho tất cả các chuyển động mượt mà, liên tục và thực tế về mặt vật lý. Chiếc chăn phải chuyển động tự nhiên với tính chất vật lý của vải đáng tin cậy và lực kéo căng nhẹ khi quấn quanh mắt cá chân cô. Không giật đột ngột, kéo quá đà hay chuyển động hỗn loạn. Tính thẩm mỹ MiniDV cổ điển phải đến từ kết cấu hình ảnh, khả năng lấy nét tự động, phản ứng phơi sáng, màu sắc trầm và thao tác cầm tay—không phải do giảm tốc độ khung hình hay chuyển động ngắt quãng.
 ```
 
 [↑ Về danh mục](#catalog)

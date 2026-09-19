@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101138386132386252"></a>
 
-### Übersetzung läuft
+### 15-sekündiger, fotorealistischer Hautpflege-Werbespot mit einer koreanischen Frau in einem hellen, eleganten Raum, die Hautpflege aufträgt.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Originalbeitrag](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiger, fotorealistischer Hautpflege-Werbespot mit einer koreanischen Frau in einem hellen, eleganten Raum, die Hautpflege aufträgt.
 
 <img src="covers/2101138386132386252.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 15-sekündiges, fotorealistisches Hautpflege-Video mit einer jungen koreanischen Frau in einem hellen, eleganten weißen Raum. Beginne mit einer extremen Nahaufnahme ihres ungeschminkten Gesichts, während sie sanft mit ihrer Fingerspitze ihre Wange berührt, wobei eine realistische Hautstruktur und sanftes Tageslicht zu sehen sind. Zeige dann eine transparente Hautpflegeflasche auf einem weißen Marmortisch, nach der ihre Hand langsam greift. Fahre fort, indem sie das Hautpflegeprodukt mit beiden Händen sanft auf ihr Gesicht aufträgt, wobei ihre Gesichtszüge und ihr Erscheinungsbild konsistent bleiben. Zeige, wie sie friedlich die Augen schließt, während sie mit ihren Fingerspitzen sanft beide Wangen massiert. Schließe mit einer Halbtotale ab, in der sie in einem schlichten weißen Kleid neben einem großen Fenster steht, während sich die durchscheinenden weißen Vorhänge im Sonnenlicht natürlich bewegen. Halte die Bewegungen flüssig und realistisch, mit natürlichen Händen, realistischer Haut, sanfter filmischer Beleuchtung, einer klaren Luxusatmosphäre, sanften Kamerabewegungen und ohne Verzerrungen oder künstlich wirkende Details.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3831,20 +3831,20 @@ Ultrarealistische Tierfotografie, natürliches Tageslicht, weiches, bedecktes Wi
 
 <a name="prompt-2101156829896290702"></a>
 
-### Übersetzung läuft
+### 15-sekündiges MiniDV-Heimvideo aus den frühen 2000er-Jahren einer jungen koreanischen Frau, die in einem regnerischen Schlafzimmer in Seoul wiederholt über eine Decke stolpert.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiges MiniDV-Heimvideo aus den frühen 2000er-Jahren einer jungen koreanischen Frau, die in einem regnerischen Schlafzimmer in Seoul wiederholt über eine Decke stolpert.
 
 <img src="covers/2101156829896290702.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+15-sekündiges ultrarealistisches Sony-MiniDV-Heimvideo aus den frühen 2000er-Jahren, beiläufig von einer anderen Person gefilmt. Subjekt: Junge koreanische Frau, 24 Jahre alt, natürlich attraktiv, realistische Haut, minimales Make-up, langes dunkles Haar locker offen getragen. Sie trägt einen kastanienbraunen Oversized-Kapuzenpullover und eine lockere Freizeithose, dazu eine einfache Segeltuch-Schultertasche. Ihre exakte Identität, Gesichtszüge, Frisur, Körperproportionen und ihr Erscheinungsbild durchgehend beibehalten. Ort & Atmosphäre: Kleine alte Wohnung in Seoul an einem dunklen, regnerischen frühen Morgen. Gemütliches Schlafzimmer, das mit einem kleinen Eingangsbereich verbunden ist, einfaches Bett mit einer weichen Decke, Holzmöbel, regennasses Fenster, das draußen verschwommene benachbarte Wohngebäude zeigt. Dunkle Blaue-Stunde-Stimmung, kaltes blau-graues Licht vom Regenfenster gemischt mit schwachem, warmem Innenlicht. Gedämpfte Farben, weiche Schatten, leicht unterbelichtete Umgebung, stetiger Regen draußen. Ruhige, schläfrige, intime Atmosphäre. Stil: Authentisches Sony-MiniDV-Heimvideomaterial aus den frühen 2000er-Jahren, von einer anderen Person gefilmt. Völlig ungestellt und spontan. Natürliche Handkamerabewegung, subtiles Kamerawackeln, unvollkommener Bildausschnitt, sanfte Neukadrierung, gelegentliches Suchen des Autofokus, leichte Belichtungsverschiebungen, verblasste Farben, weicher Kontrast, authentische DV-Kompression, subtiles digitales Rauschen bei schlechten Lichtverhältnissen und Mikrofonrauschen. Durchgehend flüssige, kontinuierliche Echtzeitbewegung. Kein Stottern, Ruckeln, Auslassen von Bildern, duplizierte Bilder, Stop-Motion-Erscheinung, übermäßige Bewegungsunschärfe, Geschwindigkeitsänderungen, Look niedriger Bildraten, Stabilisierung oder moderne filmische Bewegung. 00:00–00:04: Sie sitzt schläfrig und leicht benommen auf der Bettkante, gekleidet in ihren kastanienbraunen Oversized-Kapuzenpullover und die lockere Freizeithose. Sie steht auf und greift nach ihrer Segeltuch-Schultertasche nahe der Türöffnung. 00:04–00:07: Sie macht ein paar Schritte in Richtung Tür, aber die Decke ist immer noch locker um einen Knöchel gewickelt. Sie zieht ihren Fuß sanft nach hinten. Sie bleibt stehen und schaut verwirrt nach unten. 00:07–00:10: Sie versucht einen weiteren Schritt zu machen. Die Decke verfängt sich erneut und rutscht mit ihr über den Boden. Sie blickt mit leicht genervtem Gesichtsausdruck auf sie hinab, bückt sich dann und versucht, ihren Knöchel zu befreien. 00:10–00:12: Sie befreit schließlich ihren Fuß, richtet sich auf und macht einen selbstbewussten Schritt in Richtung Tür. 00:12–00:15: Die Decke verfängt sich noch einmal um ihren Knöchel und zieht sanft zurück. Sie erstarrt, blickt darauf hinab und schaut dann langsam mit völlig ausdrucksloser Miene direkt in den Camcorder. Nach einem leisen Seufzer gibt sie der Decke einen kleinen Tritt zur Seite und geht davon. Audio: Nur natürlicher Ton – stetiger Regen gegen das Fenster, ruhige Wohnungsatmosphäre, leise Schritte, Rascheln von Stoff und Decke über den Boden, subtile Kleidungsbewegung und ihr natürlicher Seufzer. Keine Musik, kein Kommentar oder hinzugefügte Soundeffekte. Ziel: Niedlich, nachvollziehbar und leicht amüsant, wie ein gewöhnlicher schläfriger Morgen, der zufällig mit einer alten Familien-MiniDV-Kamera festgehalten wurde. Der Humor soll vollkommen dadurch entstehen, dass die Decke sich wiederholt weigert, sie gehen zu lassen. Ihr abschließender todernster Blick in die Kamera ist der komödiantische Höhepunkt. Bewegungsqualität: Alle Bewegungen flüssig, kontinuierlich und physikalisch realistisch halten. Die Decke muss sich natürlich verhalten, mit glaubwürdiger Stoffphysik und sanfter Spannung, wenn sie um ihren Knöchel verfangen ist. Keine plötzlichen Rucke, übertriebenes Ziehen oder chaotische Bewegungen. Die Vintage-MiniDV-Ästhetik muss aus Bildtextur, Autofokus, Belichtungsverhalten, gedämpften Farben und der Handhabung der Handkamera stammen – nicht aus reduzierter Bildrate oder abgehackter Bewegung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2101138386132386252"></a>
 
-### Tradução em andamento
+### Comercial fotorrealista de 15 segundos de cuidados com a pele apresentando uma mulher coreana em uma sala iluminada e elegante aplicando produtos para a pele.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicação original](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Comercial fotorrealista de 15 segundos de cuidados com a pele apresentando uma mulher coreana em uma sala iluminada e elegante aplicando produtos para a pele.
 
 <img src="covers/2101138386132386252.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo fotorrealista de 15 segundos sobre cuidados com a pele apresentando uma jovem coreana em uma sala branca, iluminada e elegante. Comece com um primeiríssimo plano de seu rosto natural enquanto ela toca suavemente a bochecha com a ponta do dedo, exibindo uma textura de pele realista e luz suave do dia. Em seguida, mostre um frasco transparente de produto para a pele colocado sobre uma mesa de mármore branco enquanto a mão dela se estende lentamente em direção a ele. Continue com ela aplicando suavemente o produto no rosto com as duas mãos, mantendo seus traços faciais e sua aparência consistentes. Mostre-a fechando os olhos em paz enquanto massageia suavemente ambas as bochechas com a ponta dos dedos. Finalize com um plano mais aberto dela vestindo um vestido branco simples ao lado de uma grande janela, enquanto cortinas brancas translúcidas se movem naturalmente sob a luz do sol. Mantenha os movimentos suaves e realistas, com mãos naturais, pele realista, iluminação cinematográfica suave, atmosfera de luxo limpa, movimento suave de câmera e sem distorções ou detalhes com aparência artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3825,20 +3825,42 @@ Fotografia de vida selvagem ultrarrealista, luz natural do dia, iluminação sua
 
 <a name="prompt-2101156829896290702"></a>
 
-### Tradução em andamento
+### Vídeo caseiro de 15 segundos em MiniDV do início dos anos 2000 de uma jovem coreana tropeçando repetidamente em um cobertor em um quarto chuvoso de Seul.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo caseiro de 15 segundos em MiniDV do início dos anos 2000 de uma jovem coreana tropeçando repetidamente em um cobertor em um quarto chuvoso de Seul.
 
 <img src="covers/2101156829896290702.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Vídeo caseiro de 15 segundos em Sony MiniDV do início dos anos 2000, ultrarrealista, filmado casualmente por outra pessoa.
+
+Indivíduo: Jovem mulher coreana, 24 anos, naturalmente atraente, pele realista, maquiagem mínima, cabelos escuros e longos soltos de forma despretensiosa. Vestindo um moletom oversized com capuz na cor bordô e calças casuais largas, carregando uma bolsa de ombro de lona simples. Preserve sua identidade exata, traços faciais, penteado, proporções corporais e aparência do início ao fim.
+
+Local e Atmosfera: Pequeno apartamento antigo em Seul durante uma manhã chuvosa e escura. Quarto aconchegante conectado a uma pequena entrada, cama simples com um cobertor macio, móveis de madeira, janela molhada pela chuva mostrando prédios vizinhos desfocados do lado de fora. Ambiente escuro da hora azul, luz fria azul-acinzentada da janela chuvosa misturada com a luz interior fraca e quente. Cores suaves, sombras suaves, arredores ligeiramente subexpostos, chuva constante lá fora. Atmosfera tranquila, sonolenta e íntima.
+
+Estilo: Filmagem autêntica de vídeo caseiro em Sony MiniDV do início dos anos 2000, gravada por outra pessoa. Completamente espontânea e sem encenações. Movimento natural de câmera na mão, trepidação sutil da câmera, enquadramento imperfeito, reenquadramento suave, busca ocasional de foco automático, leves mudanças de exposição, cores desbotadas, contraste suave, compressão autêntica de DV, ruído digital sutil de pouca luz e ruído de microfone. Movimento suave e contínuo em tempo real durante todo o tempo. Sem travamentos, instabilidade (judder), salto de quadros, quadros duplicados, aspecto de stop-motion, desfoque de movimento excessivo, alterações de velocidade, visual de baixa taxa de quadros, estabilização ou movimento cinematográfico moderno.
+
+00:00–00:04: Ela senta na borda da cama, sonolenta e um pouco grogue, vestindo seu moletom oversized bordô e calças casuais largas. Ela se levanta e estende a mão para pegar sua bolsa de ombro de lona perto da porta.
+
+00:04–00:07: Ela dá alguns passos em direção à porta, mas o cobertor ainda está levemente enrolado em um de seus tornozelos. Ele puxa suavemente o pé dela para trás. Ela para e olha para baixo, confusa.
+
+00:07–00:10: Ela tenta dar outro passo. O cobertor prende novamente e desliza pelo chão com ela. Ela olha para ele com uma expressão levemente irritada, depois se abaixa e tenta soltar o tornozelo.
+
+00:10–00:12: Ela finalmente solta o pé, fica de pé e dá um passo confiante em direção à porta.
+
+00:12–00:15: O cobertor prende em torno do tornozelo dela mais uma vez e puxa suavemente para trás. Ela congela, olha para ele, depois olha lentamente direto para a filmadora com uma expressão totalmente impassível. Após um leve suspiro, ela dá um pequeno chute no cobertor para afastá-lo e vai embora andando.
+
+Áudio: Apenas som natural — chuva constante contra a janela, ambiente silencioso do apartamento, passos suaves, tecido e cobertor farfalhando pelo chão, movimento sutil de roupas e seu suspiro natural. Sem música, narração ou efeitos sonoros adicionados.
+
+Objetivo: Fofo, identificável e levemente engraçado, como uma manhã sonolenta comum acidentalmente capturada em uma antiga câmera MiniDV de família. O humor deve vir inteiramente do cobertor se recusando repetidamente a deixá-la sair. Seu olhar impassível final em direção à câmera é o desfecho cômico.
+
+Qualidade do movimento: Mantenha todos os movimentos suaves, contínuos e fisicamente realistas. O cobertor deve se comportar naturalmente com física de tecido convincente e tensão suave ao prender ao redor do tornozelo. Sem puxões bruscos, trancos exagerados ou movimentos caóticos. A estética vintage de MiniDV deve vir da textura da imagem, autofoco, comportamento da exposição, cores suaves e operação na mão — não de taxa de quadros reduzida ou movimento entrecortado.
 ```
 
 [↑ Voltar às categorias](#catalog)

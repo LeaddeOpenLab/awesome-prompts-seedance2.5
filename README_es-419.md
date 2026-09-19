@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2101138386132386252"></a>
 
-### Traducción en curso
+### Comercial fotorrealista de 15 segundos para el cuidado de la piel con una mujer coreana en una habitación luminosa y elegante aplicándose productos de cuidado facial.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicación original](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Comercial fotorrealista de 15 segundos para el cuidado de la piel con una mujer coreana en una habitación luminosa y elegante aplicándose productos de cuidado facial.
 
 <img src="covers/2101138386132386252.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video fotorrealista de cuidado de la piel de 15 segundos con una joven mujer coreana en una habitación blanca, luminosa y elegante. Comienza con un primerísimo primer plano de su rostro al natural mientras se toca suavemente la mejilla con la yema del dedo, mostrando una textura de piel realista y una suave luz de día. Luego, muestra una botella transparente para el cuidado de la piel colocada sobre una mesa de mármol blanco mientras su mano se acerca lentamente a ella. Continúa con ella aplicándose suavemente el producto en el rostro con ambas manos, manteniendo consistentes sus rasgos faciales y su apariencia. Muestra cómo cierra los ojos plácidamente mientras se masajea suavemente ambas mejillas con la yema de los dedos. Finaliza con una toma más amplia de ella con un vestido blanco sencillo de pie junto a una gran ventana, mientras las cortinas blancas traslúcidas se mueven de forma natural bajo la luz del sol. Mantén los movimientos fluidos y realistas, con manos naturales, piel realista, iluminación cinematográfica suave, una atmósfera de lujo limpio, movimientos de cámara delicados y sin distorsiones ni detalles de aspecto artificial.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3831,20 +3831,20 @@ Fotografía de vida silvestre ultrarrealista, luz natural de día, iluminación 
 
 <a name="prompt-2101156829896290702"></a>
 
-### Traducción en curso
+### Video casero en MiniDV de principios de los 2000 de 15 segundos de una joven coreana tropezándose repetidamente con una cobija en un dormitorio lluvioso de Seúl.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicación original](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video casero en MiniDV de principios de los 2000 de 15 segundos de una joven coreana tropezándose repetidamente con una cobija en un dormitorio lluvioso de Seúl.
 
 <img src="covers/2101156829896290702.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Video casero en Sony MiniDV ultrarrealista de principios de los 2000 de 15 segundos, filmado casualmente por otra persona. Sujeto: Mujer joven coreana, 24 años, naturalmente atractiva, piel realista, maquillaje mínimo, cabello largo y oscuro suelto de forma relajada. Viste una sudadera con capucha granate oversize y pantalones casuales holgados, llevando un bolso de hombro de lona sencillo. Conservar su identidad exacta, rasgos faciales, peinado, proporciones corporales y apariencia en todo momento. Ubicación y atmósfera: Pequeño y antiguo departamento de Seúl durante una mañana temprana, oscura y lluviosa. Dormitorio acogedor conectado a una pequeña entrada, cama sencilla con una manta suave, muebles de madera, ventana cubierta de lluvia que muestra edificios de departamentos vecinos borrosos afuera. Ambiente de hora azul oscura, luz azul grisácea fría de la ventana lluviosa mezclada con una tenue luz cálida del interior. Colores apagados, sombras suaves, entorno ligeramente subexpuesto, lluvia constante afuera. Atmósfera tranquila, somnolienta e íntima. Estilo: Auténtico metraje de video casero en Sony MiniDV de principios de los 2000 filmado por otra persona. Completamente espontáneo y sin poses. Movimiento natural cámara en mano, temblor sutil de la cámara, encuadre imperfecto, reencuadre suave, búsqueda ocasional de enfoque automático, ligeros cambios de exposición, colores desvaídos, contraste suave, auténtica compresión DV, sutil ruido digital en condiciones de poca luz y ruido de micrófono. Movimiento suave y continuo en tiempo real en todo momento. Sin tartamudeo, trepidación, saltos de fotogramas, fotogramas duplicados, apariencia de stop-motion, desenfoque de movimiento excesivo, cambios de velocidad, aspecto de baja velocidad de fotogramas, estabilización o movimiento cinematográfico moderno. 00:00–00:04: Ella está sentada al borde de su cama, somnolienta y un poco aturdida, vistiendo su sudadera con capucha granate oversize y pantalones casuales holgados. Se levanta y busca su bolso de hombro de lona cerca de la puerta. 00:04–00:07: Da un par de pasos hacia la puerta, pero la manta todavía está holgadamente envuelta alrededor de un tobillo. Tira suavemente de su pie hacia atrás. Se detiene y mira hacia abajo, confundida. 00:07–00:10: Intenta dar otro paso. La manta se engancha de nuevo y se desliza por el suelo con ella. La mira hacia abajo con una expresión ligeramente molesta, luego se agacha e intenta liberar su tobillo. 00:10–00:12: Finalmente libera su pie, se levanta y da un paso seguro hacia la puerta. 00:12–00:15: La manta se engancha alrededor de su tobillo una vez más y tira suavemente hacia atrás. Se congela, mira hacia abajo, luego mira lentamente directo a la videocámara con una expresión completamente inexpresiva. Tras un pequeño suspiro, le da una pequeña patada a la manta para apartarla y se marcha caminando. Audio: Solo sonido natural: lluvia constante contra la ventana, ambiente tranquilo del departamento, pasos suaves, roce de telas y de la manta por el suelo, movimiento sutil de la ropa y su suspiro natural. Sin música, narración ni efectos de sonido añadidos. Objetivo: Tierno, identificable y ligeramente cómico, como una mañana somnolienta ordinaria capturada accidentalmente en una vieja cámara MiniDV familiar. El humor debe provenir enteramente de la manta negándose repetidamente a dejarla ir. Su mirada inexpresiva final hacia la cámara es el remate cómico. Calidad de movimiento: Mantener todos los movimientos suaves, continuos y físicamente realistas. La manta debe comportarse de forma natural con una física de tela creíble y una tensión suave cuando se engancha alrededor de su tobillo. Sin tirones repentinos, jalones exagerados o movimientos caóticos. La estética vintage de MiniDV debe provenir de la textura de la imagen, el enfoque automático, el comportamiento de la exposición, los colores apagados y la operación cámara en mano, no de una velocidad de fotogramas reducida o un movimiento entrecortado.
 ```
 
 [↑ Volver a categorías](#catalog)

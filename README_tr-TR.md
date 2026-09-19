@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101138386132386252"></a>
 
-### Çeviri sürüyor
+### Aydınlık ve zarif bir odada cilt bakımı uygulayan Koreli bir kadının yer aldığı 15 saniyelik fotogerçekçi cilt bakımı reklamı.
 
 Yazar：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Orijinal gönderi](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Aydınlık ve zarif bir odada cilt bakımı uygulayan Koreli bir kadının yer aldığı 15 saniyelik fotogerçekçi cilt bakımı reklamı.
 
 <img src="covers/2101138386132386252.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aydınlık ve zarif beyaz bir odada genç bir Koreli kadının yer aldığı 15 saniyelik fotogerçekçi bir cilt bakımı videosu oluşturun. Kadının parmak ucuyla yanağına nazikçe dokunduğu, gerçekçi cilt dokusunu ve yumuşak gün ışığını gösteren doğal yüzünün aşırı yakın çekimiyle başlayın. Ardından, beyaz mermer bir masanın üzerinde duran şeffaf cilt bakımı şişesine elinin yavaşça uzandığını gösterin. Yüz hatlarını ve görünümünü tutarlı tutarak, iki elini de kullanarak cilt bakım ürününü yüzüne nazikçe uygulayışıyla devam edin. Parmak uçlarıyla her iki yanağına nazikçe masaj yaparken gözlerini huzurla kapattığını gösterin. Büyük bir pencerenin yanında sade beyaz bir elbise içinde dururken, tül beyaz perdelerin güneş ışığında doğal bir şekilde hareket ettiği daha geniş bir çekimle bitirin. Doğal eller, gerçekçi cilt, yumuşak sinematik aydınlatma, ferah lüks atmosfer, nazik kamera hareketleri ve hiçbir bozulma veya yapay görünümlü ayrıntı olmadan hareketleri akıcı ve gerçekçi tutun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3825,20 +3825,42 @@ Ultra gerçekçi yaban hayatı fotoğrafçılığı, doğal gün ışığı, yum
 
 <a name="prompt-2101156829896290702"></a>
 
-### Çeviri sürüyor
+### Yağmurlu bir Seul yatak odasında battaniyenin art arda ayağına takıldığı genç bir Koreli kadının 2000'lerin başı MiniDV formatında 15 saniyelik ev videosu.
 
 Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmurlu bir Seul yatak odasında battaniyenin art arda ayağına takıldığı genç bir Koreli kadının 2000'lerin başı MiniDV formatında 15 saniyelik ev videosu.
 
 <img src="covers/2101156829896290702.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Başka biri tarafından gündelik bir şekilde çekilmiş, 15 saniyelik ultra gerçekçi 2000'lerin başı Sony MiniDV ev videosu.
+
+Özne: 24 yaşında, doğal olarak çekici, gerçekçi ciltli, minimum makyajlı, uzun koyu saçları serbestçe dökülmüş genç Koreli kadın. Üzerinde büyük beden bordo kapüşonlu bir svetşört ve bol günlük pantolon var, omzunda sade bir kanvas çanta taşıyor. Tam kimliğini, yüz hatlarını, saç stilini, vücut oranlarını ve görünümünü baştan sona koruyun.
+
+Mekân ve Atmosfer: Karanlık, yağmurlu bir sabahın erken saatlerinde Seul'de küçük ve eski bir daire. Küçük bir girişe bağlanan rahat bir yatak odası, yumuşak bir battaniyeye sahip sade bir yatak, ahşap mobilyalar, dışarıdaki bulanık komşu apartmanları gösteren yağmurla kaplı pencere. Koyu mavi saat (blue-hour) ambiyansı, yağmurlu pencereden gelen soğuk mavi-gri ışık ile zayıf sıcak iç mekân ışığının karışımı. Soluk renkler, yumuşak gölgeler, hafifçe az pozlanmış çevre, dışarıda aralıksız yağan yağmur. Sessiz, uykulu, samimi bir atmosfer.
+
+Tarz: Başka biri tarafından çekilmiş, 2000'lerin başlarına ait otantik Sony MiniDV ev videosu kaydı. Tamamen doğal ve kurgulanmamış. Doğal el kamerası hareketi, hafif kamera sarsıntısı, kusurlu kadrajlama, nazik yeniden kadrajlama, ara sıra yaşanan otomatik odaklama arayışı, hafif pozlama değişimleri, soluk renkler, yumuşak kontrast, otantik DV sıkıştırması, düşük ışıkta hafif dijital parazit ve mikrofon paraziti. Baştan sona pürüzsüz ve kesintisiz gerçek zamanlı hareket. Takılma, titreme, kare atlama, yinelenen kareler, stop-motion görünümü, aşırı hareket bulanıklığı, hız değişimleri, düşük kare hızı görünümü, sabitleme veya modern sinematik hareket olmamalıdır.
+
+00:00–00:04: Büyük beden bordo kapüşonlusunu ve bol günlük pantolonunu giymiş, uykulu ve hafif sersemlemiş şekilde yatağının kenarında oturuyor. Ayağa kalkıyor ve kapının yanındaki kanvas omuz çantasına uzanıyor.
+
+00:04–00:07: Kapıya doğru birkaç adım atıyor, ancak battaniye hâlâ gevşek bir şekilde ayak bileklerinden birine sarılı duruyor. Ayağını nazikçe geriye çekiyor. Duruyor ve kafası karışmış bir şekilde aşağı bakıyor.
+
+00:07–00:10: Bir adım daha atmaya çalışıyor. Battaniye tekrar takılıyor ve onunla birlikte yerde kayıyor. Hafifçe canı sıkılmış bir ifadeyle aşağıya bakıyor, ardından eğilip ayak bileğini kurtarmaya çalışıyor.
+
+00:10–00:12: Sonunda ayağını kurtarıyor, doğruluyor ve kapıya doğru kendinden emin bir adım atıyor.
+
+00:12–00:15: Battaniye bir kez daha ayak bileğine dolanıyor ve nazikçe geriye doğru çekiyor. Donup kalıyor, battaniyeye bakıyor, ardından tamamen ifadesiz bir yüzle yavaşça doğrudan video kameraya bakıyor. Küçük bir iç çekişin ardından battaniyeye hafif bir tekme savurup oradan uzaklaşıyor.
+
+Ses: Yalnızca doğal ses — pencereye vuran aralıksız yağmur, sessiz daire ambiyansı, yumuşak ayak sesleri, yerde sürüklenen kumaş ve battaniye hışırtısı, hafif kıyafet hareketi ve onun doğal iç çekişi. Müzik, dış ses veya sonradan eklenmiş ses efektleri yok.
+
+Amaç: Eski bir aile MiniDV kamerasına kazara yakalanmış sıradan, uykulu bir sabah gibi; sevimli, empati kurulabilir ve hafifçe komik. Mizah tamamen battaniyenin onun gitmesine izin vermeyi art arda reddetmesinden kaynaklanmalıdır. Kameraya doğru son ifadesiz bakışı ise komedinin doruk noktasıdır.
+
+Hareket kalitesi: Tüm hareketleri pürüzsüz, kesintisiz ve fiziksel olarak gerçekçi tutun. Battaniye, ayak bileğine dolandığında inandırıcı kumaş fiziği ve hafif bir gerilimle doğal davranmalıdır. Ani sarsıntılar, abartılı çekmeler veya kaotik hareketler olmamalıdır. Nostaljik MiniDV estetiği; düşük kare hızı veya kesintili hareketten değil, görüntü dokusu, otomatik odaklama, pozlama davranışı, soluk renkler ve el kamerası kullanımından gelmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)

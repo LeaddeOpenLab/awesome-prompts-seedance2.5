@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101138386132386252"></a>
 
-### Traduction en cours
+### Spot publicitaire photoréaliste de 15 secondes pour le soin de la peau mettant en scène une femme coréenne appliquant un soin dans une pièce lumineuse et élégante.
 
 Auteur：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publication originale](https://x.com/Aiwithmaha/status/2101138386132386252)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Spot publicitaire photoréaliste de 15 secondes pour le soin de la peau mettant en scène une femme coréenne appliquant un soin dans une pièce lumineuse et élégante.
 
 <img src="covers/2101138386132386252.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo photoréaliste de soin de la peau de 15 secondes mettant en scène une jeune femme coréenne dans une pièce blanche, lumineuse et élégante. Commencez par un très gros plan sur son visage au naturel alors qu'elle touche délicatement sa joue du bout du doigt, dévoilant un grain de peau réaliste et une douce lumière du jour. Montrez ensuite un flacon de soin transparent posé sur une table en marbre blanc tandis que sa main s'en approche lentement. Poursuivez en la montrant appliquant délicatement le soin sur son visage à deux mains, en maintenant la cohérence de ses traits et de son apparence. Montrez-la fermant paisiblement les yeux tout en massant doucement ses deux joues du bout des doigts. Terminez par un plan plus large où elle porte une robe blanche simple, debout près d'une grande fenêtre, tandis que les voilages blancs transparents ondulent naturellement au soleil. Veillez à ce que les mouvements soient fluides et réalistes, avec des mains naturelles, une peau réaliste, un éclairage cinématographique doux, une atmosphère de luxe épuré, des mouvements de caméra délicats et sans aucune distorsion ni détail artificiel.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3831,20 +3831,20 @@ Photographie animalière ultra-réaliste, lumière naturelle du jour, éclairage
 
 <a name="prompt-2101156829896290702"></a>
 
-### Traduction en cours
+### Vidéo amateur MiniDV de 15 secondes du début des années 2000 montrant une jeune femme coréenne qui trébuche à plusieurs reprises sur une couverture dans une chambre pluvieuse à Séoul.
 
 Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2101156829896290702)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo amateur MiniDV de 15 secondes du début des années 2000 montrant une jeune femme coréenne qui trébuche à plusieurs reprises sur une couverture dans une chambre pluvieuse à Séoul.
 
 <img src="covers/2101156829896290702.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vidéo amateur ultra-réaliste en Sony MiniDV du début des années 2000 de 15 secondes, filmée de manière informelle par une autre personne. Sujet : Jeune femme coréenne, 24 ans, naturellement attirante, peau réaliste, maquillage minimal, longs cheveux sombres lâchés de manière décontractée. Portant un sweat à capuche bordeaux surdimensionné et un pantalon décontracté ample, portant un simple sac à bandoulière en toile. Conserver son identité exacte, les traits de son visage, sa coiffure, ses proportions corporelles et son apparence tout au long de la séquence. Lieu et atmosphère : Petit appartement ancien de Séoul lors d'un petit matin sombre et pluvieux. Chambre confortable reliée à une petite entrée, lit simple avec une couverture douce, meubles en bois, fenêtre couverte de pluie montrant des immeubles d'habitation voisins flous à l'extérieur. Ambiance sombre d'heure bleue, lumière froide bleu-gris provenant de la fenêtre pluvieuse mélangée à une faible lumière intérieure chaleureuse. Couleurs atténuées, ombres douces, environnement légèrement sous-exposé, pluie continue à l'extérieur. Atmosphère calme, endormie et intime. Style : Authentique vidéo amateur sur Sony MiniDV du début des années 2000 filmée par une autre personne. Totalement prise sur le vif et sans mise en scène. Mouvement naturel caméra à l'épaule, léger tremblement de caméra, cadrage imparfait, léger recadrage, recherche ponctuelle de la mise au point automatique, légères variations d'exposition, couleurs passées, contraste doux, authentique compression DV, bruit numérique subtil en basse lumière et souffle du micro. Mouvement fluide et continu en temps réel du début à la fin. Aucun bégaiement, saccade, saut d'image, image dupliquée, aspect stop-motion, flou de mouvement excessif, changement de vitesse, rendu à faible cadence d'images, stabilisation ou mouvement cinématographique moderne. 00:00–00:04 : Elle est assise sur le bord de son lit, ensommeillée et un peu vaseuse, vêtue de son sweat à capuche bordeaux surdimensionné et de son pantalon décontracté ample. Elle se lève et attrape son sac à bandoulière en toile près de la porte. 00:04–00:07 : Elle fait deux pas vers la porte, mais la couverture est toujours lâchement enroulée autour d'une de ses chevilles. Elle tire doucement son pied vers l'arrière. Elle s'arrête et regarde vers le bas, perplexe. 00:07–00:10 : Elle essaie de faire un autre pas. La couverture s'accroche à nouveau et glisse sur le sol avec elle. Elle la regarde d'un air légèrement agacé, puis se penche et tente de libérer sa cheville. 00:10–00:12 : Elle parvient enfin à libérer son pied, se redresse et fait un pas assuré vers la porte. 00:12–00:15 : La couverture s'accroche une fois de plus autour de sa cheville et tire doucement en arrière. Elle se fige, baisse les yeux vers elle, puis regarde lentement droit vers le caméscope avec une expression totalement impassible. Après un léger soupir, elle donne un petit coup de pied dans la couverture pour l'écarter et s'éloigne. Audio : Son naturel uniquement — pluie continue contre la fenêtre, ambiance calme de l'appartement, bruits de pas feutrés, froissement du tissu et de la couverture sur le sol, mouvement subtil des vêtements et son soupir naturel. Pas de musique, pas de narration ni d'effets sonores ajoutés. Objectif : Mignon, évocateur et légèrement amusant, comme un matin ordinaire et endormi capturé par accident sur un vieux caméscope familial MiniDV. L'humour doit provenir entièrement du fait que la couverture refuse obstinément de la laisser partir. Son regard final impassible vers la caméra constitue la chute comique. Qualité du mouvement : Conserver des mouvements fluides, continus et physiquement réalistes. La couverture doit réagir naturellement avec une physique de tissu crédible et une légère tension lorsqu'elle est prise autour de sa cheville. Pas d'à-coups brusques, de tiraillement exagéré ni de mouvement chaotique. L'esthétique vintage MiniDV doit provenir de la texture de l'image, de l'autofocus, du comportement de l'exposition, des couleurs atténuées et de la manipulation caméra au poing — et non d'une cadence d'images réduite ou de mouvements saccadés.
 ```
 
 [↑ Retour aux catégories](#catalog)
