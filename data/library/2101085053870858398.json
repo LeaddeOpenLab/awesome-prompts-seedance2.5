@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T00:28:30.124Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: Wet stone path at dusk, 16:9. Locked low close-up. An adult man's geta, thirties. Face out of frame. No second person. No readable writing.\n\nACTION: Two beats in one locked shot. First half: the geta hangs a finger's width above one dark wet cobble and stays there. No splash. No contact. Second half: the wooden sole meets the same cobble and holds. A thin water ring spreads from the contact. The strap tightens. No walk-cycle. No second step.\n\nFOCUS: Tack-sharp on the sole edge, the wet grain of the wood, and the stone sheen. Background path is one stop soft.\n\nPHYSICS: First half is the miss — the foot floats. Second half has weight. Water displaces. No ice-slide. No hover after contact.\n\nLIGHT: Cool dusk from the right, a small specular on the wet stone only.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and wet stone, soft grain. No anime. No text. No watermark. No logos. No split-screen graphic. No captions.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Near-silence while the geta floats. On contact: one wet wood-on-stone plant and a small splash as the water ring spreads. No second step.",
+  "promptTranslations": {
+    "en": "SCENE: Wet stone path at dusk, 16:9. Locked low close-up. An adult man's geta, thirties. Face out of frame. No second person. No readable writing.\n\nACTION: Two beats in one locked shot. First half: the geta hangs a finger's width above one dark wet cobble and stays there. No splash. No contact. Second half: the wooden sole meets the same cobble and holds. A thin water ring spreads from the contact. The strap tightens. No walk-cycle. No second step.\n\nFOCUS: Tack-sharp on the sole edge, the wet grain of the wood, and the stone sheen. Background path is one stop soft.\n\nPHYSICS: First half is the miss — the foot floats. Second half has weight. Water displaces. No ice-slide. No hover after contact.\n\nLIGHT: Cool dusk from the right, a small specular on the wet stone only.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and wet stone, soft grain. No anime. No text. No watermark. No logos. No split-screen graphic. No captions.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Near-silence while the geta floats. On contact: one wet wood-on-stone plant and a small splash as the water ring spreads. No second step."
+  },
+  "summaryTranslations": {
+    "en": "Locked close-up shot of a traditional Japanese geta hovering briefly before stepping onto a wet stone path, creating a thin water ring."
+  },
+  "translationVersion": 2,
+  "summary": "Locked close-up shot of a traditional Japanese geta hovering briefly before stepping onto a wet stone path, creating a thin water ring.",
+  "summaryEn": "Locked close-up shot of a traditional Japanese geta hovering briefly before stepping onto a wet stone path, creating a thin water ring.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101085053870858398",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2101085053870858398",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-18T23:04:47.000Z",
+    "collectedAt": "2026-09-19T00:16:44.488Z",
+    "language": "ja",
+    "originalText": "3 prompt lines that stop AI video from floating.\nAI動画の「浮き」を止める3行\n\nI wanted the foot to hang first. When it lands, the water ring is what sells the weight.\n浮かせたあと、着地させた。水の輪が出たテイクを残した。\n\nGrounding trick: one locked shot, two beats. Float → contact. No walk-cycle.\n\nPROMPT (worked, as-is):\n\nSCENE: Wet stone path at dusk, 16:9. Locked low close-up. An adult man's geta, thirties. Face out of frame. No second person. No readable writing.\n\nACTION: Two beats in one locked shot. First half: the geta hangs a finger's width above one dark wet cobble and stays there. No splash. No contact. Second half: the wooden sole meets the same cobble and holds. A thin water ring spreads from the contact. The strap tightens. No walk-cycle. No second step.\n\nFOCUS: Tack-sharp on the sole edge, the wet grain of the wood, and the stone sheen. Background path is one stop soft.\n\nPHYSICS: First half is the miss — the foot floats. Second half has weight. Water displaces. No ice-slide. No hover after contact.\n\nLIGHT: Cool dusk from the right, a small specular on the wet stone only.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and wet stone, soft grain. No anime. No text. No watermark. No logos. No split-screen graphic. No captions.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Near-silence while the geta floats. On contact: one wet wood-on-stone plant and a small splash as the water ring spreads. No second step.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 30s / Sound On / no Start frame\n効いているのはこの3行 → ACTION の \"No walk-cycle. No second step.\" ／ PHYSICS の \"No hover after contact.\" ／ AUDIO の contact splash。歩かせない。\n\nBookmark now, thank yourself at 2am.\n深夜の生成中の自分のために保存を",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2101085053870858398",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101084961080262656/pu/img/t_FqTnzWRRqGnEiE.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2101085053870858398"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 27
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2101085053870858398",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101084961080262656/pu/img/t_FqTnzWRRqGnEiE.jpg",
+  "coverPath": "covers/2101085053870858398.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101084961080262656",
+    "x-post:2101085053870858398"
+  ],
+  "analysis": {
+    "summary": "Locked close-up shot of a traditional Japanese geta hovering briefly before stepping onto a wet stone path, creating a thin water ring.",
+    "summaryEn": "Locked close-up shot of a traditional Japanese geta hovering briefly before stepping onto a wet stone path, creating a thin water ring.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video accurately displays the locked low close-up of a geta hanging and landing onto wet cobblestones with water displacement exactly as prompted."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: Wet stone path at dusk, 16:9. Locked low close-up. An adult man's geta, thirties. Face out of frame. No second person. No readable writing.\n\nACTION: Two beats in one locked shot. First half: the geta hangs a finger's width above one dark wet cobble and stays there. No splash. No contact. Second half: the wooden sole meets the same cobble and holds. A thin water ring spreads from the contact. The strap tightens. No walk-cycle. No second step.\n\nFOCUS: Tack-sharp on the sole edge, the wet grain of the wood, and the stone sheen. Background path is one stop soft.\n\nPHYSICS: First half is the miss — the foot floats. Second half has weight. Water displaces. No ice-slide. No hover after contact.\n\nLIGHT: Cool dusk from the right, a small specular on the wet stone only.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and wet stone, soft grain. No anime. No text. No watermark. No logos. No split-screen graphic. No captions.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Near-silence while the geta floats. On contact: one wet wood-on-stone plant and a small splash as the water ring spreads. No second step.",
+    "sourceRange": {
+      "start": 287,
+      "end": 1446
+    },
+    "translations": {
+      "zh": "场景：黄昏时分湿润的石板路，16:9。固定低角度特写。一名三十多岁成年男性的木屐。面部在画面外。无第二人。无清晰文字。\n\n动作：固定镜头分两拍。前半段：木屐悬停在湿润深色鹅卵石上方一指宽处并保持不动。无飞溅，无接触。后半段：木质屐底踏在同一块鹅卵石上并稳住。接触处散开细微水环，鞋带收紧。无行走循环，无第二步。\n\n对焦：鞋底边缘、湿木纹理及石面光泽锐利聚焦。背景道路虚化一档。\n\n物理效果：前半段悬空无触碰，后半段带重量感。水流排开，无滑冰感，接触后不悬浮。\n\n光影：右侧冷调暮光，仅在湿石上呈现细小镜面高光。\n\n风格：真实电影质感，日本时代剧，磨损木质与湿石，柔和胶片颗粒。无动漫、文字、水印或插图。\n\n音频：仅环境音效。无音乐、人声或旁白。悬浮时接近静音；接触时伴随湿木敲石声及细小水环散开水花声。无第二步脚步声。",
+      "en": "SCENE: Wet stone path at dusk, 16:9. Locked low close-up. An adult man's geta, thirties. Face out of frame. No second person. No readable writing.\n\nACTION: Two beats in one locked shot. First half: the geta hangs a finger's width above one dark wet cobble and stays there. No splash. No contact. Second half: the wooden sole meets the same cobble and holds. A thin water ring spreads from the contact. The strap tightens. No walk-cycle. No second step.\n\nFOCUS: Tack-sharp on the sole edge, the wet grain of the wood, and the stone sheen. Background path is one stop soft.\n\nPHYSICS: First half is the miss — the foot floats. Second half has weight. Water displaces. No ice-slide. No hover after contact.\n\nLIGHT: Cool dusk from the right, a small specular on the wet stone only.\n\nSTYLE: Photoreal cinematic, period Japan, worn wood and wet stone, soft grain. No anime. No text. No watermark. No logos. No split-screen graphic. No captions.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Near-silence while the geta floats. On contact: one wet wood-on-stone plant and a small splash as the water ring spreads. No second step."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic grounding physics simulation for footwear stepping on wet cobblestones",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
