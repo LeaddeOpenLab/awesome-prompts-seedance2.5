@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T16:44:46.215Z",
+  "model": "seedance2.5",
+  "prompt": "ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone.",
+  "promptTranslations": {
+    "en": "ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone."
+  },
+  "summaryTranslations": {
+    "en": "Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions."
+  },
+  "translationVersion": 2,
+  "summary": "Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.",
+  "summaryEn": "Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101326226891972799",
+    "canonicalUrl": "https://x.com/shushant_l/status/2101326226891972799",
+    "author": {
+      "username": "shushant_l",
+      "displayName": "Shushant Lakhyani",
+      "profileUrl": "https://x.com/shushant_l"
+    },
+    "publishedAt": "2026-09-19T15:03:07.000Z",
+    "collectedAt": "2026-09-19T16:15:37.146Z",
+    "language": "en",
+    "originalText": "An excited audience in a movie theater laughs and records on their phones as I on-screen unleash a powerful blast that sends effects spraying into the auditorium.\n\ncreated with seedance 2.5 in @higgsfield\n\nprompt used: ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/shushant_l/status/2101326226891972799",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101326198077001728/img/nWn8J9uEFRxsjKcC.jpg",
+        "analysisUrl": "https://x.com/shushant_l/status/2101326226891972799"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 537
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/shushant_l/status/2101326226891972799",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101326198077001728/img/nWn8J9uEFRxsjKcC.jpg",
+  "coverPath": "covers/2101326226891972799.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101326198077001728",
+    "x-post:2101326226891972799"
+  ],
+  "analysis": {
+    "summary": "Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.",
+    "summaryEn": "Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video starts facing the cinema screen during an action blast, releases mist into the theater, and pans across the laughing audience to a close-up reaction."
+    },
+    "videoQuality": null,
+    "originalPrompt": "ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone.",
+    "sourceRange": {
+      "start": 219,
+      "end": 1196
+    },
+    "translations": {
+      "zh": "在日本座无虚席的4DX影院内的超真实病毒式智能手机视频。以观众手持iPhone视角的镜头开始，大银幕上放映着电影。突然，屏幕动作爆发到影厅内：座椅剧烈晃动，强风掠过，水雾喷洒，灯光闪烁，观众尖叫欢笑录像。保持连续手持运镜，微抖、动态模糊、真实低光HDR与自然反应。从期待转为感官混沌，最后定格在前排观众难以置信的大笑近景反应。4DX特效全开，日本影院氛围，电影级真实感，无摆拍、无音乐、字幕或UI。",
+      "en": "ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic 4DX theater immersion video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

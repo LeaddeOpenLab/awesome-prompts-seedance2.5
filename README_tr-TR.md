@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**151** Prompt · Son eklenen: **2026-09-19**
+**156** Prompt · Son eklenen: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -328,22 +328,88 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
-<a name="prompt-2101202565321101780"></a>
+<a name="prompt-2101173902307467397"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@nawalsehar](https://x.com/nawalsehar) · [Orijinal gönderi](https://x.com/nawalsehar/status/2101173902307467397)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101173902307467397.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101326226891972799"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@shushant\_l](https://x.com/shushant_l) · [Orijinal gönderi](https://x.com/shushant_l/status/2101326226891972799)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101326226891972799.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101202565321101780"></a>
+
+### 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 Yazar：[@Viniai\_](https://x.com/Viniai_) · [Orijinal gönderi](https://x.com/Viniai_/status/2101202565321101780)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 <img src="covers/2101202565321101780.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+15 saniye uzunluğunda, 24 fps, 1280x720 geniş ekranda, üst düzey bir doğaüstü güçler reklamı/tanıtımı görsel tarzında — ağır görsel efektlere (VFX), gece vakti neon aydınlatmasına ve ana karakterin baştan sona kasıtlı olarak abartısız ve kayıtsız performansına sahip, ayağı yere basan fotogerçekçi canlı çekim görünümünde hiper-gerçekçi sinematik kısa bir video oluşturun.
+
+KARAKTER: Yüzünü çevreleyen birkaç serbest tutam saçla birlikte yüksek bir atkuyruğu yapılmış parlak simsiyah saçlara, keskin belirgin hatlara ve sıcak buğday/zeytin rengi tene sahip, yirmili yaşlarının ortalarında genç bir kadın. Siyah dar balıkçı yaka kazağın üzerine altın işlemeli ejderha detaylarına sahip dar kesim kızıl-kırmızı ipek bir bomber ceket, dar siyah pantolon ve ince altın zincir kolyeyle birlikte zarif altın halka küpeler takıyor. İfadesi kaosun ortasında bile sakin, soğukkanlı ve hafifçe eğlenir gibidir. Onu fotogerçekçi cilt detayları ve doğal oranlarla işleyin; tüm 15 saniye boyunca her bir çekimde ve kamera açısında yüzünü, saç modelini ve kıyafetini tamamen tutarlı tutun — kimlik kayması yok, kesmeler arasında tasarım değişikliği yok.
+
+MEKÂN: Yoğun, göğe yükselen bir Asya megakentinde yağmurla ıslanmış bir gece pazarı sokağı — kırmızı, pembe ve camgöbeği parlayan neon tabelalarla dolu dar sokak, asılı kâğıt fenerler, yemek tezgâhlarından yükselen buhar, ayakların altında neon ışıltısını yansıtan su birikintileri ve puslu, kapalı bir gece gökyüzüne yükselen ışıklı pencerelere sahip birbirine bitişik çok katlı binalar. Bu aydınlatmayı, mimariyi ve atmosferi her çekimde tamamen tutarlı tutun.
+
+YARATIK: Yanardöner yeşil-turkuaz-mor parçalı kabuğa, çok sayıda zırhlı pençeli bacağa ve kanat benzeri uzuvlara sahip devasa, biyolüminesans uzaylı böceksi bir canavar; arka plandaki büyük bir pazar yapısına/iskelesine çarparak çevreleyen kalabalığın panik içinde kaçışmasına neden oluyor. Göründüğü her çekimde tasarımını, rengini ve oranlarını tutarlı tutun.
+
+AKSİYON SEKANSİ (kronolojik, 0:00-0:15, hiçbir ânı atlamadan veya kısaltmadan sekansın tamamını bu sırayla işleyin):
+0:00-0:04 — Ana karakterin arkadan ve ardından yan profilden görülmesiyle açılır; hareketli ve kalabalık bir gece pazarı kalabalığının ortasında sakince dururken, neon tabelalar titreyip etrafındaki ıslak sokakta yansırken ve kalabalık yanından geçip giderken sıradan ve canlı bir gece pazarı atmosferi oluşturarak içecek kutusundan rahatça bir yudum alır.
+0:04-0:07 — Dev yaratık arka plandaki pazar yapısına çarparak kıvılcımlar, buhar ve enkaz parçaları saçar; çevredeki kalabalık hem ön planda hem de arka planda çığlık atarak kaçışır, ancak ana karakter yaratığın devasa bacağı hemen arkasında belirse bile sakince içkisini içmeye devam ederek hareketsiz ve kayıtsız kalır.
+0:07-0:09 — Açıkta kalan teninde (boyun, eller ve ceket dikişleri) parlayan elektrik mavisi şimşek damarları yayılmaya başlar, atkuyruğu yükselen büyülü bir enerji alanına yakalanmışçasına yukarı savrulur, gözleri parlayan gözyaşları gibi aşağıya süzülen ikiz ışık izleriyle birlikte parıldayan elektrik mavisi-beyaz renkte alev alır ve siluetinin etrafında alttaki ıslak kaldırıma yansıyan soluk yarı saydam mavi bir güç kubbesi oluşmaya başlar.
+0:09-0:11 — Bir kolunu kaldırır ve çatırdayan ışıkla aydınlanan parmaklarıyla açık elini yaratığa doğru uzatır; aşırı yakın çekimde avucundan yakıcı yatay bir beyaz-mavi enerji ışını fışkırır, ardından geniş bir çekim, ışının dar sokak boyunca ilerleyip neon tabelaları kısa süreliğine solduran kör edici beyaz bir ışık patlamasıyla doğrudan yaratığa ulaştığını ve yükselen buhar ile duman arasında onu yere serdiğini gösterir.
+0:11-0:13 — Olay sonrası ânı: kolunu indirir ve kamera onun sakin profilinde sabit dururken şimşekler teninden silinir, neon yansımaları ıslak sokakta yeniden titremeye başlar; yaratığın yere serildiği arka planda duman ve küçük yer ateşleri tütmekte, ıslak kaldırımda dairesel yanık ve kavrulma izleri yayılmaktadır.
+0:13-0:15 (biniş) — Yüzünde nötr ve kayıtsız bir ifadeyle yıkımdan sakince arkasını dönüp uzaklaşır, yürürken rahatça telefonunu kontrol eder ve arkasında duman yükselmeye devam ederken ön plandaki yakındaki bir gece pazarı yemek tezgâhına (yükselen buhar, asılı fenerler, sergilenen şişeler) doğru yaklaşır — sekans, sanki hiçbir şey olmamış gibi, güçleri tamamen devre dışı kalmış halde bu rahat uzaklaşma çekimiyle sona erer.
+
+KAMERA ÇALIŞMASI: Sakin açılış anlarında arkadan ve profilden yakın orta çekimlerin bir karışımı, yaratık çarptığında daha geniş bir tepki çekimi, güç aktivasyonu anında ten/göz dönüşümüne odaklanan dar yakın çekimler, ışın çıkışı sırasında parlayan ele aşırı yakın çekim, ışının çarpması için geniş bir çekim ve son sakin uzaklaşma için takip eden bir orta çekim. Kamera hareketi ince ve elde-sinematiktir, asla aceleye getirilmez; karakterin sakin çerçevelenmesi ile kalabalığın ve yaratığın kaotik çerçevelenmesi arasında tezat oluşturur.
+
+AYDINLATMA VE RENK: Islak kaldırımdan ve camlardan yansıyan canlı kırmızı, pembe ve camgöbeği neon tabelalar, arka planda sıcak fener ışığı ve yemek tezgâhı buharı ile karakterin güçlerinin ve şimşek damarlarının elektrik mavisi-beyaz ışıltısına tezat oluşturan ve olay sonrası duman ve yanık izleri sırasında sıcak turuncu ateş/köz tonları içeren soğuk gece ortam aydınlatması. Her çekimde karakteri neon ışıklı yoğun arka plandan ayıran güçlü kenar aydınlatmasına sahip yüksek dinamik aralık (HDR).
+
+TARZ VE KALİTE: Sinematik film greni, fizik tabanlı materyaller, ayrıntılı cilt ve kumaş dokusu, gerçekçi saç ve kumaş fiziği, ıslak sokak yansımaları, atmosferik buhar ve duman parçacık simülasyonu, kalabalık ve arka plan kaosunda doğal alan derinliği düşüşüyle net ön plan odağı, birinci sınıf bir reklam gibi renk derecelendirmesi, 4K eşdeğeri ince detaylar, 15 saniyenin tamamı boyunca korunan sakin karakter performansı ile çevredeki kaotik enerji arasındaki tona bağlı tezat içeren hiper-gerçekçi fotogerçekçi işleme.
+
+TUTARLILIK VE NEGATİF KISITLAMALAR: Yukarıda açıklanan her kamera açısında ana karakterin yüz kimliğinde, saç modelinde, kıyafetinde ve oranlarında ve yaratığın tasarımında kareler ve çekimler arasında güçlü bir tutarlılık sağlayın. Kimlik kayması, yüz bozulması/morflanması, eğrilme, titreme, çift uzuvlar, fazla parmaklar, bozuk anatomi, kesmeler arasında tutarsız giysi veya renk, uyumsuz ışık yönü, istenmeyen metin, logolar, filigranlar, altyazılar, düşük çözünürlüklü kusurlar, plastik veya balmumu benzeri cilt dokusu ve doğal olmayan veya robotik hareketlerden kaçının. Saç, kumaş, duman, şimşek ve ışık huzmesi efektleri için baştan sona doğal fiziği koruyun. Açılıştaki sakin çekimden sondaki uzaklaşma çekimine kadar, hiçbir ânı atlamadan, kısaltmadan veya aceleye getirmeden, 15 saniyelik sekansın tamamını tam olarak yukarıda zamanlandığı şekilde işleyin.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3476,6 +3542,28 @@ Yazar：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Orijinal gönderi](https:
 
 ## 3D Modelleme
 
+<a name="prompt-2101246172438655048"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Aiwithkami](https://x.com/Aiwithkami) · [Orijinal gönderi](https://x.com/Aiwithkami/status/2101246172438655048)
+
+3D Modelleme · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101246172438655048.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2100829705129877876"></a>
 
 ### Çayırda pembe bir sineklikle horozu kovalayan tombul bir kaplanın 3D animasyon komedi istemi.
@@ -3735,6 +3823,50 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101176910244139187"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@doctorwasif](https://x.com/doctorwasif) · [Orijinal gönderi](https://x.com/doctorwasif/status/2101176910244139187)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101176910244139187.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101300251508494611"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIwithSarah\_](https://x.com/AIwithSarah_) · [Orijinal gönderi](https://x.com/AIwithSarah_/status/2101300251508494611)
+
+Uygulama / Web Tasarımı · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101300251508494611.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101163963421708290"></a>
 

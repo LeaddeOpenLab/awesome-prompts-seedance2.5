@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T16:45:00.848Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement.\n\nAs the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction.\n\nUse cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening.\n\nEnd with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors.\n\nNo CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement. As the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction. Use cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening. End with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors. No CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Realistic action short film of a woman fending off three attackers in an underground station, ending with a train pulling in."
+  },
+  "translationVersion": 2,
+  "summary": "地下车站女子击退三名围攻者的写实动作短片，以列车进站收尾。",
+  "summaryEn": "Photorealistic subway action scene of a woman fighting three attackers, ending as a train arrives.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101173902307467397",
+    "canonicalUrl": "https://x.com/nawalsehar/status/2101173902307467397",
+    "author": {
+      "username": "nawalsehar",
+      "displayName": "Nawal",
+      "profileUrl": "https://x.com/nawalsehar"
+    },
+    "publishedAt": "2026-09-19T04:57:50.000Z",
+    "collectedAt": "2026-09-19T16:15:37.146Z",
+    "language": "en",
+    "originalText": "One platform. Three threats. One chance to stay standing. \n\nCreated on Seedance 2.5\n\nPrompt: Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement.\n\nAs the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction.\n\nUse cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening.\n\nEnd with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors.\n\nNo CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nawalsehar/status/2101173902307467397",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101173504368594945/img/olf2xXGGEBLpXOac.jpg",
+        "analysisUrl": "https://x.com/nawalsehar/status/2101173902307467397"
+      }
+    ],
+    "metrics": {
+      "likeCount": 104,
+      "repostCount": 5,
+      "replyCount": 74,
+      "quoteCount": 1,
+      "viewCount": 3636
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/nawalsehar/status/2101173902307467397",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101173504368594945/img/olf2xXGGEBLpXOac.jpg",
+  "coverPath": "covers/2101173902307467397.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101173504368594945",
+    "x-post:2101173902307467397"
+  ],
+  "analysis": {
+    "summary": "地下车站女子击退三名围攻者的写实动作短片，以列车进站收尾。",
+    "summaryEn": "Photorealistic subway action scene of a woman fighting three attackers, ending as a train arrives.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows an underground subway platform fight with three men, physical combat, train arriving, and woman entering doors."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement.\n\nAs the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction.\n\nUse cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening.\n\nEnd with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors.\n\nNo CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark.",
+    "sourceRange": {
+      "start": 93,
+      "end": 1489
+    },
+    "translations": {
+      "zh": "创作一段30秒超逼真写实风格的夜间动作惊悚短片，场景设定在近乎空无一人的地下火车站。一名女子被三名手无寸铁的袭击者包围。她保持冷静，躲避攻击，顺势化解力量，并利用车站环境拉开距离，无任何超人类动作。\n\n随着冲突升级，进站列车改变了氛围——铁轨振动、废纸飞散、隧道涌风、车灯照亮站台。所有动作须符合真实生物力学与物理规律。\n\n采用手持运镜跟拍、交代打斗方位的全景镜头、特写反应镜头与低角度列车画面，搭配真实日光灯光效与自然运动模糊。仅保留现场原声。\n\n片尾列车进站，女子调整呼吸，背对倒地的袭击者走向敞开的车门。\n\n无CGI感、动画、超能力、威亚、武器、血腥、扭曲解剖、字幕或水印。",
+      "en": "Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement.\n\nAs the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction.\n\nUse cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening.\n\nEnd with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors.\n\nNo CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic fight choreography video prompt",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

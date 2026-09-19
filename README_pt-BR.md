@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**151** Prompts · Última adição: **2026-09-19**
+**156** Prompts · Última adição: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -328,22 +328,88 @@ Tradução em andamento
 
 ## Cinematográfico / Imagem de Filme
 
-<a name="prompt-2101202565321101780"></a>
+<a name="prompt-2101173902307467397"></a>
 
 ### Tradução em andamento
+
+Autor：[@nawalsehar](https://x.com/nawalsehar) · [Publicação original](https://x.com/nawalsehar/status/2101173902307467397)
+
+Fotografia · Cinematográfico / Imagem de Filme · Personagem · Veículo · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101173902307467397.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101326226891972799"></a>
+
+### Tradução em andamento
+
+Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicação original](https://x.com/shushant_l/status/2101326226891972799)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101326226891972799.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101202565321101780"></a>
+
+### 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Publicação original](https://x.com/Viniai_/status/2101202565321101780)
 
 Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 <img src="covers/2101202565321101780.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pequeno vídeo cinematográfico hiper-realista, de 15 segundos de duração a 24 fps, widescreen 1280x720, no estilo visual de um comercial/anúncio de alto padrão com poderes sobrenaturais — visual live-action fotorrealista e fundamentado com VFX pesado, iluminação noturna de neon e uma atuação deliberadamente contida e impassível da personagem principal do início ao fim.
+
+PERSONAGEM: Uma jovem em meados dos vinte anos com cabelo preto-azeviche liso preso em um rabo de cavalo alto, com algumas mechas soltas emoldurando o rosto, traços nítidos e definidos e pele oliva quente. Ela veste uma jaqueta bomber de seda vermelho-carmesim ajustada com detalhes de dragão bordados em ouro sobre uma gola alta preta justa, calças pretas slim e delicados brincos de argola dourados com um fino colar de corrente de ouro. Sua expressão é calma, serena e levemente divertida, mesmo em meio ao caos. Renderize-a com detalhes fotorrealistas de pele, proporções naturais e mantenha exatamente o mesmo rosto, penteado e traje totalmente consistentes em cada tomada e ângulo de câmera durante todos os 15 segundos — sem perda de identidade, sem alterações de design entre os cortes.
+
+LOCALIZAÇÃO: Uma rua de mercado noturno molhada pela chuva em uma megacidade asiática densa e imponente — beco estreito repleto de letreiros de neon brilhantes em vermelho, rosa e ciano, lanternas de papel penduradas, vapor subindo das barracas de comida, poças refletindo o brilho do neon sob os pés e edifícios de vários andares densamente agrupados com janelas iluminadas subindo em direção a um céu noturno nublado e enevoado. Mantenha essa iluminação, arquitetura e atmosfera totalmente consistentes em todas as tomadas.
+
+CRIATURA: Um monstro insetoide alienígena bioluminescente massivo com uma carapaça segmentada iridescente em verde-azul-petróleo-roxo, múltiplas pernas blindadas com garras e apêndices semelhantes a asas, colidindo contra uma grande estrutura/andaime do mercado ao fundo e fazendo a multidão ao redor fugir em pânico. Mantenha seu design, cor e proporções consistentes em todas as tomadas em que ela aparecer.
+
+SEQUÊNCIA DE AÇÃO (cronológica, 0:00-0:15, renderize a sequência completa nesta ordem sem pular ou encurtar nenhum momento):
+0:00-0:04 — Começa com a personagem principal vista por trás e depois em perfil lateral, em pé calmamente no meio de uma multidão movimentada do mercado noturno, bebericando casualmente de uma lata de bebida, enquanto letreiros de neon piscam e se refletem na rua molhada ao seu redor e a multidão passa, estabelecendo uma atmosfera normal e animada de mercado noturno.
+0:04-0:07 — A criatura gigante colide com a estrutura do mercado ao fundo, lançando faíscas, vapor e destroços pelo ar; a multidão ao redor grita e foge tanto no primeiro plano quanto ao fundo, mas a personagem principal permanece imóvel e impassível, continuando a beber calmamente mesmo quando a perna maciça da criatura surge perto atrás dela.
+0:07-0:09 — Veias de relâmpagos em azul-elétrico brilhante começam a se espalhar por sua pele exposta (pescoço, mãos e costuras da jaqueta), seu rabo de cavalo é lançado para cima como se capturado por um campo de energia mágica ascendente, seus olhos se acendem em um branco-azulado elétrico brilhante com feixes duplos de luz descendo como lágrimas reluzentes, e uma cúpula de força azul translúcida e suave começa a se formar ao redor de sua silhueta, refletindo no pavimento molhado abaixo.
+0:09-0:11 — Ela levanta um braço e estende a mão aberta em direção à criatura, com os dedos iluminados por uma luz crepitante; um feixe horizontal escaldante de energia branca-azulada irrompe de sua palma em um primeiríssimo plano, e então uma tomada aberta mostra o feixe conectando-se diretamente ao longo da rua estreita até a criatura em um flash ofuscante de luz branca que temporariamente apaga os letreiros de neon, derrubando-a em meio a vapor e fumaça ascendentes.
+0:11-0:13 — Momento das consequências: ela abaixa o braço e os relâmpagos desaparecem de sua pele enquanto a câmera se fixa em seu perfil calmo, reflexos de neon piscando de volta pela rua molhada; fumaça e pequenos focos de fogo no chão ardem ao fundo onde a criatura foi abatida, com marcas radiais de queimadura e chamuscamento se espalhando pelo pavimento molhado.
+0:13-0:15 (final) — Ela se vira e se afasta calmamente da destruição com uma expressão neutra e impassível, checando o celular casualmente enquanto caminha, e se aproxima de uma barraca de comida do mercado noturno próxima no primeiro plano (vapor subindo, lanternas penduradas, garrafas em exibição) enquanto a fumaça continua a subir atrás dela — a sequência termina nesta tomada de afastamento casual, poder totalmente desativado, como se nada tivesse acontecido.
+
+TRABALHO DE CÂMERA: Uma mistura de planos médios fechados por trás e de perfil durante os momentos iniciais calmos, uma tomada reativa mais aberta conforme a criatura colide, close-ups fechados na transformação da pele/olhos durante a ativação dos poderes, um primeiríssimo plano na mão brilhante durante a liberação do feixe, uma tomada aberta para o impacto do feixe e um plano médio de acompanhamento para o afastamento calmo final. O movimento da câmera é sutil e cinematográfico na mão, nunca apressado, contrastando o enquadramento calmo da personagem com o enquadramento caótico da multidão e da criatura.
+
+ILUMINAÇÃO E COR: Iluminação ambiente noturna fria por toda parte, com letreiros de neon vívidos em vermelho, rosa e ciano refletindo no pavimento molhado e no vidro, luz quente de lanternas e vapor de barracas de comida ao fundo, contrastados contra o brilho elétrico branco-azulado dos poderes e veias de relâmpago da personagem, e tons quentes alaranjados de fogo/brasas durante a fumaça e marcas de queimadura pós-impacto. Alta faixa dinâmica com iluminação de borda forte separando a personagem do movimentado fundo iluminado por neon em cada tomada.
+
+ESTILO E QUALIDADE: Renderização fotorrealista hiper-realista com granulação cinematográfica de película, materiais baseados em física, textura detalhada de pele e tecido, física realista de cabelo e tecido, reflexos em ruas molhadas, simulação de partículas de vapor e fumaça atmosféricos, foco nítido em primeiro plano com queda natural de profundidade de campo na multidão e no caos do fundo, gradação de cor com visual de comercial de alta gama, detalhes finos equivalentes a 4K, contraste tonal entre a performance calma da personagem e a energia caótica ao redor sustentado ao longo de todos os 15 segundos.
+
+CONSISTÊNCIA E RESTRIÇÕES NEGATIVAS: Mantenha forte consistência quadro a quadro e tomada a tomada na identidade facial da personagem principal, penteado, roupa e proporções, bem como no design da criatura, em todos os ângulos de câmera descritos acima. Evite desvios de identidade, deformação facial, distorções, oscilações, membros duplicados, dedos extras, anatomia distorcida, roupas ou cores inconsistentes entre os cortes, direção de iluminação incompatível, textos indesejados, logotipos, marcas d'água, legendas, artefatos de baixa resolução, textura de pele plástica ou cerosa e movimentos não naturais ou robóticos. Preserve a física natural de cabelo, tecido, fumaça, relâmpagos e efeitos de feixes de luz por toda parte. Renderize a sequência completa de 15 segundos exatamente no tempo descrito acima, desde a tomada calma de abertura até a tomada final de afastamento, sem pular, encurtar ou apressar nenhum momento.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3476,6 +3542,28 @@ Tradução em andamento
 
 ## Renderização 3D
 
+<a name="prompt-2101246172438655048"></a>
+
+### Tradução em andamento
+
+Autor：[@Aiwithkami](https://x.com/Aiwithkami) · [Publicação original](https://x.com/Aiwithkami/status/2101246172438655048)
+
+Renderização 3D · Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101246172438655048.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2100829705129877876"></a>
 
 ### Prompt de comédia em animação 3D de um tigre gordinho perseguindo um galo com um mata-moscas rosa em um prado.
@@ -3735,6 +3823,50 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101176910244139187"></a>
+
+### Tradução em andamento
+
+Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicação original](https://x.com/doctorwasif/status/2101176910244139187)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101176910244139187.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101300251508494611"></a>
+
+### Tradução em andamento
+
+Autor：[@AIwithSarah\_](https://x.com/AIwithSarah_) · [Publicação original](https://x.com/AIwithSarah_/status/2101300251508494611)
+
+Design de Aplicativos / Web · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101300251508494611.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101163963421708290"></a>
 

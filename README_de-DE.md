@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**151** Prompts · Zuletzt hinzugefügt: **2026-09-19**
+**156** Prompts · Zuletzt hinzugefügt: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -342,22 +342,88 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
-<a name="prompt-2101202565321101780"></a>
+<a name="prompt-2101173902307467397"></a>
 
 ### Übersetzung läuft
+
+Autor：[@nawalsehar](https://x.com/nawalsehar) · [Originalbeitrag](https://x.com/nawalsehar/status/2101173902307467397)
+
+Fotografie · Kinematisch / Filmstill · Charakter · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101173902307467397.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101326226891972799"></a>
+
+### Übersetzung läuft
+
+Autor：[@shushant\_l](https://x.com/shushant_l) · [Originalbeitrag](https://x.com/shushant_l/status/2101326226891972799)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101326226891972799.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101202565321101780"></a>
+
+### 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 Autor：[@Viniai\_](https://x.com/Viniai_) · [Originalbeitrag](https://x.com/Viniai_/status/2101202565321101780)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 <img src="covers/2101202565321101780.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hyperrealistisches, filmisches Kurzvideo, 15 Sekunden lang bei 24 fps, 1280x720 Widescreen, im visuellen Stil eines hochkarätigen Werbespots über übernatürliche Kräfte – bodenständiger, fotorealistischer Live-Action-Look mit intensiven VFX, nächtlicher Neonbeleuchtung und einem durchgehend bewusst zurückhaltenden, ungerührten Auftreten der Hauptfigur.
+
+FIGUR: Eine junge Frau Mitte zwanzig mit glattem, pechschwarzem Haar, das zu einem hohen Pferdeschwanz gebunden ist, wobei ein paar lose Strähnen ihr Gesicht umrahmen, mit markanten, definierten Zügen und warmer olivfarbener Haut. Sie trägt eine taillierte karmesinrote Seiden-Bomberjacke mit goldfarben gestickten Drachendetails über einem schwarzen, eng anliegenden Rollkragenpullover, eine schmale schwarze Hose sowie zarte goldene Creolen mit einer dünnen goldenen Halskette. Ihr Gesichtsausdruck ist ruhig, gelassen und selbst inmitten des Chaos leicht amüsiert. Rendere sie mit fotorealistischen Hautdetails, natürlichen Proportionen und halte ihr exaktes Gesicht, ihre Frisur und ihr Outfit über jede einzelne Einstellung und jeden Kamerawinkel während der gesamten 15 Sekunden vollständig konsistent – kein Identitätsverlust, keine Designänderungen zwischen den Schnitten.
+
+ORT: Eine regennasse Nachtmarktstraße in einer dichten, hoch aufragenden asiatischen Megacity – eine schmale Gasse voller leuchtender Neonschilder in Rot, Rosa und Cyan, hängenden Papierlaternen, Dampf, der von Essensständen aufsteigt, Pfützen, die den Neonglanz unter den Füßen reflektieren, und dicht gedrängten mehrstöckigen Gebäuden mit beleuchteten Fenstern, die in einen dunstigen, bedeckten Nachthimmel ragen. Halte diese Beleuchtung, Architektur und Atmosphäre über jede Einstellung hinweg vollkommen konsistent.
+
+KREATUR: Ein massives, biolumineszierendes, außerirdisches Insektoiden-Monster mit einem schillernden, grün-türkis-violett segmentierten Panzer, mehreren gepanzerten Klauenbeinen und flügelartigen Fortsätzen, das im Hintergrund durch eine große Marktstruktur/ein Gerüst bricht und die umstehende Menge in Panik versetzt. Halte sein Design, seine Farbe und seine Proportionen in jeder Einstellung, in der es erscheint, konsistent.
+
+ACTION-SEQUENZ (chronologisch, 0:00-0:15, rendere die vollständige Sequenz in dieser Reihenfolge, ohne Takte zu überspringen oder zu verkürzen):
+0:00-0:04 — Beginnt mit der Hauptfigur, von hinten und dann im Seitenprofil gesehen, die ruhig inmitten einer sich bewegenden, geschäftigen Nachtmarktmenge steht und beiläufig aus einer Getränkedose trinkt, während Neonschilder flackern und sich in der nassen Straße um sie herum spiegeln und die Menge vorbeizieht, was eine normale, lebendige Nachtmarkt-Atmosphäre etabliert.
+0:04-0:07 — Die riesige Kreatur bricht in die Marktstruktur im Hintergrund ein und lässt Funken, Dampf und Trümmer fliegen; die umstehende Menge schreit und flieht sowohl im Vorder- als auch im Hintergrund, doch die Hauptfigur bleibt ruhig und unbeeindruckt stehen und trinkt gelassen weiter, selbst als das massive Bein der Kreatur bedrohlich dicht hinter ihr aufragt.
+0:07-0:09 — Leuchtende, elektrisch-blaue Blitzadern breiten sich auf ihrer unbedeckten Haut aus (Hals, Hände und Jackennähte), ihr Pferdeschwanz schnellt nach oben, als wäre er in einem aufsteigenden magischen Energiefeld gefangen, ihre Augen entzünden sich in einem leuchtenden elektrischen Blau-Weiß mit doppelten Lichtspuren, die wie leuchtende Tränen herabströmen, und eine zarte, durchscheinende blaue Kraftkuppel beginnt sich um ihre Silhouette zu bilden, die sich auf dem nassen Pflaster darunter spiegelt.
+0:09-0:11 — Sie hebt einen Arm und streckt ihre offene Hand in Richtung der Kreatur aus, die Finger von knisterndem Licht erhellt; ein sengender horizontaler Strahl weiß-blauer Energie bricht in einer extremen Nahaufnahme aus ihrer Handfläche hervor, dann zeigt eine Weitwinkelaufnahme, wie der Strahl die enge Straße hinab direkt in die Kreatur einschlägt, in einem blendenden Blitz aus weißem Licht, der die Neonschilder kurzzeitig überstrahlt und sie inmitten aufsteigenden Dampfes und Rauchs niederstreckt.
+0:11-0:13 — Nachwirkung: Sie senkt ihren Arm und die Blitze verblassen von ihrer Haut, während die Kamera auf ihrem ruhigen Profil verweilt und die Neonreflexionen wieder über die nasse Straße flackern; Rauch und kleine Bodenfeuer schwelen im Hintergrund, wo die Kreatur niedergestreckt wurde, mit radialen Brand- und Schmauchspuren, die sich über das nasse Pflaster ausbreiten.
+0:13-0:15 (Ende) — Sie dreht sich um und geht mit neutralem, ungerührtem Gesichtsausdruck ruhig von der Zerstörung weg, schaut beiläufig mitten im Schritt auf ihr Smartphone und nähert sich einem nahegelegenen Nachtmarkt-Essensstand im Vordergrund (aufsteigender Dampf, hängende Laternen, ausgestellte Flaschen), während hinter ihr weiterhin Rauch aufsteigt – die Sequenz endet mit dieser lässigen Weggeh-Einstellung, Kraft vollständig deaktiviert, als wäre nichts geschehen.
+
+KAMERAFÜHRUNG: Eine Mischung aus nahen Halbtotaleinstellungen von hinten und im Profil während der ruhigen Anfangsmomente, eine weitere Reaktionsaufnahme, als die Kreatur hineinbricht, enge Nahaufnahmen auf die Haut-/Augenverwandlung während der Kraftaktivierung, eine extreme Nahaufnahme auf die leuchtende Hand beim Freisetzen des Strahls, eine Weitwinkelaufnahme für den Strahleinschlag und eine folgende Halbtotale für das abschließende ruhige Weggehen. Die Kamerabewegung ist subtil und filmisch-handgeführt, niemals überhastet, und stellt das ruhige Framing der Figur dem chaotischen Framing von Menge und Kreatur gegenüber.
+
+BELEUCHTUNG UND FARBE: Durchgehend kühle nächtliche Umgebungsbeleuchtung mit leuchtend roten, rosa und cyanfarbenen Neonschildern, die sich auf nassem Pflaster und Glas spiegeln, warmes Laternenlicht und Dampf von Essensständen im Hintergrund, kontrastiert mit dem elektrischen blau-weißen Leuchten der Kräfte und Blitzadern der Figur sowie warmen orangefarbenen Feuer-/Gluttönen während des nachfolgenden Rauchs und der Brandspuren. Hoher Dynamikumfang mit starkem Kantenlicht, das die Figur in jeder Einstellung vom belebten, neonbeleuchteten Hintergrund abhebt.
+
+STIL UND QUALITÄT: Fotorealistisches, hyperrealistisches Rendering mit filmischer Filmkörnung, physikbasierten Materialien, detaillierter Haut- und Stofftextur, realistischer Haar- und Stoffphysik, Nassstraßen-Reflexionen, atmosphärischer Dampf- und Rauchpartikelsimulation, scharfem Vordergrundfokus mit natürlichem Tiefenschärfeabfall auf die Menge und das Chaos im Hintergrund, gegradet wie ein Premium-Werbespot, feine 4K-äquivalente Details, ein klanglicher Kontrast zwischen ruhiger Figurenpräsenz und chaotischer Umgebungsenergie, der über die vollen 15 Sekunden aufrechterhalten wird.
+
+KONSISTENZ UND NEGATIVE EINSCHRÄNKUNGEN: Behalte eine starke Frame-zu-Frame- und Shot-zu-Shot-Konsistenz bei der Gesichtsausprägung, der Frisur, dem Outfit und den Proportionen der Hauptfigur sowie beim Design der Kreatur über jeden oben beschriebenen Kamerawinkel bei. Vermeide Identitätsdrift, Morphing von Gesichtern, Verziehen, Flackern, doppelte Gliedmaßen, zusätzliche Finger, verzerrte Anatomie, uneinheitliche Kleidung oder Farben zwischen den Schnitten, unpassende Lichtrichtungen, unerwünschten Text, Logos, Wasserzeichen, Untertitel, Artefakte niedriger Auflösung, plastikartige oder wächserne Hauttexturen und unnatürliche oder roboterhafte Bewegungen. Bewahre durchgehend die natürliche Physik für Haare, Kleidung, Rauch, Blitze und Lichtstrahleffekte. Rendere die komplette 15-Sekunden-Sequenz exakt wie oben getaktet, von der anfänglichen ruhigen Aufnahme bis zur abschließenden Weggeh-Aufnahme, ohne einen Takt zu überspringen, zu verkürzen oder zu überhasten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3468,6 +3534,28 @@ Illustration · Skizze / Strichzeichnung · Aquarell · Tinte / Chinesischer Sti
 
 ## 3D-Rendering
 
+<a name="prompt-2101246172438655048"></a>
+
+### Übersetzung läuft
+
+Autor：[@Aiwithkami](https://x.com/Aiwithkami) · [Originalbeitrag](https://x.com/Aiwithkami/status/2101246172438655048)
+
+3D-Rendering · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101246172438655048.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2100829705129877876"></a>
 
 ### 3D-animierter Comedy-Prompt eines rundlichen Tigers, der einen Hahn mit einer rosa Fliegenklappe auf einer Wiese jagt.
@@ -3727,6 +3815,50 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2101176910244139187"></a>
+
+### Übersetzung läuft
+
+Autor：[@doctorwasif](https://x.com/doctorwasif) · [Originalbeitrag](https://x.com/doctorwasif/status/2101176910244139187)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101176910244139187.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101300251508494611"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIwithSarah\_](https://x.com/AIwithSarah_) · [Originalbeitrag](https://x.com/AIwithSarah_/status/2101300251508494611)
+
+App- / Webdesign · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101300251508494611.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101163963421708290"></a>
 

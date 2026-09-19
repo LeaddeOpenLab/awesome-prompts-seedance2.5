@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**151** Prompts · Latest addition: **2026-09-19**
+**156** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -405,6 +405,50 @@ Do not omit actively mounting the table or intentional interference; do not show
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2101173902307467397"></a>
+
+### Realistic action short film of a woman fending off three attackers in an underground station, ending with a train pulling in.
+
+Author：[@nawalsehar](https://x.com/nawalsehar) · [Source](https://x.com/nawalsehar/status/2101173902307467397)
+
+Photography · Cinematic / Film Still · Character · Vehicle · Published
+
+**Summary:** Realistic action short film of a woman fending off three attackers in an underground station, ending with a train pulling in.
+
+<img src="covers/2101173902307467397.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second ultra-photorealistic live-action nighttime action-thriller inside an almost-empty underground train station. A woman finds herself surrounded by three unarmed attackers. She stays calm, evades their advances, redirects their momentum, and uses the station environment to create space without superhuman movement. As the confrontation intensifies, the approaching train transforms the atmosphere—rails begin vibrating, loose paper moves across the platform, wind builds through the tunnel, and headlights sweep across the station. Keep every movement physically believable with realistic biomechanics, friction, momentum, balance, collisions, and environmental interaction. Use cinematic handheld tracking, wide shots for clear fight geography, tight reaction shots, low-angle train footage, realistic fluorescent lighting, natural motion blur, autofocus, and subtle camera vibration. Diegetic audio only: footsteps, breathing, impacts, metal scraping, rail vibration, train horn, rushing air, braking, and doors opening. End with the train arriving as the woman catches her breath, turns away from the attackers, and walks toward the open doors. No CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, gore, impossible physics, distorted anatomy, duplicated characters, excessive camera shake, dangerous track behavior, subtitles, logos, or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101326226891972799"></a>
+
+### Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.
+
+Author：[@shushant\_l](https://x.com/shushant_l) · [Source](https://x.com/shushant_l/status/2101326226891972799)
+
+Cinematic / Film Still · Published
+
+**Summary:** Handheld POV video inside a crowded 4DX cinema showing intense physical effects and excited audience reactions.
+
+<img src="covers/2101326226891972799.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+ultra-realistic viral smartphone video inside a packed 4DX cinema in Japan. Begin with a handheld iPhone-style shot from the audience as a movie plays on a huge screen. Suddenly, the on-screen action appears to burst into the real auditorium: seats violently tilt and shake in sync, powerful wind blasts through the crowd, hair and clothing whip naturally, water mist sprays, lights flash, and the entire audience screams, laughs, grabs their seats, and raises phones. Keep it as one continuous handheld shot with authentic micro-shake, motion blur, exposure shifts, realistic low-light HDR, and spontaneous human reactions. Build from anticipation to complete sensory chaos, then end on a close reaction of the foreground viewer laughing in disbelief while the 4DX effects continue at full intensity. Physically believable synchronized effects, packed Japanese cinema atmosphere, cinematic realism, no staged reactions. No music, captions, logos, UI, or visible filming phone.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101202565321101780"></a>
 
@@ -5084,6 +5128,28 @@ An overhead top-down shot focuses on a white watercolor sketchbook on a desk. Th
 
 ## 3D Render
 
+<a name="prompt-2101246172438655048"></a>
+
+### 3D animated ASMR comedy short prompt featuring a pirate chef and a mischievous parrot cooking together in a galley.
+
+Author：[@Aiwithkami](https://x.com/Aiwithkami) · [Source](https://x.com/Aiwithkami/status/2101246172438655048)
+
+3D Render · Food / Drink · Published
+
+**Summary:** 3D animated ASMR comedy short prompt featuring a pirate chef and a mischievous parrot cooking together in a galley.
+
+<img src="covers/2101246172438655048.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley.\n\nSTYLE: Premium cinematic 3D animation, expressive characters, polished feature-film quality, warm amber lighting, realistic food textures, cinematic depth of field, playful slapstick humor, gentle ship movement and crisp immersive food ASMR.\n\nCharacters: A large, burly, bearded pirate chef wearing a worn apron, and a mischievous bright-green parrot constantly trying to steal ingredients. Keep both characters visually consistent throughout.\n\n0–4s\n\nExtreme close-up of the parrot stealing a garlic bulb. The pirate's hand suddenly slams beside it. They freeze and stare at each other. Brief record-scratch silence. The pirate flicks the parrot away; it spins through the air and lands on a pot rack pretending nothing happened.\n\n4–8s\n\nThe pirate rapidly chops garlic with crisp ASMR. The parrot tiptoes toward a tomato. Garlic hits hot oil with a huge sizzle, startling the parrot and sending it tumbling off the rack. Metal cups clang.\n\n8–14s\n\nFast cinematic cooking montage: tomatoes sizzling, herbs being torn, olive oil pouring in golden slow motion, sauce bubbling and the pirate confidently stirring the skillet. Layer detailed chopping, sizzling, pouring and bubbling ASMR.\n\n14–19s\n\nThe parrot spots the food and secretly tries to drag the skillet away. Its tiny body strains comically across the wooden floor. The pirate slowly turns around and stares. The parrot freezes while still holding the handle, then innocently whistles and lets go.\n\n19–24s\n\nThe pirate finishes cooking with a dramatic skillet toss. Steam rises as the glossy dish is plated. The parrot watches hungrily, trying to look innocent.\n\n24–30s\n\nInstead of scolding the parrot, the pirate prepares a tiny plate of sauce and bread and slides it across the table. The parrot happily bounces and eats beside him. They exchange a satisfied look as the ship gently sways.\n\nEnd with a wide cinematic shot of the cozy galley glowing under amber lanterns, subtle ocean sounds and wooden ship creaks, with one soft playful accordion note fading out.\n\nNo dialogue, no subtitles, no text. Maintain strong character consistency, natural physics, smooth animation, cinematic framing and detailed food ASMR throughout.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2100829705129877876"></a>
 
 ### 3D animated comedy prompt of a chubby tiger chasing a rooster with a pink fly swatter in a meadow.
@@ -5594,6 +5660,74 @@ Text remains clear and stable while on screen, free of typos, garbled characters
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101176910244139187"></a>
+
+### Use Image1 as reference for streamer HANEUL. Create a 30-second unbroken 16:9 crime action gameplay livestream showing a bank vault heist, guard firefight, and vehicular getaway, complete with a facecam overlay, HUD, and scrolling chat.
+
+Author：[@doctorwasif](https://x.com/doctorwasif) · [Source](https://x.com/doctorwasif/status/2101176910244139187)
+
+Other · Published
+
+**Summary:** Use Image1 as reference for streamer HANEUL. Create a 30-second unbroken 16:9 crime action gameplay livestream showing a bank vault heist, guard firefight, and vehicular getaway, complete with a facecam overlay, HUD, and scrolling chat.
+
+<img src="covers/2101176910244139187.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use Image1 as, highest-priority reference for HANEUL. Preserve her exact, proportions, skin tone, black blunt-bang short hair, piercings, body type, outfit, accessories, lighting, camera angle, and real streaming setup. She must look like the same real adult Korean woman not stylized, plastic, anime, 3D, duplicated, or face-swapped.\n\nCreate a strictly 30-second, 16:9 1080p realistic open-world crime-action gameplay livestream, fictional characters/vehicles/setting only. One continuous unbroken take, no cuts, transitions, scene changes, subtitles, narration, or full-screen facecam.\n\nFixed layout: gameplay throughout; square 1:1 neon pink-blue facecam bottom-right, never moving/resizing; HANEUL only inside facecam. English-only scrolling chat lower-left with usernames: orri, Joseph, New York Robots, Christopher Clark, Wavers, STOK, Andrea Brown. Fixed HUD: health/armor bottom-left, weapon + ammo beside facecam, cash counter, minimap top-right with GPS route + exactly 2 red guard blips, wanted stars top-center.\n\nGameplay: one female player in dark hoodie/jeans with neck bandana, compact pistol, exactly two armed navy-uniform security guards. No other armed characters; background police cars only during escape. Player takes real damage and remains low-health.\n\n0–5s: crouched in vault while drill finishes, sparks; 0 stars. HANEUL eyes clearly open/focused, natural blinking only. Korean: “Come on... almost through.” Chat: “orri: drill % rising”, “Joseph: keep it quiet.”\n\n5–11s: vault opens → cash grabbed → alarm flashes → two guards approach and fire. Player is visibly grazed, flinches, health drops, wanted level becomes 1. HANEUL sharply widens eyes, gasps, briefly lifts hands. Korean: “Whoa, they found us!” Chat: “STOK: GUARDS INCOMING”, “Andrea Brown: SHE GOT HIT”.\n\n11–19s: intense reckless firefight. HANEUL immediately resumes frantic keyboard/mouse input, eyes wide. Player fires one-handed while holding cash; guards actively flank/fire; glass shatters, metal boxes dent, player takes cover and returns fire. Ammo: 16/48 → 10/48, wanted level 2. Korean: “Don't die! Get them off me!” Chat rapidly scrolls: “Joseph: WATCH THE PILLAR GUY”, “orri: 2 stars already”, “Wavers: FINISH THEM AND RUN”.\n\n19–23s: player fires exactly four decisive shots, each with visible hit reaction: first guard hit, second hit, first collapses, second staggers then falls. Ammo: 10/48 → 8/48 → 6/48 → 4/48. Both guards remain down. Chat: “STOK: BOTH GUARDS DOWN”, “Andrea Brown: GRAB THE REST AND GO”.\n\n23–30s: player grabs final cash, sprints to alley, enters getaway car, smoothly shifts to chase-cam without a cut. Two police cruisers pursue. Car clips trash can, crosses traffic slows police, reaches busy avenue. Health stays flashing red, wanted level stays 2 stars, cash stays increased. HANEUL leans forward, eyes visible and tense, drives while gripping mouse/controls. Korean: “Go, go! We got it, just get us out — we're not clear yet!” Chat: “New York Robots: LOSE THE COPS”, “Christopher Clark: stars haven't dropped”. Final frame remains wanted with police lights behind; no capture, death, clean-escape message, or end title.\n\nAbsolute: exactly 1 HANEUL, 1 player, 2 guards; no duplicates; no weapon switching; guards always armed; realistic synchronized gameplay/facecam reactions; no prolonged closed eyes; no gore; wanted stars remain through final frame.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101300251508494611"></a>
+
+### Detailed UE5-style third-person gameplay prompt simulating a continuous 30-second Prince of Persia sequence with parkour, UI, mechanism activation, and a boss encounter.
+
+Author：[@AIwithSarah\_](https://x.com/AIwithSarah_) · [Source](https://x.com/AIwithSarah_/status/2101300251508494611)
+
+App / Web Design · Character · Published
+
+**Summary:** Detailed UE5-style third-person gameplay prompt simulating a continuous 30-second Prince of Persia sequence with parkour, UI, mechanism activation, and a boss encounter.
+
+<img src="covers/2101300251508494611.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Third-person fantasy action-adventure RPG. Parkour, traversal, environmental puzzles, cinematic combat, Sands of Time abilities. Seamless playable gameplay — not a movie trailer.
+QUALITY LOCK (highest priority): Look like a real modern AAA 3D game captured in-engine, not an AI video or film trailer. Native 4K Unreal Engine 5 gameplay recording. Nanite geometry, Lumen GI, high-frequency texture detail, crisp edges in motion, stable temporal anti-aliasing, deep focus. Ultra-sharp sandstone grain, marble veining, tile mosaics, fabric weave, leather pores, metal edge highlights, individual hair strands. No softness, no waxy/plastic skin, no painterly look, no smearing, no low-res textures, no shallow cinematic DOF that melts background detail. HUD razor-sharp. 60fps feel.
+Environment: Enormous ancient Persian palace-city on a cliff above a golden desert. Monumental sandstone and marble towers, collapsed bridges between minarets, giant statues of winged bulls and kings half-buried in sand, waterfalls from fractured aqueducts into hanging gardens, vines in courtyards, golden time-machinery in the ruins. Starts on sunlit rooftops, descends into a sacred hall, guardian awakens.
+Visual style: Photorealistic UE5 AAA third-person gameplay presentation. High-clarity materials, cinematic but game-engine lighting (not film), volumetric god rays through lattice that do not reduce sharpness, physically accurate sand/water/stone/cloth, lush oasis vegetation with individual leaves, detailed animation, cloth and hair physics, dust/sand particles, contact shadows, sophisticated VFX (sharp sand rewind trails, golden time energy with defined edges). Restrained motion blur only on fast moves. Seamless in-camera transitions that stay playable.
+Player character: The Prince — lean athletic young Persian warrior-prince, dark hair with visible strands, open embroidered vest, sash, loose pants, leather climbing straps, bracers, boots, small pouch. Skin has pores and sun-worn texture, not plastic. Dagger of Time sheathed at left forearm (rewind, manipulate sand-gold mechanisms). Curved scimitar on his back.
+Gameplay camera: Responsive over-the-shoulder third-person game camera. Widen on reveals, tighten in narrow ledge/pole sections, orbit slightly in combat, brief in-engine cinematic framing, then return control. Always readable, always sharp. No filmic rack focus.
+Gameplay UI: Minimal fixed game HUD, perfectly sharp. Health and sand/time reservoirs upper-left. Compass and objective marker upper-right. Contextual prompts on interactables. Ability icons (rewind, sand pulse) lower-right. Screen-anchored. Clean vector-crisp UI, no blur.
+Core progression: Rooftop collapse run → hidden descent into sacred hall → activate time mechanism with the Dagger → awaken colossal guardian → collapsing escape → burst into courtyard arena → start of boss fight.
+Audio: Cinematic score with Persian percussion, strings, woodwinds. Desert wind, birds, waterfalls, stone grind, climb impacts, sand cascades, machinery, sand-energy pulses, roars, blades, UI ticks, destruction.
+Negatives: No subtitles, dialogue, logos, excessive HUD, first-person, guns, modern tech, gore, blood, dismemberment, broken anatomy, clothing changes, camera teleports, heavy motion blur, soft focus, waxy skin, plastic materials, muddy textures, painterly/illustration look, anime, cartoon, 2.5D, turn-based combat, cinematic black bars, film grain that hides detail, AI face morphing, extra fingers, warped architecture.
+[00:00-00:04] PALACE ROOFTOPS: In-game, camera behind the Prince sprinting along a ruined aqueduct above hanging gardens and desert. Sharp stone texture underfoot. Stone collapses behind him. He accelerates, jumps a widening gap, catches the far ledge with both hands, pulls up, keeps running. Camera widens on the jump — colossal buried statues and desert stay detailed, not smeared — then returns behind him. SFX: footsteps, cracking stone, waterfalls, wind, climb impacts, score building.
+[00:04-00:08] COLLAPSING BRIDGE: Fractured bridge between minarets fails. High-speed traversal: sprint falling slabs, leap a tilted pillar, brief wall-run on carved palace stone with readable relief carving, launch to a hanging banner on a wooden crane. Swing the gap while masonry crashes into dust and sand below. Camera follows the swing, rotates to landing. SFX: collapse, banner tension, wind, dust impacts, traversal chimes.
+[00:08-00:11] INTO THE SACRED HALL: Lands by an ancient circular doorway; real path drops through a collapsed floor. Brief sharp DESCEND prompt. He runs and drops. Seamless transition into a vast interior: hard-edged sun shafts through lattice, sand-covered mosaics with readable patterns, ruined columns, drifting dust. Sprints and slides toward a glowing golden symbol.
+[00:11-00:15] THE ANCIENT MECHANISM: Camera close behind as he vaults a low ruin and reaches a dormant circular machine in the floor. Draws the Dagger of Time and drives it into the pedestal. Luminous sand-gold energy with crisp filaments races through carved channels. Stone rings rotate with visible mechanical detail. Chamber fills with warm gold light. Objective ping: mechanism restored. SFX: deep rotation, sand pulse, stone grind, resonant hum.
+[00:15-00:18] SOMETHING WAKES: He turns. Camera eases toward a huge carved statue in the far wall — carving detail stays sharp. Two gigantic golden eyes ignite under sand. Chamber shakes. Colossal sand-and-stone guardian rips one arm free, crushing columns, blasting sand. Player control returns immediately; he runs for the exit as a sharp boss health bar fades in across the top. SFX: deep roar, cracking stone, falling sand, boss sting.
+[00:18-00:22] COLLAPSING ESCAPE: High-speed parkour down a failing corridor. Guardian smashes through walls behind him. Dodge falling columns, squeeze a narrow gap, rewind a collapsing slab with the Dagger (visible sharp sand-time trail), then fire a sand-current burst to launch through the last stretch as huge stone fingers miss him. Camera shakes on impacts; route and objective marker stay readable and crisp. SFX: rushing sand, hits, collapse, rewind whoosh, ability fire, roar.
+[00:22-00:25] ARENA: Bursts up through a shattered floor into hard sunlight in a ruined circular courtyard ringed by statues. No cut: grabs the ledge, pulls up, rolls, draws the scimitar, turns toward the hole, catching his breath. Air still for half a second. Enormous shadow rises from the opening. SFX: stone eruption, breath, blade draw, music drops.
+[00:25-00:28] BOSS FIGHT: Guardian erupts and slams both hands onto the arena, throwing dust, fountain water, and masonry — particles sharp, not mushy. Camera widens to boss framing, still in-engine. Massive horizontal arm sweep. Prince sprints, timed dodge-roll under it, then counters: Dagger sand-pulse into a glowing weak point on the wrist. First chunk of the health bar drops; golden fractures spider through the armor with clear geometry. SFX: impact, dodge whoosh, sand pulse, stone crack, full boss music.
+[00:28-00:30] YOUR TURN: Guardian recoils the damaged arm and roars. More golden weak points light across its body. Prince rises, tightens his grip on the scimitar, sprints straight at it. Camera locks over-the-shoulder. Combat ability icons light lower-right, sharp. End mid-sprint, not on a pose — gameplay continuing past the clip. SFX: roar, footsteps, blade resonance, UI chimes, final orchestral rise.
+Feel like someone recording a real AAA third-person game at 4K, not generating a trailer. Prince always responds to obstacles, prompts, parkour, time/sand abilities, objectives, and attacks.
+Through-line in one 30s take: rooftop traversal → interior → mechanism → awakening → escape → arena → boss start.
+No fades, montage cuts, or location jumps. Rooftops connect to the hall below; arena sits directly above that complex.
+Guardian is colossal: carved stone, packed sand, gold mechanics, desert burial. Heavy inertia, delayed stone motion, sand displacement, powerful impacts.
+Same Prince, outfit, scimitar, Dagger, architecture, UI, lighting, Persian aesthetic throughout. HUD fixed and reacting without blocking action.
+No gore, subtitles, dialogue, first-person, black bars, or any cut that breaks the feeling of live play.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101163963421708290"></a>
 

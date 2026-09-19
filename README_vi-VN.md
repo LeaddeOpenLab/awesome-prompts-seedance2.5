@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**151** Prompt · Bổ sung mới nhất: **2026-09-19**
+**156** Prompt · Bổ sung mới nhất: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -344,22 +344,88 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
-<a name="prompt-2101202565321101780"></a>
+<a name="prompt-2101173902307467397"></a>
 
 ### Đang dịch
+
+Tác giả：[@nawalsehar](https://x.com/nawalsehar) · [Bài gốc](https://x.com/nawalsehar/status/2101173902307467397)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101173902307467397.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101326226891972799"></a>
+
+### Đang dịch
+
+Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.com/shushant_l/status/2101326226891972799)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101326226891972799.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101202565321101780"></a>
+
+### 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 Tác giả：[@Viniai\_](https://x.com/Viniai_) · [Bài gốc](https://x.com/Viniai_/status/2101202565321101780)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 15秒超自然科幻短片：霓虹夜市中淡定女子击退巨怪并从容离开。
 
 <img src="covers/2101202565321101780.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ngắn điện ảnh siêu thực, dài 15 giây ở tốc độ 24 khung hình/giây, màn hình rộng 1280x720, theo phong cách hình ảnh của một quảng cáo sức mạnh siêu nhiên cao cấp — diện mạo người đóng chân thực với kỹ xảo VFX dày đặc, ánh sáng neon ban đêm và màn thể hiện điềm tĩnh, không hề bận tâm một cách có chủ ý của nhân vật chính xuyên suốt video.
+
+NHÂN VẬT: Một phụ nữ trẻ ở độ tuổi giữa hai mươi với mái tóc đen tuyền bóng mượt buộc đuôi ngựa cao cùng vài lọn tóc buông lơi ôm lấy khuôn mặt, các đường nét sắc sảo rõ ràng và làn da màu ô liu ấm áp. Cô mặc một chiếc áo khoác bomber lụa màu đỏ thẫm vừa vặn với chi tiết rồng thêu vàng bên ngoài áo cổ lọ ôm sát màu đen, quần tây đen ống ôm, cùng hoa tai vòng vàng tinh tế và dây chuyền vàng mảnh. Biểu cảm của cô điềm đạm, tự chủ và hơi thích thú ngay cả giữa cảnh hỗn loạn. Kết xuất cô ấy với chi tiết da chân thực, tỷ lệ tự nhiên và giữ cho khuôn mặt, kiểu tóc cùng trang phục chính xác của cô ấy hoàn toàn nhất quán trong từng cảnh quay và góc máy trong toàn bộ 15 giây — không thay đổi nhận diện, không thay đổi thiết kế giữa các cảnh cắt.
+
+ĐỊA ĐIỂM: Một con phố chợ đêm ướt đẫm nước mưa trong một đại đô thị châu Á dày đặc, cao chọc trời — con hẻm hẹp chật ních các bảng hiệu đèn neon phát sáng màu đỏ, hồng và xanh lơ, đèn lồng giấy treo, hơi nước bốc lên từ các quầy hàng ăn, những vũng nước phản chiếu ánh sáng neon dưới chân và các tòa nhà nhiều tầng san sát nhau với những ô cửa sổ sáng đèn vươn lên bầu trời đêm u ám, mù sương. Giữ cho ánh sáng, kiến trúc và bầu không khí này hoàn toàn nhất quán qua từng cảnh quay.
+
+QUÁI VẬT: Một quái vật dạng côn trùng ngoài hành tinh phát quang sinh học khổng lồ với lớp vỏ phân đoạn óng ánh màu xanh lá cây-màu mòng két-tím, nhiều chân có móng vuốt bọc giáp và các phần phụ giống như cánh, đâm xuyên qua một cấu trúc/giàn giáo chợ lớn ở hậu cảnh và khiến đám đông xung quanh hoảng loạn bỏ chạy. Giữ cho thiết kế, màu sắc và tỷ lệ của nó nhất quán trong mọi cảnh quay mà nó xuất hiện.
+
+CHUỖI HÀNH ĐỘNG (theo trình tự thời gian, 0:00-0:15, kết xuất toàn bộ chuỗi hành động theo thứ tự này mà không bỏ qua hoặc rút ngắn bất kỳ nhịp nào):
+0:00-0:04 — Mở đầu với cảnh nhân vật chính nhìn từ phía sau rồi nhìn nghiêng, đứng bình thản giữa đám đông chợ đêm đang di chuyển nhộn nhịp, thong thả nhấp một ngụm từ lon đồ uống, trong khi các biển hiệu neon nhấp nháy và phản chiếu trên đường phố ướt át xung quanh cô và dòng người lướt qua, tạo nên một bầu không khí chợ đêm bình thường, sống động.
+0:04-0:07 — Sinh vật khổng lồ đâm sầm vào cấu trúc chợ ở hậu cảnh, làm bắn tung tia lửa, hơi nước và các mảnh vỡ; đám đông xung quanh la hét và tháo chạy ở cả tiền cảnh lẫn hậu cảnh, nhưng nhân vật chính vẫn đứng yên và không hề bối rối, tiếp tục uống một cách bình tĩnh ngay cả khi chiếc chân khổng lồ của sinh vật lù lù xuất hiện ngay phía sau cô.
+0:07-0:09 — Những đường gân sét màu xanh điện phát sáng bắt đầu lan rộng trên làn da lộ ra của cô (cổ, tay và đường may của áo khoác), tóc đuôi ngựa của cô hất ngược lên như thể bị cuốn vào một trường năng lượng ma thuật đang dâng lên, đôi mắt cô rực sáng thành màu xanh-trắng điện quang với hai vệt sáng chảy xuống như những giọt nước mắt phát sáng, và một vòm lực mờ ảo màu xanh lam bắt đầu hình thành xung quanh bóng dáng cô, phản chiếu trên mặt đường ướt phía dưới.
+0:09-0:11 — Cô giơ một cánh tay lên và hướng bàn tay mở về phía sinh vật, các ngón tay rực sáng với những tia sáng lách tách; một chùm năng lượng trắng-xanh nằm ngang thiêu đốt bùng nổ từ lòng bàn tay cô trong một cảnh cận cảnh cực đại, sau đó là một cảnh quay toàn cảnh cho thấy chùm tia phóng thẳng xuống con phố hẹp vào sinh vật trong một luồng sáng trắng chói lòa tạm thời lấn át các biển hiệu neon, đánh gục nó giữa làn hơi nước và khói bốc lên.
+0:11-0:13 — Nhịp hậu quả: cô hạ tay xuống và tia sét mờ dần trên da khi máy quay giữ nguyên góc nhìn nghiêng bình thản của cô, hình ảnh phản chiếu của đèn neon nhấp nháy trở lại trên đường phố ướt; khói và những đốm lửa nhỏ âm ỉ ở hậu cảnh nơi sinh vật bị đánh gục, với những vết cháy xém tỏa ra hình nan hoa trên vỉa hè ướt.
+0:13-0:15 (kết thúc) — Cô quay người và thong thả bước ra khỏi đống đổ nát với vẻ mặt dửng dưng, không hề bận tâm, thản nhiên kiểm tra điện thoại giữa lúc đang bước đi, và tiến về phía một quầy thức ăn chợ đêm gần đó ở tiền cảnh (hơi nước bốc lên, đèn lồng treo, các chai lọ trưng bày) trong khi khói tiếp tục bốc lên phía sau cô — chuỗi hành động kết thúc ở cảnh bước đi thong thả này, sức mạnh đã tắt hoàn toàn, như thể chưa có chuyện gì xảy ra.
+
+GÓC MÁY: Sự kết hợp giữa các cảnh quay trung cận từ phía sau và nhìn nghiêng trong những nhịp mở đầu êm ả, cảnh quay rộng hơn khi quái vật lao vào, các cảnh cận cảnh chặt chẽ về sự biến đổi da/mắt trong nhịp kích hoạt sức mạnh, cảnh cực cận vào bàn tay phát sáng trong lúc phóng chùm tia, một cảnh toàn cho vụ va chạm của chùm tia và một cảnh quay trung theo sau cho bước đi bình thản cuối cùng. Chuyển động của máy quay tinh tế và mang tính điện ảnh dạng cầm tay, không bao giờ vội vã, tạo sự tương phản giữa khung hình tĩnh lặng của nhân vật với khung hình hỗn loạn của đám đông và sinh vật.
+
+ÁNH SÁNG VÀ MÀU SẮC: Ánh sáng môi trường ban đêm mát mẻ xuyên suốt, với các biển hiệu neon màu đỏ, hồng và xanh lơ sống động phản chiếu trên mặt đường ướt và kính, ánh đèn lồng ấm áp và hơi nước từ quầy thức ăn ở hậu cảnh, tương phản với ánh sáng xanh-trắng điện quang của sức mạnh và gân sét của nhân vật, cùng các tông màu lửa/than hồng màu cam ấm áp trong làn khói và vết cháy sau đó. Dải tương phản động cao (HDR) với ánh sáng viền mạnh mẽ tách nhân vật ra khỏi hậu cảnh ngập tràn ánh đèn neon trong mọi cảnh quay.
+
+PHONG CÁCH VÀ CHẤT LƯỢNG: Kết xuất siêu thực như thật với hạt phim điện ảnh, vật liệu dựa trên vật lý (PBR), kết cấu da và vải chi tiết, vật lý tóc và vải chân thực, phản chiếu trên đường ướt, mô phỏng hạt khói và hơi nước trong khí quyển, tiêu điểm tiền cảnh sắc nét với độ sâu trường ảnh giảm dần tự nhiên trên đám đông và cảnh hỗn loạn ở hậu cảnh, phân loại màu như một quảng cáo cao cấp, chi tiết tương đương 4K sắc nét, sự tương phản về sắc thái giữa màn thể hiện bình tĩnh của nhân vật và năng lượng hỗn loạn xung quanh được duy trì trong toàn bộ 15 giây.
+
+SỰ NHẤT QUÁN VÀ CÁC RÀNG BUỘC PHỦ ĐỊNH: Duy trì tính nhất quán mạnh mẽ giữa từng khung hình và giữa các cảnh quay về nhận diện khuôn mặt, kiểu tóc, trang phục và tỷ lệ của nhân vật chính, cũng như trong thiết kế của sinh vật, trên mọi góc máy được mô tả ở trên. Tránh trôi dạt danh tính, biến dạng khuôn mặt, cong vênh, nhấp nháy, thừa chi, thừa ngón tay, giải phẫu méo mó, quần áo hoặc màu sắc không nhất quán giữa các cảnh cắt, hướng ánh sáng không khớp, chữ không mong muốn, logo, hình mờ, phụ đề, tạo tác độ phân giải thấp, kết cấu da như nhựa hoặc sáp, và chuyển động phi tự nhiên hoặc giống như robot. Duy trì vật lý tự nhiên cho tóc, vải, khói, sấm sét và hiệu ứng chùm sáng xuyên suốt. Kết xuất toàn bộ chuỗi hành động 15 giây chính xác theo thời gian ở trên, từ cảnh mở đầu bình tĩnh đến cảnh bước đi cuối cùng, mà không bỏ qua, rút ngắn hoặc vội vã ở bất kỳ nhịp nào.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3603,6 +3669,28 @@ Minh họa · Phác Thảo / Nét Vẽ · Màu nước · Mực / Phong cách Tr
 
 ## Kết xuất 3D
 
+<a name="prompt-2101246172438655048"></a>
+
+### Đang dịch
+
+Tác giả：[@Aiwithkami](https://x.com/Aiwithkami) · [Bài gốc](https://x.com/Aiwithkami/status/2101246172438655048)
+
+Kết xuất 3D · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101246172438655048.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2100829705129877876"></a>
 
 ### Lời nhắc hài kịch hoạt hình 3D về chú hổ béo ú đuổi theo chú gà trống bằng chiếc vỉ đập ruồi màu hồng trên đồng cỏ.
@@ -3862,6 +3950,50 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2101176910244139187"></a>
+
+### Đang dịch
+
+Tác giả：[@doctorwasif](https://x.com/doctorwasif) · [Bài gốc](https://x.com/doctorwasif/status/2101176910244139187)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101176910244139187.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101300251508494611"></a>
+
+### Đang dịch
+
+Tác giả：[@AIwithSarah\_](https://x.com/AIwithSarah_) · [Bài gốc](https://x.com/AIwithSarah_/status/2101300251508494611)
+
+Thiết kế ứng dụng / web · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101300251508494611.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101163963421708290"></a>
 
