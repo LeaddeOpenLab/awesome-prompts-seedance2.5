@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:26:10.856Z",
+  "model": "seedance",
+  "prompt": "Create a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details.",
+  "promptTranslations": {
+    "en": "Create a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details."
+  },
+  "summaryTranslations": {
+    "en": "15-second photorealistic skincare commercial featuring a Korean woman in a bright, elegant room applying skincare."
+  },
+  "translationVersion": 2,
+  "summary": "15-second photorealistic skincare commercial featuring a Korean woman in a bright, elegant room applying skincare.",
+  "summaryEn": "15-second photorealistic skincare commercial featuring a Korean woman in a bright, elegant room applying skincare.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101138386132386252",
+    "canonicalUrl": "https://x.com/Aiwithmaha/status/2101138386132386252",
+    "author": {
+      "username": "Aiwithmaha",
+      "displayName": "Maha",
+      "profileUrl": "https://x.com/Aiwithmaha"
+    },
+    "publishedAt": "2026-09-19T02:36:43.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "en",
+    "originalText": "Soft skincare, natural beauty, and peaceful vibes. A simple routine captured with a cinematic touch. \n\nCreated on seedance 2.0\n\nPrompt:\nCreate a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aiwithmaha/status/2101138386132386252",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg",
+        "analysisUrl": "https://x.com/Aiwithmaha/status/2101138386132386252"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 0,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 462
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithmaha/status/2101138386132386252",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg",
+  "coverPath": "covers/2101138386132386252.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101138351013416960",
+    "x-post:2101138386132386252"
+  ],
+  "analysis": {
+    "summary": "15-second photorealistic skincare commercial featuring a Korean woman in a bright, elegant room applying skincare.",
+    "summaryEn": "15-second photorealistic skincare commercial featuring a Korean woman in a bright, elegant room applying skincare.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates each shot described: the cheek touch closeup, bottle on marble table, serum application, closed-eye facial massage, and window scene with curtains."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details.",
+    "sourceRange": {
+      "start": 136,
+      "end": 1080
+    },
+    "translations": {
+      "zh": "制作一段15秒的逼真护肤视频，主角是一位身处明亮典雅白色房间的年轻韩国女性。从特写她轻触脸颊的面部开始，展现真实的肌肤纹理和柔和日光。随后展示置于白色大理石桌上的透明护肤品瓶，她的手慢慢伸向它。接着展现她双手轻轻涂抹护肤品，保持面部特征一致。画面切至她闭眼轻柔按摩双颊。结尾拉远景，她身穿白色连衣裙站在大窗户旁，轻薄白窗帘在阳光下自然飘动。保持动作流畅逼真，双手自然，皮肤细腻，光影柔和，兼具高级氛围与平滑运镜。",
+      "en": "Create a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "skincare commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

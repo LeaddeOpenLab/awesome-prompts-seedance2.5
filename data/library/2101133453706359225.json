@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:27:03.600Z",
+  "model": "seedance",
+  "prompt": "A cute baby goat happily playing in a snowy winter field, surrounded by deep fluffy white snow. The goat walks through the snow, struggles adorably as the snow reaches up to its body, then jumps playfully and hops through the snow with excitement. It occasionally looks directly at the camera with a curious and cheerful expression. A rustic wooden fence and snow-covered trees are visible in the background, creating a peaceful countryside winter setting.\n\nUltra-realistic wildlife photography, natural daylight, soft overcast winter lighting, realistic snow texture, detailed fur, natural animal movements, gentle handheld smartphone camera feel, vertical 9:16 composition, cinematic depth of field, authentic candid moment, highly detailed, photorealistic, 4K, no text, no watermark.",
+  "promptTranslations": {
+    "en": "A cute baby goat happily playing in a snowy winter field, surrounded by deep fluffy white snow. The goat walks through the snow, struggles adorably as the snow reaches up to its body, then jumps playfully and hops through the snow with excitement. It occasionally looks directly at the camera with a curious and cheerful expression. A rustic wooden fence and snow-covered trees are visible in the background, creating a peaceful countryside winter setting.\\n\\nUltra-realistic wildlife photography, natural daylight, soft overcast winter lighting, realistic snow texture, detailed fur, natural animal movements, gentle handheld smartphone camera feel, vertical 9:16 composition, cinematic depth of field, authentic candid moment, highly detailed, photorealistic, 4K, no text, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "A cute baby goat hops and plays playfully in deep countryside snow."
+  },
+  "translationVersion": 2,
+  "summary": "A cute baby goat hops and plays playfully in deep countryside snow.",
+  "summaryEn": "A cute baby goat hops and plays playfully in deep countryside snow.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101133453706359225",
+    "canonicalUrl": "https://x.com/Zarnab_with_Ai/status/2101133453706359225",
+    "author": {
+      "username": "Zarnab_with_Ai",
+      "displayName": "Zarnab Ai",
+      "profileUrl": "https://x.com/Zarnab_with_Ai"
+    },
+    "publishedAt": "2026-09-19T02:17:07.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "en",
+    "originalText": "Made with seedance 2,5\n\nPrompt 👇 \nA cute baby goat happily playing in a snowy winter field, surrounded by deep fluffy white snow. The goat walks through the snow, struggles adorably as the snow reaches up to its body, then jumps playfully and hops through the snow with excitement. It occasionally looks directly at the camera with a curious and cheerful expression. A rustic wooden fence and snow-covered trees are visible in the background, creating a peaceful countryside winter setting.\n\nUltra-realistic wildlife photography, natural daylight, soft overcast winter lighting, realistic snow texture, detailed fur, natural animal movements, gentle handheld smartphone camera feel, vertical 9:16 composition, cinematic depth of field, authentic candid moment, highly detailed, photorealistic, 4K, no text, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zarnab_with_Ai/status/2101133453706359225",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101133351780544512/img/-37zrKG9Na95Ms0U.jpg",
+        "analysisUrl": "https://x.com/Zarnab_with_Ai/status/2101133453706359225"
+      }
+    ],
+    "metrics": {
+      "likeCount": 32,
+      "repostCount": 9,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 229
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zarnab_with_Ai/status/2101133453706359225",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101133351780544512/img/-37zrKG9Na95Ms0U.jpg",
+  "coverPath": "covers/2101133453706359225.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101133351780544512",
+    "x-post:2101133453706359225"
+  ],
+  "analysis": {
+    "summary": "A cute baby goat hops and plays playfully in deep countryside snow.",
+    "summaryEn": "A cute baby goat hops and plays playfully in deep countryside snow.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts a baby goat jumping and sinking in deep snow by a wooden fence."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cute baby goat happily playing in a snowy winter field, surrounded by deep fluffy white snow. The goat walks through the snow, struggles adorably as the snow reaches up to its body, then jumps playfully and hops through the snow with excitement. It occasionally looks directly at the camera with a curious and cheerful expression. A rustic wooden fence and snow-covered trees are visible in the background, creating a peaceful countryside winter setting.\n\nUltra-realistic wildlife photography, natural daylight, soft overcast winter lighting, realistic snow texture, detailed fur, natural animal movements, gentle handheld smartphone camera feel, vertical 9:16 composition, cinematic depth of field, authentic candid moment, highly detailed, photorealistic, 4K, no text, no watermark.",
+    "sourceRange": {
+      "start": 34,
+      "end": 820
+    },
+    "translations": {
+      "zh": "一只可爱的小山羊在积雪覆盖的冬日田野中欢快玩耍，周围环绕着深厚蓬松的白雪。小山羊在雪中漫步，当积雪没过身体时可爱地挣扎，随后兴奋地在雪地里欢跳。它偶尔带着好奇开朗的神情直视镜头。背景中可见质朴的木栅栏和被雪覆盖的树木，营造出宁静的乡村冬日景致。\n\n超逼真野生动物摄影，自然日光，柔和阴天冬日漫射光，逼真的雪花质感，细腻毛发，自然动物动态，轻柔手持智能手机运镜质感，9:16竖屏构图，电影级景深，真实生动的抓拍瞬间，高细节，写实风格，4K，无文字，无水印。",
+      "en": "A cute baby goat happily playing in a snowy winter field, surrounded by deep fluffy white snow. The goat walks through the snow, struggles adorably as the snow reaches up to its body, then jumps playfully and hops through the snow with excitement. It occasionally looks directly at the camera with a curious and cheerful expression. A rustic wooden fence and snow-covered trees are visible in the background, creating a peaceful countryside winter setting.\n\nUltra-realistic wildlife photography, natural daylight, soft overcast winter lighting, realistic snow texture, detailed fur, natural animal movements, gentle handheld smartphone camera feel, vertical 9:16 composition, cinematic depth of field, authentic candid moment, highly detailed, photorealistic, 4K, no text, no watermark."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "文生视频",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
