@@ -3426,20 +3426,24 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 
 <a name="prompt-2101102219340972128"></a>
 
-### Traduction en cours
+### Séquence d'anime 2D sakuga à clés d'animation survoltée mettant en scène Maki Zen'in passant d'esquisses de storyboard brutes à un combat d'action tout en couleurs.
 
 Auteur：[@Valora\_Lab](https://x.com/Valora_Lab) · [Publication originale](https://x.com/Valora_Lab/status/2101102219340972128)
 
 Bande dessinée / Storyboard · Anime / Manga · Croquis / Dessin au trait · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence d'anime 2D sakuga à clés d'animation survoltée mettant en scène Maki Zen'in passant d'esquisses de storyboard brutes à un combat d'action tout en couleurs.
 
 <img src="covers/2101102219340972128.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Séquence d'anime 2D sakuga à clés d'animation survoltée inspirée de layouts de storyboards bruts, présentant des lignes de quadrillage techniques, des repères de format d'image techniques et un tracé explosif dessiné à la main.
+Scène 1 (Le Déclencheur) : Maki Zen'in se tient de profil trois-quarts net à l'intérieur d'un cadre de production non ombré. Un unique gros plan saisit le regard froid de son visage balafré alors qu'elle lève la main et fait claquer ses doigts. Instantanément, un éclair électrique d'énergie occulte jaillit sur sa silhouette, brisant le croquis serein en débris déchiquetés à la texture de fusain. L'arrière-plan se fend en lignes de fuite obliques composées de piliers de sanctuaire japonais en ruine et de dalles de béton.
+Scène 2 (La Libération & la Charge) : La caméra plonge dans une contre-plongée extrême au ras du sol. Maki bondit du sol avec une force physique monstrueuse, créant une onde de choc en forme de cratère illustrée par des images d'impact brutes, esquissées à la main en noir et cramoisi. Ses cheveux courts et sombres fouettent vers l'arrière dans un flou de mouvement à haute fréquence d'images alors qu'elle dégaine le Split Soul Katana. Des onomatopées stylisées en kanji 3D jaillissent derrière ses pas, vibrant de distorsion au rythme d'une frappe de basse lourde et syncopée.
+Scène 3 (Le Climax Cinétique) : Dans un plan continu et panoramique en fisheye, Maki saute directement vers le spectateur, la lame tenue au-dessus de sa tête en prise inversée. Des débris géométriques et des lignes de vitesse cinétiques tranchées suivent son mouvement. Alors que sa lame coupe l'écran en diagonale, le trait de crayon brut se transforme abruptement en couleurs d'animation cel riches et totalement saturées — de nettes éclaboussures de sang cramoisi, des reflets métalliques d'acier éclatants et des pourpres profonds — avant de se figer dans une pose d'atterrissage à couper le souffle, d'une netteté parfaite sur la pierre brisée.
+Style visuel & Spécifications techniques : Animation brute de style genga, distorsion dynamique de la perspective, poses clés brutes et libres évoluant vers un ombrage de celluloïd soigné, suivi de caméra dramatique, images d'impact hautement cinétiques synchronisées sur des rythmes électroniques abrasifs.
 ```
 
 [↑ Retour aux catégories](#catalog)

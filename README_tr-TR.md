@@ -3420,20 +3420,24 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 
 <a name="prompt-2101102219340972128"></a>
 
-### Çeviri sürüyor
+### Maki Zen'in'in kaba taslak storyboard çizimlerinden tam renkli aksiyon dövüşüne geçişini sergileyen yüksek tempolu ana kare sakuga 2D anime sekansı.
 
 Yazar：[@Valora\_Lab](https://x.com/Valora_Lab) · [Orijinal gönderi](https://x.com/Valora_Lab/status/2101102219340972128)
 
 Çizgi Roman / Hikaye Taslağı · Anime / Manga · Çizim / Çizgi Sanatı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Maki Zen'in'in kaba taslak storyboard çizimlerinden tam renkli aksiyon dövüşüne geçişini sergileyen yüksek tempolu ana kare sakuga 2D anime sekansı.
 
 <img src="covers/2101102219340972128.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Taslak storyboard yerleşimlerinden ilham alan, mavi kopya ızgara çizgileri, teknik en-boy oranı çerçeve kılavuzları ve patlayıcı el çizimi çizgiler içeren yüksek tempolu ana kare (keyframe) sakuga 2D anime sekansı.
+1. Sahne (Tetikleyici): Maki Zen'in gölgelendirilmemiş bir prodüksiyon çerçevesi içinde net bir üç çeyrek profilde duruyor. Tek bir yakın çekim, elini kaldırıp parmaklarını şıklatırken yara izli yüzündeki soğuk bakışı yakalıyor. Anında, lanetli enerjinin elektrikli bir parıltısı siluetinde kıvılcımlar saçarak dingin taslağı tırtıklı, kömür dokulu parçalara ayırıyor. Arka plan, harabe haldeki Japon tapınak sütunlarının ve beton blokların eğik perspektif çizgilerine ayrılıyor.
+2. Sahne (Serbest Kalış ve Hücum): Kamera aşırı bir solucan gözü (alttan) açısına dalıyor. Maki, ham, el çizimi siyah ve kızıl etki kareleriyle tasvir edilen krater benzeri bir şok dalgası yaratarak canavarca bir fiziksel güçle yerden havalanıyor. Kısa koyu saçları, Split Soul Katana'yı kınından çıkarırken yüksek kare hızlı hareket bulanıklığıyla geriye savruluyor. Ağır, senkoplu bir bas vuruşuna uyum sağlamak için distorsiyonla titreyen stilize 3D Kanji ses efektleri adımlarının arkasından fırlıyor.
+3. Sahne (Kinetik Doruk Noktası): Kesintisiz, geniş bir balıkgözü kesiminde Maki, kılıcını başının üzerinde ters kavrayışla tutarak doğrudan izleyiciye doğru sıçrıyor. Geometrik enkaz parçaları ve kesilmiş kinetik hız çizgileri hareketini takip ediyor. Kılıcı ekranı çaprazlamasına keserken, kaba kurşun kalem çizgileri aniden zengin, tamamen doymuş düz sel renklerine—keskin kızıl kan sıçramaları, parıldayan metalik çelik yansımaları ve derin morlar—dönüşüyor ve ardından parçalanmış taşların üzerinde nefes kesici, keskin odaklı bir iniş pozunda donuyor.
+Görsel Stil ve Teknik Özellikler: Genga tarzı kaba animasyon, dinamik perspektif bükülmesi, parlak sel gölgelendirmeye dönüşen ham serbest ana kareler, dramatik kamera takibi, sert elektronik ritimlerle senkronize edilmiş yüksek kinetik etki kareleri.
 ```
 
 [↑ Kategorilere dön](#catalog)

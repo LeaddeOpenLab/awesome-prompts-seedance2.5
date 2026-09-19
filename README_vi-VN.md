@@ -3515,20 +3515,24 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 
 <a name="prompt-2101102219340972128"></a>
 
-### Đang dịch
+### Chuỗi hoạt hình anime 2D sakuga keyframe đầy kịch tính mô tả Maki Zen'in chuyển từ bản phác thảo storyboard thô sang cảnh chiến đấu hành động đầy đủ màu sắc.
 
 Tác giả：[@Valora\_Lab](https://x.com/Valora_Lab) · [Bài gốc](https://x.com/Valora_Lab/status/2101102219340972128)
 
 Truyện tranh / Bảng phân cảnh · Anime / Manga · Phác Thảo / Nét Vẽ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi hoạt hình anime 2D sakuga keyframe đầy kịch tính mô tả Maki Zen'in chuyển từ bản phác thảo storyboard thô sang cảnh chiến đấu hành động đầy đủ màu sắc.
 
 <img src="covers/2101102219340972128.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuỗi hoạt hình anime 2D sakuga keyframe đầy kịch tính lấy cảm hứng từ bố cục storyboard thô, nổi bật với các đường lưới blueprint, hướng dẫn khung tỷ lệ khung hình kỹ thuật và các nét vẽ tay bùng nổ.
+Cảnh 1 (The Trigger): Maki Zen'in đứng ở góc nghiêng ba phần tư sắc nét bên trong khung hình sản xuất chưa đổ bóng. Một góc quay cận cảnh duy nhất bắt trọn ánh nhìn lạnh lùng trên khuôn mặt đầy sẹo của cô khi cô giơ tay lên, búng tay. Ngay lập tức, một tia chớp năng lượng nguyền rủa lóe lên trên hình bóng của cô, phá vỡ bản phác thảo thanh bình thành các mảnh vụn lởm chởm mang kết cấu than củi. Nền phía sau tách đôi thành các đường phối cảnh xiên xẹo của các cột đền thờ Nhật Bản và các khối bê tông đổ nát.
+Cảnh 2 (The Release & Charge): Máy quay lao xuống góc nhìn cực thấp từ dưới lên (worm's-eye view). Maki đạp mạnh xuống đất với sức mạnh thể chất quái vật, tạo ra một làn sóng xung kích tựa miệng hố được mô tả bằng các khung hình va chạm đen và đỏ thẫm phác thảo tay thô mộc. Mái tóc đen ngắn của cô hất ngược ra sau với độ mờ chuyển động (motion blur) tốc độ khung hình cao khi cô rút thanh kiếm Split Soul Katana. Hiệu ứng âm thanh chữ Kanji 3D cách điệu bùng nổ từ phía sau bước chân cô, rung chuyển với sự biến dạng để khớp với một nhịp bass nặng nề, đảo phách.
+Cảnh 3 (The Kinetic Climax): Trong một cú cắt góc rộng mắt cá (fisheye) liền mạch và quét rộng, Maki lao thẳng về phía người xem, lưỡi kiếm cầm ngược trên đầu. Các mảnh vụn hình học và các vệt tốc độ động lực chém ngang bám theo chuyển động của cô. Khi lưỡi kiếm của cô chém chéo màn hình, các nét vẽ chì thô đột ngột chuyển thành các mảng màu cel phẳng rực rỡ, bão hòa đầy đủ—những giọt máu đỏ thẫm sắc nét, ánh kim loại thép chói lóa và sắc tím thẫm—trước khi đóng băng ở tư thế đáp đất lấy nét sắc sảo, nghẹt thở trên nền đá vỡ vụn.
+Phong cách hình ảnh & Thông số kỹ thuật: Hoạt họa thô phong cách Genga, phối cảnh động bị bóp méo, các keyframe thô lỏng lẻo chuyển thành đổ bóng cel trau chuốt, chuyển động bám máy đầy kịch tính, các khung hình va chạm động năng cao đồng bộ với nhịp điệu điện tử dồn dập.
 ```
 
 [↑ Về danh mục](#catalog)

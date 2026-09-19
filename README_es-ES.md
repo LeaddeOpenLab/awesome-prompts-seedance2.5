@@ -3501,20 +3501,24 @@ Evitar: estilo de dibujos animados, aspecto CGI, piel plástica, rostro poco rea
 
 <a name="prompt-2101102219340972128"></a>
 
-### Traducción en curso
+### Secuencia de anime 2D sakuga de fotogramas clave de alto octanaje con Maki Zen'in en transición de bocetos de storyboard preliminares a un combate de acción a todo color.
 
 Autor：[@Valora\_Lab](https://x.com/Valora_Lab) · [Publicación original](https://x.com/Valora_Lab/status/2101102219340972128)
 
 Cómic / Guion gráfico · Anime / Manga · Boceto / Dibujo lineal · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de anime 2D sakuga de fotogramas clave de alto octanaje con Maki Zen'in en transición de bocetos de storyboard preliminares a un combate de acción a todo color.
 
 <img src="covers/2101102219340972128.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Secuencia de anime 2D sakuga de fotogramas clave de alto octanaje inspirada en bocetos preliminares de guion gráfico, con líneas de cuadrícula de cianotipia, guías de fotograma de relación de aspecto técnica y un trazo a mano explosivo.
+Escena 1 (El detonante): Maki Zen'in se encuentra en un marcado perfil de tres cuartos dentro de un marco de producción sin sombrear. Un único primer plano captura la mirada fría en su rostro lleno de cicatrices mientras levanta la mano y chasquea los dedos. Al instante, un destello eléctrico de energía maldita chispea a través de su silueta, destrozando el boceto sereno en escombros irregulares con textura de carboncillo. El fondo se divide en líneas de perspectiva sesgadas de pilares de santuarios japoneses en ruinas y losas de hormigón.
+Escena 2 (La liberación y carga): La cámara desciende a un ángulo de vista de gusano extremo. Maki se impulsa del suelo con una fuerza física descomunal, creando una onda de choque similar a un cráter plasmada en crudos fotogramas de impacto trazados a mano en negro y carmesí. Su cabello oscuro y corto se mueve hacia atrás en un desenfoque de movimiento de alta velocidad de fotogramas mientras desenvaina la Split Soul Katana. Efectos de sonido estilizados en Kanji 3D brotan detrás de sus pasos, vibrando con distorsión al ritmo de un potente golpe de bajo sincopado.
+Escena 3 (El clímax cinético): En una toma continua y envolvente en ojo de pez, Maki salta directamente hacia el espectador, sosteniendo la espada por encima de la cabeza con agarre inverso. Restos geométricos y líneas cinéticas de velocidad trazadas siguen su movimiento. A medida que su hoja corta la pantalla en diagonal, los trazos ásperos de lápiz se convierten abruptamente en colores cel planos, ricos y totalmente saturados —salpicaduras nítidas de sangre carmesí, reflejos metálicos deslumbrantes de acero y púrpuras profundos— antes de congelarse en una pose de aterrizaje impresionante y de enfoque nítido sobre piedra rota.
+Estilo visual y especificaciones técnicas: Animación preliminar de estilo Genga, distorsión de perspectiva dinámica, fotogramas clave sueltos y crudos que pasan a un sombreado cel refinado, seguimiento de cámara dramático, fotogramas de alto impacto cinético sincronizados con ritmos electrónicos agresivos.
 ```
 
 [↑ Volver a categorías](#catalog)

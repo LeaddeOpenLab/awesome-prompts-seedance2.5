@@ -3426,20 +3426,24 @@ Vermeiden: Cartoon-Stil, CGI-Look, plastische Haut, unrealistisches Gesicht, une
 
 <a name="prompt-2101102219340972128"></a>
 
-### Übersetzung läuft
+### Hochenergetische Sakuga-2D-Anime-Keyframe-Sequenz mit Maki Zen'in beim Übergang von groben Storyboard-Skizzen in Vollfarb-Actionkämpfe.
 
 Autor：[@Valora\_Lab](https://x.com/Valora_Lab) · [Originalbeitrag](https://x.com/Valora_Lab/status/2101102219340972128)
 
 Comic / Storyboard · Anime / Manga · Skizze / Strichzeichnung · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Hochenergetische Sakuga-2D-Anime-Keyframe-Sequenz mit Maki Zen'in beim Übergang von groben Storyboard-Skizzen in Vollfarb-Actionkämpfe.
 
 <img src="covers/2101102219340972128.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hochenergetische Sakuga-2D-Anime-Keyframe-Sequenz, inspiriert von groben Storyboard-Layouts, mit Bauplan-Gitterlinien, technischen Bildformat-Leitlinien und explosiver, handgezeichneter Linienführung.
+Szene 1 (Der Auslöser): Maki Zen'in steht im scharfen Dreiviertelprofil innerhalb eines unschattierten Produktionsrahmens. Eine einzelne Nahaufnahme fängt den kalten Blick in ihrem von Narben gezeichneten Gesicht ein, als sie ihre Hand hebt und mit den Fingern schnipst. Augenblicklich zuckt ein elektrischer Blitz verfluchter Energie über ihre Silhouette und zerschmettert die ruhige Skizze in gezackte Trümmerteile mit Kohle-Textur. Der Hintergrund spaltet sich in verzerrte Fluchtlinien aus zerstörten japanischen Schreinsäulen und Betonplatten auf.
+Szene 2 (Die Entfesselung & der Vorstoß): Die Kamera stürzt in eine extreme Froschperspektive ab. Maki stößt sich mit monströser physischer Kraft vom Boden ab und erzeugt eine kraterartige Schockwelle, die in rohen, handgezeichneten schwarz-karminroten Impact-Frames dargestellt wird. Ihr kurzes dunkles Haar peitscht in Bewegungsunschärfe mit hoher Bildrate nach hinten, während sie das Split Soul Katana zieht. Stilisierte 3D-Kanji-Soundeffekte brechen hinter ihren Schritten hervor und vibrieren vor Verzerrung passend zu einem schweren, synkopierten Bass-Schlag.
+Szene 3 (Der kinetische Höhepunkt): In einem einzigen kontinuierlichen, weitläufigen Fischaugen-Schnitt springt Maki direkt auf den Betrachter zu, die Klinge im umgekehrten Griff über dem Kopf gehalten. Geometrische Trümmer und zerschnittene kinetische Speedlines folgen ihrer Bewegung. Als ihre Klinge den Bildschirm diagonal durchschneidet, wechselt die grobe Bleistiftzeichnung abrupt in satte, voll gesättigte flache Cel-Farben – scharfe karminrote Blutspritzer, grelle metallische Stahlreflexionen und tiefe Violetttöne –, bevor sie in einer atemberaubenden, scharf fokussierten Landepose auf zersplittertem Stein erstarrt.
+Visueller Stil & Technische Daten: Rohe Animation im Genga-Stil, dynamische Perspektivenverzerrung, rohe, lockere Keyframes, die in geschliffenes Cel-Shading übergehen, dramatisches Kamera-Tracking, hochenergetische kinetische Impact-Frames, synchronisiert zu rauen elektronischen Beats.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
