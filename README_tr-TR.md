@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**156** Prompt · Son eklenen: **2026-09-19**
+**161** Prompt · Son eklenen: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -304,20 +304,25 @@ Otobüsünü kaçıran ve 25 dakikasını bu sakin kasabayı keşfederek geçire
 
 <a name="prompt-2097097582262825180"></a>
 
-### Çeviri sürüyor
+### 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
 Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https://x.com/john87445528/status/2097097582262825180)
 
 Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
 <img src="covers/2097097582262825180.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+｜15秒｜男主第一人称｜海妖风暧昧喜剧 【剧情锁定】 成年女主角#1发现男主准备击球，故意走进他的视野，主动侧坐上台球桌，屈起一条腿，让预定#2服装原有剪裁自然呈现大腿线条，以海妖风眼神和姿态干扰瞄准。男主停杆、抬头，她以为自己的小心思奏效；男主却不耐烦地倒转球杆，用橡胶粗端隔着衣服轻顶她臀侧一下，催她下桌。她被识破后调皮又无奈地让开，男主立即继续击球，母球撞中目标球，目标球落袋。 必须完整呈现“她先站着—主动上桌—故意展示腿部线条并观察他的反应”。她明知会干扰打球，仍主动试探；不能开场便让她已经坐好，也不能演成偶然挡路。 【人物与服装】 画面中唯一可见的人物是成年女主角#1
+，面孔、发型、体型保持一致。#1完整穿着预定#2
+屏幕截图_31-8-2026_22160_jimeng.jianying.com
+服装，带着装饰眼镜
+包括既定丝袜
+和配饰；#2仅是服装编号，绝不生成第二个人物。腿部呈现服从#2本身的长度、开口和袜装，不能为了露腿改变剪裁、消除袜子或凭空缩短衣服。 成年男主只提供第一人称视点、唯一一支球杆和一句画外对白。脸、身体、手臂、双手、影子、倒影均不入画。全片不出现其他人或人物复制。 【影像与拍摄关系】 9:16竖屏，1080×1920，30fps，约26—28mm等效视角。男主佩戴贴近眼线的轻型头戴相机，保留未经处理的手机视频观感。低头看球、抬头看人、直起身体均带动真实镜头运动。男主无需手持摄影设备，可以正常操杆；握杆手和架杆手始终位于取景下缘之外。 全程连续第一人称，不切到男主正面、第三人称或外部全景。轻微呼吸起伏、头部晃动和不完美重新构图；从白球转看#1时，对焦允许短暂迟疑。冷白顶灯照明，肤色和衣料保留纹理，暗部带少量手机噪点；快速调杆有适量运动模糊，但不能糊掉端头交换。无美颜、磨皮、电影调色和稳定器运镜。 构图以能读懂人物动作为先：上桌时保留她扶库边的手、坐下的位置和两腿变化；试探时让脸与腿部线条同时在画面内；赶人时让表情和球杆粗端同时可见；最后回到白球、红球、中袋的完整路线。镜头不长时间追着某一处身体，也不能为了看脸把上桌和调杆动作裁掉。 【台球厅环境】 普通室内台球厅，绿色台呢、红棕色木质库边、黑色桌体、银色边框和白色网兜球袋。背景为深灰与棕色竖向墙板、浅色百叶窗、深绿色等候椅，顶灯将桌面照得比背景明亮。远处可见另一张无人使用的球桌，环境朴素、有实际使用痕迹，整体空间和光线全程不变。 没有酒吧灯光、粉色爱心、霓虹装饰、豪华软包或摄影棚布景。镜头范围内不出现其他顾客、工作人员、人像海报或镜面反射。 【空间与球局】 男主位于近侧长库边中央，#1开始站在对面长库边、画面右侧。两人隔着约1.3米的桌宽相对，不能改成隔着整张球桌的长度。对面中袋位于画面上方中央，始终是明确的落袋目标。 桌上起始共有四颗球：一颗白色母球、一颗红色实心目标球、一颗蓝球、一颗黄球。白球位于近半台中央；红球在对面中袋前约25厘米，白球、红球、中袋形成容易看清的直线。蓝球与黄球分别停在左右远离球路的位置，全程静止。 #1坐在对面中袋右侧的库边，身体斜向镜头；一条屈腿轻放在台面右侧边缘，另一条腿垂在桌外。她的腿部和上身进入男主瞄准视野，但不踩球、不压球、不把腿跨在两球之间。她必须下桌后男主才击球。 她坐下前，白球到红球、红球到中袋的路线已在开场建立；她坐下后，屈腿位于这条路线右侧，进入视野并分散注意，但实际球路没有被身体堵死。她收腿下桌的过程中不得碰动任何球。球位从开头直到出杆保持不变，观众能用同一组位置看懂男主始终想打哪一球。 【海妖风与结尾表情】 坐姿呈自然S曲线：身体微侧，肩部下沉，颈部拉长，下巴轻轻侧抬，腰胯略向一侧移。屈腿与垂腿前后错位，大腿线条在人物整体中自然可见；左手撑库边，右手只整理一次发丝。半垂眼冷感直视男主，嘴角仅有很淡的试探笑意。 前半段冷艳、克制、有距离感；后半段按剧情允许出现调皮、无奈的微笑。她被识破后不惊恐、不生气，也不狼狈尖叫，而是嘴角先停半拍，随后侧眼抿笑、小幅摇头，像在用表情说“行吧，你就知道打球”。这句话不实际说出，不加字幕。 暧昧必须通过相互观察表现：她每次调整坐姿后都会瞥一眼杆头，看到杆头停住才露出得意；男主的镜头则反复从她回到红球，留下他其实更在乎球局的线索。前半段的腿部展示、后半段的调皮笑都属于成年人的轻松玩笑，保持自然、从容，不用夸张表情代替剧情。 【球杆连续性】 唯一一支约145厘米的台球杆：浅木色细杆、细小蓝色皮头、深色粗握柄、尾部黑色橡胶保护帽。细头用于击球，橡胶粗端用于一次轻微赶人动作。 调头是端对端转过180度。必须连续看见：细头离开白球并撤回；同一杆身斜向扫过镜头前方；细头转向侧下方，粗握柄和黑色尾帽从另一侧绕出；最终黑色粗端指向#1。握持点可以藏在下缘，杆身不能整根退出后突然换成另一端，也不能只沿长轴自转。 翻杆时杆身经过人物前方，必须与她保持明显的前后距离，不扫到头发、面部或肩膀。橡胶尾帽靠近臀侧后仅短暂接触一次，随即离开；接下来由#1自己撑住库边、收腿、滑下。她的身体运动、衣料变化与接触顺序同步，不能先下桌再补拍顶人的动作。 【严格时间分镜】 → 0—3秒，第一人称俯看球桌。白球、红球、中袋与左右静止的蓝黄两球同时建立，细杆头正在白球后方试瞄。 原本站在对面长库边右侧的#1先看一眼球杆方向，再看向镜头。她主动扶住库边，侧身坐上去，屈起一条腿放到台面边缘，另一条腿垂在桌外。坐下、抬腿和衣料自然形成褶皱的过程连续可见，#2原有剪裁呈现大腿线条。镜头随男主抬头，从球路转向她的完整坐姿。 → 3—5.5秒，保持#1面部、上身和腿部同框的中景。她肩部放松下沉、颈部拉长，身体形成S曲线，指尖整理发丝，半垂眼看着镜头，随后把视线短暂移向球杆，确认男主是否停下。 球杆停止试瞄。镜头略低头看球，又抬回她脸上。#1看见这个反应，嘴角慢慢浮起一丝笃定笑意，屈起的膝盖略向侧面调整，使大腿线条更完整。动作明显带有故意干扰的试探，但不拉扯衣摆。 → 5.5—7秒，球杆再次靠近白球，却仍未击打。男主短促呼气，镜头随他直起身体升高，发出略带火气、不耐烦的成年男声：“让开，让开。” #1没有立刻移动，只轻轻侧头，半垂眼望着他，嘴角还保留着以为自己成功的笑意。 → 7—8.5秒，完整展示调转球杆。浅木色细头先从白球后方撤回，同一杆身斜贯画面前景，细头沿侧下方转走；深色粗柄与黑色橡胶尾帽从另一侧转到正前方，完成端对端半圈翻转。 相机有轻微头部晃动，但始终让杆身的一部分留在画面中。最终画面下方清楚出现朝向#1的黑色橡胶粗端，细头已经朝向男主一侧。 → 8.5—10秒，男主将粗端越过桌面，隔着完整#2服装，在#1靠台面一侧的臀部外侧短促轻顶一下，随即撤开。人物中景同时交代她的脸、姿态、库边和接触动作，不切局部特写。 #1低头看一眼黑色杆尾，嘴角原来的笃定笑意停住半拍。她明白男主完全没有配合自己的试探，主动双手撑库边，把屈起的腿收出台面，顺势向桌外滑下。动作由她自身支撑完成，不被顶飞，也不跌倒。 → 10—11秒，#1双脚落地后向画面右侧让开半步，鞋底落地声清楚。她侧眼看向男主，抿住忍不住扬起的嘴角，轻轻摇一次头，带一点“被你看穿了”的调皮无奈。 她身体重新微侧，颈线拉长，维持冷艳基调；不是慌张、恼怒、委屈或被羞辱的表情。 → 11—12秒，球杆粗端收回，按先前相反的路径端对端调转：黑色尾帽转向下缘，浅木色杆身和蓝色细皮头重新指向白球。镜头随男主低头回到球路，细头停在白球后方，#1已经完全让出观察方向。 → 12—14秒，男主平稳出杆一次，细皮头实际接触白球，发出清楚的“嗒”。白球先滚动，再撞上红球；红球沿直线滚向对面中袋，越过袋沿并落进白色网兜，发出真实的落袋声。 白球碰撞后留在台面，减速停下；蓝球和黄球原地不动。落袋后桌上剩白、蓝、黄三颗球，红球不能再次出现在桌面。 → 14—15秒，镜头从空出的中袋略抬向右侧。#1站在桌旁，目光先扫过落袋位置，再回到男主，半垂眼侧视，嘴角带着克制的调皮笑意，轻轻呼出一口气。 她保持自然S曲线和前后错位的双腿，一副小计策失败却又拿他没办法的模样。男主没有搭话，结尾停在她无奈抿笑的反应上。 【音频】 现场同期声：通风设备、远处模糊人声、坐上库边的衣料摩擦、球杆转动的轻响、鞋底落地、击球、球体碰撞与落袋声。唯一对白来自镜头后方成年男主：“让开，让开。”#1用表情完成反应。无背景音乐、旁白、解释性对白和罐头笑声。 【负面约束】 不得省略主动上桌和故意干扰；不得只拍她已经坐好的状态；不得把大腿裁出画面，也不得使用裙底角度或腿臀慢扫；不得改变#2服装或露出内衣；不得复制人物、肢体、球和球杆；不得出现男主或第二个#1；不得把翻杆省略成杆子退出后换端；不得用细头顶人、反复顶撞、造成受伤或摔落；不得让#1做惊恐、愤怒或委屈反应；不得省略白球撞红球和红球真实落袋；不得白球入袋代替红球，不得目标球凭空消失；不得出现字幕、水印、平台UI、爱心贴纸、慢动作或电影滤镜。
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -330,20 +335,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2101173902307467397"></a>
 
-### Çeviri sürüyor
+### Yeraltı istasyonundaki bir kadının üç saldırganı savuşturduğu, trenin gelişiyle sona eren gerçekçi aksiyon kısa filmi.
 
 Yazar：[@nawalsehar](https://x.com/nawalsehar) · [Orijinal gönderi](https://x.com/nawalsehar/status/2101173902307467397)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yeraltı istasyonundaki bir kadının üç saldırganı savuşturduğu, trenin gelişiyle sona eren gerçekçi aksiyon kısa filmi.
 
 <img src="covers/2101173902307467397.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Neredeyse boş bir metro istasyonunda geçen 30 saniyelik, ultra fotogerçekçi, canlı çekim bir gece aksiyon-gerilimi oluşturun. Bir kadın, silahsız üç saldırgan tarafından etrafının sarıldığını fark eder. Sakin kalır, hamlelerinden sıyrılır, onların ivmelerini tersine çevirir ve insanüstü hareketlere başvurmadan istasyon ortamını kullanarak mesafe oluşturur.
+
+Yüzleşme şiddetlendikçe yaklaşan tren atmosferi dönüştürür; raylar titremeye başlar, platformdaki sahipsiz kâğıtlar savrulur, tünelden rüzgâr yükselir ve trenin farları istasyonu aydınlatarak süpürür. Gerçekçi biyomekanik, sürtünme, momentum, denge, çarpışmalar ve çevresel etkileşim ile her hareketi fiziksel olarak inandırıcı kılın.
+
+Sinematik el kamerası takibi, dövüşün mekânsal konumunu net gösteren geniş açılar, yakın tepki çekimleri, trenin alt açı çekimleri, gerçekçi floresan aydınlatma, doğal hareket bulanıklığı, otomatik odaklama ve hafif kamera titreşimi kullanın. Yalnızca diegetik sesler olsun: ayak sesleri, nefes alıp verme, darbeler, metal sürtünmesi, ray titreşimi, tren kornası, hızla esen hava, fren sesi ve kapıların açılması.
+
+Kadının nefesini toplaması, saldırganlara arkasını dönmesi ve açılan kapılara doğru yürümesiyle trenin yanaşmasıyla sonlandırın.
+
+CGI görünümü, animasyon, süper kahraman yetenekleri, tel desteği (wire-fu), uçan bedenler, silahlar, vahşet/kan, imkânsız fizik kuralları, bozuk anatomi, kopyalanmış karakterler, aşırı kamera sarsıntısı, raylarda tehlikeli hareketler, altyazılar, logolar veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1539,20 +1552,20 @@ SAHNE: Kapalı bir shojiye bakan iç mekân, 16:9. Sabit çerçeve. Kâğıt ız
 
 <a name="prompt-2100088243492385019"></a>
 
-### Şehir sokaklarında şiddetli yağmur altında gerilim ve boğuşma içeren sinematik gece kovalamacası.
+### Çeviri sürüyor
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2100088243492385019)
 
 Sinematik / Film Karesi · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Şehir sokaklarında şiddetli yağmur altında gerilim ve boğuşma içeren sinematik gece kovalamacası.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2100088243492385019.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Gece vakti yağmurlu bir şehir sokağında geçen, sokak lambalarını ve geçen arabaların farlarını yansıtan ıslak yolların olduğu, 30 saniyelik sinematik ve ultra gerçekçi bir canlı çekim video oluşturun. Şiddetli yağmur altında kaldırımda tek başına yürüyen, omuz çantası taşıyan ve koyu renkli bir yağmurluk giyen bir kişiyi gösterin. Kasvetli sinematik aydınlatma, gerçekçi yağmur damlaları, yansımalar, sis ve doğal gece gölgeleriyle atmosferi yakalayın. Arkadan yaklaşan başka bir kişiyi yavaş yavaş dahil ederek bir gerilim ve belirsizlik hissi yaratın. Ana karakterin aniden tepki verdiğini ve mağaza vitrinlerinin yanında yaklaşan kişiyle boğuştuğunu gösterin. Kamera dinamik bir el kamerası hareketiyle takip ederken, her iki karakterin de yağmur altında park edilmiş bir arabaya doğru koşmasıyla devam edin. Gerçekçi insan hareketleri, doğal vücut fiziği, ayrıntılı ıslak giysiler ve özgün şehir ambiyansı kullanın. Farlar sahneyi aydınlatırken ana karakterin yağmurlu sokakta durmasıyla sona erdirin ve dramatik, sinematik bir final anı bırakın.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1649,47 +1662,20 @@ Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2100013701659283924"></a>
 
-### Karakterleri, sahneleri, ses efektlerini ve çekim zaman çizelgesini içeren, Makoto Shinkai tarzında 30 saniyelik anime kovalamaca kısa film istemi.
+### Çeviri sürüyor
 
 Yazar：[@fps\_lusu](https://x.com/fps_lusu) · [Orijinal gönderi](https://x.com/fps_lusu/status/2100013701659283924)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Anime / Manga · Karakter · Yayımlandı
 
-**Özet:** Karakterleri, sahneleri, ses efektlerini ve çekim zaman çizelgesini içeren, Makoto Shinkai tarzında 30 saniyelik anime kovalamaca kısa film istemi.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2100013701659283924.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Temel Ayarlar
-Süre: 30 saniyelik kısa video
-En-Boy Oranı: 16:9 (Geniş ekran manzara formatı)
-Tür: Hiper-gerçekçi sinematik anime kovalamaca sekansı, Makoto Shinkai tarzı.
-Mekân: Ürkütücü, aşırı ayrıntılı büyülü bir orman. Fotogerçekçi ıslak çamur, yosun, asırlık heybetli ağaçlar, yoğun sürünen sis.
-Tarz ve Görseller
-Kalite: Başyapıt düzeyinde sinematik anime, birinci sınıf anime gölgelendirmesiyle kusursuzca harmanlanmış fotogerçekçi çevresel dokular.
-Aydınlatma: Dramatik kontrast. Zehirli, titreşen camgöbeği/mor florayla aydınlatılan karanlık orman, keskin karakter kenar aydınlatması, parlak ve sıcak gün ışığına geçiş.
-Kamera ve Çerçeveleme: Geniş yatay takip, geniş anamorfik kompozisyon, ani mermi zamanı (bullet-time) makro yakın çekim, geniş panoramik geri çekilme.
-Tutarlılık: Nako ve Toto için baştan sona mutlak görsel tutarlılığı kesinlikle koruyun.
-Ses ve ASMR
-BGM (Fon Müziği): Hızlı tempolu orkestral kovalamaca müziği, mermi zamanı sırasında aniden yavaşlar, 22. saniyede huzurlu akustik bir melodiye dönüşür.
-SFX (Ses Efektleri): Kırbaç benzeri şaklamalar, çamurda koşma sesleri, ağır çekimde keskin "şing" sesi, hafif bir esintiye ve hışırdayan çimlere dönüşerek kaybolma.
-ASMR: Nako ve Toto'dan gelen derin ve ağır soluk alıp vermeler, yerini rahatlamış iç çekişlere bırakır. Ses YOK, diyalog YOK.
-Karakterler ve Düşmanlar
-Karakter 1 (Nako): Kısa kahverengi saç, yeşil kaşif ceketi, şort, botlar, sırt çantası. Terleyen, çaresiz bir ifade.
-Karakter 2 (Toto): Tüylü, beyaz ve ten rengi Shih Tzu cinsi köpek. Çılgınca depar, çırpınan kulaklar, deli gibi soluma.
-Dikenler (Düşman): Camgöbeği/mor renkte parlayan jilet keskinliğinde dikenleri olan, korkunç bir kırbaç hızıyla saldıran, duyarlı dev koyu yeşil sarmaşıklar.
-Zaman Çizelgesi ve Eylem
-0–10 sn (Geniş Açılı Yüksek Hızlı Kovalamaca): Geniş kare boyunca anında başlayan çılgınca bir depar. Nako ve Toto olağanüstü hızda koşar. Parlayan sarmaşıklar topuklarının hemen arkasında yere şiddetle çarparak lense doğru çamur ve moloz sıçratır.
-10–15 sn (Mermi Zamanı Akrobatik Kaçış): Ani aşırı ağır çekim. Jilet keskinliğinde parlayan bir diken Nako'nun yüzüne doğru hamle yapar. Nako geniş çerçeve boyunca kayarak akrobatik bir geriye bükülme hareketi sergiler; parlayan uç, gözlerinin milimetreler üzerinden sıyırıp geçerek bir saç telini keser. Toto akıcı bir şekilde onun altından kayar.
-15–22 sn (Kurtuluş): Aniden yeniden yüksek hıza dönerek ağaç sınırını aşıp parlak bir gökyüzü altındaki uçsuz bucaksız, güneşli, çimenlik bir açıklığa fırlarlar. Sarmaşıklar anında gölgelere geri çekilir.
-22–30 sn (Rahatlama ve Panoramik Geri Çekilme): Nako, Toto'ya sıcak bir şekilde gülümseyerek çimlerin üzerine kollarını ve bacaklarını açmış vaziyette yığılır. Toto onun yanında oturur, kuyruğunu sallayarak mutlulukla soluklanır. Kamera pürüzsüzce yukarıya, güneşli çayırın ve uzak orman sınırının nefes kesici, sessiz panoramik geniş çekimine doğru geri çekilir.
-Negatif İstem / Kısıtlamalar
-Metin YOK, başlık YOK, kullanıcı arayüzü (UI) YOK, logolar YOK.
-Karakter dönüşümü YOK, kıyafet değişimi YOK, cins değişimi YOK.
-Diyalog YOK, insan sesi YOK.
-Yavaş tempo YOK (10–15 sn mermi zamanı hariç), kamera titremesi YOK, bozuk anatomi YOK.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1698,20 +1684,20 @@ Yavaş tempo YOK (10–15 sn mermi zamanı hariç), kamera titremesi YOK, bozuk 
 
 <a name="prompt-2100043484849926230"></a>
 
-### 15 saniyelik vintage sinematik seyahat vlog'u: Retro kameralı genç Asyalı kadın şehri, kafeyi ve gün batımı parkını geziyor.
+### Çeviri sürüyor
 
 Yazar：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Orijinal gönderi](https://x.com/Aiwithmaha/status/2100043484849926230)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Retro / Vintage · Karakter · Yiyecek / İçecek · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** 15 saniyelik vintage sinematik seyahat vlog'u: Retro kameralı genç Asyalı kadın şehri, kafeyi ve gün batımı parkını geziyor.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2100043484849926230.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Vintage dijital kamera estetiğine sahip, genç bir Asyalı kadının güzel bir şehri ve huzurlu açık hava mekânlarını keşfettiği 15 saniyelik, fotogerçekçi ve sinematik bir seyahat vlog'u oluşturun. Kadın küçük, retro bir kamera taşımakta ve etrafta dolaşırken çiçekleri, sokakları, kafeleri ve günlük anları doğal bir şekilde fotoğraflamaktadır. Gerçekçi düğmeler, lens ayrıntıları ve doğal kamera hareketleri de dâhil olmak üzere, kamerayı tutan ve kullanan ellerinin yakın çekimlerini gösterin. Bir masada oturduğu, soğuk bir içeceğin tadını çıkardığı ve son derece rahat ve mutlu göründüğü büyüleyici bir kafe sahnesine yer verin. Güneş ışığının harika lens parlamaları ve yumuşak bir ters ışık oluşturduğu, elinde kamerasıyla ağaçların arasında yürüdüğü sıcak bir altın saat park sahnesine geçiş yapın. Kamerayı tutarken kameraya doğru dönüp doğal bir şekilde gülümsediği, otantik ve kendiliğinden gelişmiş bir seyahat anısı hissi uyandıran bir kareyle sonlandırın. El kamerasıyla çekilmiş belgesel tarzı sinematografi, hafif otomatik odak arayışları, doğal pozlama değişiklikleri, gerçekçi cilt dokusu, yumuşak alan derinliği, hafif film greni, sıcak renkler ve kusurlu gerçek hayat hareketleri kullanın. Karakterin yüzünü, saç stilini, kıyafetini, vücut hatlarını ve kamerasını her çekimde tutarlı tutun; akıcı sinematik geçişler sağlayın ve yapay ya da aşırı pürüzsüzleştirilmiş bir yapay zekâ görünümünden kaçının.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1720,20 +1706,20 @@ Vintage dijital kamera estetiğine sahip, genç bir Asyalı kadının güzel bir
 
 <a name="prompt-2099404551199809774"></a>
 
-### Köy çiftliğinde klasik mavi bir arabayı keşfeden ve süren sevimli bir ayı yavrusunun sinematik videosu.
+### Çeviri sürüyor
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2099404551199809774)
 
 Sinematik / Film Karesi · Retro / Vintage · Araç · Yayımlandı
 
-**Özet:** Köy çiftliğinde klasik mavi bir arabayı keşfeden ve süren sevimli bir ayı yavrusunun sinematik videosu.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2099404551199809774.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Sinematik ve ultra gerçekçi bir hikaye anlatımı tarzında bir video oluşturun: Sevimli bir boz ayı yavrusu, huzurlu bir köy çiftliğinde yürüyerek rustik ahşap bir ahırın yanına park edilmiş eski, klasik mavi bir arabaya doğru ilerler. Ayı merakla arabaya yaklaşır, içine tırmanır ve patileri direksiyonda olacak şekilde doğal bir biçimde sürücü koltuğuna oturur. Kamera, ayının gerçekçi kürkünün, etkileyici gözlerinin, minik patilerinin ve klasik arabanın eskimiş iç mekanının yakın çekim ayrıntılarını yakalar. Ardından araba, ıslak bir köy yolunda yavaşça hareket etmeye başlar; bu da hafif yansımalar ve doğal bir hareket yaratır. Geniş sinematik çekimler; arka planda yeşil tarlaları, saman balyalarını, küçük bir çiftlik evini ve gün batımının sıcak altın saat ışığını gözler önüne serer. Akıcı kamera hareketleri, gerçekçi alan derinliği, yumuşak lens parlaması, doğal gölgeler, ayrıntılı dokular ve otantik ortam aydınlatması kullanın. Genel atmosfer; gerçekçi hayvan hareketleri ve arabayla inandırıcı bir etkileşim eşliğinde, yüksek bütçeli bir vahşi yaşam filmi gibi çekilmiş, büyüleyici, macera dolu, sinematik ve hafifçe neşeli hissettirmelidir.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1883,6 +1869,72 @@ Jack sigarasından bir nefes çeker, o çektikçe köz daha parlak parlar, ardı
 
 ---
 
+<a name="prompt-2099089929439531390"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Orijinal gönderi](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Sinematik / Film Karesi · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099089929439531390.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098797781792047191"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MadMax\_Series](https://x.com/MadMax_Series) · [Orijinal gönderi](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098797781792047191.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Orijinal gönderi](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Sinematik / Film Karesi · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098803826405089450.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Çeviri sürüyor
@@ -1894,6 +1946,50 @@ Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2098777905010778507.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abulu8](https://x.com/abulu8) · [Orijinal gönderi](https://x.com/abulu8/status/2098791384392282330)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098791384392282330.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098748314548134381"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2098748314548134381)
+
+Çizgi Roman / Hikaye Taslağı · Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098748314548134381.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -3270,34 +3366,34 @@ Yıpranmış yaşlı bir fener bekçisi, geceleyin sisli bir uçurumun üzerinde
 
 <a name="prompt-2097225058439840092"></a>
 
-### Gri bir Blender 3D kil blok modelinden merkezi bir gözlemevi etrafındaki fotogerçekçi fütüristik bir çöl şehrine zaman çizelgesi tabanlı dönüşümü ayrıntılarıyla anlatan 30 saniyelik dikey video istemi.
+### A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
 Yazar：[@Itswsm105f](https://x.com/Itswsm105f) · [Orijinal gönderi](https://x.com/Itswsm105f/status/2097225058439840092)
 
 Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Gri bir Blender 3D kil blok modelinden merkezi bir gözlemevi etrafındaki fotogerçekçi fütüristik bir çöl şehrine zaman çizelgesi tabanlı dönüşümü ayrıntılarıyla anlatan 30 saniyelik dikey video istemi.
+**Özet:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
 <img src="covers/2097225058439840092.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Basit bir Blender 3D blok modelinin (blockout) yapay zeka ile oluşturulmuş son derece ayrıntılı, sinematik bir sahneye nasıl dönüştürülebileceğini gösteren 30 saniyelik, dikey 9:16 formatında sinematik bir karşılaştırma videosu oluşturun.
-KONSEPT: Antik görünümlü devasa dairesel bir gözlemevinin etrafına inşa edilmiş fütüristik bir çöl şehri.
-0–5 saniye — Blender Blok Modeli (Blockout):
-Yüksek bir sinematik kamera açısından temel bir gri Blender kili (clay render) görünümü gösterin. Sahne; basit geometrik binalar, büyük silindirik kuleler, dikdörtgen platformlar, merkezde devasa dairesel bir gözlemevi yapısı, basit yollar ve küçük yer tutucu araçlar içerir. Her şey dokusuz gri kil görünümünde ve basit aydınlatmalıdır; belirgin bir şekilde 3D Blender blok modeli gibi görünmektedir.
-5–10 saniye — Kameranın İleriye Doğru Yaklaşması:
-Birebir aynı kompozisyonu ve geometriyi koruyarak kamerayı yavaşça merkezi gözlemevine doğru yaklaştırın. Blender çalışma alanı/kil kaplama renderı hissi korunmalıdır. Doku yok, gerçekçi malzeme yok.
-10–15 saniye — Dönüşüm:
-Gri Blender blok modelinden tamamlanmış sinematik ortama akıcı bir görsel geçiş başlatın. Gerçekçi malzemeler, dokular, aydınlatma, atmosfer ve çevresel ayrıntılar kademeli olarak ortaya çıkarken geometri yapısal olarak tutarlı kalır.
-15–25 saniye — Nihai Yapay Zeka Sinematik Sahnesi:
-Altın saatte (golden hour) muhteşem fütüristik bir çöl metropolünü gözler önüne serin. Yüksek köprülerle birbirine bağlanan devasa kumtaşı ve metal kuleler altın kum tepelerinden yükselir. Merkezi dairesel gözlemevi; karmaşık fütüristik mimariye, parlayan pencerelere ve mekanik ayrıntılara sahiptir. Küçük uçan araçlar binalar arasında doğal bir şekilde hareket eder. Sıcak güneş ışığı süzülürken toz parçacıkları havada uçuşur. Uzun gölgeler, hacimsel aydınlatma, gerçekçi yansımalar, ayrıntılı yüzeyler, atmosferik derinlik ve ince bir sıcaklık serabı. Çevrenin devasa, inandırıcı ve sinematik hissettirmesini sağlayın.
-25–30 saniye — Son Gösterim:
-Uçsuz bucaksız çöl kumullarıyla çevrili tüm şehri ortaya çıkarmak için kamerayı geriye ve yukarıya doğru çekin. Son kare, basit Blender konsepti ile yapay zeka tarafından oluşturulmuş çarpıcı nihai dünya arasında güçlü bir görsel kontrast oluşturmalıdır.
-TARZ: fotogerçekçi sinematik bilim kurgu, AAA oyun ortamı kalitesi, gerçekçi malzemeler, doğal atmosferik perspektif, hacimsel güneş ışığı, ayrıntılı mimari, fiziksel olarak gerçekçi aydınlatma, ince kamera hareketleri, birinci sınıf görsel efektler (VFX), son derece ayrıntılı çevre.
-ÖNEMLİ: Nihai sahne tamamen özgün olmalı ve referans videonun mimarisini, kompozisyonunu, Japon tapınaklarını, yüzen adalarını, ordu dizilimlerini veya bulut ortamını KESİNLİKLE taklit etmemelidir. Yalnızca genel Blender blok modelinden yapay zeka sinematiğine dönüşüm konseptini koruyun.
-YOK: çizgi film tarzı, anime, bozuk binalar, rastgele geometri değişiklikleri, aşırı kamera sarsıntısı, metin bozulmaları, yinelenen araçlar, yamulmuş mimari, gerçekçi olmayan fizik kuralları.
+Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene.
+CONCEPT: A futuristic desert city built around a massive ancient-looking circular observatory.
+0–5 seconds — Blender Blockout:
+Show a basic gray Blender clay render from an elevated cinematic camera angle. The scene contains simple geometric buildings, large cylindrical towers, rectangular platforms, a huge circular observatory structure in the center, basic roads and small placeholder vehicles. Everything is untextured gray clay with simple lighting, clearly looking like a 3D Blender blockout.
+5–10 seconds — Camera Push-In:
+Slowly move the camera toward the central observatory while maintaining the exact composition and geometry. Subtle Blender viewport/clay-render feeling. No textures, no realistic materials.
+10–15 seconds — Transformation:
+Begin a smooth visual transition from the gray Blender blockout into the finished cinematic environment. Geometry remains structurally consistent while realistic materials, textures, lighting, atmosphere and environmental details gradually appear.
+15–25 seconds — Final AI Cinematic Scene:
+Reveal a spectacular futuristic desert metropolis at golden hour. Massive sandstone-and-metal towers rise from golden dunes, connected by elevated bridges. The central circular observatory has intricate futuristic architecture, glowing windows and mechanical details. Small flying vehicles move naturally between buildings. Dust particles float through warm sunlight. Long shadows, volumetric lighting, realistic reflections, detailed surfaces, atmospheric depth and subtle heat haze. Make the environment feel enormous, believable and cinematic.
+25–30 seconds — Final Reveal:
+Pull the camera backward and upward to reveal the full city surrounded by endless desert dunes. The final frame should create a strong visual contrast between the simple Blender concept and the stunning finished AI-generated world.
+STYLE: photorealistic cinematic sci-fi, AAA game environment quality, realistic materials, natural atmospheric perspective, volumetric sunlight, detailed architecture, physically realistic lighting, subtle camera movement, premium VFX, highly detailed environment.
+IMPORTANT: The final scene must be completely original and must NOT reproduce the reference video's architecture, composition, Japanese temples, floating islands, army formations, or cloud setting. Preserve only the general Blender blockout → AI cinematic transformation concept.
+NO: cartoon style, anime, distorted buildings, random geometry changes, excessive camera shake, text artifacts, duplicated vehicles, warped architecture, unrealistic physics.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3544,20 +3640,52 @@ Yazar：[@leo\_xiaolei](https://x.com/leo_xiaolei) · [Orijinal gönderi](https:
 
 <a name="prompt-2101246172438655048"></a>
 
-### Çeviri sürüyor
+### Bir korsan aşçı ve yaramaz bir papağanın gemi mutfağında birlikte yemek pişirdiği 3D animasyonlu ASMR komedi kısa filmi istemi.
 
 Yazar：[@Aiwithkami](https://x.com/Aiwithkami) · [Orijinal gönderi](https://x.com/Aiwithkami/status/2101246172438655048)
 
 3D Modelleme · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir korsan aşçı ve yaramaz bir papağanın gemi mutfağında birlikte yemek pişirdiği 3D animasyonlu ASMR komedi kısa filmi istemi.
 
 <img src="covers/2101246172438655048.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sıcak, fenerlerle aydınlatılmış bir korsan gemisi mutfağında geçen, 30 saniyelik, Pixar kalitesinde bir 3D animasyonlu ASMR komedi kısa filmi oluşturun.
+
+TARZ: Birinci sınıf sinematik 3D animasyon, etkileyici karakterler, kusursuz uzun metraj film kalitesi, sıcak kehribar aydınlatma, gerçekçi yemek dokuları, sinematik alan derinliği, eğlenceli slapstick mizahı, geminin hafif sallantısı ve net, sürükleyici yemek ASMR'ı.
+
+Karakterler: Eskimiş bir önlük takan iri yarı, yapılı, sakallı bir korsan aşçı ve sürekli malzemeleri çalmaya çalışan yaramaz, parlak yeşil bir papağan. Her iki karakteri de baştan sona görsel olarak tutarlı tutun.
+
+0–4 sn
+
+Papağanın bir baş sarımsak çaldığı aşırı yakın çekim. Korsanın eli aniden sarımsağın yanına sertçe çarpar. Donup birbirlerine bakakalırlar. Plak cızırtısı eşliğinde kısa bir sessizlik. Korsan papağana bir fiske vurur; papağan havada dönerek tencere askısına konar ve hiçbir şey olmamış gibi davranır.
+
+4–8 sn
+
+Korsan net bir ASMR eşliğinde sarımsakları hızla doğrar. Papağan parmak uçlarında bir domatese doğru sokulur. Sarımsak kızgın yağa büyük bir cızırtıyla düşer; papağan irkilerek askılıktan aşağı yuvarlanır. Metal kupalar şıngırdar.
+
+8–14 sn
+
+Hızlı, sinematik bir yemek pişirme montajı: cızırdayan domatesler, koparılan taze otlar, altın sarısı ağır çekimde dökülen zeytinyağı, fokurdayan sos ve korsanın tavayı kendinden emin bir şekilde karıştırması. Ayrıntılı doğrama, cızırdama, dökme ve fokurdama ASMR seslerini katmanlayın.
+
+14–19 sn
+
+Papağan yemeği fark eder ve gizlice tavayı sürüklemeye çalışır. Minik bedeni ahşap zemin üzerinde komik bir şekilde zorlanır. Korsan yavaşça arkasını döner ve dik dik bakar. Papağan hâlâ sapı tutarken donakalır, ardından masumca ıslık çalarak bırakır.
+
+19–24 sn
+
+Korsan, tavayı dramatik bir şekilde havaya fırlatıp tutarak pişirmeyi tamamlar. Parlak yemek tabağa konurken buharlar yükselir. Papağan masum görünmeye çalışarak aç bir şekilde izler.
+
+24–30 sn
+
+Korsan, papağanı azarlamak yerine sos ve ekmekten oluşan minik bir tabak hazırlar ve masanın üzerinden ona doğru kaydırır. Papağan neşeyle zıplayarak onun yanında yemeğini yer. Gemi hafifçe sallanırken birbirlerine memnun bir bakış atarlar.
+
+Kehribar rengi fenerlerin altında parıldayan samimi mutfağın geniş ve sinematik bir çekimiyle, hafif okyanus sesleri ve ahşap gemi gıcırtılarıyla, yavaşça kaybolan yumuşak ve neşeli bir akordeon notası eşliğinde sona erdirin.
+
+Diyalog yok, altyazı yok, metin yok. Baştan sona güçlü karakter tutarlılığı, doğal fizik kuralları, akıcı animasyon, sinematik kadrajlama ve ayrıntılı yemek ASMR'ını koruyun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3741,7 +3869,7 @@ Yazar：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x
 
 <a name="prompt-2100233948341367178"></a>
 
-### Işınlanıp canavara tekme savuran Xianxia kadın savaşçısının dövüş efektli kısa filmi, kırmızı-siyah silüetle sonlanıyor.
+### Çeviri sürüyor
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -3749,17 +3877,14 @@ Mürekkep / Çin Tarzı · Yayımlandı
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Özet:** Işınlanıp canavara tekme savuran Xianxia kadın savaşçısının dövüş efektli kısa filmi, kırmızı-siyah silüetle sonlanıyor.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2100233948341367178.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çin Xianxia tarzı, tamamen CG özel efektli kısa film, 16:9, çoklu kamera kurgusu, sinematik ışık ve gölge, PBR yeni nesil materyaller, sinematik HDR.
-Siyah, mavi, beyaz ve altın tonlarında tek bir antik tarz Xianxia kadın karakteri; tüm sahnelerde giysi, saç aksesuarı ve makyajı eksiksiz şekilde tutarlı: alında kırmızı huadian motifi, tepeden sıkıca toplanmış uzun saçlar, beyaz zemin üzerine mavi-altın işlemeli geniş kollu savaş cübbesi, metalik korse kemer, püsküllü zarif saç tokaları.
-Siyah-mavi enerji uzayında, kadın kahraman sol taraftaki mavi-altın parçacıklar arasından ışık hızında ışınlanarak belirir, yan çekim, sağ taraftaki canavara doğru yüksek hızla atılır; uzun saçları ve elbisesinin etekleri dinamik hareket izleri oluşturur. Ardından gelen yan alt açı çekimde, kahramanın kalçasını döndürüp dizini çekerek devasa bir perspektifle yan tekme savurduğu görülür; savaş cübbesinin eteği havalanarak uyluk ve bacakları ortaya çıkarır, bacak ve ayak kısmı akıcı mavi-altın ışıltılı enerjiyle sarılmıştır. Ardından vuruş anına kesilir: kadının tekmesi canavarın kafasına tam isabet eder, kan sisi, parçalanan ışık tozları ve mavi-altın patlama parçacıkları aynı anda etrafa saçılır; kısa bir siyah-beyaz parlamanın ardından ağır çekime girilir ve canavar tekmeyle muazzam bir güçle darbe yönünde savrulur. Son olarak görüntü, yüksek doygunlukta kırmızı bir arka plana ve siyah karakter silüetlerine geçer; kadın kahraman keskin duruşunu korurken canavar sağ geriye doğru uçup yere çakılır, siyah dumanlar patlar ve finalde çarpıcı bir kırmızı-siyah görsel tezat oluşturulur.
-Tüm hareketler temiz, keskin ve patlayıcı güçtedir, kamera temposu hızlıdır; ilk yarıdaki yoğun mavi-altın efektler, sonda sade ve güçlü bir kırmızı-siyah kontrast görüntüye dönüşür.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3826,20 +3951,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2101176910244139187"></a>
 
-### Çeviri sürüyor
+### Yayıncı HANEUL için referans olarak Image1'i kullanın. Bir banka kasası soygununu, korumalarla çatışmayı ve araçla kaçışı gösteren, facecam katmanı, HUD ve kayan sohbet ile tamamlanmış 30 saniyelik kesintisiz 16:9 suç aksiyonu oynanış canlı yayını oluşturun.
 
 Yazar：[@doctorwasif](https://x.com/doctorwasif) · [Orijinal gönderi](https://x.com/doctorwasif/status/2101176910244139187)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yayıncı HANEUL için referans olarak Image1'i kullanın. Bir banka kasası soygununu, korumalarla çatışmayı ve araçla kaçışı gösteren, facecam katmanı, HUD ve kayan sohbet ile tamamlanmış 30 saniyelik kesintisiz 16:9 suç aksiyonu oynanış canlı yayını oluşturun.
 
 <img src="covers/2101176910244139187.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+HANEUL için en yüksek öncelikli referans olarak Image1'i kullanın. Onun tam oranlarını, ten rengini, düz kahküllü kısa siyah saçlarını, pirsinglerini, vücut tipini, kıyafetini, aksesuarlarını, ışıklandırmasını, kamera açısını ve gerçek yayın düzenini koruyun. Stilize edilmiş, plastik, anime, 3D, kopyalanmış veya yüzü değiştirilmiş değil, aynı gerçek yetişkin Koreli kadın gibi görünmelidir. Kesinlikle 30 saniyelik, 16:9 1080p, gerçekçi açık dünya suç-aksiyon oynanış canlı yayını oluşturun; yalnızca kurgusal karakterler/araçlar/mekanlar olmalıdır. Kesintisiz tek plan çekim olmalı; kesme, geçiş, sahne değişimi, altyazı, seslendirme veya tam ekran facecam olmamalıdır. Sabit yerleşim: baştan sona oynanış; sağ altta asla hareket etmeyen/boyutu değişmeyen kare 1:1 neon pembe-mavi facecam; facecam içinde yalnızca HANEUL. Sol altta şu kullanıcı adlarına sahip, yalnızca İngilizce kayan sohbet: orri, Joseph, New York Robots, Christopher Clark, Wavers, STOK, Andrea Brown. Sabit HUD: sol altta can/zırh, facecam'in yanında silah + cephane, para sayacı, sağ üstte GPS rotası + tam olarak 2 kırmızı koruma noktası içeren mini harita, üst ortada aranma yıldızları. Oynanış: boyun bandanası takmış, koyu renkli kapüşonlu/kot pantolonlu bir kadın oyuncu, kompakt tabanca, lacivert üniformalı tam olarak iki silahlı güvenlik görevlisi. Başka silahlı karakter yok; arka plandaki polis arabaları yalnızca kaçış sırasında görünür. Oyuncu gerçek hasar alır ve canı düşük kalır. 0–5 sn: matkap biterken kasada çömelmiş durumda, kıvılcımlar; 0 yıldız. HANEUL'ün gözleri net bir şekilde açık/odaklanmış, yalnızca doğal göz kırpma. Korece: “Come on... almost through.” Sohbet: “orri: drill % rising”, “Joseph: keep it quiet.” 5–11 sn: kasa açılır → para alınır → alarm yanıp söner → iki koruma yaklaşır ve ateş açar. Oyuncu gözle görülür şekilde sıyrık alır, irkilir, canı düşer, aranma seviyesi 1 olur. HANEUL gözlerini şaşkınlıkla açar, nefesi kesilir, ellerini kısa süreliğine kaldırır. Korece: “Whoa, they found us!” Sohbet: “STOK: GUARDS INCOMING”, “Andrea Brown: SHE GOT HIT”. 11–19 sn: yoğun ve pervasız çatışma. HANEUL hemen çılgınca klavye/fare kullanımına devam eder, gözleri faltaşı gibi açıktır. Oyuncu bir yandan parayı tutarken diğer yandan tek elle ateş eder; korumalar aktif olarak yanlardan kuşatır/ateş eder; camlar kırılır, metal kutular çöker, oyuncu siper alır ve ateşe karşılık verir. Cephane: 16/48 → 10/48, aranma seviyesi 2. Korece: “Don't die! Get them off me!” Sohbet hızla akar: “Joseph: WATCH THE PILLAR GUY”, “orri: 2 stars already”, “Wavers: FINISH THEM AND RUN”. 19–23 sn: oyuncu tam olarak dört belirleyici atış yapar, her birinde görünür vuruş tepkisi vardır: ilk koruma vurulur, ikincisi vurulur, ilki yere yığılır, ikincisi sendeler ve sonra düşer. Cephane: 10/48 → 8/48 → 6/48 → 4/48. Her iki koruma da yerde kalır. Sohbet: “STOK: BOTH GUARDS DOWN”, “Andrea Brown: GRAB THE REST AND GO”. 23–30 sn: oyuncu kalan parayı alır, ara sokağa koşar, kaçış arabasına biner, kesme olmadan sorunsuz bir şekilde takip kamerasına geçer. İki polis aracı peşine düşer. Araba çöp kutusuna çarpar, trafiği yararak geçip polisi yavaşlatır, kalabalık caddeye ulaşır. Can kırmızı renkte yanıp sönmeye devam eder, aranma seviyesi 2 yıldızda kalır, para artmış şekilde kalır. HANEUL öne eğilir, gözleri görünür ve gergindir, fareyi/kontrolleri sıkıca kavrayarak sürer. Korece: “Go, go! We got it, just get us out — we're not clear yet!” Sohbet: “New York Robots: LOSE THE COPS”, “Christopher Clark: stars haven't dropped”. Son kare, arkada polis ışıklarıyla birlikte aranma durumu devam eder şekilde biter; yakalanma, ölüm, temiz kaçış mesajı veya bitiş başlığı yoktur. Mutlak kurallar: tam olarak 1 HANEUL, 1 oyuncu, 2 koruma; kopya yok; silah değiştirme yok; korumalar her zaman silahlı; gerçekçi senkronize oynanış/facecam tepkileri; uzun süre kapalı kalan gözler yok; aşırı vahşet/kan yok; aranma yıldızları son kareye kadar kalır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4413,7 +4538,7 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100022778674254091"></a>
 
-### Bir kadının \(Sakura\) kuaförde saçını kestirmesinin doğal ve kesintisiz akışını betimleyen gerçekçi video istemi.
+### Çeviri sürüyor
 
 Yazar：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2100022778674254091)
 
@@ -4421,22 +4546,14 @@ Karakter · Yayımlandı
 
 Orijinal gönderi：[@akiyoshisan](https://x.com/akiyoshisan) · [Orijinal gönderi](https://x.com/akiyoshisan/status/2099652823827054686)
 
-**Özet:** Bir kadının \(Sakura\) kuaförde saçını kestirmesinin doğal ve kesintisiz akışını betimleyen gerçekçi video istemi.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2100022778674254091.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Sakura, kuaför bölümü.
-Japon tarzı, doğal ve günlük bir kuaför salonu. Başlangıçtan itibaren saç kesimi zaten devam etmektedir. İlk yarı: aynadan yansıma→kısa bir selfie kontrolü→yandan çekilen kesim sahneleri→şampuanla yıkama→fönle kurutma→uçların ve yanların son rötuşları. Saç tüm sahnelerde yalnızca tek yönde kısalır ve omuzlara değmeyen, çene altı ile boyun hizasında kısa bir bob modeline yaklaşır. Şampuan sonrasında ve fön sonrasında saç uzunluğu kesinlikle eski haline dönmez.
-
-İkinci yarı: tamamlanan saçın incelenmesi→kesim örtüsünün çıkarılması→aynada genel kontrol→çantayı ve eşyaları alma→ödeme yapma→dükkandan çıkış. Dışarı adımını attığı anda rüzgar kahküllerini hafifçe dağıtır. En sonda sadece bir kez akıllı telefonundan kontrol eder, parmaklarıyla hafifçe düzeltir ve olduğu gibi yürümeye başlar.
-
-Oyunculuk abartısız ve doğaldır. Aşırı gülümseme ve mankenvari pozlar yoktur.
-Kamera açıları: aynadan yansıma, orta mesafe gözlem, yan açı, çapraz arka açı, doğal el kamerası. Aşırı kusursuz klip veya reklam filmi tarzı kamera hareketleri yasaktır.
-Replik yok／diyalog yok／insan sesi yok／dudak senkronizasyonu yok／altyazı yok／arka plan müziği (BGM) yok. Yalnızca kuaförün günlük ortam sesleri ve dışarıdaki rüzgar sesi.
-Yüz, vücut tipi, kıyafet, saç modeli, telefon, çanta, kuaför ve mekan yapısında süreklilik kesintisiz korunur. Aynada bozulma, parmak bozulmaları ve saçın uzayarak geriye dönmesi kesinlikle yasaktır.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
