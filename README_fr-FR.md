@@ -379,20 +379,20 @@ Pas de rendu CGI, d'animation, de capacités de super-héros, de wire-fu, de cor
 
 <a name="prompt-2101326226891972799"></a>
 
-### Traduction en cours
+### Vidéo POV caméra au poing dans un cinéma 4DX bondé montrant des effets physiques intenses et les réactions enthousiastes du public.
 
 Auteur：[@shushant\_l](https://x.com/shushant_l) · [Publication originale](https://x.com/shushant_l/status/2101326226891972799)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo POV caméra au poing dans un cinéma 4DX bondé montrant des effets physiques intenses et les réactions enthousiastes du public.
 
 <img src="covers/2101326226891972799.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+vidéo virale sur smartphone ultra-réaliste à l'intérieur d'un cinéma 4DX bondé au Japon. Commencez par un plan caméra à l'épaule de style iPhone depuis le public alors qu'un film passe sur un écran géant. Soudain, l'action à l'écran semble faire irruption dans la véritable salle : les sièges s'inclinent et tremblent violemment de manière synchronisée, de puissantes rafales de vent traversent la foule, les cheveux et les vêtements flottent naturellement, une brume d'eau est pulvérisée, des lumières clignotent et tout le public crie, rit, s'agrippe à ses sièges et lève ses téléphones. Gardez-le sous la forme d'un plan continu caméra au poing avec d'authentiques micro-secousses, du flou de mouvement, des changements d'exposition, un HDR réaliste en basse lumière et des réactions humaines spontanées. Montez en puissance, de l'anticipation jusqu'au chaos sensoriel complet, puis terminez sur une réaction rapprochée du spectateur au premier plan riant d'incrédulité tandis que les effets 4DX se poursuivent à pleine intensité. Effets synchronisés physiquement crédibles, atmosphère de cinéma japonais bondé, réalisme cinématographique, aucune réaction mise en scène. Pas de musique, de sous-titres, de logos, d'interface utilisateur ni de téléphone de tournage visible.
 ```
 
 [↑ Retour aux catégories](#catalog)

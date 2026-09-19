@@ -365,20 +365,20 @@ CGI görünümü, animasyon, süper kahraman yetenekleri, tel desteği (wire-fu)
 
 <a name="prompt-2101326226891972799"></a>
 
-### Çeviri sürüyor
+### Tıklım tıklım bir 4DX sinemasında yoğun fiziksel efektleri ve heyecanlı seyirci tepkilerini gösteren elde taşınan POV video.
 
 Yazar：[@shushant\_l](https://x.com/shushant_l) · [Orijinal gönderi](https://x.com/shushant_l/status/2101326226891972799)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tıklım tıklım bir 4DX sinemasında yoğun fiziksel efektleri ve heyecanlı seyirci tepkilerini gösteren elde taşınan POV video.
 
 <img src="covers/2101326226891972799.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Japonya'da tıklım tıklım dolu bir 4DX sinemasının içinde çekilmiş ultra gerçekçi, viral akıllı telefon videosu. Dev ekranda bir film oynatılırken seyircilerin arasından iPhone tarzı elde taşınan bir çekimle başlayın. Aniden, ekrandaki aksiyon gerçek salona taşıyormuş gibi görünür: koltuklar senkronize bir şekilde şiddetle eğilir ve sarsılır, kalabalığın arasından güçlü rüzgarlar eser, saçlar ve kıyafetler doğal bir şekilde savrulur, su sisi püskürtülür, ışıklar yanıp söner ve tüm seyirci çığlık atar, güler, koltuklarına tutunur ve telefonlarını kaldırır. Özgün mikro sarsıntılar, hareket bulanıklığı, pozlama değişimleri, gerçekçi düşük ışık HDR'ı ve kendiliğinden gelişen insan tepkileriyle bunu kesintisiz tek bir el çekimi olarak tutun. Beklentiden tam bir duyusal kaosa doğru ilerleyin, ardından 4DX efektleri tüm yoğunluğuyla devam ederken ön plandaki izleyicinin şaşkınlık içinde gülmesinin yakın tepkisiyle bitirin. Fiziksel olarak inandırıcı senkronize efektler, kalabalık Japon sineması atmosferi, sinematik gerçekçilik, kurgulanmış tepkiler yok. Müzik, altyazı, logo, kullanıcı arayüzü veya görünür çekim telefonu yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

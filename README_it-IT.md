@@ -379,20 +379,20 @@ Nessun effetto CGI, animazione, abilità da supereroe, wire-fu, corpi volanti, a
 
 <a name="prompt-2101326226891972799"></a>
 
-### Traduzione in corso
+### Video POV a mano all'interno di un cinema 4DX affollato che mostra intensi effetti fisici ed entusiaste reazioni del pubblico.
 
 Autore：[@shushant\_l](https://x.com/shushant_l) · [Post originale](https://x.com/shushant_l/status/2101326226891972799)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video POV a mano all'interno di un cinema 4DX affollato che mostra intensi effetti fisici ed entusiaste reazioni del pubblico.
 
 <img src="covers/2101326226891972799.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+video virale da smartphone ultra-realistico all'interno di un cinema 4DX affollato in Giappone. Inizia con un'inquadratura a mano in stile iPhone dal pubblico mentre un film viene proiettato su uno schermo enorme. Improvvisamente, l'azione sullo schermo sembra riversarsi nella sala reale: i sedili si inclinano e tremano violentemente in sincronia, potenti raffiche di vento investono la folla, capelli e vestiti si agitano naturalmente, viene spruzzata una nebulizzazione d'acqua, le luci lampeggiano e l'intero pubblico urla, ride, si aggrappa ai sedili e alza i telefoni. Mantienilo come un unico piano sequenza a mano con autentiche micro-vibrazioni, sfocatura da movimento, variazioni di esposizione, HDR realistico in condizioni di scarsa illuminazione e reazioni umane spontanee. Cresci dall'attesa fino a un completo caos sensoriale, per poi concludere con un primo piano sulla reazione dello spettatore in primo piano che ride incredulo mentre gli effetti 4DX continuano alla massima intensità. Effetti sincronizzati fisicamente credibili, atmosfera da cinema giapponese gremito, realismo cinematografico, nessuna reazione artefatta. Niente musica, didascalie, loghi, interfaccia utente o telefono che riprende visibile.
 ```
 
 [↑ Torna alle categorie](#catalog)

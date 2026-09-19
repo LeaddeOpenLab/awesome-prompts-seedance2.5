@@ -373,20 +373,20 @@ Tạo một đoạn phim hành động giật gân người đóng chân thực 
 
 <a name="prompt-2101326226891972799"></a>
 
-### Đang dịch
+### Video POV cầm tay bên trong rạp chiếu phim 4DX đông đúc thể hiện các hiệu ứng vật lý dữ dội và phản ứng phấn khích của khán giả.
 
 Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.com/shushant_l/status/2101326226891972799)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video POV cầm tay bên trong rạp chiếu phim 4DX đông đúc thể hiện các hiệu ứng vật lý dữ dội và phản ứng phấn khích của khán giả.
 
 <img src="covers/2101326226891972799.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Video quay bằng điện thoại thông minh cực kỳ chân thực, dễ lan truyền bên trong một rạp chiếu phim 4DX chật kín người ở Nhật Bản. Bắt đầu bằng cảnh quay cầm tay kiểu iPhone từ khán giả khi bộ phim đang chiếu trên màn hình khổng lồ. Đột nhiên, hành động trên màn hình dường như bùng nổ vào rạp chiếu thực tế: ghế ngồi nghiêng ngả và rung lắc dữ dội theo nhịp, những cơn gió mạnh thổi qua đám đông, tóc và quần áo bay tự nhiên, sương nước phun ra, ánh đèn nhấp nháy, và toàn bộ khán giả la hét, cười đùa, bám chặt vào ghế và giơ điện thoại lên. Giữ cảnh quay cầm tay liên tục duy nhất với độ rung lắc vi mô chân thực, độ mờ chuyển động, sự thay đổi độ phơi sáng, HDR ánh sáng yếu chân thực và phản ứng tự phát của con người. Tăng dần từ sự mong đợi đến sự hỗn loạn cảm giác hoàn toàn, sau đó kết thúc bằng phản ứng cận cảnh của khán giả ở tiền cảnh đang cười trong sự hoài nghi trong khi các hiệu ứng 4DX vẫn tiếp tục ở cường độ tối đa. Các hiệu ứng đồng bộ đáng tin cậy về mặt vật lý, bầu không khí rạp chiếu phim Nhật Bản đông đúc, tính chân thực chuẩn điện ảnh, không có phản ứng dàn dựng. Không có âm nhạc, phụ đề, logo, UI hoặc điện thoại quay phim bị nhìn thấy.
 ```
 
 [↑ Về danh mục](#catalog)

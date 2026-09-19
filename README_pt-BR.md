@@ -365,20 +365,20 @@ Sem visual de CGI, animação, habilidades de super-herói, wire-fu, corpos voan
 
 <a name="prompt-2101326226891972799"></a>
 
-### Tradução em andamento
+### Vídeo POV na mão dentro de um cinema 4DX lotado mostrando efeitos físicos intensos e reações animadas do público.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicação original](https://x.com/shushant_l/status/2101326226891972799)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo POV na mão dentro de um cinema 4DX lotado mostrando efeitos físicos intensos e reações animadas do público.
 
 <img src="covers/2101326226891972799.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+vídeo viral de smartphone ultrarrealista dentro de um cinema 4DX lotado no Japão. Comece com uma filmagem na mão no estilo iPhone a partir da plateia enquanto um filme passa em uma tela enorme. De repente, a ação na tela parece invadir a sala de cinema real: os assentos inclinam e tremem violentamente em sincronia, rajadas fortes de vento atingem o público, cabelos e roupas chicoteiam naturalmente, uma névoa de água é borrifada, luzes piscam e todo o público grita, ri, se segura nas poltronas e levanta os celulares. Mantenha como um único plano contínuo feito à mão com microvibrações autênticas, desfoque de movimento, variações de exposição, HDR realista em baixa luminosidade e reações humanas espontâneas. Desenvolva da expectativa até o caos sensorial completo, terminando com uma reação em primeiro plano do espectador à frente rindo em descrença enquanto os efeitos 4DX continuam em intensidade máxima. Efeitos sincronizados fisicamente verossímeis, atmosfera de cinema japonês lotado, realismo cinematográfico, sem reações encenadas. Sem música, legendas, logotipos, interface de usuário ou celular de filmagem visível.
 ```
 
 [↑ Voltar às categorias](#catalog)

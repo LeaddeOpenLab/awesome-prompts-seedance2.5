@@ -371,20 +371,20 @@ Crea un thriller de acción nocturno de acción real y ultra fotorrealista de 30
 
 <a name="prompt-2101326226891972799"></a>
 
-### Traducción en curso
+### Vídeo POV en mano dentro de un cine 4DX abarrotado que muestra intensos efectos físicos y reacciones de entusiasmo del público.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicación original](https://x.com/shushant_l/status/2101326226891972799)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Vídeo POV en mano dentro de un cine 4DX abarrotado que muestra intensos efectos físicos y reacciones de entusiasmo del público.
 
 <img src="covers/2101326226891972799.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Vídeo viral de smartphone ultrarrealista dentro de un cine 4DX abarrotado en Japón. Comienza con una toma cámara en mano estilo iPhone desde el público mientras una película se reproduce en una pantalla gigante. De repente, la acción de la pantalla parece irrumpir en la sala real: los asientos se inclinan y tiemblan violentamente al unísono, ráfagas de viento potente atraviesan la multitud, el pelo y la ropa se agitan de forma natural, se pulveriza agua, las luces parpadean y todo el público grita, ríe, se agarra a sus asientos y levanta sus teléfonos. Manténlo como una sola toma continua cámara en mano con microtemblor auténtico, desenfoque de movimiento, variaciones de exposición, HDR realista en condiciones de poca luz y reacciones humanas espontáneas. Construye la escena desde la anticipación hasta el caos sensorial total, para terminar con una reacción en primer plano de un espectador riendo con incredulidad mientras los efectos 4DX continúan a máxima intensidad. Efectos sincronizados y físicamente creíbles, atmósfera de cine japonés lleno de gente, realismo cinematográfico, sin reacciones fingidas. Sin música, subtítulos, logotipos, interfaz de usuario ni teléfono de grabación visible.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -379,20 +379,20 @@ Kein CGI-Look, keine Animation, keine Superheldenfähigkeiten, kein Wire-Fu, kei
 
 <a name="prompt-2101326226891972799"></a>
 
-### Übersetzung läuft
+### Handgeführtes POV-Video in einem vollbesetzten 4DX-Kino, das intensive physische Effekte und begeisterte Publikumsreaktionen zeigt.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Originalbeitrag](https://x.com/shushant_l/status/2101326226891972799)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Handgeführtes POV-Video in einem vollbesetzten 4DX-Kino, das intensive physische Effekte und begeisterte Publikumsreaktionen zeigt.
 
 <img src="covers/2101326226891972799.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches virales Smartphone-Video in einem vollbesetzten 4DX-Kino in Japan. Es beginnt mit einer Handheld-Aufnahme im iPhone-Stil aus dem Publikum, während ein Film auf einer riesigen Leinwand läuft. Plötzlich scheint die Handlung auf der Leinwand in den echten Kinosaal überzuschwappen: Die Sitze neigen und rütteln sich heftig und synchron, kräftige Windstöße wehen durch die Menge, Haare und Kleidung peitschen natürlich umher, Wassernebel sprüht, Lichter blitzen auf und das gesamte Publikum schreit, lacht, klammert sich an seinen Sitzen fest und hält Smartphones hoch. Behalte es als eine einzige kontinuierliche Handheld-Aufnahme mit authentischen Mikrowacklern, Bewegungsunschärfe, Belichtungsverschiebungen, realistischem Low-Light-HDR und spontanen menschlichen Reaktionen bei. Baue die Spannung von Erwartung bis hin zum vollkommenen sensorischen Chaos auf und ende mit einer Nahaufnahme der Reaktion des Zuschauers im Vordergrund, der ungläubig lacht, während die 4DX-Effekte mit voller Intensität anhalten. Physisch glaubwürdige synchronisierte Effekte, vollbesetzte japanische Kinoatmosphäre, filmischer Realismus, keine gestellten Reaktionen. Keine Musik, Untertitel, Logos, Benutzeroberfläche oder sichtbares aufnehmendes Smartphone.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

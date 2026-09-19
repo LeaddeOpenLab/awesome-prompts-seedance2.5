@@ -379,20 +379,20 @@ Sin apariencia de CGI, animación, habilidades de superhéroe, wire-fu, cuerpos 
 
 <a name="prompt-2101326226891972799"></a>
 
-### Traducción en curso
+### Video POV en mano dentro de un cine 4DX abarrotado que muestra intensos efectos físicos y reacciones emocionadas del público.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicación original](https://x.com/shushant_l/status/2101326226891972799)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video POV en mano dentro de un cine 4DX abarrotado que muestra intensos efectos físicos y reacciones emocionadas del público.
 
 <img src="covers/2101326226891972799.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+video viral de teléfono inteligente ultrarrealista dentro de un cine 4DX abarrotado en Japón. Comienza con una toma cámara en mano al estilo de un iPhone desde el público mientras se reproduce una película en una pantalla enorme. De repente, la acción de la pantalla parece irrumpir en la sala real: los asientos se inclinan y tiemblan violentamente en sincronía, ráfagas de viento potentes atraviesan la multitud, el cabello y la ropa se agitan de forma natural, se rocía niebla de agua, las luces parpadean y todo el público grita, ríe, se agarra a sus asientos y levanta sus teléfonos. Mantén la toma continua en mano con microvibraciones auténticas, desenfoque de movimiento, cambios de exposición, HDR realista en condiciones de poca luz y reacciones humanas espontáneas. Construye la escena desde la anticipación hasta el caos sensorial total, para luego terminar en una reacción en primer plano del espectador en primer plano riéndose con incredulidad mientras los efectos 4DX continúan a máxima intensidad. Efectos sincronizados físicamente creíbles, atmósfera de cine japonés repleto, realismo cinematográfico, sin reacciones actuadas. Sin música, subtítulos, logotipos, interfaz de usuario ni teléfono de filmación visible.
 ```
 
 [↑ Volver a categorías](#catalog)
