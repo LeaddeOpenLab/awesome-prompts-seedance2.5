@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**168** Prompts · Adição mais recente: **2026-09-20**
+**171** Prompts · Adição mais recente: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -360,6 +360,28 @@ Tradução em curso
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2101676857850552488"></a>
+
+### Tradução em curso
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2101676857850552488)
+
+Cena de Cinema / Fotograma · Personagem · Animal / Criatura · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101676857850552488.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4019,6 +4041,50 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101683541629354348"></a>
+
+### Tradução em curso
+
+Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Publicação original](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101683541629354348.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Tradução em curso
+
+Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicação original](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101679923358257157.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

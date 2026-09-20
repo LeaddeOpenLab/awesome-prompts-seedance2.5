@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**168** 条内容 · 最新收录: **2026-09-20**
+**171** 条内容 · 最新收录: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -426,6 +426,28 @@ UGC风格
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2101676857850552488"></a>
+
+### 翻译中
+
+作者：[@johnAGI168](https://x.com/johnAGI168) · [查看 X 原帖](https://x.com/johnAGI168/status/2101676857850552488)
+
+电影 / 电影剧照 · 角色 · 动物 / 生物 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101676857850552488.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4460,6 +4482,50 @@ FOLLOW THE SOUND.
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2101683541629354348"></a>
+
+### 翻译中
+
+作者：[@noorwithwifi](https://x.com/noorwithwifi) · [查看 X 原帖](https://x.com/noorwithwifi/status/2101683541629354348)
+
+风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101683541629354348.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### 翻译中
+
+作者：[@aiwithlumi](https://x.com/aiwithlumi) · [查看 X 原帖](https://x.com/aiwithlumi/status/2101679923358257157)
+
+角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101679923358257157.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**168** Prompts · Zuletzt hinzugefügt: **2026-09-20**
+**171** Prompts · Zuletzt hinzugefügt: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2101676857850552488"></a>
+
+### Übersetzung läuft
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Originalbeitrag](https://x.com/johnAGI168/status/2101676857850552488)
+
+Kinematisch / Filmstill · Charakter · Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101676857850552488.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4011,6 +4033,50 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2101683541629354348"></a>
+
+### Übersetzung läuft
+
+Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Originalbeitrag](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101683541629354348.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Übersetzung läuft
+
+Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Originalbeitrag](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101679923358257157.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

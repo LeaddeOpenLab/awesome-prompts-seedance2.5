@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**168** Prompts · Dernier ajout: **2026-09-20**
+**171** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,28 @@ Traduction en cours
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2101676857850552488"></a>
+
+### Traduction en cours
+
+Auteur：[@johnAGI168](https://x.com/johnAGI168) · [Publication originale](https://x.com/johnAGI168/status/2101676857850552488)
+
+Image cinématographique / Photogramme de film · Personnage · Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101676857850552488.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4011,6 +4033,50 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2101683541629354348"></a>
+
+### Traduction en cours
+
+Auteur：[@noorwithwifi](https://x.com/noorwithwifi) · [Publication originale](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101683541629354348.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Traduction en cours
+
+Auteur：[@aiwithlumi](https://x.com/aiwithlumi) · [Publication originale](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101679923358257157.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

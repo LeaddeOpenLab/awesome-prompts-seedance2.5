@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**168** Prompts · Última adição: **2026-09-20**
+**171** Prompts · Última adição: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -360,6 +360,28 @@ Tradução em andamento
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2101676857850552488"></a>
+
+### Tradução em andamento
+
+Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicação original](https://x.com/johnAGI168/status/2101676857850552488)
+
+Cinematográfico / Imagem de Filme · Personagem · Animal / Criatura · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101676857850552488.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4019,6 +4041,50 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101683541629354348"></a>
+
+### Tradução em andamento
+
+Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Publicação original](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101683541629354348.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Tradução em andamento
+
+Autor：[@aiwithlumi](https://x.com/aiwithlumi) · [Publicação original](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101679923358257157.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

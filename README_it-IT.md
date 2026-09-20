@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**168** Prompt · Ultima aggiunta: **2026-09-20**
+**171** Prompt · Ultima aggiunta: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,28 @@ Traduzione in corso
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2101676857850552488"></a>
+
+### Traduzione in corso
+
+Autore：[@johnAGI168](https://x.com/johnAGI168) · [Post originale](https://x.com/johnAGI168/status/2101676857850552488)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101676857850552488.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4025,6 +4047,50 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2101683541629354348"></a>
+
+### Traduzione in corso
+
+Autore：[@noorwithwifi](https://x.com/noorwithwifi) · [Post originale](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101683541629354348.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Traduzione in corso
+
+Autore：[@aiwithlumi](https://x.com/aiwithlumi) · [Post originale](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101679923358257157.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

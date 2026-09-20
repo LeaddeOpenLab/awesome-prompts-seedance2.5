@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**168** 개 · 최근 추가: **2026-09-20**
+**171** 개 · 최근 추가: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -376,6 +376,28 @@ UGC 스타일
 <a name="category-cinematic-film-still"></a>
 
 ## 시네마틱 / 영화 스틸컷
+
+<a name="prompt-2101676857850552488"></a>
+
+### 번역 중
+
+작성자：[@johnAGI168](https://x.com/johnAGI168) · [원본 게시물](https://x.com/johnAGI168/status/2101676857850552488)
+
+시네마틱 / 영화 스틸컷 · 캐릭터 · 동물 / 생명체 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101676857850552488.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4415,6 +4437,50 @@ Seedance 2.5를 720p 해상도로 사용하여 각 샷을 개별적으로 처리
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2101683541629354348"></a>
+
+### 번역 중
+
+작성자：[@noorwithwifi](https://x.com/noorwithwifi) · [원본 게시물](https://x.com/noorwithwifi/status/2101683541629354348)
+
+풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101683541629354348.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### 번역 중
+
+작성자：[@aiwithlumi](https://x.com/aiwithlumi) · [원본 게시물](https://x.com/aiwithlumi/status/2101679923358257157)
+
+캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101679923358257157.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

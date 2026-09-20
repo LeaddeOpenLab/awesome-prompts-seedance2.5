@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**168** Prompt · Son eklenen: **2026-09-20**
+**171** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -360,6 +360,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2101676857850552488"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@johnAGI168](https://x.com/johnAGI168) · [Orijinal gönderi](https://x.com/johnAGI168/status/2101676857850552488)
+
+Sinematik / Film Karesi · Karakter · Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101676857850552488.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4019,6 +4041,50 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101683541629354348"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@noorwithwifi](https://x.com/noorwithwifi) · [Orijinal gönderi](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101683541629354348.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@aiwithlumi](https://x.com/aiwithlumi) · [Orijinal gönderi](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101679923358257157.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**168** Prompts · Latest addition: **2026-09-20**
+**171** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -438,6 +438,197 @@ Do not omit actively mounting the table or intentional interference; do not show
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2101676857850552488"></a>
+
+### First-person perspective dragon-riding flight video prompt, featuring segmented camera controls and negative instructions covering the dragon looking back to recognize its master, cliffside takeoff, weaving through stone spires, breathing fire through a waterfall, tucking wings through a rock arch, and soaring above the clouds.
+
+Author：[@johnAGI168](https://x.com/johnAGI168) · [Source](https://x.com/johnAGI168/status/2101676857850552488)
+
+Cinematic / Film Still · Character · Animal / Creature · Published
+
+**Summary:** First-person perspective dragon-riding flight video prompt, featuring segmented camera controls and negative instructions covering the dragon looking back to recognize its master, cliffside takeoff, weaving through stone spires, breathing fire through a waterfall, tucking wings through a rock arch, and soaring above the clouds.
+
+<img src="covers/2101676857850552488.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Duration: 30 seconds
+Aspect Ratio: 9:16 vertical screen
+Format: Pure text-to-video, without any reference images.
+Style: Fantasy dragon-riding flight with authentic cinematic texture, strong first-person immersion.
+No dialogue, no narration, no subtitles, no on-screen UI text.
+
+[Fixed Perspective]
+
+Throughout the entire video, it is a first-person perspective of an adult rider seated on the dragon's back, with the camera consistently positioned near the rider's eyes.
+
+Two natural, bare forearms are visible at the bottom of the frame, hands gripping firmly onto the arched front handrail of a brown leather saddle. The saddle is secured to the dragon's back with dark leather straps, metal buckles, and short chains.
+
+The dragon's nape and black spinal dorsal spines remain continuously visible in the center of the frame, while its wings expanding or folding with flight movements can be seen at the left and right edges.
+
+The rider's face does not appear. The positional relationship among the hands, handrail, and dragon's back remains stable, never switching to aerial, third-person tracking, or bystander angles.
+
+The camera moves with weight according to the dragon's pitching, banking, and wing-flapping. At high speeds, there is natural wind-pressure vibration, yet the main subjects remain sharp, avoiding erratic, chaotic shaking.
+
+[Fixed Dragon Appearance]
+
+An adult giant Western dragon with thick, dark wine-red to copper-red scales, swept-back black horns, black spines running down its neck and back, and golden-orange eyes with distinct vertical slit pupils.
+
+The long neck curves naturally to look back at the rider; the skull structure is solid, the snout is heavy, and the nostrils exhibit subtle breathing movements.
+
+Four legs and a pair of independent, massive bat-like wings with deep orange-red wing membranes showing clear bone structure and surface tension. The head, neck, torso, wings, and tail always belong to the same single dragon, never duplicating, detaching, or altering in count.
+
+Scales feature fine scratches, moist specular highlights, and realistic shadows. During wing flaps, shoulder muscles and wing roots exert force together, with the wing membranes vibrating subtly against the airflow.
+
+The dragon is majestic and sentient, deeply familiar with the rider. Its initial close-up gaze conveys recognition and confirmation, never aggression or intent to attack.
+
+[World and Route]
+
+An early morning landscape of colossal alpine canyons: below the cloud layer are deep green valleys, jagged stone spires, waterfalls, and narrow river channels; above the clouds are snow-capped peaks illuminated by golden morning light.
+
+All flight occurs within the exact same mountain range, maintaining continuous terrain and lighting.
+
+The flight route starts from a high rocky takeoff platform, descends between stone pillars, follows a waterfall into the canyon, banks around cliff faces, passes through a natural stone arch, and finally surges up through the clouds.
+
+Upcoming terrain continuously grows larger, draws nearer, and sweeps past on both sides as flight progresses, never swapping locations in the blink of an eye like a random scenery slideshow.
+
+[00:00—00:05 | Looking Back to Confirm the Master]
+
+The scene opens with the rider already seated in the saddle, hands adjusting their grip before holding firmly onto the handrail.
+
+The dragon crouches on a wide stone ledge at the cliff's edge; ahead lies a surging sea of clouds and a bottomless valley. The body and saddle always face forward toward the cliff.
+
+The dragon pauses, then its long neck curves naturally to the left, slowly turning its head toward the rider.
+
+It brings its face close to the camera, maintaining a distance where both eyes, nostrils, and scales are clearly visible without touching or clipping through the camera.
+
+Its golden-orange vertical pupils gaze at the rider, tilting its head slightly as if carefully verifying the person before it. Pausing for about a second, its nostrils exhale a wisp of warm white vapor that briefly drifts across the foreground.
+
+Upon confirmation, the dragon's eye area and mouth soften, it blinks slowly, lets out a deep, gentle guttural rumble, and gives a slight nod.
+
+This behavior allows the audience to clearly understand: "It recognizes its master and permits takeoff."
+
+The entire recognition process contains no scanning frames, laser lines, progress bars, identification text, or electronic sound effects.
+
+Hands grip the saddle throughout. Only after completing the confirmation does the dragon turn its head and neck back forward.
+
+[00:05—00:08 | Wing-Flap Leap from the Cliff]
+
+Once the dragon's head is fully facing forward, its shoulders drop to gather power, and both wings raise and spread from both sides of the frame.
+
+The riding viewpoint dips slightly following the body's coiled tension.
+
+The dragon's hind legs kick off the rocky ledge, its wings executing a powerful downward stroke, launching forward over the cliff with the rider.
+
+The cliff ledge recedes rapidly from the bottom of the frame, suddenly exposing a massive vertical drop beneath.
+
+The body first dives forward and downward, then enters stable flight as the wing surfaces catch the airflow. The camera captures a distinct but brief sense of weightlessness; hands grip the handrail tightly.
+
+A clear sequence of coiling power, kicking off, flapping wings, and leaving the ledge must be visible, avoiding hovering or floating takeoffs out of nowhere.
+
+[00:08—00:13 | Diving Through Clouds and Stone Pillars]
+
+The dragon dives rapidly along the edge of the cloud sea. Several gigantic needle-shaped stone spires emerge from the mist ahead, their cliff sides covered in dark green vegetation.
+
+The dragon spots a clearly visible gap between two spires, banks slightly to the left, corrects its posture, and darts through the middle at high speed.
+
+Nearby rock walls sweep past the edges of the frame rapidly while distant peaks move slowly, creating a strong sense of speed and altitude.
+
+When skimming through the tight passage, the dragon slightly tucks its wingtips; once cleared, it extends its wings again.
+
+The body, rider, and wings maintain a continuously visible clearance from the rock walls, with zero collision or clipping.
+
+Leaving the pillar forest behind, a towering waterfall appears ahead, its rushing sound growing louder.
+
+[00:13—00:18 | Breathing Fire Through the Waterfall Curtain]
+
+The dragon approaches alongside the waterfall, where a massive sheet of water cascades from above, its mist catching a faint rainbow.
+
+A natural rock opening appears ahead. In the center of the opening hangs only a thin curtain of water, behind which the canyon's ambient sky light shines through, forming a clear, passable path.
+
+Aiming directly at the rock opening, the dragon opens its mouth and unleashes a brief burst of orange-gold fire straight ahead.
+
+The source of the flame remains connected to the dragon's mouth throughout, briefly illuminating its scales, the mist ahead, and the wet rock walls, never spawning out of nowhere from the camera or the dragon's back.
+
+The fire breath lasts under a second, then ceases.
+
+The dragon slightly tucks its wings and glides through the thin water curtain. Water droplets splatter onto the lens edges, and mist obscures the view only momentarily, with the dragon's neck and foreground hands remaining continuous.
+
+Emerging through, the same canyon is instantly seen stretching forward, avoiding any mist-cut transition to an entirely different realm.
+
+[00:18—00:24 | Cliff-Hugging Sharp Turn, Tucking Wings Through the Stone Arch]
+
+Behind the waterfall lies a narrow, elongated rock canyon with a rushing river below.
+
+The dragon races forward at high speed above the riverbed. Ahead, the cliff face looms close as the canyon takes a sharp right bend.
+
+The dragon first banks its body to the right, then turns along the curve. The camera rolls with the body tilt, noticeably slanting the horizon, while maintaining a clear gap between the left wingtip and the rock face.
+
+Immediately after the sharp turn, a massive natural stone arch spanning the canyon appears, with an open exit visible beyond the opening.
+
+Aligning with the arch, the dragon tucks its wings in advance, keeping its head, neck, torso, and tail along a single flight trajectory, gliding through on momentum.
+
+The arch's clearance is ample enough to fit the tucked body, saddle, and rider, with distinct distance between the top of the head and the stone.
+
+Approaching the arch, the rider instinctively hunkers low, the camera lowering slightly in tandem, hands still gripping the handrail.
+
+The wings may only unfold again once the tail has completely passed through the stone arch.
+
+[00:24—00:30 | Pitching Up and Surging Above the Clouds]
+
+Emerging from the stone arch, the canyon suddenly opens up.
+
+The dragon fully spreads its wings, delivers two powerful consecutive downward flaps, raises its head and neck, and climbs upward and forward. The camera tilts up with the dragon's back as the deep canyon and river sink below.
+
+Passing into a thin cloud layer, the near view is momentarily enveloped in soft white fog, yet the dragon's back, saddle, and hands remain identifiable.
+
+It then surges above the clouds, with golden morning sunlight pouring into the frame from the side-front.
+
+Ahead lie endless snow-capped peaks, a sea of clouds, and distant waterfalls cascading from cliffs into the cloud layer. The clouds drift slowly, creating an expansive vista that contrasts sharply with the previously cramped canyon.
+
+The dragon ceases rapid flapping, extending its wings into a smooth glide.
+
+The rider's hands relax slightly without releasing the handrail. Camera vibration subsides, giving the viewer time to take in the breathtaking panorama.
+
+The scene concludes maintaining a forward glide, with no landing, no cut to third-person, and no abrupt freeze-frame.
+
+[Sound Design]
+
+No character dialogue, no narration, no lyrics.
+
+The opening preserves mountaintop wind, subtle creaks of leather, the dragon's breathing, and its gentle, low rumble upon confirming its master.
+
+Takeoff features deep, powerful wing beats and an abrupt surge of rushing wind.
+High-speed diving amplifies the wind rush, echoing appropriately once entering the canyon.
+The roar of water builds as the waterfall nears, followed by a brief splash sound when passing through the veil.
+The fire breath features a short, roaring rush of flame, precisely synchronized with the dragon's mouth movements.
+The wind softens and steadies after breaking through the cloud sea.
+
+Extremely light, cinematic atmospheric music may be used, but must never drown out the wind, wing flaps, breath, or rushing water.
+
+[Continuity Requirements]
+
+The entire video consistently features the exact same dark wine-red dragon, the same brown leather saddle, and the same pair of rider's hands.
+
+When the head and neck look back, the body and saddle remain oriented forward.
+Takeoff begins only after recognition is complete and the head turns back forward.
+
+The first-person camera always moves strictly with the rider and the dragon's back, never detaching to become a free-roaming drone.
+
+Every turn involves body banking and an arced trajectory.
+Every narrow passage is navigated by tucking wings beforehand and unfolding only after clearing it.
+Flight altitude, speed, and heading shift continuously without teleportation.
+
+[Negative]
+
+Reliance on reference images, subtitles, recognition frames, scan lines, HUD, human face visible, third-person perspective, drone shot, camera detaching from dragon's back, dragon taking off before confirmation, dragon's whole body spinning around in place, severed head and neck, mechanical neck twisting, dragon face changing, multiple heads, multiple wings, limb duplication, scale color shifting, saddle disappearing, deformed fingers, hands clipping through handrail, wings clipping into rocks, rider smashing through stone arch, wings unfolding before clearing the stone arch, fire appearing out of thin air, prolonged white screen, teleporting landscape cuts, pointless barrel rolls, excessive camera jitter, video game UI, cartoon aesthetics, plastic scales, watermark, platform logo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -6027,6 +6218,50 @@ Text remains clear and stable while on screen, free of typos, garbled characters
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101683541629354348"></a>
+
+### Seamless Chinese ink-wash animation transitioning from ocean waves to mist-shrouded pagoda mountains, autumn foliage, cherry blossoms, and a full moon night.
+
+Author：[@noorwithwifi](https://x.com/noorwithwifi) · [Source](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Landscape / Nature · Published
+
+**Summary:** Seamless Chinese ink-wash animation transitioning from ocean waves to mist-shrouded pagoda mountains, autumn foliage, cherry blossoms, and a full moon night.
+
+<img src="covers/2101683541629354348.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A seamless traditional Chinese ink-wash watercolor animation begins with deep blue ocean waves transforming into misty mountains with a pagoda and stone stairs. Crimson ink clouds sweep across the scene, transitioning to a calm river with a small boat and an autumn-red tree. The red foliage transforms into delicate pink cherry blossoms, with petals drifting around a lone bonsai-like tree on a tiny island. Finally, a glowing full moon rises behind distant mountains, casting a golden reflection across the tranquil water as the scene fades into a peaceful night. Atmospheric, poetic, fluid transitions, elegant Chinese painting aesthetic, soft watercolor textures.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### A young woman helps an elderly man push an oden cart on a rainy night and receives a magical glowing sweet potato.
+
+Author：[@aiwithlumi](https://x.com/aiwithlumi) · [Source](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Character · Published
+
+**Summary:** A young woman helps an elderly man push an oden cart on a rainy night and receives a magical glowing sweet potato.
+
+<img src="covers/2101679923358257157.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A young woman wearing brown leather boots, glasses, a tan trench coat, and a thick red scarf walks through a cold, rainy Japanese-style alley at night, her breath visible in the air. She sees an elderly man struggling to push a wooden oden cart with a glowing red lantern, so she drops her leather duffel bag and rushes to help. They push the cart together through the wet alley, then share a warm smile. The elderly man gives her a newspaper-wrapped roasted sweet potato. When she opens it, the steaming potato glows with warm golden magical light and tiny sparkling embers. She takes a bite with her eyes closed, smiling peacefully as sparkles drift around her, while the elderly man pushes his glowing cart into the distance. Cozy, emotional, cinematic, photorealistic, atmospheric night lighting, shallow depth of field, warm magical glow, 4K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

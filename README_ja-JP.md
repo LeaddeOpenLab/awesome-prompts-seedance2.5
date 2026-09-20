@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**168** 件 · 最新の追加: **2026-09-20**
+**171** 件 · 最新の追加: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -426,6 +426,28 @@ UGCスタイル
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2101676857850552488"></a>
+
+### 翻訳中
+
+作者：[@johnAGI168](https://x.com/johnAGI168) · [元の投稿](https://x.com/johnAGI168/status/2101676857850552488)
+
+シネマティック / フィルムスチル · キャラクター · 動物 / 生き物 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101676857850552488.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4461,6 +4483,50 @@ Seedance 2.5を720pで使用し、各ショットを個別に処理してくだ�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2101683541629354348"></a>
+
+### 翻訳中
+
+作者：[@noorwithwifi](https://x.com/noorwithwifi) · [元の投稿](https://x.com/noorwithwifi/status/2101683541629354348)
+
+風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101683541629354348.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### 翻訳中
+
+作者：[@aiwithlumi](https://x.com/aiwithlumi) · [元の投稿](https://x.com/aiwithlumi/status/2101679923358257157)
+
+キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101679923358257157.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 

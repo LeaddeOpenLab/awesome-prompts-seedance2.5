@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**168** Prompt · Bổ sung mới nhất: **2026-09-20**
+**171** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -376,6 +376,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2101676857850552488"></a>
+
+### Đang dịch
+
+Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2101676857850552488)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Động vật / Sinh vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101676857850552488.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101642532593836182"></a>
 
@@ -4150,6 +4172,50 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2101683541629354348"></a>
+
+### Đang dịch
+
+Tác giả：[@noorwithwifi](https://x.com/noorwithwifi) · [Bài gốc](https://x.com/noorwithwifi/status/2101683541629354348)
+
+Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101683541629354348.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101679923358257157"></a>
+
+### Đang dịch
+
+Tác giả：[@aiwithlumi](https://x.com/aiwithlumi) · [Bài gốc](https://x.com/aiwithlumi/status/2101679923358257157)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101679923358257157.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101295673605824841"></a>
 
