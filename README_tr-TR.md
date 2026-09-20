@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**167** Prompt · Son eklenen: **2026-09-20**
+**168** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -360,6 +360,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2101642532593836182"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https://x.com/john87445528/status/2101642532593836182)
+
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101642532593836182.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101528965110501762"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**167** Prompts · Última incorporación: **2026-09-20**
+**168** Prompts · Última incorporación: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,28 @@ Traducción en curso
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2101642532593836182"></a>
+
+### Traducción en curso
+
+Autor：[@john87445528](https://x.com/john87445528) · [Publicación original](https://x.com/john87445528/status/2101642532593836182)
+
+Cómic / Guion gráfico · Cine / Fotograma de película · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101642532593836182.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101528965110501762"></a>
 
