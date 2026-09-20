@@ -384,20 +384,22 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2101528965110501762"></a>
 
-### Đang dịch
+### Chuỗi hoạt hình điện ảnh về chàng trai trẻ nấu và ăn mì ramen đêm khuya bên khung cửa sổ ngày mưa.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2101528965110501762)
 
 Điện ảnh / Ảnh tĩnh từ phim · Anime / Manga · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi hoạt hình điện ảnh về chàng trai trẻ nấu và ăn mì ramen đêm khuya bên khung cửa sổ ngày mưa.
 
 <img src="covers/2101528965110501762.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một chuỗi hoạt hình anime đời thường mang phong cách điện ảnh dài 30 giây theo chân một chàng trai trẻ trải qua một đêm mưa yên tĩnh tại nhà. Bắt đầu với một cảnh quay rộng đầy không khí khi anh đứng một mình trong căn bếp căn hộ mờ ảo bên cạnh cửa sổ lớn đọng nước mưa, với ánh đèn thành phố rực rỡ nhìn thấy bên ngoài → chuyển cảnh sang góc cận ấm áp khi anh đặt một chiếc nồi lên bếp và bắt đầu chuẩn bị bữa ăn khuya → cắt sang góc cận từ trên cao nhìn xuống món ăn khi những sợi mì mỏng sôi sục trong nước, bao quanh bởi làn khói bốc lên → chuyển sang góc cận thân mật khi anh đập một quả trứng tươi vào chiếc bát nhỏ cạnh bếp → cắt sang cảnh chụp macro chi tiết của đôi đũa gắp những sợi mì vừa nấu chín từ nồi nước bốc khói → chuyển sang góc cận điện ảnh khi mì được cho vào bát và phủ lên trên là một quả trứng lòng đào, hành lá cắt lát và ớt đỏ gia vị → cắt sang cảnh trung ấm áp khi anh cẩn thận nâng bát mì nóng hổi bằng cả hai tay → chuyển sang cảnh quay toàn cảnh nội thất ban đêm khi anh ngồi một mình bên chiếc bàn nhỏ cạnh cửa sổ mưa, lặng lẽ nhìn ra thành phố lung linh bên ngoài → cắt sang cảnh cực cận của món ăn khi đũa gắp mì bên cạnh phần trứng và ớt phủ bên trên → chuyển sang góc cận góc nghiêng thân mật khi anh đưa mì lên miệng và từ tốn cắn một miếng → các cảnh cuối luân phiên giữa khuôn mặt bình yên của anh, bát ramen bốc khói và ánh đèn thành phố ngày mưa phản chiếu qua cửa sổ, kết thúc bằng cảnh rộng yên tĩnh khi anh ngồi một mình với bữa ăn ấm áp.
+
+Nghệ thuật quay phim anime tự nhiên, hoạt ảnh nhân vật vẽ tay chi tiết, cách kể chuyện lát cắt cuộc sống mang tính điện ảnh, chuyển động thức ăn chân thực, biểu cảm khuôn mặt tinh tế, chuyển động máy quay nhẹ nhàng, chuyển cảnh điện ảnh mượt mà, độ sâu trường ảnh nông, kết cấu sợi ramen cực kỳ chi tiết, khói bốc lên, ánh đèn bếp màu cam ấm áp tương phản với ánh sáng đêm màu xanh lam mát mẻ, kính ướt mưa, bokeh thành phố đầy màu sắc, phản chiếu giàu khí quyển, bóng đổ mềm mại, nội thất căn hộ chi tiết, góc máy gần gũi thân mật, tâm trạng cô đơn yên bình, bầu không khí ban đêm hoài niệm, diện mạo nhân vật nhất quán xuyên suốt mọi cảnh. Không có giao diện người thật photorealistic, không có hình ảnh 3D CGI, không có khuôn mặt biến dạng, bàn tay không tự nhiên, thừa ngón tay, biểu cảm phóng đại, nhân vật thiếu nhất quán, nhấp nháy, phụ đề, văn bản, logo hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

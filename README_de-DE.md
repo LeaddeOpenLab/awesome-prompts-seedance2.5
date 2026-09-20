@@ -382,20 +382,22 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2101528965110501762"></a>
 
-### Übersetzung läuft
+### Filmische Anime-Sequenz eines jungen Mannes, der spätabends an einem regnerischen Fenster Ramen kocht und isst.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2101528965110501762)
 
 Kinematisch / Filmstill · Anime / Manga · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Anime-Sequenz eines jungen Mannes, der spätabends an einem regnerischen Fenster Ramen kocht und isst.
 
 <img src="covers/2101528965110501762.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 30-sekündige filmische Slice-of-Life-Sequenz im Anime-Stil, die einen jungen Mann durch eine ruhige, regnerische Nacht zu Hause begleitet. Beginne mit einer weiten, atmosphärischen Aufnahme, in der er allein in einer schummrigen Wohnungsküche neben einem großen, regenverhangenen Fenster steht, vor dem die leuchtenden Lichter der Stadt zu sehen sind → Übergang zu einer warmen Nahaufnahme, während er einen Topf auf den Herd stellt und beginnt, eine nächtliche Mahlzeit zuzubereiten → Schnitt zu einer Food-Nahaufnahme aus der Vogelperspektive, während dünne Nudeln in sprudelndem Wasser kochen, umgeben von aufsteigendem Dampf → Übergang zu einer intimen Nahaufnahme, während er ein frisches Ei in eine kleine Schüssel neben dem Herd schlägt → Schnitt zu einer detaillierten Makroaufnahme von Essstäbchen, die frisch gekochte Nudeln aus dem dampfenden Topf heben → Übergang zu einer filmischen Nahaufnahme, während die Nudeln in eine Schüssel gegeben und mit einem weichgekochten Ei, geschnittenen Frühlingszwiebeln und rotem Chili-Gewürz garniert werden → Schnitt zu einer warmen Halbtotale, während er die fertige, dampfende Schüssel vorsichtig mit beiden Händen hält → Übergang zu einer weiten nächtlichen Innenaufnahme, während er allein an einem kleinen Tisch neben dem regnerischen Fenster sitzt und ruhig auf die leuchtende Stadt draußen blickt → Schnitt zu einer extremen Food-Nahaufnahme, während Essstäbchen die Nudeln neben dem Ei und dem Chili-Topping anheben → Übergang zu einer intimen Seitenprofil-Nahaufnahme, während er die Nudeln zum Mund führt und langsam einen Bissen nimmt → die letzten Aufnahmen wechseln zwischen seinem friedlichen Gesicht, dem dampfenden Ramen und den Lichtern der regnerischen Stadt, die sich im Fenster spiegeln, und enden mit einer ruhigen Totale, in der er allein mit seiner warmen Mahlzeit sitzt.
+
+Natürliche Anime-Kinematographie, detaillierte handgezeichnete Charakteranimation, filmisches Slice-of-Life-Storytelling, realistische Bewegung des Essens, subtile Mimik, sanfte Kamerabewegung, flüssige filmische Übergänge, geringe Schärfentiefe, hochdetaillierte Ramen-Texturen, aufsteigender Dampf, warme orangefarbene Küchenbeleuchtung im Kontrast zu kühlem blauem Nachtlicht, regennasses Glas, farbenfrohes Stadt-Bokeh, stimmungsvolle Reflexionen, weiche Schatten, detailliertes Wohnungsinterieur, intimer Bildausschnitt, friedlich-einsame Stimmung, nostalgische Nachtatmosphäre, einheitliches Erscheinungsbild des Charakters in jeder Szene. Kein fotorealistischer Live-Action-Look, kein 3D-CGI-Erscheinungsbild, keine verzerrten Gesichter, unnatürlichen Hände, zusätzlichen Finger, übertriebenen Gesichtsausdrücke, Charakterinkonsistenzen, kein Flackern, keine Untertitel, Texte, Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

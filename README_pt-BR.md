@@ -368,20 +368,22 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2101528965110501762"></a>
 
-### Tradução em andamento
+### Sequência cinematográfica de anime de um jovem cozinhando e comendo lámen tarde da noite perto de uma janela chuvosa.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2101528965110501762)
 
 Cinematográfico / Imagem de Filme · Anime / Mangá · Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência cinematográfica de anime de um jovem cozinhando e comendo lámen tarde da noite perto de uma janela chuvosa.
 
 <img src="covers/2101528965110501762.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma sequência cinematográfica de 30 segundos no estilo anime slice-of-life acompanhando um jovem durante uma noite chuvosa e tranquila em casa. Comece com um plano aberto e atmosférico dele sozinho na cozinha mal iluminada de um apartamento ao lado de uma grande janela coberta de chuva, com as luzes brilhantes da cidade visíveis lá fora → faça a transição para um close-up acolhedor enquanto ele coloca uma panela no fogão e começa a preparar uma refeição noturna → corte para um plano zenital em close da comida enquanto o macarrão fino cozinha na água borbulhante, cercado por vapor ascendente → transição para um close íntimo enquanto ele quebra um ovo fresco em uma pequena tigela ao lado do fogão → corte para um plano macro detalhado de pauzinhos levantando o macarrão recém-cozido da panela fumegante → transição para um close-up cinematográfico enquanto o macarrão é colocado em uma tigela e finalizado com um ovo cozido de gema mole, cebolinha fatiada e tempero de pimenta vermelha → corte para um plano médio acolhedor enquanto ele segura cuidadosamente a tigela fumegante finalizada com as duas mãos → transição para um plano aberto do interior à noite enquanto ele se senta sozinho em uma pequena mesa ao lado da janela chuvosa, olhando silenciosamente para a cidade brilhante lá fora → corte para um close-up extremo da comida enquanto os pauzinhos levantam o macarrão ao lado do ovo e da cobertura de pimenta → transição para um close íntimo de perfil lateral enquanto ele leva o macarrão à boca e dá uma mordida lenta → os planos finais alternam entre seu rosto sereno, o lámen fumegante e as luzes da cidade chuvosa refletidas através da janela, terminando em um plano aberto e silencioso dele sentado sozinho com sua refeição quente.
+
+Cinematografia natural de anime, animação de personagens desenhada à mão e detalhada, narrativa cinematográfica slice-of-life, movimento realista dos alimentos, expressões faciais sutis, movimento suave de câmera, transições cinematográficas fluidas, profundidade de campo rasa, texturas de lámen altamente detalhadas, vapor ascendente, iluminação alaranjada e quente da cozinha contrastada com a luz azulada e fria da noite, vidro coberto de chuva, bokeh colorido da cidade, reflexos atmosféricos, sombras suaves, interior de apartamento detalhado, enquadramento íntimo, clima pacífico e solitário, atmosfera noturna nostálgica, aparência coesa do personagem em todas as cenas. Sem aparência fotorrealista de live-action, sem aparência de CGI 3D, sem rostos distorcidos, mãos não naturais, dedos extras, expressões exageradas, inconsistência de personagem, cintilação, legendas, texto, logotipos ou marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

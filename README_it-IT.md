@@ -382,20 +382,22 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2101528965110501762"></a>
 
-### Traduzione in corso
+### Sequenza cinematografica in stile anime di un giovane che cucina e mangia ramen a tarda notte vicino a una finestra bagnata dalla pioggia.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2101528965110501762)
 
 Fermo immagine cinematografico / Still fotografico · Anime / Manga · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza cinematografica in stile anime di un giovane che cucina e mangia ramen a tarda notte vicino a una finestra bagnata dalla pioggia.
 
 <img src="covers/2101528965110501762.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza cinematografica in stile anime slice-of-life di 30 secondi che segue un giovane durante una tranquilla notte di pioggia a casa. Inizia con un campo lungo atmosferico di lui in piedi da solo nella cucina buia di un appartamento accanto a una grande finestra coperta di pioggia, con le luci scintillanti della città visibili all'esterno → transizione a un primo piano caldo mentre posiziona una pentola sul fornello e inizia a preparare uno spuntino notturno → stacco su un primo piano dall'alto del cibo mentre noodles sottili cuociono in acqua bollente, circondati da vapore che sale → transizione a un primo piano intimo mentre rompe un uovo fresco in una ciotolina accanto al fornello → stacco su un dettaglio macro di bacchette che sollevano i noodles appena cotti dalla pentola fumante → transizione a un primo piano cinematografico mentre i noodles vengono messi in una ciotola e guarniti con un uovo barzotto, cipollotti a fette e condimento al peperoncino rosso → stacco su un mezzo busto caldo mentre tiene con cura la ciotola fumante finita con entrambe le mani → transizione a un campo lungo dell'interno notturno mentre siede da solo a un tavolino accanto alla finestra bagnata dalla pioggia, guardando silenziosamente verso la città luminosa all'esterno → stacco su un primissimo piano del cibo mentre le bacchette sollevano i noodles accanto all'uovo e al condimento al peperoncino → transizione a un primo piano intimo di profilo mentre porta i noodles alla bocca e ne prende lentamente un boccone → le inquadrature finali si alternano tra il suo volto sereno, il ramen fumante e le luci della città piovosa riflesse attraverso la finestra, concludendosi con un campo lungo tranquillo di lui seduto da solo con il suo pasto caldo.
+
+Cinematografia naturale da anime, animazione dettagliata dei personaggi disegnata a mano, narrazione cinematografica slice-of-life, movimento realistico del cibo, espressioni facciali sottili, movimenti di macchina delicati, transizioni cinematografiche fluide, profondità di campo ridotta, consistenze del ramen altamente dettagliate, vapore che sale, calda illuminazione arancione della cucina contrastata dalla fredda luce notturna blu, vetro coperto di pioggia, bokeh colorato della città, riflessi atmosferici, ombre morbide, interni dettagliati dell'appartamento, inquadrature intime, atmosfera serena e solitaria, atmosfera notturna nostalgica, aspetto del personaggio coerente in ogni scena. Nessun aspetto fotorealistico live-action, nessun aspetto CGI 3D, nessun volto distorto, mani innaturali, dita extra, espressioni esagerate, incoerenza del personaggio, sfarfallio, sottotitoli, testo, loghi o filigrana.
 ```
 
 [↑ Torna alle categorie](#catalog)

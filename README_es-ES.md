@@ -382,20 +382,22 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2101528965110501762"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica de anime de un joven cocinando y comiendo ramen a altas horas de la noche junto a una ventana lluviosa.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2101528965110501762)
 
 Cine / Fotograma de película · Anime / Manga · Personaje · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica de anime de un joven cocinando y comiendo ramen a altas horas de la noche junto a una ventana lluviosa.
 
 <img src="covers/2101528965110501762.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia cinematográfica de estilo anime slice-of-life de 30 segundos que siga a un joven a través de una tranquila noche lluviosa en casa. Comienza con un plano general atmosférico de él solo en la cocina tenuemente iluminada de un apartamento junto a una gran ventana cubierta de lluvia, con las luces brillantes de la ciudad visibles en el exterior → transición a un primer plano cálido mientras coloca una olla en la estufa y comienza a preparar una comida a altas horas de la noche → corte a un primer plano cenital de la comida mientras los fideos finos se cocinan en agua hirviendo, rodeados de vapor ascendente → transición a un primer plano íntimo mientras casca un huevo fresco en un tazón pequeño junto a la estufa → corte a un plano macro detallado de unos palillos levantando fideos recién cocinados de la olla humeante → transición a un primer plano cinematográfico cuando los fideos se colocan en un tazón y se cubren con un huevo pasado por agua, cebollino en rodajas y condimento de chile rojo → corte a un plano medio cálido mientras sostiene cuidadosamente el tazón humeante terminado con ambas manos → transición a un plano general del interior nocturno mientras se sienta solo en una mesa pequeña junto a la ventana lluviosa, mirando en silencio hacia la brillante ciudad exterior → corte a un primerísimo plano de la comida mientras los palillos levantan los fideos junto al huevo y el chile → transición a un primer plano íntimo de perfil lateral mientras se lleva los fideos a la boca y da un bocado lento → los planos finales se alternan entre su rostro tranquilo, el ramen humeante y las luces de la ciudad lluviosa reflejadas a través de la ventana, terminando en un plano general silencioso de él sentado solo con su comida caliente.
+
+Cinematografía natural de anime, animación detallada de personajes dibujada a mano, narración cinematográfica costumbrista (slice-of-life), movimiento realista de la comida, expresiones faciales sutiles, movimiento suave de la cámara, transiciones cinematográficas fluidas, profundidad de campo reducida, texturas de ramen muy detalladas, vapor ascendente, iluminación cálida anaranjada de la cocina contrastada con la luz nocturna azul fría, cristal cubierto de lluvia, bokeh colorido de la ciudad, reflejos atmosféricos, sombras suaves, interior detallado del apartamento, encuadre íntimo, ambiente solitario y pacífico, atmósfera nocturna nostálgica, apariencia coherente del personaje en cada escena. Sin aspecto fotorrealista de acción real, sin apariencia CGI en 3D, sin rostros distorsionados, manos antinaturales, dedos adicionales, expresiones exageradas, inconsistencia en el personaje, parpadeos, subtítulos, texto, logotipos o marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

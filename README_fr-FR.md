@@ -382,20 +382,22 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2101528965110501762"></a>
 
-### Traduction en cours
+### Séquence cinématique d'anime d'un jeune homme cuisinant et mangeant des ramens tard le soir près d'une fenêtre pluvieuse.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2101528965110501762)
 
 Image cinématographique / Photogramme de film · Anime / Manga · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence cinématique d'anime d'un jeune homme cuisinant et mangeant des ramens tard le soir près d'une fenêtre pluvieuse.
 
 <img src="covers/2101528965110501762.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence cinématique de 30 secondes de style anime tranche de vie suivant un jeune homme pendant une nuit pluvieuse et calme chez lui. Commencez par un plan large atmosphérique de lui, debout, seul dans la cuisine tamisée d'un appartement près d'une grande fenêtre couverte de pluie, avec les lumières scintillantes de la ville visibles à l'extérieur → transition vers un gros plan chaleureux alors qu'il pose une casserole sur la cuisinière et commence à préparer un repas nocturne → coupe vers un gros plan en plongée totale sur la nourriture tandis que de fines nouilles cuisent dans de l'eau bouillonnante, entourées de vapeur montante → transition vers un gros plan intime alors qu'il casse un œuf frais dans un petit bol à côté de la cuisinière → coupe vers un plan macro détaillé de baguettes soulevant des nouilles fraîchement cuites de la casserole fumante → transition vers un gros plan cinématique tandis que les nouilles sont disposées dans un bol et garnies d'un œuf mollet, d'oignons verts émincés et d'assaisonnement au piment rouge → coupe vers un plan moyen chaleureux alors qu'il tient délicatement le bol fumant terminé à deux mains → transition vers un plan large d'intérieur nocturne alors qu'il est assis seul à une petite table près de la fenêtre pluvieuse, regardant calmement vers la ville lumineuse au-dehors → coupe vers un très gros plan sur la nourriture alors que des baguettes soulèvent les nouilles à côté de l'œuf et de la garniture de piment → transition vers un gros plan intime de profil alors qu'il porte les nouilles à sa bouche et prend une bouchée lente → les derniers plans alternent entre son visage paisible, le ramen fumant et les lumières de la ville pluvieuse reflétées à travers la fenêtre, se terminant sur un plan large calme de lui assis seul avec son repas chaud.
+
+Cinématographie d'anime naturelle, animation de personnages détaillée dessinée à la main, narration cinématique tranche de vie, mouvement réaliste de la nourriture, expressions faciales subtiles, mouvements de caméra doux, transitions cinématiques fluides, faible profondeur de champ, textures de ramen très détaillées, vapeur montante, éclairage de cuisine orange chaud contrastant avec la lumière nocturne bleu froid, verre couvert de pluie, bokeh coloré de la ville, reflets atmosphériques, ombres douces, intérieur d'appartement détaillé, cadrage intime, ambiance paisible et solitaire, atmosphère nocturne nostalgique, apparence cohérente du personnage à travers chaque scène. Aucun rendu photoréaliste en prises de vues réelles, aucun aspect CGI 3D, aucun visage déformé, mains non naturelles, doigts en trop, expressions exagérées, incohérence de personnage, scintillement, sous-titres, texte, logos ou filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

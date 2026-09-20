@@ -368,20 +368,22 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2101528965110501762"></a>
 
-### Çeviri sürüyor
+### Genç bir adamın yağmurlu bir pencere kenarında gece geç saatte ramen pişirip yediği sinematik anime sekansı.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2101528965110501762)
 
 Sinematik / Film Karesi · Anime / Manga · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir adamın yağmurlu bir pencere kenarında gece geç saatte ramen pişirip yediği sinematik anime sekansı.
 
 <img src="covers/2101528965110501762.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sessiz ve yağmurlu bir gecede evindeki genç bir adamı takip eden, 30 saniyelik sinematik anime tarzı bir yaşamdan kesit (slice-of-life) sekansı oluşturun. Dışarıdaki ışıl ışıl şehir ışıklarının görülebildiği, yağmur damlalarıyla kaplı büyük bir pencerenin yanındaki loş apartman mutfağında tek başına durduğu geniş ve atmosferik bir çekimle başlayın → ocağa bir tencere koyup gece geç saat yemeğini hazırlamaya başladığı sıcak bir yakın çekime geçiş yapın → ince eriştelerin yükselen buhar eşliğinde fokurdayan suda piştiği yukarıdan çekilmiş bir yiyecek yakın çekimine geçin → ocağın yanındaki küçük bir kaseye taze bir yumurta kırdığı samimi bir yakın çekime geçiş yapın → tencereden taze pişmiş erişteleri kaldıran yemek çubuklarının ayrıntılı bir makro çekimine geçin → eriştelerin bir kaseye konduğu ve üzerine rafadan bir yumurta, dilimlenmiş yeşil soğan ile kırmızı biber baharatı eklendiği sinematik bir yakın çekime geçiş yapın → tamamlanmış dumanı tüten kaseyi iki eliyle dikkatlice tuttuğu sıcak bir orta çekime geçin → yağmurlu pencerenin yanındaki küçük bir masada tek başına oturup dışarıdaki ışıl ışıl şehre sessizce baktığı geniş bir gece iç mekân çekimine geçiş yapın → yemek çubuklarının yumurta ve biber süslemesinin yanındaki erişteleri kaldırdığı aşırı yakın bir yiyecek çekimine geçin → erişteleri ağzına götürüp yavaşça bir ısırık aldığı samimi bir yan profil yakın çekimine geçiş yapın → son çekimler onun huzurlu yüzü, tüten ramen ve pencereden yansıyan yağmurlu şehir ışıkları arasında gidip gelsin; sıcak yemeğiyle tek başına oturduğu sessiz ve geniş bir çekimle sona ersin.
+
+Doğal anime sinematografisi, ayrıntılı el çizimi karakter animasyonu, sinematik yaşamdan kesit hikâye anlatımı, gerçekçi yiyecek hareketi, ince yüz ifadeleri, yumuşak kamera hareketi, akıcı sinematik geçişler, sığ alan derinliği, son derece ayrıntılı ramen dokuları, yükselen buhar, soğuk mavi gece ışığıyla tezat oluşturan sıcak turuncu mutfak aydınlatması, yağmurla kaplı cam, renkli şehir bokehi, atmosferik yansımalar, yumuşak gölgeler, ayrıntılı apartman içi, samimi kadraj, huzurlu ve yalnız bir ruh hali, nostaljik gece atmosferi, her sahnede tutarlı karakter görünümü. Fotogerçekçi canlı çekim görüntüsü, 3D CGI görünümü, bozuk yüzler, doğal olmayan eller, fazla parmaklar, abartılı ifadeler, karakter tutarsızlığı, titreme, altyazı, metin, logo veya filigran olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

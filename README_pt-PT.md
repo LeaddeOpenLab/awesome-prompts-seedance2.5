@@ -368,20 +368,22 @@ Banda desenhada / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2101528965110501762"></a>
 
-### Tradução em curso
+### Sequência cinematográfica de anime de um jovem a cozinhar e a comer ramen tarde da noite junto a uma janela chuvosa.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2101528965110501762)
 
 Cena de Cinema / Fotograma · Anime / Mangá · Personagem · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência cinematográfica de anime de um jovem a cozinhar e a comer ramen tarde da noite junto a uma janela chuvosa.
 
 <img src="covers/2101528965110501762.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma sequência cinematográfica de 30 segundos em estilo anime slice-of-life acompanhando um jovem ao longo de uma noite chuvosa e calma em casa. Comece com um plano geral atmosférico dele sozinho na cozinha mal iluminada de um apartamento ao lado de uma grande janela coberta de chuva, com as luzes brilhantes da cidade visíveis no exterior → transição para um grande plano acolhedor enquanto ele coloca uma panela ao lume e começa a preparar uma refeição a altas horas da noite → corte para um plano zenital em grande plano da comida enquanto a massa fina coze em água a ferver, rodeada por vapor a subir → transição para um grande plano íntimo enquanto ele parte um ovo fresco para uma pequena taça ao lado do fogão → corte para um plano macro detalhado de pauzinhos a levantar a massa acabada de cozer da panela a fumegar → transição para um grande plano cinematográfico enquanto a massa é colocada numa taça e guarnecida com um ovo mal cozido, cebolinho fatiado e condimento de piripíri vermelho → corte para um plano médio acolhedor enquanto ele segura cuidadosamente a taça fumegante terminada com ambas as mãos → transição para um plano geral noturno de interior enquanto se senta sozinho a uma pequena mesa junto à janela fustigada pela chuva, olhando em silêncio para a cidade iluminada lá fora → corte para um grande plano extremo da comida enquanto os pauzinhos erguem a massa ao lado da cobertura de ovo e piripíri → transição para um grande plano íntimo de perfil enquanto ele aproxima a massa da boca e dá uma garfada lenta → os planos finais alternam entre o seu rosto tranquilo, o ramen a fumegar e as luzes da cidade chuvosa refletidas no vidro da janela, terminando num plano geral sereno dele sentado sozinho com a sua refeição quente.
+
+Cinematografia natural de anime, animação detalhada de personagens desenhada à mão, narrativa cinematográfica slice-of-life, movimento realista da comida, expressões faciais subtis, movimento suave de câmara, transições cinematográficas fluidas, profundidade de campo reduzida, texturas de ramen altamente detalhadas, vapor ascendente, iluminação alaranjada e quente da cozinha em contraste com a luz azulada e fria da noite, vidro coberto de chuva, bokeh colorido da cidade, reflexos atmosféricos, sombras suaves, interior de apartamento detalhado, enquadramento intimista, ambiente pacífico e solitário, atmosfera noturna nostálgica, aparência consistente da personagem em todas as cenas. Sem aspeto fotorrealista de imagem real, sem aparência 3D CGI, sem rostos distorcidos, mãos não naturais, dedos a mais, expressões exageradas, inconsistência de personagens, cintilação, legendas, texto, logótipos ou marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)
