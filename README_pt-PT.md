@@ -4129,20 +4129,20 @@ Tradução em curso
 
 <a name="prompt-2101683541629354348"></a>
 
-### Tradução em curso
+### Animação contínua em tinta da China com transições de ondas oceânicas para montanhas com pagode envoltas em névoa, folhagem de outono, flores de cerejeira e uma noite de lua cheia.
 
 Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Publicação original](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Animação contínua em tinta da China com transições de ondas oceânicas para montanhas com pagode envoltas em névoa, folhagem de outono, flores de cerejeira e uma noite de lua cheia.
 
 <img src="covers/2101683541629354348.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma animação contínua e harmoniosa em aguarela e tinta da China tradicional começa com ondas oceânicas em azul-profundo a transformarem-se em montanhas envoltas em névoa com um pagode e escadarias de pedra. Nuvens de tinta carmesim varrem a cena, fazendo a transição para um rio sereno com um pequeno barco e uma árvore vermelha de outono. A folhagem vermelha transforma-se em delicadas flores de cerejeira cor-de-rosa, com pétalas a flutuarem à volta de uma árvore solitária semelhante a um bonsai numa ilhota minúscula. Por fim, uma lua cheia resplandecente ergue-se por detrás de montanhas distantes, lançando um reflexo dourado sobre as águas tranquilas enquanto a cena se desvanece numa noite pacífica. Atmosférico, poético, transições fluidas, estética elegante de pintura chinesa, texturas suaves de aguarela.
 ```
 
 [↑ Voltar às categorias](#catalog)

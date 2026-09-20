@@ -4135,20 +4135,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2101683541629354348"></a>
 
-### Übersetzung läuft
+### Nahtlose chinesische Tusche-Animation mit Übergängen von Meereswellen zu nebelverhangenen Pagodenbergen, Herbstlaub, Kirschblüten und einer Vollmondnacht.
 
 Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Originalbeitrag](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Nahtlose chinesische Tusche-Animation mit Übergängen von Meereswellen zu nebelverhangenen Pagodenbergen, Herbstlaub, Kirschblüten und einer Vollmondnacht.
 
 <img src="covers/2101683541629354348.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine nahtlose traditionelle chinesische Tusche-Aquarell-Animation beginnt mit tiefblauen Meereswellen, die sich in nebelverhangene Berge mit einer Pagode und Steintreppen verwandeln. Karmesinrote Tuschewolken ziehen über die Szene und gehen in einen ruhigen Fluss mit einem kleinen Boot und einem herbstlich roten Baum über. Das rote Laub verwandelt sich in zarte rosa Kirschblüten, deren Blütenblätter um einen einzelnen, bonsaiartigen Baum auf einer winzigen Insel wehen. Schließlich geht hinter fernen Bergen ein leuchtender Vollmond auf, der eine goldene Reflexion über das ruhige Wasser wirft, während die Szene in eine friedliche Nacht übergeht. Atmosphärisch, poetisch, fließende Übergänge, elegante chinesische Malästhetik, weiche Aquarelltexturen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -4129,20 +4129,20 @@ Tradução em andamento
 
 <a name="prompt-2101683541629354348"></a>
 
-### Tradução em andamento
+### Animação contínua em tinta nanquim chinesa em transição de ondas do oceano para montanhas com pagode envoltas em névoa, folhagem de outono, flores de cerejeira e uma noite de lua cheia.
 
 Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Publicação original](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Animação contínua em tinta nanquim chinesa em transição de ondas do oceano para montanhas com pagode envoltas em névoa, folhagem de outono, flores de cerejeira e uma noite de lua cheia.
 
 <img src="covers/2101683541629354348.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma animação fluida e contínua em aquarela e tinta nanquim tradicional chinesa começa com ondas do mar em azul profundo que se transformam em montanhas enevoadas com um pagode e escadarias de pedra. Nuvens de tinta carmesim varrem a cena, fazendo a transição para um rio calmo com um pequeno barco e uma árvore vermelha de outono. A folhagem vermelha se transforma em delicadas flores de cerejeira cor-de-rosa, com pétalas flutuando ao redor de uma árvore solitária semelhante a um bonsai em uma ilha minúscula. Por fim, uma lua cheia resplandecente surge atrás de montanhas distantes, lançando um reflexo dourado sobre a água tranquila enquanto a cena se dissolve em uma noite serena. Atmosférico, poético, transições fluidas, estética elegante da pintura chinesa, texturas suaves de aquarela.
 ```
 
 [↑ Voltar às categorias](#catalog)

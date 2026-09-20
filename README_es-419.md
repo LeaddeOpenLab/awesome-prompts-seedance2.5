@@ -4135,20 +4135,20 @@ Traducción en curso
 
 <a name="prompt-2101683541629354348"></a>
 
-### Traducción en curso
+### Animación continua de tinta china con transiciones desde olas oceánicas hacia montañas con pagoda entre la niebla, follaje otoñal, flores de cerezo y una noche de luna llena.
 
 Autor：[@noorwithwifi](https://x.com/noorwithwifi) · [Publicación original](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Animación continua de tinta china con transiciones desde olas oceánicas hacia montañas con pagoda entre la niebla, follaje otoñal, flores de cerezo y una noche de luna llena.
 
 <img src="covers/2101683541629354348.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una animación fluida y continua de acuarela y tinta china tradicional comienza con olas oceánicas de color azul profundo que se transforman en montañas cubiertas de niebla con una pagoda y escaleras de piedra. Nubes de tinta carmesí barren la escena, pasando a un río tranquilo con un pequeño bote y un árbol rojo otoñal. El follaje rojo se transforma en delicadas flores de cerezo rosadas, con pétalos que flotan alrededor de un árbol solitario tipo bonsái en una isla diminuta. Por último, una brillante luna llena se eleva tras lejanas montañas, proyectando un reflejo dorado sobre las aguas tranquilas mientras la escena se disuelve en una noche apacible. Atmosférico, poético, transiciones fluidas, elegante estética de pintura china, suaves texturas de acuarela.
 ```
 
 [↑ Volver a categorías](#catalog)

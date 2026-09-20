@@ -4129,20 +4129,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2101683541629354348"></a>
 
-### Çeviri sürüyor
+### Okyanus dalgalarından sisli pagoda dağlarına, sonbahar yapraklarına, kiraz çiçeklerine ve dolunaylı bir geceye geçiş yapan kusursuz Çin mürekkep animasyonu.
 
 Yazar：[@noorwithwifi](https://x.com/noorwithwifi) · [Orijinal gönderi](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Okyanus dalgalarından sisli pagoda dağlarına, sonbahar yapraklarına, kiraz çiçeklerine ve dolunaylı bir geceye geçiş yapan kusursuz Çin mürekkep animasyonu.
 
 <img src="covers/2101683541629354348.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kusursuz bir geleneksel Çin mürekkep yıkama ve suluboya animasyonu, koyu mavi okyanus dalgalarının bir pagoda ve taş merdivenler barındıran sisli dağlara dönüşmesiyle başlar. Kızıl mürekkep bulutları sahneyi kaplar ve küçük bir tekne ile sonbahar kırmızısı bir ağacın bulunduğu sakin bir nehre geçiş yapar. Kırmızı yapraklar narin pembe kiraz çiçeklerine dönüşürken, yapraklar minik bir adadaki bonsaimsi yalnız bir ağacın etrafında sürüklenir. Son olarak, parıldayan bir dolunay uzak dağların ardından yükselir, sahne huzurlu bir geceye doğru kararırken sakin suların üzerinde altın rengi bir yansıma oluşturur. Atmosferik, şiirsel, akıcı geçişler, zarif Çin resmi estetiği, yumuşak suluboya dokuları.
 ```
 
 [↑ Kategorilere dön](#catalog)

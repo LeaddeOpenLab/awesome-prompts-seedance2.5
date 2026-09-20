@@ -4228,20 +4228,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2101683541629354348"></a>
 
-### Đang dịch
+### Hoạt hình thủy mặc Trung Hoa liền mạch chuyển tiếp từ sóng biển sang núi non mờ sương có bảo tháp, tán lá mùa thu, hoa anh đào và đêm trăng tròn.
 
 Tác giả：[@noorwithwifi](https://x.com/noorwithwifi) · [Bài gốc](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hoạt hình thủy mặc Trung Hoa liền mạch chuyển tiếp từ sóng biển sang núi non mờ sương có bảo tháp, tán lá mùa thu, hoa anh đào và đêm trăng tròn.
 
 <img src="covers/2101683541629354348.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một thước phim hoạt hình màu nước thủy mặc truyền thống Trung Hoa liền mạch bắt đầu với những con sóng biển xanh thẫm biến đổi thành những dãy núi mờ sương với một ngôi bảo tháp và các bậc thang đá. Những đám mây mực màu đỏ thẫm quét qua khung cảnh, chuyển tiếp sang một dòng sông êm đềm với một con thuyền nhỏ và một tán cây lá đỏ mùa thu. Tán lá đỏ biến thành những cánh hoa anh đào màu hồng thanh tao, với những cánh hoa bay lượn quanh một gốc cây dáng bonsai cô độc trên hòn đảo nhỏ. Cuối cùng, một vầng trăng tròn rực rỡ nhô lên từ phía sau những ngọn núi xa xăm, đổ bóng ánh vàng lung linh trên mặt nước tĩnh lặng khi khung cảnh dần chìm vào đêm tĩnh mịch. Giàu bầu không khí, chất thơ, chuyển cảnh mượt mà, thẩm mỹ tranh họa Trung Hoa tao nhã, chất liệu màu nước mềm mại.
 ```
 
 [↑ Về danh mục](#catalog)

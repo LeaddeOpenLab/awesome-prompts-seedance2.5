@@ -4135,20 +4135,20 @@ Traduzione in corso
 
 <a name="prompt-2101683541629354348"></a>
 
-### Traduzione in corso
+### Animazione continua a inchiostro cinese con transizioni da onde oceaniche a montagne avvolte dalla nebbia con pagoda, fogliame autunnale, fiori di ciliegio e una notte di luna piena.
 
 Autore：[@noorwithwifi](https://x.com/noorwithwifi) · [Post originale](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Animazione continua a inchiostro cinese con transizioni da onde oceaniche a montagne avvolte dalla nebbia con pagoda, fogliame autunnale, fiori di ciliegio e una notte di luna piena.
 
 <img src="covers/2101683541629354348.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'animazione fluida e continua ad acquerello e inchiostro tradizionale cinese inizia con onde oceaniche blu intenso che si trasformano in montagne avvolte dalla nebbia con una pagoda e scale di pietra. Nuvole d'inchiostro cremisi attraversano la scena, trasformandosi in un fiume calmo con una barchetta e un albero rosso autunnale. Il fogliame rosso si muta in delicati fiori di ciliegio rosa, con petali che fluttuano attorno a un albero solitario simile a un bonsai su una minuscola isola. Infine, una luna piena luminosa sorge dietro montagne lontane, proiettando un riflesso dorato sull'acqua tranquilla mentre la scena sfuma in una notte pacifica. Atmosferico, poetico, transizioni fluide, elegante estetica della pittura cinese, morbide texture ad acquerello.
 ```
 
 [↑ Torna alle categorie](#catalog)

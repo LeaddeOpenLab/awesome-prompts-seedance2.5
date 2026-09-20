@@ -4135,20 +4135,20 @@ Traduction en cours
 
 <a name="prompt-2101683541629354348"></a>
 
-### Traduction en cours
+### Animation fluide au lavis d'encre chinois passant de vagues océaniques à des montagnes brumeuses avec pagode, feuillage automnal, fleurs de cerisier et nuit de pleine lune.
 
 Auteur：[@noorwithwifi](https://x.com/noorwithwifi) · [Publication originale](https://x.com/noorwithwifi/status/2101683541629354348)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Animation fluide au lavis d'encre chinois passant de vagues océaniques à des montagnes brumeuses avec pagode, feuillage automnal, fleurs de cerisier et nuit de pleine lune.
 
 <img src="covers/2101683541629354348.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une animation fluide et continue à l'aquarelle et au lavis d'encre traditionnel chinois commence par des vagues océaniques bleu profond se métamorphosant en montagnes brumeuses abritant une pagode et des escaliers en pierre. Des nuages d'encre cramoisie balayent la scène, laissant place à une rivière paisible avec une petite barque et un arbre aux couleurs d'automne rougeoyantes. Le feuillage rouge se transforme en délicates fleurs de cerisier roses, dont les pétales tourbillonnent autour d'un arbre solitaire semblable à un bonsaï sur un îlot minuscule. Enfin, une pleine lune éclatante s'élève derrière de lointaines montagnes, projetant un reflet doré sur les eaux calmes tandis que la scène s'estompe dans une nuit paisible. Atmosphérique, poétique, transitions fluides, esthétique élégante de la peinture chinoise, douces textures d'aquarelle.
 ```
 
 [↑ Retour aux catégories](#catalog)
