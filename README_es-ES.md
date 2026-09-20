@@ -349,20 +349,32 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2101442950647697549"></a>
 
-### Traducción en curso
+### Escena cinematográfica de un callejón nocturno en el periodo Edo con un vendedor de soba y vapor ascendente.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicación original](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica de un callejón nocturno en el periodo Edo con un vendedor de soba y vapor ascendente.
 
 <img src="covers/2101442950647697549.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+ESCENA: Callejón nocturno del periodo Edo, 16:9. Plano fijo en tres cuartos de un puesto de soba de madera con yugo para el hombro, sin ruedas. Un andon de papel brilla tenuemente. Una olla hirviendo reposa en el puesto. Un vendedor adulto, en la treintena, lleva un kasa; el rostro permanece oculto bajo el ala. Ningún segundo rostro. Ningún texto legible en el noren ni en el farol.
+
+ACCIÓN: El vapor surge de la olla y cruza la lente en una lenta estela, luego se disipa. El vendedor no levanta la mirada. No se sirve nada en un cuenco. Ningún cliente entra en escena.
+
+ENFOQUE: Nitidez absoluta en el borde del vapor, el borde de la olla y el papel del andon. Las maderas del callejón están un punto más suaves.
+
+FÍSICA: El vapor es caliente y húmedo. Flota y luego se desvanece. No parece hielo seco ni una máquina de humo. Sin cintas de CGI.
+
+LUZ: El andon es la única luz clave cálida. Noche fresca y húmeda a su alrededor. Brillo especular únicamente sobre el caldo.
+
+ESTILO: Cinematográfico fotorrealista, Japón de época, humo de leña y resplandor de papel aceitado, grano suave. Sin anime. Sin texto. Sin marcas de agua. Sin logotipos.
+
+AUDIO: Solo efectos de sonido diegéticos. Sin música. Sin banda sonora. Sin cantos. Sin diálogos. Sin narración. Sin pregones del vendedor. Suave hervor y un siseo de vapor húmedo mientras la estela cruza la lente. Aire lejano de callejón nocturno.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4068,20 +4080,20 @@ Traducción en curso
 
 <a name="prompt-2101148067458347258"></a>
 
-### Traducción en curso
+### Instrucción de animación de 8 segundos basada en un tablero infográfico de atuendo, que indica a la modelo y a los recuadros de cada prenda rotar sincrónicamente 360 grados para su exhibición.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicación original](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infografía / Visual Educativo · Influencer / Modelo · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción de animación de 8 segundos basada en un tablero infográfico de atuendo, que indica a la modelo y a los recuadros de cada prenda rotar sincrónicamente 360 grados para su exhibición.
 
 <img src="covers/2101148067458347258.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una animación infográfica de moda limpia y prémium de 8 segundos basada en el diseño de un tablero de atuendos (outfit-board). Toda la composición permanece visible sobre un fondo blanco minimalista. La modelo femenina a la derecha comienza una suave rotación de 360° sobre su eje vertical, como en una plataforma giratoria de exhibición de moda. Su movimiento es elegante y continuo, manteniendo una postura natural y una física de telas realista. El cabello, las tiras de la falda y los accesorios reaccionan sutilmente al movimiento. Exactamente al mismo tiempo, cada artículo mostrado dentro de las cajas numeradas gira de manera sincronizada: el collar gira lentamente en 3D, revelando la profundidad de la cadena y los detalles del colgante. El lazo para el cabello gira con gracia alrededor de su centro. La consola de videojuegos portátil gira sobre su eje vertical como en un anuncio de producto. La minifalda cargo gira 360° para mostrar las vistas frontal, lateral y trasera. Las botas de plataforma giran juntas como en los renders de exhibición de productos de lujo. La camiseta negra con hombros descubiertos gira suavemente para revelar la forma completa de la prenda. Todos los artículos completan sus rotaciones en perfecta sincronía con la velocidad de rotación de la modelo. Las cajas, los números, la tipografía y el diseño permanecen fijos en su posición, mientras que solo los productos giran dentro de sus marcos. La cámara permanece mayormente estática con un sutil acercamiento cinematográfico. Iluminación suave de estudio, sombras realistas, estética limpia de anuncio publicitario de moda, detalles ultranítidos, gráficos en movimiento prémium, transiciones fluidas, presentación de catálogo de lujo, 4K, 60 fps.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4112,20 +4124,21 @@ Traducción en curso
 
 <a name="prompt-2101457329401057421"></a>
 
-### Traducción en curso
+### Tomas de dron pasando por pastizales y montañas.
 
 Autor：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Publicación original](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Tomas de dron pasando por pastizales y montañas.
 
 <img src="covers/2101457329401057421.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+-Dron pasando a través de un pastizal
+-Dron pasando a través de la montaña
 ```
 
 [↑ Volver a categorías](#catalog)

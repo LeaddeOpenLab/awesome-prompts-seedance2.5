@@ -335,20 +335,20 @@ Quadrinhos / Storyboard · Fotografia · Personagem · Publicado
 
 <a name="prompt-2101442950647697549"></a>
 
-### Tradução em andamento
+### Cena cinematográfica noturna em um beco do período Edo apresentando um vendedor de soba com vapor subindo.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena cinematográfica noturna em um beco do período Edo apresentando um vendedor de soba com vapor subindo.
 
 <img src="covers/2101442950647697549.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+CENA: Beco noturno de Edo, 16:9. Enquadramento três quartos fixo em uma barraca de soba de madeira com jugo de ombro, sem rodas. Um andon de papel brilha. Uma panela fervendo fica na barraca. Um vendedor adulto, na faixa dos trinta anos, usa um kasa; o rosto permanece escondido sob a aba. Nenhum segundo rosto. Nenhuma escrita legível no noren ou na lanterna.\n\nAÇÃO: O vapor sobe da panela e cruza a lente em uma lâmina lenta, depois se dissipa. O vendedor não levanta o olhar. Nada de despejar em uma tigela. Nenhum cliente se aproximando.\n\nFOCO: Nitidez impecável na borda do vapor, na borda da panela e no papel do andon. As tábuas do beco estão um ponto mais suaves.\n\nFÍSICA: O vapor é quente e úmido. Ele deriva e depois desaparece. Não se parece com gelo seco ou máquina de fumaça. Sem fitas de CGI.\n\nLUZ: O andon é a única luz principal quente. Noite fresca e úmida ao redor. Reflexos especulares apenas no caldo.\n\nESTILO: Cinematográfico fotorrealista, Japão de época, fumaça de lenha e brilho de papel oleado, granulação suave. Sem anime. Sem texto. Sem marca d'água. Sem logotipos.\n\nÁUDIO: Apenas efeitos sonoros diegéticos. Sem música. Sem trilha sonora. Sem canto. Sem fala. Sem narração. Sem pregão do vendedor. Fervura suave e um chiado de vapor úmido enquanto a lâmina cruza a lente. Ar distante do beco noturno.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3995,20 +3995,20 @@ Tradução em andamento
 
 <a name="prompt-2101148067458347258"></a>
 
-### Tradução em andamento
+### Prompt de animação de 8 segundos baseado em um painel infográfico de looks, instruindo a modelo e os quadros de cada peça de roupa a realizarem uma rotação síncrona de 360 graus.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infográfico / Edu Visual · Influenciador(a) / Modelo · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de animação de 8 segundos baseado em um painel infográfico de looks, instruindo a modelo e os quadros de cada peça de roupa a realizarem uma rotação síncrona de 360 graus.
 
 <img src="covers/2101148067458347258.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma animação infográfica de moda limpa e premium de 8 segundos baseada no layout de um quadro de looks (outfit-board). Toda a composição permanece visível em um fundo minimalista branco. A modelo feminina à direita inicia uma rotação suave de 360° em seu eixo vertical, como em uma plataforma giratória de exibição de moda. Seu movimento é elegante e contínuo, mantendo uma postura natural e física realista dos tecidos. Cabelo, tiras da saia e acessórios reagem sutilmente ao movimento. Exatamente ao mesmo tempo, cada item exibido dentro das caixas numeradas gira sincronizadamente: o colar gira lentamente em 3D, revelando a profundidade da corrente e os detalhes do pingente. O laço de cabelo gira graciosamente em torno de seu centro. O console de videogame portátil gira em seu eixo vertical como em um comercial de produto. A minissaia cargo gira 360° para exibir as vistas frontal, lateral e traseira. As botas plataforma giram juntas como renderizações de exibição de produtos de luxo. A blusa preta ombro a ombro gira suavemente para revelar a forma completa da peça. Todos os itens completam suas rotações em perfeita sincronia com a velocidade de rotação da modelo. As caixas, números, tipografia e layout permanecem fixos em suas posições, enquanto apenas os produtos giram dentro de suas molduras. A câmera permanece em grande parte estática com uma sutil aproximação cinematográfica (push-in). Iluminação suave de estúdio, sombras realistas, estética limpa de anúncio de moda comercial, detalhes ultranítidos, motion graphics premium, suavização fluida (smooth easing), apresentação de catálogo de luxo, 4K, 60fps.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4039,20 +4039,21 @@ Tradução em andamento
 
 <a name="prompt-2101457329401057421"></a>
 
-### Tradução em andamento
+### Tomadas de drone passando por pastagens e montanhas.
 
 Autor：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Publicação original](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Tomadas de drone passando por pastagens e montanhas.
 
 <img src="covers/2101457329401057421.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+-Drone passando por pastagens
+-Drone passando pela montanha
 ```
 
 [↑ Voltar às categorias](#catalog)

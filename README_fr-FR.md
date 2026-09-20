@@ -349,20 +349,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2101442950647697549"></a>
 
-### Traduction en cours
+### Scène cinématographique nocturne dans une ruelle de l'époque d'Edo avec un vendeur de soba et de la vapeur montante.
 
 Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène cinématographique nocturne dans une ruelle de l'époque d'Edo avec un vendeur de soba et de la vapeur montante.
 
 <img src="covers/2101442950647697549.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+SCÈNE : Ruelle nocturne d'Edo, 16:9. Plan trois-quarts fixe sur un stand de soba en bois à joug d'épaule, sans roues. Un andon en papier rougeoie. Une marmite bouillante repose sur l'étal. Un vendeur adulte, trentenaire, porte un kasa ; le visage reste dissimulé sous le bord. Pas de second visage. Aucune écriture lisible sur le noren ou la lanterne.\n\nACTION : La vapeur s'échappe de la marmite et traverse l'objectif en une nappe lente, puis s'amenuise. Le vendeur ne lève pas les yeux. Pas de versement dans un bol. Aucun client ne s'approche.\n\nMISE AU POINT : Netteté chirurgicale sur la bordure de la vapeur, le bord de la marmite et le papier de l'andon. Les planches de la ruelle ont un diaphragme de douceur.\n\nPHYSIQUE : La vapeur est chaude et humide. Elle dérive, puis s'estompe. Elle ne ressemble pas à de la carboglace ou à une machine à fumée. Pas de rubans CGI.\n\nLUMIÈRE : L'andon est la seule source principale chaude. Nuit fraîche et humide tout autour. Spéculaires uniquement sur le bouillon.\n\nSTYLE : Cinématographique photoréaliste, Japon d'époque, fumée de bois et lueur de papier huilé, grain doux. Pas d'anime. Pas de texte. Pas de filigrane. Pas de logos.\n\nAUDIO : Effets sonores diégétiques uniquement. Pas de musique. Pas de bande originale. Pas de chant. Pas de paroles. Pas de narration. Pas d'appel du vendeur. Léger bouillonnement et sifflement de vapeur humide lorsque la nappe traverse l'objectif. Air lointain de la ruelle nocturne.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4001,20 +4001,20 @@ Traduction en cours
 
 <a name="prompt-2101148067458347258"></a>
 
-### Traduction en cours
+### Prompt d'animation de 8 secondes basé sur un tableau infographique de tenues, indiquant au mannequin et aux encadrés des différents articles vestimentaires d'effectuer une rotation synchrone à 360 degrés.
 
 Auteur：[@AIwithkhan](https://x.com/AIwithkhan) · [Publication originale](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infographie / Visuel éducatif · Influenceur / Mannequin · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'animation de 8 secondes basé sur un tableau infographique de tenues, indiquant au mannequin et aux encadrés des différents articles vestimentaires d'effectuer une rotation synchrone à 360 degrés.
 
 <img src="covers/2101148067458347258.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une animation infographique de mode épurée et haut de gamme de 8 secondes basée sur la disposition d'un tableau de tenues (outfit-board). L'ensemble de la composition reste visible sur un fond blanc minimaliste. Le mannequin féminin sur la droite commence une rotation fluide à 360° sur son axe vertical, comme sur un plateau tournant de présentation de mode. Son mouvement est élégant et continu, conservant une posture naturelle et une physique des tissus réaliste. Les cheveux, les lanières de la jupe et les accessoires réagissent subtilement au mouvement. Exactement au même moment, chaque article affiché à l'intérieur des boîtes numérotées tourne de manière synchrone : le collier tourne lentement en 3D, révélant la profondeur de la chaîne et les détails du pendentif. Le nœud pour cheveux tourne gracieusement autour de son centre. La console de jeu portable tourne sur son axe vertical comme dans une publicité de produit. La mini-jupe cargo tourne à 360° pour mettre en valeur les vues de face, de profil et de dos. Les bottes à plateforme tournent ensemble comme des rendus de vitrine de produits de luxe. Le haut noir aux épaules dénudées tourne doucement pour révéler la forme complète du vêtement. Tous les articles terminent leurs rotations en parfaite synchronisation avec la vitesse de rotation du mannequin. Les boîtes, les numéros, la typographie et la mise en page restent fixes tandis que seuls les produits tournent à l'intérieur de leurs cadres. La caméra reste principalement statique avec un subtil travelling avant cinématique (push-in). Éclairage doux de studio, ombres réalistes, esthétique épurée de publicité de mode commerciale, détails ultra-nets, animations graphiques haut de gamme, transitions douces (easing), présentation de catalogue de luxe, 4K, 60 ips.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4045,20 +4045,21 @@ Traduction en cours
 
 <a name="prompt-2101457329401057421"></a>
 
-### Traduction en cours
+### Prises de vue par drone traversant des prairies et des montagnes.
 
 Auteur：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Publication originale](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prises de vue par drone traversant des prairies et des montagnes.
 
 <img src="covers/2101457329401057421.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+-Drone traversant une prairie
+-Drone traversant la montagne
 ```
 
 [↑ Retour aux catégories](#catalog)

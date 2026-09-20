@@ -349,20 +349,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2101442950647697549"></a>
 
-### Übersetzung läuft
+### Filmische Nachtgassenszene der Edo-Zeit mit einem Soba-Verkäufer und aufsteigendem Dampf.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Nachtgassenszene der Edo-Zeit mit einem Soba-Verkäufer und aufsteigendem Dampf.
 
 <img src="covers/2101442950647697549.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+SZENE: Nachtgasse der Edo-Zeit, 16:9. Feste Dreiviertel-Einstellung auf einen hölzernen Soba-Schulterjoch-Stand, keine Räder. Ein Papier-Andon glimmt. Ein kochender Topf steht auf dem Stand. Ein erwachsener Händler, in den Dreißigern, trägt einen Kasa; das Gesicht bleibt unter der Krempe verborgen. Kein zweites Gesicht. Keine lesbare Schrift auf dem Noren oder der Laterne.\n\nAKTION: Dampf quillt aus dem Topf und zieht in einem einzigen langsamen Schleier an der Linse vorbei, wird dann dünner. Der Händler blickt nicht auf. Kein Eingießen in eine Schale. Kein Kunde, der herantritt.\n\nFOKUS: Gestochen scharf auf der Kante des Dampfes, dem Topfrand und dem Andon-Papier. Die Holzbohlen der Gasse liegen eine Blende weicher.\n\nPHYSIK: Dampf ist heiß und feucht. Er driftet und verblasst dann. Er sieht nicht wie Trockeneis oder eine Nebelmaschine aus. Keine CGI-Bänder.\n\nLICHT: Das Andon ist das einzige warme Hauptlicht. Kühle, feuchte Nacht darum herum. Glanzlichter nur auf der Brühe.\n\nSTIL: Fotorealistisch-filmisch, historisches Japan, Holzrauch und Schein von geöltem Papier, sanftes Korn. Kein Anime. Kein Text. Kein Wasserzeichen. Keine Logos.\n\nAUDIO: Nur diegetische SFX. Keine Musik. Kein Soundtrack. Kein Gesang. Keine Sprache. Keine Narration. Kein Händlerruf. Sanftes Kochen und ein feuchtes Zischen des Dampfes, während der Schleier an der Linse vorbeizieht. Entfernte Nachtluft der Gasse.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4001,20 +4001,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2101148067458347258"></a>
 
-### Übersetzung läuft
+### 8-Sekunden-Animations-Prompt basierend auf einer Outfit-Infografik-Tafel, der anweist, dass sich das Model und die einzelnen Kleidungsstück-Boxen synchron um 360 Grad drehen.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Originalbeitrag](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infografik / Edu Visual · Influencer / Model · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 8-Sekunden-Animations-Prompt basierend auf einer Outfit-Infografik-Tafel, der anweist, dass sich das Model und die einzelnen Kleidungsstück-Boxen synchron um 360 Grad drehen.
 
 <img src="covers/2101148067458347258.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine saubere, hochwertige 8-Sekunden-Mode-Infografik-Animation basierend auf dem Outfit-Board-Layout. Die gesamte Komposition bleibt auf einem weißen, minimalistischen Hintergrund sichtbar. Das weibliche Model auf der rechten Seite beginnt eine sanfte 360°-Drehung um ihre vertikale Achse, wie auf einem Drehteller für Modenschauen. Ihre Bewegung ist elegant und kontinuierlich, wobei eine natürliche Haltung und realistische Stoffphysik beibehalten werden. Haare, Rockbänder und Accessoires reagieren subtil auf die Bewegung. Genau zur gleichen Zeit dreht sich jeder in den nummerierten Boxen angezeigte Artikel synchron: Die Halskette dreht sich langsam in 3D und offenbart Kettentiefe und Anhängerdetails. Die Haarschleife dreht sich anmutig um ihre Mitte. Die Handheld-Spielkonsole dreht sich um ihre vertikale Achse wie in einem Produktwerbespot. Der Cargo-Minirock dreht sich um 360°, um Vorder-, Seiten- und Rückansichten zu präsentieren. Die Plateau-Stiefel drehen sich zusammen wie Renderings für Luxusprodukt-Präsentationen. Das schwarze schulterfreie Oberteil dreht sich sanft, um die vollständige Kleidungsform zu enthüllen. Alle Artikel schließen ihre Drehungen in perfekter Synchronisation mit der Rotationsgeschwindigkeit des Models ab. Die Boxen, Nummern, Typografie und das Layout bleiben in ihrer Position fixiert, während sich nur die Produkte innerhalb ihrer Rahmen drehen. Die Kamera bleibt weitgehend statisch mit einer subtilen filmischen Vorwärtsfahrt (Push-in). Weiche Studiobeleuchtung, realistische Schatten, saubere kommerzielle Modewerbungs-Ästhetik, ultrascharfe Details, hochwertige Motion Graphics, sanftes Easing, Luxuskatalog-Präsentation, 4K, 60fps.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4045,20 +4045,21 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2101457329401057421"></a>
 
-### Übersetzung läuft
+### Drohnenaufnahmen beim Flug durch Grasland und Berge.
 
 Autor：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Originalbeitrag](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Drohnenaufnahmen beim Flug durch Grasland und Berge.
 
 <img src="covers/2101457329401057421.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+-Drohne fliegt durch Grasland
+-Drohne fliegt durch die Berge
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -349,20 +349,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2101442950647697549"></a>
 
-### Traduzione in corso
+### Scena cinematografica notturna in un vicolo del periodo Edo con un venditore di soba e vapore che sale.
 
 Autore：[@studiokagurajp](https://x.com/studiokagurajp) · [Post originale](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena cinematografica notturna in un vicolo del periodo Edo con un venditore di soba e vapore che sale.
 
 <img src="covers/2101442950647697549.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+SCENA: Vicolo notturno di Edo, 16:9. Inquadratura a tre quarti fissa su un banchetto di soba in legno con bilanciere a spalla, senza ruote. Un andon di carta brilla. Una pentola che bolle si trova sul banco. Un venditore adulto, sui trent'anni, indossa un kasa; il volto resta nascosto sotto la tesa. Nessun secondo volto. Nessuna scritta leggibile sul noren o sulla lanterna.\n\nAZIONE: Il vapore sale dalla pentola e attraversa l'obiettivo in un unico strato lento, poi si dirada. Il venditore non alza lo sguardo. Nessun versamento in una ciotola. Nessun cliente che si avvicina.\n\nMESSA A FUOCO: Estremamente nitida sul bordo del vapore, sul bordo della pentola e sulla carta dell'andon. Le assi del vicolo sono più morbide di uno stop.\n\nFISICA: Il vapore è caldo e umido. Fluttua, poi svanisce. Non assomiglia a ghiaccio secco o a una macchina del fumo. Niente nastri in CGI.\n\nLUCE: L'andon è l'unica luce chiave calda. Notte fresca e umida tutt'intorno. Riflessi speculari solo sul brodo.\n\nSTILE: Cinematografico fotorealistico, Giappone d'epoca, fumo di legna e bagliore di carta oleata, grana morbida. Niente anime. Nessun testo. Nessuna filigrana. Nessun logo.\n\nAUDIO: Solo effetti sonori diegetici. Nessuna musica. Nessuna colonna sonora. Nessun canto. Nessun discorso. Nessuna narrazione. Nessun richiamo del venditore. Bollore lieve e sibilo di vapore umido mentre lo strato attraversa l'obiettivo. Aria lontana del vicolo notturno.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4001,20 +4001,20 @@ Traduzione in corso
 
 <a name="prompt-2101148067458347258"></a>
 
-### Traduzione in corso
+### Prompt per animazione di 8 secondi basato su un pannello infografico di outfit, che richiede una rotazione a 360 gradi sincronizzata tra la modella e i riquadri dei singoli articoli d'abbigliamento.
 
 Autore：[@AIwithkhan](https://x.com/AIwithkhan) · [Post originale](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infografica / Contenuto Visual Educativo · Influencer / Modello/a · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per animazione di 8 secondi basato su un pannello infografico di outfit, che richiede una rotazione a 360 gradi sincronizzata tra la modella e i riquadri dei singoli articoli d'abbigliamento.
 
 <img src="covers/2101148067458347258.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'animazione infografica di moda pulita e di alto livello di 8 secondi basata sul layout di una moodboard di outfit. L'intera composizione rimane visibile su uno sfondo bianco minimalista. La modella sulla destra inizia una fluida rotazione a 360° sul suo asse verticale, come su una piattaforma girevole per showcase di moda. Il suo movimento è elegante e continuo, mantenendo una postura naturale e una fisica realistica dei tessuti. Capelli, laccetti della gonna e accessori reagiscono sottilmente al movimento. Esattamente nello stesso momento, ogni articolo mostrato all'interno dei riquadri numerati ruota in modo sincrono: la collana ruota lentamente in 3D, rivelando la profondità della catena e i dettagli del ciondolo. Il fiocco per capelli gira con grazia attorno al proprio centro. La console di gioco portatile ruota sul proprio asse verticale come in uno spot pubblicitario di prodotto. La minigonna cargo ruota di 360° per mostrare le viste frontale, laterale e posteriore. Gli stivali con plateau ruotano insieme come render di esposizione di prodotti di lusso. Il top nero con spalle scoperte ruota fluidamente per rivelare la forma completa del capo. Tutti gli articoli completano le loro rotazioni in perfetta sincronia con la velocità di rotazione della modella. I riquadri, i numeri, la tipografia e il layout rimangono fissi in posizione, mentre solo i prodotti ruotano all'interno delle loro cornici. La telecamera rimane per lo più statica con un sottile carrello in avanti (push-in) cinematografico. Luce morbida da studio, ombre realistiche, estetica pulita da spot di moda commerciale, dettagli ultradefiniti, motion graphic di alta qualità, interpolazione fluida (smooth easing), presentazione da catalogo di lusso, 4K, 60fps.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4045,20 +4045,21 @@ Traduzione in corso
 
 <a name="prompt-2101457329401057421"></a>
 
-### Traduzione in corso
+### Riprese con drone che attraversa praterie e montagne.
 
 Autore：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Post originale](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Riprese con drone che attraversa praterie e montagne.
 
 <img src="covers/2101457329401057421.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+-Drone che attraversa la prateria
+-Drone che attraversa la montagna
 ```
 
 [↑ Torna alle categorie](#catalog)

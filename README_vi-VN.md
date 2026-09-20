@@ -351,20 +351,32 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2101442950647697549"></a>
 
-### Đang dịch
+### Cảnh con hẻm đêm thời Edo đậm chất điện ảnh với người bán mì soba và làn hơi nước bốc lên nghi ngút.
 
 Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh con hẻm đêm thời Edo đậm chất điện ảnh với người bán mì soba và làn hơi nước bốc lên nghi ngút.
 
 <img src="covers/2101442950647697549.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+CẢNH: Con hẻm đêm thời Edo, 16:9. Góc máy cố định ba phần tư ghi lại quang gánh bán mì soba bằng gỗ, không bánh xe. Một chiếc đèn lồng giấy andon tỏa sáng. Một nồi nước sôi đặt trên quầy. Người bán hàng trưởng thành, độ tuổi ba mươi, đội nón kasa; khuôn mặt ẩn dưới vành nón. Không có khuôn mặt thứ hai. Không có chữ viết đọc được trên rèm noren hay đèn lồng.
+
+DIỄN BIẾN: Hơi nước cuộn lên từ nồi và bay ngang qua ống kính thành một màn mỏng chậm rãi, rồi tan dần. Người bán hàng không ngẩng đầu lên. Không có cảnh rót vào bát. Không có khách hàng nào bước vào.
+
+TIÊU ĐIỂM: Cực kỳ sắc nét ở rìa hơi nước, vành nồi và lớp giấy đèn andon. Các tấm ván gỗ của con hẻm mờ nhẹ một khẩu độ.
+
+VẬT LÝ: Hơi nước nóng và ẩm ướt. Nó trôi dạt rồi tan biến. Trông không giống đá khô hay máy tạo khói. Không có dải lụa CGI.
+
+ÁNH SÁNG: Đèn andon là nguồn sáng chính ấm áp duy nhất. Xung quanh là đêm ẩm ướt và lạnh lẽo. Ánh sáng lấp lánh phản chiếu chỉ có trên mặt nước dùng.
+
+PHONG CÁCH: Điện ảnh chân thực, bối cảnh thời kỳ Nhật Bản cổ xưa, khói củi và ánh sáng đèn giấy dầu, hạt nhiễu (grain) mềm. Không anime. Không văn bản. Không hình mờ. Không logo.
+
+ÂM THANH: Chỉ có hiệu ứng âm thanh nội tại (Diegetic SFX). Không nhạc. Không nhạc nền. Không tiếng hát. Không lời thoại. Không lời dẫn chuyện. Không tiếng rao bán. Tiếng sôi sùng sục nhẹ nhàng và tiếng xì xì của hơi nước ẩm ướt khi màn hơi bay ngang ống kính. Không khí tĩnh mịch từ xa của con hẻm ban đêm.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4082,20 +4094,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2101148067458347258"></a>
 
-### Đang dịch
+### Lời nhắc hoạt ảnh 8 giây dựa trên bảng thông tin phối đồ, hướng dẫn người mẫu và các ô chứa từng món đồ thời trang xoay 360 độ đồng bộ để trưng bày.
 
 Tác giả：[@AIwithkhan](https://x.com/AIwithkhan) · [Bài gốc](https://x.com/AIwithkhan/status/2101148067458347258)
 
 Infographic / Hình ảnh giáo dục · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hoạt ảnh 8 giây dựa trên bảng thông tin phối đồ, hướng dẫn người mẫu và các ô chứa từng món đồ thời trang xoay 360 độ đồng bộ để trưng bày.
 
 <img src="covers/2101148067458347258.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một hoạt ảnh infographic thời trang cao cấp, tinh tế dài 8 giây dựa trên bố cục bảng phối đồ (outfit-board). Toàn bộ bố cục luôn hiển thị trên nền trắng tối giản. Người mẫu nữ ở bên phải bắt đầu xoay 360° mượt mà quanh trục thẳng đứng của mình, giống như trên bàn xoay trình diễn thời trang. Chuyển động của cô ấy thanh lịch và liên tục, duy trì tư thế tự nhiên cùng hiệu ứng vật lý vải vóc chân thực. Tóc, dây váy và các phụ kiện phản ứng tinh tế với chuyển động. Đúng vào thời điểm đó, mọi món đồ hiển thị bên trong các ô có đánh số đều xoay đồng bộ: Vòng cổ xoay chậm trong không gian 3D, làm lộ độ sâu của dây xích và chi tiết mặt dây chuyền. Nơ cài tóc xoay duyên dáng quanh tâm của nó. Máy chơi game cầm tay xoay quanh trục thẳng đứng như trong quảng cáo sản phẩm. Chân váy ngắn túi hộp xoay 360° để trình diễn góc nhìn phía trước, bên hông và phía sau. Đôi bốt đế bánh mì cùng nhau xoay như hình ảnh kết xuất trưng bày sản phẩm xa xỉ. Áo trễ vai màu đen xoay mượt mà để lộ trọn vẹn phom dáng trang phục. Tất cả các món đồ hoàn thành vòng xoay đồng bộ hoàn hảo với tốc độ quay của người mẫu. Các khung hộp, con số, chữ in và bố cục vẫn cố định vị trí trong khi chỉ có các sản phẩm xoay bên trong khung của chúng. Máy quay hầu như đứng yên với cú đẩy nhẹ mang tính điện ảnh. Ánh sáng studio dịu nhẹ, bóng đổ chân thực, thẩm mỹ quảng cáo thời trang thương mại sạch sẽ, chi tiết siêu sắc nét, đồ họa chuyển động cao cấp, chuyển động mượt mà, phong cách trình bày danh mục xa xỉ, 4K, 60fps.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4126,20 +4138,21 @@ Khác · Đã xuất bản
 
 <a name="prompt-2101457329401057421"></a>
 
-### Đang dịch
+### Cảnh quay bằng flycam bay qua đồng cỏ và núi non.
 
 Tác giả：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Bài gốc](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay bằng flycam bay qua đồng cỏ và núi non.
 
 <img src="covers/2101457329401057421.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+-Flycam bay qua đồng cỏ
+-Flycam bay qua vùng núi
 ```
 
 [↑ Về danh mục](#catalog)

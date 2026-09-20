@@ -335,20 +335,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2101442950647697549"></a>
 
-### Çeviri sürüyor
+### Yükselen buhar eşliğinde bir soba satıcısını içeren, Edo dönemi sinematik gece ara sokağı sahnesi.
 
 Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2101442950647697549)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yükselen buhar eşliğinde bir soba satıcısını içeren, Edo dönemi sinematik gece ara sokağı sahnesi.
 
 <img src="covers/2101442950647697549.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+SAHNE: Edo dönemi gece ara sokağı, 16:9. Tekerleksiz, omuz askılı ahşap bir soba tezgahına kilitlenmiş üç çeyrek açı. Bir kağıt andon parıldıyor. Tezgahta kaynayan bir tencere duruyor. Otuzlu yaşlarında yetişkin bir satıcı kasa takıyor; yüzü siperliğin altında gizli kalıyor. İkinci bir yüz yok. Noren veya fener üzerinde okunabilir yazı yok.\n\nEYLEM: Buhar tencereden yükselir ve yavaş bir tabaka halinde merceğin önünden geçer, ardından incelir. Satıcı başını kaldırmaz. Kaseye dökme eylemi yok. İçeri adım atan müşteri yok.\n\nODAK: Buhar kenarı, tencere ağzı ve andon kağıdı üzerinde son derece keskin. Ara sokağın ahşap tahtaları bir durak yumuşak.\n\nFİZİK: Buhar sıcak ve nemlidir. Sürüklenir, ardından kaybolur. Kuru buz veya sis makinesi gibi görünmez. CGI şeritleri yok.\n\nIŞIK: Andon tek sıcak ana ışıktır. Etrafında serin, ıslak bir gece. Parıltı yalnızca çorba suyunun üzerinde.\n\nTARZ: Fotogerçekçi sinematik, dönem Japonyası, odun dumanı ve yağlı kağıt parıltısı, yumuşak gren. Anime yok. Metin yok. Filigran yok. Logo yok.\n\nSES: Yalnızca diejetik SFX. Müzik yok. Fon müziği yok. Şarkı söyleme yok. Konuşma yok. Dış ses yok. Satıcı çağrısı yok. Tabaka merceğin önünden geçerken hafif kaynama ve ıslak buhar tıslaması. Uzaktan gelen gece ara sokağı havası.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3995,20 +3995,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2101148067458347258"></a>
 
-### Çeviri sürüyor
+### Kombin infografik panosuna dayalı, modelin ve her bir kıyafet kutusunun eşzamanlı olarak 360 derece dönerek sergilenmesini belirten 8 saniyelik animasyon komutu.
 
 Yazar：[@AIwithkhan](https://x.com/AIwithkhan) · [Orijinal gönderi](https://x.com/AIwithkhan/status/2101148067458347258)
 
 İnfografik / Eğitici Görsel · Influencer / Model · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kombin infografik panosuna dayalı, modelin ve her bir kıyafet kutusunun eşzamanlı olarak 360 derece dönerek sergilenmesini belirten 8 saniyelik animasyon komutu.
 
 <img src="covers/2101148067458347258.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kombin panosu (outfit-board) düzenine dayalı, temiz ve üst düzey 8 saniyelik bir moda infografik animasyonu oluşturun. Tüm kompozisyon beyaz, minimalist bir arka plan üzerinde görünür kalır. Sağdaki kadın model, bir moda sergileme döner tablası gibi dikey ekseni etrafında 360° pürüzsüz bir dönüşe başlar. Hareketi zarif ve süreklidir; doğal duruşunu ve gerçekçi kumaş fiziğini korur. Saçlar, etek askıları ve aksesuarlar harekete hafifçe tepki verir. Tam olarak aynı anda, numaralandırılmış kutuların içinde gösterilen her bir ürün eşzamanlı olarak döner: Kolye, zincir derinliğini ve kolye ucu detaylarını ortaya çıkararak 3D olarak yavaşça döner. Saç fiyonku merkezinin etrafında zarifçe döner. El oyun konsolu, bir ürün reklamı gibi dikey ekseninde döner. Kargo mini etek; ön, yan ve arka görünümlerini sergilemek için 360° döner. Platform botlar, lüks ürün vitrini renderları gibi birlikte döner. Siyah düşük omuzlu bluz, giysinin tam şeklini ortaya çıkarmak için pürüzsüzce döner. Tüm ürünler, dönüşlerini modelin dönüş hızıyla mükemmel bir uyum içinde tamamlar. Kutular, numaralar, tipografi ve düzen yerinde sabit kalırken, çerçevelerinin içinde yalnızca ürünler döner. Kamera, hafif bir sinematik yakınlaşma (push-in) ile çoğunlukla sabit kalır. Yumuşak stüdyo aydınlatması, gerçekçi gölgeler, temiz ticari moda reklamı estetiği, ultra keskin ayrıntılar, üstün hareketli grafikler, pürüzsüz geçişler (smooth easing), lüks katalog sunumu, 4K, 60fps.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4039,20 +4039,21 @@ Diğer · Yayımlandı
 
 <a name="prompt-2101457329401057421"></a>
 
-### Çeviri sürüyor
+### Çayır ve dağların arasından geçen dron çekimleri.
 
 Yazar：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Orijinal gönderi](https://x.com/SomebodyisEscip/status/2101457329401057421)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çayır ve dağların arasından geçen dron çekimleri.
 
 <img src="covers/2101457329401057421.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+-Çayırların arasından geçen dron
+-Dağların arasından geçen dron
 ```
 
 [↑ Kategorilere dön](#catalog)
