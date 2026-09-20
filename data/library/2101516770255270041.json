@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T05:00:42.672Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second photorealistic AAA third-person open-world action-adventure gameplay video, 16 : 9, resembling real playable Unreal Engine 5 footage, not a cinematic trailer.\nYoung Korean female adventurer, mid-20s, exact same face, low dark ponytail, athletic build, dark teal jacket, black shirt, brown cargo pants, rugged boots, gloves, backpack, climbing rope and metal compass bracelet throughout.\nUse a normal player-controlled third-person camera behind and slightly above her, with authentic movement, realistic physics, shadows, materials, animation and environmental interaction.\nShe enters a storm-damaged mountain village filled with abandoned houses, muddy streets, broken bridges, vehicles and hanging power cables. HUD: “SEARCH THE ABANDONED VILLAGE.”\nShe explores, jumps across a broken walkway, climbs a rooftop and reaches an old radio tower while stamina visibly decreases. HUD: “FIND A WAY TO THE RADIO TOWER.”\nShe discovers a locked generator room, reconnects a loose cable and restores power, activating an ancient mechanism beneath the village. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”\nShe descends into a massive underground ruin containing rotating platforms, metal chains and a gigantic sealed doorway, then activates the mechanism to open it.\nA massive stone-and-metal guardian awakens. She draws her blade as the HUD changes to “DEFEAT THE RUIN GUARDIAN”, with an enemy health bar and lock-on indicator.\nThe guardian attacks → she dodges → activates her magnetic bracelet → pulls away damaged armor → a glowing weak point appears → she strikes it with her blade → the boss health decreases.\nThe guardian destroys the chamber, water bursts through the walls, and she escapes across collapsing platforms, jumps over debris and climbs toward the surface. HUD: “ESCAPE THE FLOODED RUINS.”\nShe reaches a mountain overlook above the village and sees a gigantic ancient sky fortress suspended between distant mountains. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, followed by “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”\nPhotorealistic Korea UE5-quality gameplay, realistic destruction and water physics, functional minimal HUD, natural player-controlled camera movement, strict character and equipment consistency, no cinematic trailer look, no mobile-game graphics, no anime, no cartoon, no gore, no subtitles, no logos, no watermark.",
+  "promptTranslations": {
+    "en": "Create a 30-second photorealistic AAA third-person open-world action-adventure gameplay video, 16 : 9, resembling real playable Unreal Engine 5 footage, not a cinematic trailer.\nYoung Korean female adventurer, mid-20s, exact same face, low dark ponytail, athletic build, dark teal jacket, black shirt, brown cargo pants, rugged boots, gloves, backpack, climbing rope and metal compass bracelet throughout.\nUse a normal player-controlled third-person camera behind and slightly above her, with authentic movement, realistic physics, shadows, materials, animation and environmental interaction.\nShe enters a storm-damaged mountain village filled with abandoned houses, muddy streets, broken bridges, vehicles and hanging power cables. HUD: “SEARCH THE ABANDONED VILLAGE.”\nShe explores, jumps across a broken walkway, climbs a rooftop and reaches an old radio tower while stamina visibly decreases. HUD: “FIND A WAY TO THE RADIO TOWER.”\nShe discovers a locked generator room, reconnects a loose cable and restores power, activating an ancient mechanism beneath the village. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”\nShe descends into a massive underground ruin containing rotating platforms, metal chains and a gigantic sealed doorway, then activates the mechanism to open it.\nA massive stone-and-metal guardian awakens. She draws her blade as the HUD changes to “DEFEAT THE RUIN GUARDIAN”, with an enemy health bar and lock-on indicator.\nThe guardian attacks → she dodges → activates her magnetic bracelet → pulls away damaged armor → a glowing weak point appears → she strikes it with her blade → the boss health decreases.\nThe guardian destroys the chamber, water bursts through the walls, and she escapes across collapsing platforms, jumps over debris and climbs toward the surface. HUD: “ESCAPE THE FLOODED RUINS.”\nShe reaches a mountain overlook above the village and sees a gigantic ancient sky fortress suspended between distant mountains. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, followed by “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”\nPhotorealistic Korea UE5-quality gameplay, realistic destruction and water physics, functional minimal HUD, natural player-controlled camera movement, strict character and equipment consistency, no cinematic trailer look, no mobile-game graphics, no anime, no cartoon, no gore, no subtitles, no logos, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "Unreal Engine 5 realistic third-person action-adventure gameplay video prompt, featuring exploring a damaged village, puzzle-solving power restoration, underground boss fight, flood escape sequence, and HUD interface."
+  },
+  "translationVersion": 2,
+  "summary": "虚幻5写实风格的第三人称动作冒险游戏实机视频提示词，包含探索受损村庄、解谜发电、地下BOSS战与水淹逃脱全流程及HUD界面。",
+  "summaryEn": "Prompt for generating a realistic UE5 third-person action-adventure gameplay sequence, including village exploration, power puzzle, guardian boss fight, and flood escape with HUD.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101516770255270041",
+    "canonicalUrl": "https://x.com/AIwithSynthia/status/2101516770255270041",
+    "author": {
+      "username": "AIwithSynthia",
+      "displayName": "Synthia",
+      "profileUrl": "https://x.com/AIwithSynthia"
+    },
+    "publishedAt": "2026-09-20T03:40:16.000Z",
+    "collectedAt": "2026-09-20T04:41:04.590Z",
+    "language": "en",
+    "originalText": "Adventure gameplay with AI\n\nSeedance 2.5 on @wavespeed_ai \n\nPrompt :\n\nCreate a 30-second photorealistic AAA third-person open-world action-adventure gameplay video, 16 : 9, resembling real playable Unreal Engine 5 footage, not a cinematic trailer.\nYoung Korean female adventurer, mid-20s, exact same face, low dark ponytail, athletic build, dark teal jacket, black shirt, brown cargo pants, rugged boots, gloves, backpack, climbing rope and metal compass bracelet throughout.\nUse a normal player-controlled third-person camera behind and slightly above her, with authentic movement, realistic physics, shadows, materials, animation and environmental interaction.\nShe enters a storm-damaged mountain village filled with abandoned houses, muddy streets, broken bridges, vehicles and hanging power cables. HUD: “SEARCH THE ABANDONED VILLAGE.”\nShe explores, jumps across a broken walkway, climbs a rooftop and reaches an old radio tower while stamina visibly decreases. HUD: “FIND A WAY TO THE RADIO TOWER.”\nShe discovers a locked generator room, reconnects a loose cable and restores power, activating an ancient mechanism beneath the village. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”\nShe descends into a massive underground ruin containing rotating platforms, metal chains and a gigantic sealed doorway, then activates the mechanism to open it.\nA massive stone-and-metal guardian awakens. She draws her blade as the HUD changes to “DEFEAT THE RUIN GUARDIAN”, with an enemy health bar and lock-on indicator.\nThe guardian attacks → she dodges → activates her magnetic bracelet → pulls away damaged armor → a glowing weak point appears → she strikes it with her blade → the boss health decreases.\nThe guardian destroys the chamber, water bursts through the walls, and she escapes across collapsing platforms, jumps over debris and climbs toward the surface. HUD: “ESCAPE THE FLOODED RUINS.”\nShe reaches a mountain overlook above the village and sees a gigantic ancient sky fortress suspended between distant mountains. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, followed by “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”\nPhotorealistic Korea UE5-quality gameplay, realistic destruction and water physics, functional minimal HUD, natural player-controlled camera movement, strict character and equipment consistency, no cinematic trailer look, no mobile-game graphics, no anime, no cartoon, no gore, no subtitles, no logos, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithSynthia/status/2101516770255270041",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101516682212855808/img/BaRhwjgYjIoV8cAg.jpg",
+        "analysisUrl": "https://x.com/AIwithSynthia/status/2101516770255270041"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 2,
+      "replyCount": 23,
+      "quoteCount": 0,
+      "viewCount": 381
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithSynthia/status/2101516770255270041",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101516682212855808/img/BaRhwjgYjIoV8cAg.jpg",
+  "coverPath": "covers/2101516770255270041.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101516682212855808",
+    "x-post:2101516770255270041"
+  ],
+  "analysis": {
+    "summary": "虚幻5写实风格的第三人称动作冒险游戏实机视频提示词，包含探索受损村庄、解谜发电、地下BOSS战与水淹逃脱全流程及HUD界面。",
+    "summaryEn": "Prompt for generating a realistic UE5 third-person action-adventure gameplay sequence, including village exploration, power puzzle, guardian boss fight, and flood escape with HUD.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video closely matches the full sequence described in the prompt, featuring the same protagonist, village exploration, HUD popups, guardian combat, and water escape."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second photorealistic AAA third-person open-world action-adventure gameplay video, 16 : 9, resembling real playable Unreal Engine 5 footage, not a cinematic trailer.\nYoung Korean female adventurer, mid-20s, exact same face, low dark ponytail, athletic build, dark teal jacket, black shirt, brown cargo pants, rugged boots, gloves, backpack, climbing rope and metal compass bracelet throughout.\nUse a normal player-controlled third-person camera behind and slightly above her, with authentic movement, realistic physics, shadows, materials, animation and environmental interaction.\nShe enters a storm-damaged mountain village filled with abandoned houses, muddy streets, broken bridges, vehicles and hanging power cables. HUD: “SEARCH THE ABANDONED VILLAGE.”\nShe explores, jumps across a broken walkway, climbs a rooftop and reaches an old radio tower while stamina visibly decreases. HUD: “FIND A WAY TO THE RADIO TOWER.”\nShe discovers a locked generator room, reconnects a loose cable and restores power, activating an ancient mechanism beneath the village. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”\nShe descends into a massive underground ruin containing rotating platforms, metal chains and a gigantic sealed doorway, then activates the mechanism to open it.\nA massive stone-and-metal guardian awakens. She draws her blade as the HUD changes to “DEFEAT THE RUIN GUARDIAN”, with an enemy health bar and lock-on indicator.\nThe guardian attacks → she dodges → activates her magnetic bracelet → pulls away damaged armor → a glowing weak point appears → she strikes it with her blade → the boss health decreases.\nThe guardian destroys the chamber, water bursts through the walls, and she escapes across collapsing platforms, jumps over debris and climbs toward the surface. HUD: “ESCAPE THE FLOODED RUINS.”\nShe reaches a mountain overlook above the village and sees a gigantic ancient sky fortress suspended between distant mountains. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, followed by “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”\nPhotorealistic Korea UE5-quality gameplay, realistic destruction and water physics, functional minimal HUD, natural player-controlled camera movement, strict character and equipment consistency, no cinematic trailer look, no mobile-game graphics, no anime, no cartoon, no gore, no subtitles, no logos, no watermark.",
+    "sourceRange": {
+      "start": 70,
+      "end": 2430
+    },
+    "translations": {
+      "zh": "生成一段30秒逼真写实风格的3A级第三人称开放世界动作冒险游戏实机视频，16:9比例，效果类似虚幻引擎5真实可玩画面而非CG预告片。一位20多岁的年轻韩国女性冒险者，低马尾、运动身材、深青色夹克、棕色工装裤及背包绳索装备。镜头采用第三人称追随视角，具备物理与光影交互。她穿过受损山村（HUD提示搜查废弃村庄）、攀登房顶前往无线电塔、恢复发电机电力打开地下暗道；进入地下遗迹并启动机关，唤醒巨型守卫展开战斗；击中守卫弱点后遗迹坍塌进水，她逃出废墟来到山顶俯瞰空中古要塞（HUD提示任务完成与新目标）。画面写实，带极简功能性HUD与自然镜头移动，无字幕水印。",
+      "en": "Create a 30-second photorealistic AAA third-person open-world action-adventure gameplay video, 16:9, resembling real playable Unreal Engine 5 footage. A 20s Korean female adventurer with ponytail, teal jacket, and brown cargo pants explores a storm-damaged mountain village, restores power to access underground ruins, battles an awakened stone-and-metal guardian, escapes flooded ruins, and reaches an overlook showing a massive sky fortress, complete with dynamic HUD objectives and natural third-person camera controls."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Action-adventure game simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T05:03:22.826Z",
+  "model": "seedance2.5",
+  "prompt": "He blinks once, slowly, and does not move",
+  "promptTranslations": {
+    "en": "He blinks once, slowly, and does not move"
+  },
+  "summaryTranslations": {
+    "en": "He blinks once, slowly, and does not move"
+  },
+  "translationVersion": 2,
+  "summary": "He blinks once, slowly, and does not move",
+  "summaryEn": "He blinks once, slowly, and does not move",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101295673605824841",
+    "canonicalUrl": "https://x.com/GlennHasABeard/status/2101295673605824841",
+    "author": {
+      "username": "GlennHasABeard",
+      "displayName": "Glenn Williams",
+      "profileUrl": "https://x.com/GlennHasABeard"
+    },
+    "publishedAt": "2026-09-19T13:01:43.000Z",
+    "collectedAt": "2026-09-20T04:41:04.590Z",
+    "language": "en",
+    "originalText": "Seedance 2.5. My black cat, one drop of water, five seconds of watching it fall.\n\nPrompt: \"He blinks once, slowly, and does not move\"\n\nDuration: 15s. Reference: one cutout. Rendered 480p, Topaz to 4K.\n\n\"The cat never flinches\" is the consistency line. Every model wants the cat to react. Mine wouldn't. That's the part the reference can't teach, so the prompt has to.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GlennHasABeard/status/2101295673605824841",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101295588448854016/img/mYoXcLDEcSm1Ki9d.jpg",
+        "analysisUrl": "https://x.com/GlennHasABeard/status/2101295673605824841"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 1,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 798
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/GlennHasABeard/status/2101295673605824841",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101295588448854016/img/mYoXcLDEcSm1Ki9d.jpg",
+  "coverPath": "covers/2101295673605824841.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101295588448854016",
+    "x-post:2101295673605824841"
+  ],
+  "analysis": {
+    "summary": "He blinks once, slowly, and does not move",
+    "summaryEn": "He blinks once, slowly, and does not move",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows a black cat blinking slowly as water drips on it without flinching, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "He blinks once, slowly, and does not move",
+    "sourceRange": {
+      "start": 91,
+      "end": 132
+    },
+    "translations": {
+      "zh": "它慢慢地眨了一次眼睛，一动不动",
+      "en": "He blinks once, slowly, and does not move"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "AI video motion guidance",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
