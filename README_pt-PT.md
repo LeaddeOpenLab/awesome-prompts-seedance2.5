@@ -35,20 +35,31 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2101516770255270041"></a>
 
-### Tradução em curso
+### Prompt de vídeo de jogabilidade de ação e aventura em terceira pessoa realista no Unreal Engine 5, cobrindo exploração de aldeia danificada, restauração de energia com quebra-cabeças, batalha contra boss subterrâneo, fuga de inundação e interface HUD.
 
 Autor：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Publicação original](https://x.com/AIwithSynthia/status/2101516770255270041)
 
 Design de Aplicações / Web · Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo de jogabilidade de ação e aventura em terceira pessoa realista no Unreal Engine 5, cobrindo exploração de aldeia danificada, restauração de energia com quebra-cabeças, batalha contra boss subterrâneo, fuga de inundação e interface HUD.
 
 <img src="covers/2101516770255270041.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo de jogabilidade de ação e aventura em terceira pessoa em mundo aberto AAA fotorrealista de 30 segundos, 16 : 9, semelhante a imagens reais jogáveis do Unreal Engine 5, e não a um trailer cinematográfico.
+Jovem aventureira coreana, por volta dos 20 anos, exatamente o mesmo rosto, rabo de cavalo baixo e escuro, constituição atlética, casaco verde-azulado escuro, camisa preta, calças cargo castanhas, botas robustas, luvas, mochila, corda de escalada e pulseira com bússola de metal ao longo de todo o vídeo.
+Utilize uma câmara normal em terceira pessoa controlada pelo jogador, atrás e ligeiramente acima dela, com movimento autêntico, física realista, sombras, materiais, animação e interação com o ambiente.
+Ela entra numa aldeia de montanha danificada por tempestades, repleta de casas abandonadas, ruas lamacentas, pontes partidas, veículos e cabos de eletricidade pendurados. HUD: “SEARCH THE ABANDONED VILLAGE.”
+Ela explora, salta sobre um passadiço partido, sobe a um telhado e alcança uma velha torre de rádio enquanto a estamina diminui visivelmente. HUD: “FIND A WAY TO THE RADIO TOWER.”
+Ela descobre uma sala de gerador trancada, reconecta um cabo solto e restaura a energia, ativando um mecanismo antigo sob a aldeia. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”
+Ela desce até uma enorme ruína subterrânea contendo plataformas giratórias, correntes de metal e uma gigantesca porta selada, ativando depois o mecanismo para a abrir.
+Um enorme guardião de pedra e metal desperta. Ela puxa da sua lâmina enquanto o HUD muda para “DEFEAT THE RUIN GUARDIAN”, com uma barra de vida do inimigo e indicador de mira fixada.
+O guardião ataca → ela desvia-se → ativa a sua pulseira magnética → arranca a armadura danificada → surge um ponto fraco brilhante → ela desfere um golpe com a sua lâmina → a vida do boss diminui.
+O guardião destrói a câmara, a água rompe pelas paredes e ela escapa através de plataformas em colapso, salta sobre destroços e sobe em direção à superfície. HUD: “ESCAPE THE FLOODED RUINS.”
+Ela alcança um miradouro na montanha acima da aldeia e avista uma gigantesca fortaleza celestial antiga suspensa entre montanhas distantes. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, seguido por “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”
+Jogabilidade fotorrealista com qualidade de UE5 na Coreia, física realista de destruição e água, HUD funcional e minimalista, movimento natural de câmara controlada pelo jogador, rigorosa consistência de personagem e equipamento, sem aspeto de trailer cinematográfico, sem gráficos de jogo para telemóvel, sem anime, sem desenhos animados, sem violência explícita (gore), sem legendas, sem logótipos, sem marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3985,20 +3996,27 @@ Tradução em curso
 
 <a name="prompt-2101515497150025999"></a>
 
-### Tradução em curso
+### O prompt descreve um vídeo retro em DV de 30 segundos de uma mulher coreana a caminhar em Seul, a lavar a cara, a comer um chupa-chupa e a cumprimentar vizinhos.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2101515497150025999)
 
 Retrô / Vintage · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** O prompt descreve um vídeo retro em DV de 30 segundos de uma mulher coreana a caminhar em Seul, a lavar a cara, a comer um chupa-chupa e a cumprimentar vizinhos.
 
 <img src="covers/2101515497150025999.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo caseiro pessoal ultrarrealista de 30 segundos de uma jovem mulher coreana a desfrutar de uma manhã de domingo descontraída num bairro residencial mais antigo de Seul. Utilize a imagem anexada como referência de personagem e mantenha o rosto dela, o rabo de cavalo lateral comprido, preto e despenteado, a camisola justa azul-pastel, as calças largas creme, os ténis pretos, o colar de prata e a aparência geral perfeitamente consistentes.
+Ela sai de casa com uma expressão alegre, tranca a porta atrás de si, ajusta o rabo de cavalo lateral despenteado e começa a caminhar casualmente pelo bairro calmo. Ao longo do caminho, passa por alguns vizinhos conhecidos e cumprimenta-os calorosamente com um sorriso e um casual “Hello”, criando uma atmosfera de domingo amigável e natural.
+Ela chega a uma pequena torneira exterior do bairro e para para lavar a cara. Salpica água fresca na cara, ri-se quando várias gotas de água caem na parte da frente da camisola azul-pastel, olha para baixo para as manchas húmidas, sorri e abana a cabeça de forma brincalhona antes de continuar.
+Visita uma pequena loja de conveniência local, compra um chupa-chupa colorido, desembala-o imediatamente, mete-o na boca e regressa a pé pelo bairro enquanto o saboreia alegremente. Balança casualmente o pequeno saco de compras numa mão enquanto segura o chupa-chupa na outra.
+Ao passar por uma ruela residencial estreita, encontra algumas crianças do bairro. Ela sorri, acena e aperta as mãos delas uma a uma enquanto mantém o chupa-chupa na outra mão. Diz: “Hello!” e continua a caminhar com um sorriso brincalhão.
+Perto do fim, vira-se para a câmara enquanto ainda segura o chupa-chupa, sorri com naturalidade e diz: “Happy Sunday!” antes de se afastar pela ruela calma.
+Utilize filmagens brutas de câmara DV de consumo do início dos anos 2000: tremor de câmara na mão, enquadramento imperfeito, procura de foco automático, alterações de exposição, detalhe suave, ruído digital ligeiro, desfoque de movimento natural, zooms desajeitados ocasionais e imperfeições autênticas de vídeo caseiro.
+Apenas ambiente natural de um bairro de Seul — passos, vizinhos a falar, crianças a rir, água a correr, campainhas de bicicleta, trânsito distante, pássaros, insetos de verão e folhas a moverem-se com a brisa. Sem música, sem narração, sem legendas, sem acontecimentos dramáticos, sem cinematografia comercial polida, sem pele com filtro de beleza, sem aspeto de CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4087,20 +4105,48 @@ Ele pisca os olhos uma vez, lentamente, e não se mexe
 
 <a name="prompt-2101519217421885874"></a>
 
-### Tradução em curso
+### O prompt descreve detalhadamente um vídeo caseiro no estilo MiniDV do início dos anos 2000 de uma jovem mulher coreana a decidir o que vestir num quarto chuvoso em Seul, completo com marcações temporais de 30 segundos do guião e referências de áudio ambiental.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2101519217421885874)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** O prompt descreve detalhadamente um vídeo caseiro no estilo MiniDV do início dos anos 2000 de uma jovem mulher coreana a decidir o que vestir num quarto chuvoso em Seul, completo com marcações temporais de 30 segundos do guião e referências de áudio ambiental.
 
 <img src="covers/2101519217421885874.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Assunto Principal: Jovem mulher coreana, 24 anos, naturalmente atraente, pele realista, maquilhagem mínima, cabelos escuros e longos soltos de forma descontraída. A usar roupa caseira simples e casual enquanto se prepara. Mantenha a sua identidade exata, traços faciais, penteado, proporções corporais e aparência de início ao fim.
+
+Localização: Quarto pequeno de um apartamento antigo em Seul durante o início de uma manhã escura e chuvosa. Guarda-roupa aberto, cómoda simples de madeira, espelho pequeno, roupa dobrada, carteira de tiracolo em lona e uma janela coberta de chuva com vista para prédios de apartamentos vizinhos desfocados. Chuva constante no exterior.
+
+Iluminação e Atmosfera: Ambiente acolhedor e sombrio da hora azul. Luz fria azul-acinzentada da janela chuvosa misturada com um candeeiro de cabeceira fraco e quente. Céu escuro e nublado, cores esbatidas, sombras suaves e interior ligeiramente subexposto. Atmosfera silenciosa, sonolenta e íntima de manhã chuvosa.
+
+Estilo: Vídeo caseiro ultra-realista em Sony MiniDV do início dos anos 2000, filmado por outra pessoa a segurar a câmara de vídeo. Completamente espontâneo e não encenado, como um familiar a filmá-la informalmente enquanto ela se prepara. Movimento natural de câmara na mão, tremor humano subtil, enquadramento imperfeito, reenquadramento suave, procura ocasional de focagem automática, ligeiras mudanças de exposição, cores desbotadas, contraste suave, compressão autêntica de DV, ruído digital subtil de baixa luminosidade e ruído de microfone. Movimento suave, contínuo e em tempo real do início ao fim. Sem soluços, judder, salto de fotogramas, fotogramas duplicados, aparência de stop-motion, desfoque de movimento excessivo, alterações de velocidade ou aspeto de baixa taxa de fotogramas. Sem estabilização ou movimento cinematográfico moderno.
+
+00:00–00:04: Ela está de pé, sonolenta, em frente ao seu guarda-roupa aberto, a olhar para várias peças de roupa penduradas. Puxa uma camisa simples de corte largo (oversized) e encosta-a a si enquanto olha para o espelho.
+
+00:04–00:08: Muda de ideias, volta a pendurá-la e tira outra camisa. Encosta a segunda a si e analisa o seu reflexo com uma expressão pensativa.
+
+00:08–00:12: Olha alternadamente para as duas camisas, segurando uma em cada mão. Olha para a câmara com um pequeno sorriso hesitante, como se perguntasse em silêncio qual deveria vestir.
+
+00:12–00:16: Coloca ambas as camisas em cima da cama e senta-se por momentos. Olha em direção à janela chuvosa, a escutar a chuva, e depois volta a olhar para as roupas.
+
+00:16–00:20: Pega novamente numa das camisas e põe-se em frente ao espelho, encostando-a brevemente a si sob diferentes ângulos. Vira-se ligeiramente para a esquerda e para a direita, a verificar como fica.
+
+00:20–00:24: Parece finalmente satisfeita. Volta a pendurar a outra camisa no guarda-roupa e dobra cuidadosamente a camisa escolhida sobre o braço.
+
+00:24–00:27: Repara num casaco leve pendurado ali perto, faz uma pausa e considera-o também. Toca no casaco e depois olha para a chuva lá fora através da janela.
+
+00:27–00:30: Decide levar também o casaco. Olha para a câmara com um pequeno sorriso de satisfação, pega na sua carteira de tiracolo em lona e sai do quarto. A câmara segue-a informalmente durante um par de passos antes de cortar.
+
+Áudio: Apenas som ambiente natural do local—chuva constante contra a janela, sussurro de roupas, portas do guarda-roupa a deslizar, passos suaves, movimento de tecidos, trânsito distante fraco e ambiente calmo do apartamento. Sem música, narração ou efeitos sonoros adicionados.
+
+Objetivo: Dar a sensação de uma gravação familiar comum de 30 segundos do início dos anos 2000, e não de um vídeo de moda estruturado. A história é simplesmente ela a decidir lentamente o que vestir numa manhã chuvosa. Pequenas pausas, indecisão e movimentos casuais devem fazer com que pareça espontâneo, íntimo e autêntico.
+
+Qualidade do movimento: Manter cada ação suave, contínua e fisicamente realista. Conceder tempo suficiente para que cada movimento se conclua de forma natural. Evitar cortes rápidos ou ações comprimidas. A câmara de mão deve deslizar e reenquadrar suavemente, como uma pessoa real a filmar informalmente. Sem soluços, judder, salto de fotogramas, fotogramas duplicados ou aspeto de baixa taxa de fotogramas. O aspeto vintage deve provir inteiramente das características autênticas do MiniDV, e não de movimentos aos solavancos.
 ```
 
 [↑ Voltar às categorias](#catalog)

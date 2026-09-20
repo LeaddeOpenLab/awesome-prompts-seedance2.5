@@ -35,20 +35,31 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101516770255270041"></a>
 
-### Đang dịch
+### Lời nhắc video lối chơi hành động phiêu lưu góc nhìn thứ ba thế giới mở chân thực Unreal Engine 5, bao gồm toàn bộ quá trình khám phá ngôi làng bị tàn phá, giải đố phát điện, đấu trùm dưới lòng đất và thoát khỏi ngập lụt cùng giao diện HUD.
 
 Tác giả：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Bài gốc](https://x.com/AIwithSynthia/status/2101516770255270041)
 
 Thiết kế ứng dụng / web · Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video lối chơi hành động phiêu lưu góc nhìn thứ ba thế giới mở chân thực Unreal Engine 5, bao gồm toàn bộ quá trình khám phá ngôi làng bị tàn phá, giải đố phát điện, đấu trùm dưới lòng đất và thoát khỏi ngập lụt cùng giao diện HUD.
 
 <img src="covers/2101516770255270041.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video lối chơi hành động phiêu lưu thế giới mở góc nhìn thứ ba AAA siêu thực dài 30 giây, tỷ lệ 16 : 9, giống như cảnh quay có thể chơi được thực tế trong Unreal Engine 5, không phải đoạn giới thiệu điện ảnh.
+Nhà thám hiểm nữ trẻ người Hàn Quốc, khoảng giữa 20 tuổi, khuôn mặt hoàn toàn nhất quán, buộc tóc đuôi ngựa thấp màu tối, vóc dáng thể thao, mặc áo khoác màu mòng két đậm, áo sơ mi đen, quần túi hộp màu nâu, ủng gồ ghề, găng tay, ba lô, dây leo núi và vòng tay la bàn kim loại xuyên suốt.
+Sử dụng camera góc nhìn thứ ba thông thường do người chơi điều khiển ở phía sau và hơi cao hơn cô ấy, với chuyển động chân thực, vật lý, đổ bóng, chất liệu, hoạt ảnh và tương tác môi trường sống động như thật.
+Cô tiến vào một ngôi làng miền núi bị bão tàn phá với đầy những ngôi nhà bỏ hoang, đường lầy lội, cầu gãy, xe cộ và dây điện treo lơ lửng. HUD: “SEARCH THE ABANDONED VILLAGE.”
+Cô khám phá, nhảy qua một lối đi bị hỏng, trèo lên mái nhà và đến một tháp radio cũ trong khi thể lực giảm rõ rệt. HUD: “FIND A WAY TO THE RADIO TOWER.”
+Cô phát hiện một phòng máy phát điện bị khóa, kết nối lại sợi cáp bị lỏng và khôi phục nguồn điện, kích hoạt một cơ chế cổ xưa bên dưới ngôi làng. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”
+Cô đi xuống một tàn tích ngầm khổng lồ chứa các bệ xoay, xích kim loại và một cánh cổng phong ấn khổng lồ, sau đó kích hoạt cơ chế để mở nó.
+Một hộ vệ khổng lồ bằng đá và kim loại thức tỉnh. Cô rút kiếm khi HUD chuyển thành “DEFEAT THE RUIN GUARDIAN”, kèm theo thanh máu kẻ địch và chỉ báo khóa mục tiêu.
+Hộ vệ tấn công → cô né tránh → kích hoạt vòng tay từ tính → giật lớp giáp bị hư hại → một điểm yếu phát sáng xuất hiện → cô chém bằng kiếm của mình → máu của trùm giảm xuống.
+Hộ vệ phá hủy căn phòng, nước tràn qua các bức tường, và cô trốn thoát qua các bệ đang sụp đổ, nhảy qua các mảnh vỡ và trèo lên bề mặt. HUD: “ESCAPE THE FLOODED RUINS.”
+Cô đến một điểm ngắm cảnh trên núi nhìn xuống ngôi làng và thấy một pháo đài bay cổ xưa khổng lồ lơ lửng giữa những ngọn núi xa xăm. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, tiếp theo là “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”
+Lối chơi chất lượng UE5 bối cảnh Hàn Quốc chân thực như ảnh chụp, vật lý phá hủy và nước chân thực, HUD tối giản đầy đủ chức năng, chuyển động camera tự nhiên do người chơi điều khiển, tính nhất quán nghiêm ngặt về nhân vật và trang bị, không mang phong cách đoạn giới thiệu điện ảnh, không có đồ họa game di động, không anime, không hoạt hình, không máu me, không phụ đề, không logo, không hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4084,20 +4095,27 @@ Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 
 <a name="prompt-2101515497150025999"></a>
 
-### Đang dịch
+### Lời nhắc mô tả một video DV cổ điển dài 30 giây về một phụ nữ Hàn Quốc đi dạo ở Seoul, rửa mặt, ăn kẹo mút và chào hỏi hàng xóm.
 
 Tác giả：[@AIwithkhan](https://x.com/AIwithkhan) · [Bài gốc](https://x.com/AIwithkhan/status/2101515497150025999)
 
 Cổ điển / Cổ điển · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mô tả một video DV cổ điển dài 30 giây về một phụ nữ Hàn Quốc đi dạo ở Seoul, rửa mặt, ăn kẹo mút và chào hỏi hàng xóm.
 
 <img src="covers/2101515497150025999.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video gia đình cá nhân siêu thực dài 30 giây về một phụ nữ trẻ Hàn Quốc đang tận hưởng một buổi sáng Chủ nhật thư thái tại một khu dân cư cũ ở Seoul. Sử dụng hình ảnh đính kèm làm tham chiếu nhân vật và giữ cho khuôn mặt, mái tóc đuôi ngựa lệch màu đen dài rối, áo ôm màu xanh pastel, quần thụng màu kem, giày thể thao đen, dây chuyền bạc và vẻ ngoài tổng thể của cô ấy hoàn toàn nhất quán.
+Cô ấy bước ra khỏi nhà với vẻ mặt vui tươi, khóa cửa lại, chỉnh lại mái tóc đuôi ngựa lệch rối và bắt đầu thong thả đi bộ qua khu phố yên tĩnh. Trên đường đi, cô ấy đi ngang qua vài người hàng xóm quen thuộc và niềm nở chào họ bằng một nụ cười cùng câu “Hello” thân thiện, tạo nên một không khí Chủ nhật ấm áp, tự nhiên.
+Cô đến một vòi nước ngoài trời nhỏ trong xóm và dừng lại rửa mặt. Cô té nước mát lên mặt, bật cười khi vài giọt nước bắn vào vạt trước của chiếc áo màu xanh pastel, nhìn xuống những vết ướt, mỉm cười và lắc đầu tinh nghịch trước khi tiếp tục bước đi.
+Cô ghé vào một cửa hàng tiện lợi nhỏ của địa phương, mua một cây kẹo mút nhiều màu sắc, bóc vỏ ngay lập tức, ngậm vào miệng và đi bộ ngược lại qua khu phố trong khi vui vẻ thưởng thức nó. Một tay cô thong thả đung đưa chiếc túi mua hàng nhỏ, tay kia cầm kẹo mút.
+Khi đi qua một con hẻm dân cư hẹp, cô gặp vài đứa trẻ trong xóm. Cô mỉm cười, vẫy tay và bắt tay từng đứa trẻ trong khi vẫn giữ cây kẹo mút ở tay kia. Cô nói, “Hello!” và tiếp tục bước đi với nụ cười tinh nghịch.
+Gần cuối video, cô quay về phía máy quay trong khi vẫn cầm kẹo mút, mỉm cười tự nhiên và nói, “Happy Sunday!” trước khi bước đi dọc theo con hẻm yên tĩnh.
+Sử dụng cảnh quay thô từ máy quay DV gia đình đầu những năm 2000: rung lắc cầm tay, căn khung không hoàn hảo, dò nét tự động, thay đổi độ phơi sáng, chi tiết mềm, nhiễu kỹ thuật số nhẹ, mờ chuyển động tự nhiên, thỉnh thoảng có những cú zoom vụng về và các lỗi chân thực của video gia đình.
+Chỉ có âm thanh môi trường tự nhiên của khu phố Seoul — tiếng bước chân, tiếng hàng xóm trò chuyện, tiếng trẻ em cười, tiếng nước chảy, chuông xe đạp, tiếng giao thông xa xa, tiếng chim hót, côn trùng mùa hè và tiếng lá cây xào xạc trong gió. Không có âm nhạc, không lời tường thuật, không phụ đề, không sự kiện kịch tính, không quay phim thương mại trau chuốt, không làn da qua bộ lọc làm đẹp, không hiệu ứng CGI.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4186,20 +4204,48 @@ Anh ấy chớp mắt một cái thật chậm và không hề nhúc nhích
 
 <a name="prompt-2101519217421885874"></a>
 
-### Đang dịch
+### Lời nhắc mô tả chi tiết một video gia đình phong cách MiniDV đầu những năm 2000 về một phụ nữ trẻ Hàn Quốc đang quyết định mặc gì trong phòng ngủ ở Seoul vào ngày mưa, hoàn chỉnh với các mốc thời gian kịch bản 30 giây và các gợi ý âm thanh môi trường.
 
 Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2101519217421885874)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mô tả chi tiết một video gia đình phong cách MiniDV đầu những năm 2000 về một phụ nữ trẻ Hàn Quốc đang quyết định mặc gì trong phòng ngủ ở Seoul vào ngày mưa, hoàn chỉnh với các mốc thời gian kịch bản 30 giây và các gợi ý âm thanh môi trường.
 
 <img src="covers/2101519217421885874.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ thể chính: Người phụ nữ Hàn Quốc trẻ tuổi, 24 tuổi, cuốn hút tự nhiên, làn da chân thực, trang điểm tối giản, mái tóc sẫm màu dài xõa tự nhiên. Mặc đồ mặc nhà thường ngày đơn giản trong khi chuẩn bị sẵn sàng. Giữ nguyên danh tính, các đường nét khuôn mặt, kiểu tóc, tỷ lệ cơ thể và diện mạo chính xác của cô ấy xuyên suốt.
+
+Địa điểm: Phòng ngủ trong căn hộ cũ nhỏ ở Seoul vào một buổi sáng sớm trời mưa và u tối. Tủ quần áo mở, bàn trang điểm gỗ đơn giản, gương nhỏ, quần áo gấp gọn, túi đeo vai bằng vải canvas và cửa sổ phủ đầy nước mưa nhìn ra các tòa nhà chung cư lân cận mờ ảo. Mưa rơi đều đặn bên ngoài.
+
+Ánh sáng & Không khí: Bầu không khí giờ xanh (blue-hour) ấm cúng, lờ mờ. Ánh sáng xám xanh lạnh lẽo từ khung cửa sổ mưa hòa lẫn với ánh đèn đầu giường ấm áp le lói. Bầu trời nhiều mây đen, màu sắc dịu nhẹ, bóng đổ mềm mại và nội thất hơi thiếu sáng một chút. Bầu không khí sáng sớm mưa yên tĩnh, ngái ngủ và gần gũi.
+
+Phong cách: Video gia đình quay bằng máy quay Sony MiniDV đầu những năm 2000 siêu thực tế do một người khác cầm máy quay ghi lại. Hoàn toàn tự nhiên và không dàn dựng, giống như một người trong gia đình đang tình cờ quay lại cảnh cô ấy chuẩn bị. Chuyển động cầm tay tự nhiên, độ rung lắc nhẹ của con người, bố cục không hoàn hảo, đổi khung hình nhẹ nhàng, thỉnh thoảng có hiện tượng dò lấy nét tự động, thay đổi độ phơi sáng nhẹ, màu sắc phai nhạt, độ tương phản mềm mại, chuẩn nén DV đích thực, nhiễu hạt kỹ thuật số nhẹ trong điều kiện thiếu sáng và tiếng ồn của micro. Chuyển động mượt mà liên tục theo thời gian thực xuyên suốt. Không giật hình, rung lắc lỗi, bỏ khung hình, trùng khung hình, hiện tượng dạng stop-motion, mờ chuyển động quá mức, thay đổi tốc độ hoặc trông giống tốc độ khung hình thấp. Không chống rung hoặc chuyển động điện ảnh hiện đại.
+
+00:00–00:04: Cô ấy uể oải đứng trước tủ quần áo đang mở, nhìn qua vài bộ quần áo đang treo. Cô rút ra một chiếc áo sơ mi dáng rộng đơn giản và ướm lên người trong khi nhìn về phía gương.
+
+00:04–00:08: Cô đổi ý, cất chiếc áo đó lại và rút ra một chiếc áo khác. Cô ướm chiếc áo thứ hai lên người và chăm chú nhìn hình ảnh phản chiếu của mình với vẻ mặt trầm ngâm suy nghĩ.
+
+00:08–00:12: Cô nhìn qua lại giữa hai chiếc áo, mỗi tay cầm một chiếc. Cô liếc nhìn về phía máy quay với một nụ cười ngập ngừng nhỏ, như thể đang thầm hỏi nên mặc chiếc nào.
+
+00:12–00:16: Cô đặt cả hai chiếc áo lên giường và ngồi xuống một lúc. Cô nhìn về phía cửa sổ đang mưa, lắng nghe tiếng mưa rơi, rồi nhìn lại đống quần áo.
+
+00:16–00:20: Cô lại cầm một chiếc áo lên và đứng trước gương, ướm nhanh lên người từ các góc độ khác nhau. Cô xoay nhẹ sang trái và phải để kiểm tra trông như thế nào.
+
+00:20–00:24: Cuối cùng cô dường như đã hài lòng. Cô treo chiếc áo còn lại vào tủ và gấp gọn chiếc áo đã chọn vắt lên cánh tay.
+
+00:24–00:27: Cô nhận thấy một chiếc áo khoác mỏng nhẹ treo gần đó, dừng lại và cân nhắc cả chiếc áo này. Cô chạm vào chiếc áo khoác, rồi nhìn ra ngoài trời mưa qua khung cửa sổ.
+
+00:27–00:30: Cô quyết định lấy cả chiếc áo khoác. Cô nhìn về phía máy quay với nụ cười hài lòng nhẹ, nhặt chiếc túi đeo vai bằng vải canvas lên và bước ra khỏi phòng ngủ. Máy quay hờ hững đi theo cô vài bước trước khi chuyển cảnh.
+
+Âm thanh: Chỉ có âm thanh thực tế tại hiện trường—tiếng mưa rơi đều đặn vào cửa sổ, tiếng sột soạt của quần áo, tiếng trượt cửa tủ quần áo, tiếng bước chân nhẹ nhàng, chuyển động của vải vóc, tiếng xe cộ mờ xa và không gian căn hộ yên tĩnh. Không có âm nhạc, lời tường thuật hay hiệu ứng âm thanh bổ sung.
+
+Mục tiêu: Đem lại cảm giác như một thước phim gia đình bình thường dài 30 giây vào đầu những năm 2000 thay vì một video thời trang được dàn dựng có kịch bản. Câu chuyện chỉ đơn giản là việc cô ấy từ tốn quyết định mặc gì vào một buổi sáng mưa. Những khoảng dừng nhỏ, sự do dự và các chuyển động tự nhiên cần tạo cảm giác ngẫu hứng, thân mật và chân thực.
+
+Chất lượng chuyển động: Giữ cho mọi hành động mượt mà, liên tục và thực tế về mặt vật lý. Dành đủ thời gian để mỗi chuyển động hoàn thành một cách tự nhiên. Tránh cắt cảnh quá nhanh hoặc các hành động bị dồn nén. Máy quay cầm tay nên trôi nhẹ và đổi khung hình như một người thật đang quay phim ngẫu hứng. Không giật hình, rung lắc lỗi, bỏ khung hình, trùng khung hình hoặc có vẻ ngoài tốc độ khung hình thấp. Vẻ ngoài hoài cổ phải đến hoàn toàn từ các đặc tính MiniDV đích thực, không phải từ chuyển động giật cục.
 ```
 
 [↑ Về danh mục](#catalog)

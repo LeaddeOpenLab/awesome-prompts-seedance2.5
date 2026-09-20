@@ -35,20 +35,31 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101516770255270041"></a>
 
-### Çeviri sürüyor
+### Hasarlı köy keşfi, bulmaca çözerek güç sağlama, yeraltı bölüm sonu canavarı savaşı, su baskınından kaçış ve HUD arayüzünü içeren Unreal Engine 5 gerçekçi tarzda üçüncü şahıs aksiyon-macera oyunu oynanış videosu promptu.
 
 Yazar：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Orijinal gönderi](https://x.com/AIwithSynthia/status/2101516770255270041)
 
 Uygulama / Web Tasarımı · Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hasarlı köy keşfi, bulmaca çözerek güç sağlama, yeraltı bölüm sonu canavarı savaşı, su baskınından kaçış ve HUD arayüzünü içeren Unreal Engine 5 gerçekçi tarzda üçüncü şahıs aksiyon-macera oyunu oynanış videosu promptu.
 
 <img src="covers/2101516770255270041.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sinematik bir fragman değil, gerçek oynanabilir Unreal Engine 5 görüntülerini andıran, 16 : 9 formatında, 30 saniyelik fotogerçekçi bir AAA üçüncü şahıs açık dünya aksiyon-macera oynanış videosu oluşturun.
+20'li yaşların ortalarında genç Koreli kadın maceracı; baştan sona birebir aynı yüz, alçak koyu renk atkuyruğu, atletik yapı, koyu deniz mavisi ceket, siyah tişört, kahverengi kargo pantolon, dayanıklı botlar, eldivenler, sırt çantası, tırmanma ipi ve metal pusulalı bileklik.
+Karakterin arkasında ve hafifçe üzerinde duran, özgün hareket kabiliyetine, gerçekçi fiziklere, gölgelere, materyallere, animasyona ve çevresel etkileşime sahip, normal oyuncu kontrollü bir üçüncü şahıs kamerası kullanın.
+Terk edilmiş evler, çamurlu sokaklar, kırık köprüler, araçlar ve sarkan elektrik kablolarıyla dolu, fırtınadan hasar görmüş bir dağ köyüne girer. HUD: “SEARCH THE ABANDONED VILLAGE.”
+Keşfeder, kırık bir geçidin üzerinden atlar, bir çatıya tırmanır ve dayanıklılığı (stamina) gözle görülür şekilde azalırken eski bir radyo kulesine ulaşır. HUD: “FIND A WAY TO THE RADIO TOWER.”
+Kilitli bir jeneratör odası keşfeder, gevşek bir kabloyu yeniden bağlar ve gücü geri getirerek köyün altındaki antik bir mekanizmayı etkinleştirir. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”
+Dönen platformlar, metal zincirler ve devasa mühürlü bir kapı içeren devasa bir yeraltı harabesine iner, ardından kapıyı açmak için mekanizmayı etkinleştirir.
+Taş ve metalden oluşan devasa bir muhafız uyanır. Düşman can çubuğu ve kilitlenme göstergesiyle birlikte HUD “DEFEAT THE RUIN GUARDIAN” olarak değişirken kılıcını çeker.
+Muhafız saldırır → karakter sıyrılır → manyetik bilekliğini etkinleştirir → hasarlı zırhı çekip koparır → parlayan zayıf bir nokta ortaya çıkar → kılıcıyla oraya vurur → bölüm sonu canavarının (boss) canı azalır.
+Muhafız odayı yerle bir eder, duvarlardan sular fışkırır ve karakter çöken platformlardan kaçar, enkazların üzerinden atlar ve yüzeye doğru tırmanır. HUD: “ESCAPE THE FLOODED RUINS.”
+Köyün üzerindeki dağlık bir seyir noktasına ulaşır ve uzaktaki dağlar arasında asılı duran devasa bir antik gökyüzü kalesi görür. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, ardından “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”
+Fotogerçekçi Kore UE5 kalitesinde oynanış, gerçekçi yıkım ve su fiziği, işlevsel minimalist HUD, doğal oyuncu kontrollü kamera hareketi, katı karakter ve ekipman tutarlılığı; sinematik fragman görünümü yok, mobil oyun grafiği yok, anime yok, çizgi film yok, vahşet (gore) yok, altyazı yok, logo yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3985,20 +3996,27 @@ Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](
 
 <a name="prompt-2101515497150025999"></a>
 
-### Çeviri sürüyor
+### İstem, Koreli bir kadının Seul'de yürüdüğü, yüzünü yıkadığı, lolipop yediği ve komşularını selamladığı 30 saniyelik retro bir DV videosunu tarif etmektedir.
 
 Yazar：[@AIwithkhan](https://x.com/AIwithkhan) · [Orijinal gönderi](https://x.com/AIwithkhan/status/2101515497150025999)
 
 Retro / Vintage · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İstem, Koreli bir kadının Seul'de yürüdüğü, yüzünü yıkadığı, lolipop yediği ve komşularını selamladığı 30 saniyelik retro bir DV videosunu tarif etmektedir.
 
 <img src="covers/2101515497150025999.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Seul'ün eski bir yerleşim mahallesinde sakin bir pazar sabahının tadını çıkaran genç bir Koreli kadının 30 saniyelik, ultra gerçekçi, kişisel bir ev videosunu oluşturun. Karakter referansı olarak ekteki görseli kullanın ve yüzünü, dağınık uzun siyah yan atkuyruğunu, pastel mavi dar kesim üstünü, bol krem rengi pantolonunu, siyah spor ayakkabılarını, gümüş kolyesini ve genel görünümünü kusursuz bir şekilde tutarlı tutun.
+Neşeli bir ifadeyle evinden çıkar, arkasından kapıyı kilitler, dağınık yan atkuyruğunu düzeltir ve sessiz mahallede rahatça yürümeye başlar. Yol boyunca tanıdık birkaç komşusunun yanından geçer ve onları bir gülümseme ve sıradan bir “Hello” ile sıcak bir şekilde selamlayarak doğal, samimi bir pazar atmosferi yaratır.
+Mahalledeki küçük bir dış mekan çeşmesine ulaşır ve yüzünü yıkamak için durur. Yüzüne serin su çarpar, pastel mavi üstünün önüne birkaç damla su düştüğünde güler, ıslak noktalara bakar, gülümser ve devam etmeden önce muzipçe başını sallar.
+Küçük bir yerel bakkala uğrar, renkli bir lolipop şekerleme alır, hemen paketini açar, ağzına atar ve mahallede keyifle tadını çıkararak geri yürür. Bir elinde lolipopu tutarken diğer elinde küçük alışveriş poşetini rahatça sallar.
+Dar bir konut sokağından geçerken mahallenin birkaç çocuğuyla karşılaşır. Bir elinde lolipopu tutarken diğer eliyle gülümser, el sallar ve teker teker çocuklarla el sıkışır. “Hello!” der ve oyuncu bir gülümsemeyle yürümeye devam eder.
+Sona doğru, hala lolipopu tutarken kameraya döner, doğal bir şekilde gülümser ve sessiz sokakta yürüyüp uzaklaşmadan önce “Happy Sunday!” der.
+2000'lerin başındaki tüketici tipi ham DV kamera görüntülerini kullanın: el kamerası sarsıntısı, kusurlu kadrajlama, otomatik odaklama arayışı, pozlama kaymaları, yumuşak detaylar, hafif dijital parazit, doğal hareket bulanıklığı, zaman zaman garip yakınlaştırmalar ve otantik ev videosu kusurları.
+Yalnızca doğal Seul mahallesi ambiyansı — ayak sesleri, konuşan komşular, gülen çocuklar, akan su, bisiklet zilleri, uzaktaki trafik, kuşlar, yaz böcekleri ve esintide hareket eden yapraklar. Müzik yok, dış ses yok, altyazı yok, dramatik olaylar yok, cilalı ticari sinematografi yok, güzellik filtreli cilt yok, CGI görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4087,20 +4105,48 @@ Yavaşça bir kez göz kırpıyor ve hiç kıpırdamıyor
 
 <a name="prompt-2101519217421885874"></a>
 
-### Çeviri sürüyor
+### İstem; yağmurlu bir Seul yatak odasında ne giyeceğine karar veren genç bir Koreli kadının, 30 saniyelik senaryolu zaman damgaları ve çevresel ses ipuçlarıyla tamamlanan, 2000'lerin başı MiniDV tarzındaki bir ev videosunu ayrıntılı şekilde tarif etmektedir.
 
 Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2101519217421885874)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İstem; yağmurlu bir Seul yatak odasında ne giyeceğine karar veren genç bir Koreli kadının, 30 saniyelik senaryolu zaman damgaları ve çevresel ses ipuçlarıyla tamamlanan, 2000'lerin başı MiniDV tarzındaki bir ev videosunu ayrıntılı şekilde tarif etmektedir.
 
 <img src="covers/2101519217421885874.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ana Özne: 24 yaşında genç Koreli kadın, doğal olarak çekici, gerçekçi cilt, minimal makyaj, uzun koyu renk saçları dağınık bir şekilde açık. Hazırlanırken basit, günlük ev kıyafetleri giyiyor. Tam kimliğini, yüz hatlarını, saç stilini, vücut oranlarını ve görünümünü baştan sona koruyun.
+
+Mekân: Karanlık, yağmurlu bir sabahın erken saatlerinde Seul'deki küçük, eski bir apartman dairesi yatak odası. Açık gardırop, sade ahşap şifonyer, küçük ayna, katlanmış kıyafetler, kanvas omuz çantası ve bulanık komşu apartmanlara bakan yağmurla kaplı bir pencere. Dışarıda aralıksız yağan yağmur.
+
+Aydınlatma ve Atmosfer: Rahat, loş mavi saat ortamı. Yağmurlu pencereden gelen soğuk mavi-gri ışık, zayıf ve sıcak bir komodin lambasıyla karışıyor. Koyu bulutlu gökyüzü, soluk renkler, yumuşak gölgeler ve hafif az pozlanmış iç mekân. Sessiz, uykulu ve samimi yağmurlu sabah atmosferi.
+
+Tarz: Başka bir kişinin video kamerasını tutarak kaydettiği, 2000'lerin başlarına ait ultra gerçekçi Sony MiniDV ev videosu. Tıpkı bir aile üyesinin o hazırlanırken onu gelişigüzel çekmesi gibi tamamen doğal ve kurgusuz. Doğal elde tutma hareketi, ince insan sarsıntısı, kusurlu kadraj, nazik yeniden kadrajlama, zaman zaman otomatik odaklanma arayışı, hafif pozlama değişimleri, soluk renkler, yumuşak kontrast, otantik DV sıkıştırması, düşük ışıkta ince dijital parazit ve mikrofon dip gürültüsü. Baştan sona akıcı, sürekli ve gerçek zamanlı hareket. Takılma, judder, kare atlama, yinelenen kareler, stop-motion görünümü, aşırı hareket bulanıklığı, hız değişimleri veya düşük kare hızı görünümü yok. Sabitleme (stabilizasyon) veya modern sinematik hareket yok.
+
+00:00–00:04: Açık gardırobunun önünde uykulu bir şekilde duruyor, asılı duran birkaç kıyafete göz gezdiriyor. Sade, bol kesim bir gömlek çıkarıyor ve aynaya doğru bakarken onu üzerine tutuyor.
+
+00:04–00:08: Fikrini değiştiriyor, onu geri asıyor ve başka bir gömlek çıkarıyor. İkincisini üzerine tutuyor ve düşünceli bir ifadeyle yansımasını inceliyor.
+
+00:08–00:12: Her iki elinde birer tane tutarak iki gömlek arasında kararsızca bakıyor. Hangisini giymesi gerektiğini sessizce sorarcasına, hafif belirsiz bir gülümsemeyle kameraya doğru bakıyor.
+
+00:12–00:16: Her iki gömleği de yatağın üzerine bırakıyor ve bir anlığına oturuyor. Yağmuru dinleyerek yağmurlu pencereye doğru bakıyor, ardından tekrar kıyafetlere dönüyor.
+
+00:16–00:20: Gömleklerden birini tekrar alıyor ve aynanın karşısına geçip farklı açılardan kısaca üzerine tutuyor. Nasıl durduğunu kontrol etmek için hafifçe sola ve sağa dönüyor.
+
+00:20–00:24: Sonunda tatmin olmuş görünüyor. Diğer gömleği gardıroba geri asıyor ve seçtiği gömleği düzgünce kolunun üzerine katlıyor.
+
+00:24–00:27: Yakında asılı duran hafif bir ceketi fark ediyor, duraklayıp onu da düşünüyor. Cekete dokunuyor, ardından pencereden dışarıdaki yağmura bakıyor.
+
+00:27–00:30: Ceketi de almaya karar veriyor. Memnun küçük bir gülümsemeyle kameraya doğru bakıyor, kanvas omuz çantasını alıyor ve yatak odasından çıkıyor. Kamera, kesilmeden önce onu gelişigüzel birkaç adım takip ediyor.
+
+Ses: Yalnızca doğal ortam sesi—pencereye vuran aralıksız yağmur, kıyafet hışırtıları, kayan gardırop kapakları, yumuşak ayak sesleri, kumaş hareketi, uzaktan gelen hafif trafik sesi ve sessiz apartman daire ambiyansı. Müzik, dış ses veya eklenmiş ses efektleri yok.
+
+Amaç: Yapılandırılmış bir moda videosundan ziyade, 2000'lerin başından kalma sıradan 30 saniyelik bir aile video kaydı hissi vermesi. Hikâye yalnızca yağmurlu bir sabah ne giyeceğine yavaşça karar vermesinden ibarettir. Küçük duraklamalar, kararsızlıklar ve gelişigüzel hareketler bunu kendiliğinden, samimi ve otantik kılmalıdır.
+
+Hareket kalitesi: Her eylemi akıcı, sürekli ve fiziksel olarak gerçekçi tutun. Her hareketin doğal olarak tamamlanması için yeterli zaman tanıyın. Hızlı kesmelerden veya sıkıştırılmış eylemlerden kaçının. Elde tutulan kamera, sıradan bir şekilde çekim yapan gerçek bir insan gibi hafifçe kaymalı ve yeniden kadraj almalıdır. Takılma, judder, kare atlama, yinelenen kareler veya düşük kare hızı görünümü olmamalıdır. Nostaljik görünüm, kesintili hareketlerden değil, tamamen otantik MiniDV özelliklerinden kaynaklanmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

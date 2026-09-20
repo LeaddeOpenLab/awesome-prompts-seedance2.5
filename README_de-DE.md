@@ -35,20 +35,31 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101516770255270041"></a>
 
-### Übersetzung läuft
+### Prompt für ein fotorealistisches Third-Person-Action-Adventure-Gameplay-Video in Unreal Engine 5, das die Erkundung eines beschädigten Dorfes, ein Stromrätsel, einen unterirdischen Bosskampf, eine Flucht vor dem Wasser und die HUD-Oberfläche umfasst.
 
 Autor：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Originalbeitrag](https://x.com/AIwithSynthia/status/2101516770255270041)
 
 App- / Webdesign · Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein fotorealistisches Third-Person-Action-Adventure-Gameplay-Video in Unreal Engine 5, das die Erkundung eines beschädigten Dorfes, ein Stromrätsel, einen unterirdischen Bosskampf, eine Flucht vor dem Wasser und die HUD-Oberfläche umfasst.
 
 <img src="covers/2101516770255270041.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, fotorealistisches AAA-Third-Person-Open-World-Action-Adventure-Gameplay-Video im Format 16:9, das wie echtes, spielbares Unreal Engine 5-Material aussieht und nicht wie ein filmischer Trailer.
+Junge koreanische Abenteurerin, Mitte 20, exakt dasselbe Gesicht, tiefer dunkler Pferdeschwanz, athletischer Körperbau, dunkel petrolfarbene Jacke, schwarzes Hemd, braune Cargohose, robuste Stiefel, Handschuhe, Rucksack, Kletterseil und Metallkompass-Armband durchgehend.
+Verwende eine normale, vom Spieler gesteuerte Third-Person-Kamera hinter und leicht über ihr, mit authentischer Bewegung, realistischer Physik, Schatten, Materialien, Animationen und Umgebungsinteraktion.
+Sie betritt ein sturmbeschädigtes Bergdorf voller verlassener Häuser, schlammiger Straßen, zerstörter Brücken, Fahrzeuge und herabhängender Stromkabel. HUD: “SEARCH THE ABANDONED VILLAGE.”
+Sie erkundet die Umgebung, springt über einen zerstörten Steg, klettert auf ein Dach und erreicht einen alten Funkturm, während die Ausdauer sichtlich abnimmt. HUD: “FIND A WAY TO THE RADIO TOWER.”
+Sie entdeckt einen verschlossenen Generatorraum, schließt ein loses Kabel wieder an und stellt den Strom wieder her, wodurch ein uralter Mechanismus unter dem Dorf aktiviert wird. HUD: “INVESTIGATE THE HIDDEN PASSAGE.”
+Sie steigt in eine gewaltige unterirdische Ruine hinab, die rotierende Plattformen, Metallketten und ein gigantisches versiegeltes Tor enthält, und aktiviert dann den Mechanismus, um es zu öffnen.
+Ein riesiger Wächter aus Stein und Metall erwacht. Sie zieht ihre Klinge, während sich das HUD zu “DEFEAT THE RUIN GUARDIAN” ändert, komplett mit gegnerischer Gesundheitsleiste und Zielerfassungsanzeige.
+Der Wächter greift an → sie weicht aus → aktiviert ihr magnetisches Armband → reißt beschädigte Rüstungsteile ab → ein leuchtender Schwachpunkt wird sichtbar → sie trifft ihn mit ihrer Klinge → die Gesundheit des Bosses nimmt ab.
+Der Wächter zerstört die Kammer, Wasser bricht durch die Wände und sie flieht über einstürzende Plattformen, springt über Trümmer und klettert zur Oberfläche empor. HUD: “ESCAPE THE FLOODED RUINS.”
+Sie erreicht einen Aussichtspunkt auf dem Berg über dem Dorf und erblickt eine gigantische uralte Himmelsfestung, die zwischen fernen Bergen schwebt. HUD: “MISSION COMPLETE: ESCAPED THE RUINS”, gefolgt von “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”
+Fotorealistisches Gameplay in UE5-Qualität in Korea, realistische Zerstörungs- und Wasserphysik, funktionales minimalistisches HUD, natürliche, spielergesteuerte Kamerabewegung, strikte Konsistenz von Charakter und Ausrüstung, kein Cinematic-Trailer-Look, keine Mobile-Game-Grafik, kein Anime, kein Cartoon, kein Gore, keine Untertitel, keine Logos, keine Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3991,20 +4002,27 @@ Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](http
 
 <a name="prompt-2101515497150025999"></a>
 
-### Übersetzung läuft
+### Prompt beschreibt ein 30-sekündiges Retro-DV-Video einer koreanischen Frau, die durch Seoul spaziert, ihr Gesicht wäscht, einen Lutscher isst und Nachbarn grüßt.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Originalbeitrag](https://x.com/AIwithkhan/status/2101515497150025999)
 
 Retro / Vintage · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt beschreibt ein 30-sekündiges Retro-DV-Video einer koreanischen Frau, die durch Seoul spaziert, ihr Gesicht wäscht, einen Lutscher isst und Nachbarn grüßt.
 
 <img src="covers/2101515497150025999.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, ultrarealistisches persönliches Heimvideo einer jungen koreanischen Frau, die einen entspannten Sonntagmorgen in einem älteren Wohnviertel von Seoul genießt. Verwende das beigefügte Bild als Charakterreferenz und halte ihr Gesicht, ihren langen, unordentlichen schwarzen Seitenzopf, ihr eng anliegendes pastellblaues Oberteil, ihre weite cremefarbene Hose, ihre schwarzen Sneaker, ihre Silberkette und ihr gesamtes Erscheinungsbild perfekt einheitlich.
+Sie verlässt gut gelaunt ihr Zuhause, schließt die Tür hinter sich ab, richtet ihren unordentlichen Seitenzopf und schlendert entspannt durch das ruhige Viertel. Unterwegs begegnet sie ein paar vertrauten Nachbarn und grüßt sie herzlich mit einem Lächeln und einem beiläufigen „Hello“, was eine natürliche, freundliche Sonntagsatmosphäre schafft.
+Sie erreicht einen kleinen Außenwasserhahn in der Nachbarschaft und hält an, um sich das Gesicht zu waschen. Sie spritzt sich kühles Wasser ins Gesicht, lacht, als mehrere Wassertropfen auf der Vorderseite ihres pastellblauen Oberteils landen, blickt auf die nassen Flecken hinab, lächelt und schüttelt spielerisch den Kopf, bevor sie weitergeht.
+Sie besucht einen winzigen örtlichen Lebensmittelladen, kauft einen bunten Lolli, wickelt ihn sofort aus, nimmt ihn in den Mund und geht glücklich naschend durch die Nachbarschaft zurück. Dabei schwingt sie die kleine Einkaufstasche locker in der einen Hand, während sie den Lolli in der anderen hält.
+Als sie durch eine schmale Wohnstraße geht, trifft sie auf ein paar Kinder aus der Nachbarschaft. Sie lächelt, winkt und schüttelt ihnen nacheinander die Hand, während sie den Lolli in der anderen Hand behält. Sie sagt „Hello!“ und geht mit einem verspielten Lächeln weiter.
+Kurz vor Schluss dreht sie sich mit dem Lolli in der Hand zur Kamera, lächelt natürlich und sagt „Happy Sunday!“, bevor sie die ruhige Gasse hinuntergeht.
+Verwende unbearbeitetes DV-Kameramaterial für Endverbraucher aus den frühen 2000er Jahren: Verwacklungen durch Handkameraführung, unvollkommene Bildkomposition, Autofokus-Suchen, Belichtungsschwankungen, weiche Details, leichtes digitales Rauschen, natürliche Bewegungsunschärfe, gelegentliche ungeschickte Zooms und authentische Unvollkommenheiten eines Heimvideos.
+Nur die natürliche Geräuschkulisse eines Seouler Wohnviertels – Schritte, sich unterhaltende Nachbarn, lachende Kinder, fließendes Wasser, Fahrradklingeln, entfernter Verkehr, Vögel, Sommerinsekten und Blätter, die sich im Wind bewegen. Keine Musik, keine Erzählung, keine Untertitel, keine dramatischen Ereignisse, keine hochglanzpolierte Werbefilmästhetik, keine Haut mit Beauty-Filter, kein CGI-Look.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4093,20 +4111,48 @@ Er blinzelt einmal, langsam, und bewegt sich nicht
 
 <a name="prompt-2101519217421885874"></a>
 
-### Übersetzung läuft
+### Prompt beschreibt detailliert ein Heimvideo im Stil von frühen 2000er-Jahre-MiniDV-Aufnahmen einer jungen koreanischen Frau, die sich an einem regnerischen Morgen in einem Schlafzimmer in Seoul entscheidet, was sie anzieht, komplett mit 30-sekündigen geskripteten Zeitstempeln und Umgebungsgeräuschen.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2101519217421885874)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt beschreibt detailliert ein Heimvideo im Stil von frühen 2000er-Jahre-MiniDV-Aufnahmen einer jungen koreanischen Frau, die sich an einem regnerischen Morgen in einem Schlafzimmer in Seoul entscheidet, was sie anzieht, komplett mit 30-sekündigen geskripteten Zeitstempeln und Umgebungsgeräuschen.
 
 <img src="covers/2101519217421885874.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hauptmotiv: Junge koreanische Frau, 24, natürlich attraktiv, realistische Haut, minimales Make-up, langes dunkles Haar locker offen. Trägt einfache, bequeme Freizeitkleidung für zu Hause, während sie sich fertig macht. Bewahre ihre exakte Identität, Gesichtszüge, Frisur, Körperproportionen und ihr Erscheinungsbild durchgehend.
+
+Ort: Kleines Schlafzimmer in einer alten Wohnung in Seoul an einem dunklen, regnerischen frühen Morgen. Offener Kleiderschrank, einfache Holzkommode, kleiner Spiegel, gefaltete Kleidung, Canvas-Umhängetasche und ein regennasses Fenster mit Blick auf verschwommene benachbarte Wohnblöcke. Stetiger Regen draußen.
+
+Beleuchtung & Atmosphäre: Gemütliche, gedämpfte Blaue-Stunde-Stimmung. Kaltes blau-graues Licht vom regnerischen Fenster, gemischt mit einer schwachen warmen Nachttischlampe. Dunkler, bewölkter Himmel, gedämpfte Farben, weiche Schatten und leicht unterbelichteter Innenraum. Ruhige, schläfrige und intime Regenmorgen-Atmosphäre.
+
+Stil: Ultrarealistisches Sony MiniDV-Heimvideo aus den frühen 2000er-Jahren, gefilmt von einer anderen Person, die den Camcorder hält. Völlig ungestellt und spontan, als würde ein Familienmitglied sie beiläufig filmen, während sie sich fertig macht. Natürliche Handkamerabewegung, subtiles menschliches Zittern, unvollkommene Kadrierung, sanftes Nachführen, gelegentliches Suchen des Autofokus, leichte Belichtungsverschiebungen, verblasste Farben, weicher Kontrast, authentische DV-Kompression, dezentes digitales Rauschen bei schlechtem Licht und Mikrofonrauschen. Durchgehend flüssige, kontinuierliche Echtzeitbewegung. Kein Ruckeln, Judder, Frame-Skipping, keine doppelten Frames, kein Stop-Motion-Look, keine übermäßige Bewegungsunschärfe, keine Geschwindigkeitsänderungen oder niedrige Bildratenoptik. Keine Stabilisierung oder moderne filmische Bewegungen.
+
+00:00–00:04: Sie steht schläfrig vor ihrem offenen Kleiderschrank und blickt durch mehrere hängende Kleidungsstücke. Sie nimmt ein einfaches Oversized-Hemd heraus und hält es an sich heran, während sie zum Spiegel blickt.
+
+00:04–00:08: Sie ändert ihre Meinung, hängt es zurück und zieht ein anderes Hemd heraus. Sie hält das zweite an sich heran und betrachtet ihr Spiegelbild mit nachdenklichem Gesichtsausdruck.
+
+00:08–00:12: Sie blickt zwischen den beiden Hemden hin und her, hält in jeder Hand eines. Sie wirft einen Blick zum Camcorder mit einem winzigen, unsicheren Lächeln, als würde sie still fragen, welches sie anziehen soll.
+
+00:12–00:16: Sie legt beide Hemden auf das Bett und setzt sich für einen Moment hin. Sie schaut zum regnerischen Fenster, lauscht dem Regen und blickt dann zurück zur Kleidung.
+
+00:16–00:20: Sie nimmt wieder ein Hemd zur Hand und stellt sich vor den Spiegel, hält es kurz aus verschiedenen Winkeln an sich heran. Sie dreht sich leicht nach links und rechts, um zu prüfen, wie es aussieht.
+
+00:20–00:24: Sie scheint schließlich zufrieden zu sein. Sie hängt das andere Hemd zurück in den Kleiderschrank und legt das ausgewählte Hemd ordentlich über ihren Arm.
+
+00:24–00:27: Sie bemerkt eine leichte Jacke, die in der Nähe hängt, hält inne und zieht auch diese in Betracht. Sie berührt die Jacke und blickt dann durch das Fenster nach draußen in den Regen.
+
+00:27–00:30: Sie beschließt, die Jacke ebenfalls mitzunehmen. Sie blickt mit einem kleinen, zufriedenen Lächeln zum Camcorder, nimmt ihre Canvas-Umhängetasche und verlässt das Schlafzimmer. Die Kamera folgt ihr beiläufig für ein paar Schritte vor dem Schnitt.
+
+Audio: Nur natürlicher O-Ton – stetiger Regen gegen das Fenster, Rascheln von Kleidung, Schieben von Schranktüren, leise Schritte, Stoffbewegungen, schwacher entfernter Verkehr und ruhige Wohnungsatmosphäre. Keine Musik, kein Kommentar oder hinzugefügte Soundeffekte.
+
+Ziel: Es soll sich wie ein gewöhnlicher 30-sekündiger Ausschnitt aus einer Familienaufnahme der frühen 2000er-Jahre anfühlen, nicht wie ein durchgestyltes Modevideo. Die Geschichte besteht einfach darin, wie sie an einem regnerischen Morgen langsam entscheidet, was sie anziehen soll. Kleine Pausen, Unentschlossenheit und ungezwungene Bewegungen sollen es spontan, intim und authentisch wirken lassen.
+
+Bewegungsqualität: Halte jede Aktion flüssig, kontinuierlich und physikalisch realistisch. Lass jedem Ablauf genügend Zeit, sich natürlich zu entfalten. Vermeide schnelle Schnitte oder komprimierte Aktionen. Die Handkamera sollte sanft driften und neu kadrieren wie eine echte Person, die beiläufig filmt. Kein Ruckeln, Judder, Frame-Skipping, keine doppelten Frames oder niedrige Bildratenoptik. Der Vintage-Look sollte vollständig aus authentischen MiniDV-Eigenschaften resultieren, nicht aus abgehackten Bewegungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

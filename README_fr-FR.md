@@ -35,20 +35,31 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101516770255270041"></a>
 
-### Traduction en cours
+### Prompt de vidéo de gameplay pour jeu d'action-aventure à la troisième personne au style photoréaliste sous Unreal Engine 5, comprenant l'exploration d'un village dévasté, une énigme d'activation électrique, un combat de boss souterrain, une fuite face aux eaux et l'interface HUD.
 
 Auteur：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Publication originale](https://x.com/AIwithSynthia/status/2101516770255270041)
 
 Conception d'applications / de sites web · Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo de gameplay pour jeu d'action-aventure à la troisième personne au style photoréaliste sous Unreal Engine 5, comprenant l'exploration d'un village dévasté, une énigme d'activation électrique, un combat de boss souterrain, une fuite face aux eaux et l'interface HUD.
 
 <img src="covers/2101516770255270041.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo de gameplay d'action-aventure en monde ouvert à la troisième personne, photoréaliste et AAA de 30 secondes, au format 16:9, ressemblant à de véritables séquences jouables sous Unreal Engine 5, et non à une bande-annonce cinématique.
+Jeune aventurière coréenne, milieu de la vingtaine, exactement le même visage, queue-de-cheval basse sombre, silhouette athlétique, veste bleu sarcelle foncé, chemise noire, pantalon cargo marron, bottes robustes, gants, sac à dos, corde d'escalade et bracelet boussole en métal tout du long.
+Utilisez une caméra à la troisième personne standard contrôlée par le joueur, placée derrière et légèrement au-dessus d'elle, avec des mouvements authentiques, une physique, des ombres, des matériaux, des animations et une interaction environnementale réalistes.
+Elle entre dans un village de montagne endommagé par une tempête, rempli de maisons abandonnées, de rues boueuses, de ponts détruits, de véhicules et de câbles électriques suspendus. HUD : “SEARCH THE ABANDONED VILLAGE.”
+Elle explore, saute par-dessus une passerelle brisée, grimpe sur un toit et atteint une vieille tour radio tandis que son endurance diminue visiblement. HUD : “FIND A WAY TO THE RADIO TOWER.”
+Elle découvre une salle des générateurs verrouillée, reconnecte un câble détaché et rétablit le courant, activant un mécanisme ancien sous le village. HUD : “INVESTIGATE THE HIDDEN PASSAGE.”
+Elle descend dans une gigantesque ruine souterraine contenant des plateformes rotatives, des chaînes métalliques et une immense porte scellée, puis active le mécanisme pour l'ouvrir.
+Un imposant gardien de pierre et de métal s'éveille. Elle dégaine sa lame tandis que le HUD passe à “DEFEAT THE RUIN GUARDIAN”, avec une barre de santé ennemie et un indicateur de verrouillage de cible.
+Le gardien attaque → elle esquive → active son bracelet magnétique → arrache une armure endommagée → un point faible lumineux apparaît → elle le frappe avec sa lame → la santé du boss diminue.
+Le gardien détruit la salle, l'eau jaillit à travers les murs et elle s'échappe à travers des plateformes qui s'effondrent, saute par-dessus des débris et grimpe vers la surface. HUD : “ESCAPE THE FLOODED RUINS.”
+Elle atteint un promontoire montagneux surplombant le village et aperçoit une gigantesque forteresse céleste antique suspendue entre des montagnes lointaines. HUD : “MISSION COMPLETE: ESCAPED THE RUINS”, suivi de “NEW OBJECTIVE: INVESTIGATE THE SKY FORTRESS.”
+Gameplay photoréaliste de qualité UE5 en Corée, physique réaliste de l'eau et de la destruction, HUD minimaliste fonctionnel, mouvement de caméra naturel contrôlé par le joueur, stricte cohérence du personnage et de l'équipement, aucun aspect de bande-annonce cinématique, pas de graphismes de jeu mobile, pas d'anime, pas de dessin animé, pas de gore, pas de sous-titres, pas de logos, pas de filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3991,20 +4002,27 @@ Traduction en cours
 
 <a name="prompt-2101515497150025999"></a>
 
-### Traduction en cours
+### Le prompt décrit une vidéo rétro en DV de 30 secondes d'une femme coréenne marchant dans Séoul, se lavant le visage, mangeant une sucette et saluant des voisins.
 
 Auteur：[@AIwithkhan](https://x.com/AIwithkhan) · [Publication originale](https://x.com/AIwithkhan/status/2101515497150025999)
 
 Rétro / Vintage · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Le prompt décrit une vidéo rétro en DV de 30 secondes d'une femme coréenne marchant dans Séoul, se lavant le visage, mangeant une sucette et saluant des voisins.
 
 <img src="covers/2101515497150025999.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo amateur personnelle et ultra-réaliste de 30 secondes d'une jeune femme coréenne profitant d'un dimanche matin détendu dans un vieux quartier résidentiel de Séoul. Utilisez l'image jointe comme référence de personnage et gardez son visage, sa longue queue de cheval basse décoiffée sur le côté, son haut ajusté bleu pastel, son pantalon ample crème, ses baskets noires, son collier en argent et son apparence générale parfaitement cohérents.
+Elle quitte son domicile d'un air joyeux, verrouille la porte derrière elle, ajuste sa queue de cheval décoiffée sur le côté et commence à marcher d'un pas tranquille à travers le quartier calme. En chemin, elle croise quelques voisins familiers et les salue chaleureusement avec un sourire et un « Hello » décontracté, créant une atmosphère dominicale naturelle et conviviale.
+Elle arrive à un petit robinet extérieur du quartier et s'arrête pour se laver le visage. Elle s'asperge le visage d'eau fraîche, rit lorsque plusieurs gouttes d'eau atterrissent sur le devant de son haut bleu pastel, baisse les yeux vers les taches humides, sourit et secoue la tête d'un air amusé avant de continuer.
+Elle se rend dans une minuscule supérette locale, achète une sucette colorée, la déballe immédiatement, la met dans sa bouche et repart à travers le quartier en la dégustant joyeusement. Elle balance nonchalamment le petit sac de courses d'une main tout en tenant la sucette de l'autre.
+En traversant une ruelle résidentielle étroite, elle rencontre quelques enfants du quartier. Elle sourit, leur fait un signe de la main et leur serre la main un par un tout en gardant la sucette dans son autre main. Elle dit « Hello ! » et continue de marcher avec un sourire espiègle.
+Vers la fin, elle se tourne vers la caméra tout en tenant toujours sa sucette, sourit naturellement et dit « Happy Sunday ! » avant de s'éloigner dans la ruelle calme.
+Utilisez des séquences brutes de caméra DV grand public du début des années 2000 : tremblements de la caméra à l'épaule, cadrage imparfait, recherche de l'autofocus, variations d'exposition, détails doux, léger bruit numérique, flou de mouvement naturel, zooms maladroits occasionnels et imperfections authentiques de vidéo de famille.
+Ambiance sonore naturelle d'un quartier de Séoul uniquement — bruits de pas, voisins qui discutent, rires d'enfants, eau qui coule, sonnettes de vélo, circulation lointaine, oiseaux, insectes d'été et feuilles qui bougent au gré de la brise. Pas de musique, pas de voix off, pas de sous-titres, pas d'événements dramatiques, pas de cinématographie publicitaire léchée, pas de peau lissée par filtre de beauté, pas d'aspect CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4093,20 +4111,48 @@ Il cligne des yeux une fois, lentement, et ne bouge pas
 
 <a name="prompt-2101519217421885874"></a>
 
-### Traduction en cours
+### Le prompt décrit en détail une vidéo familiale au format MiniDV du début des années 2000 montrant une jeune femme coréenne décidant quoi porter dans une chambre à Séoul par temps de pluie, accompagnée d'un minutage scénarisé de 30 secondes et d'indications sonores environnementales.
 
 Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2101519217421885874)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Le prompt décrit en détail une vidéo familiale au format MiniDV du début des années 2000 montrant une jeune femme coréenne décidant quoi porter dans une chambre à Séoul par temps de pluie, accompagnée d'un minutage scénarisé de 30 secondes et d'indications sonores environnementales.
 
 <img src="covers/2101519217421885874.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sujet principal : Jeune femme coréenne, 24 ans, naturellement attirante, peau réaliste, maquillage minimal, longs cheveux foncés détachés de façon naturelle. Portant des vêtements d'intérieur simples et décontractés pendant qu'elle se prépare. Conserver exactement son identité, ses traits du visage, sa coiffure, ses proportions corporelles et son apparence tout du long.
+
+Lieu : Chambre d'un petit appartement ancien de Séoul lors d'un petit matin sombre et pluvieux. Penderie ouverte, commode en bois simple, petit miroir, vêtements pliés, sac à bandoulière en toile et fenêtre couverte de pluie donnant sur des immeubles voisins flous. Pluie continue à l'extérieur.
+
+Éclairage & Ambiance : Ambiance cosy et tamisée de l'heure bleue. Lumière froide gris-bleu provenant de la fenêtre pluvieuse mélangée à une faible lampe de chevet chaude. Ciel sombre et nuageux, couleurs douces, ombres délicates et intérieur légèrement sous-exposé. Atmosphère matinale pluvieuse, calme, ensommeillée et intime.
+
+Style : Vidéo familiale ultra-réaliste sur Sony MiniDV du début des années 2000, filmée par une autre personne tenant le caméscope. Totalement spontanée et sans mise en scène, comme un membre de la famille la filmant avec désinvolture pendant qu'elle se prépare. Mouvement naturel caméra à l'épaule, léger tremblement humain, cadrage imparfait, légers recadrages, pompage occasionnel de l'autofocus, légères variations d'exposition, couleurs délavées, contraste doux, compression DV authentique, subtil bruit numérique en basse lumière et souffle du micro. Mouvement fluide et continu en temps réel tout au long de la séquence. Aucun bégaiement, saccade, saut d'image, image dupliquée, aspect stop-motion, flou de mouvement excessif, variation de vitesse ou rendu de faible cadence d'images. Aucune stabilisation ni mouvements cinématographiques modernes.
+
+00:00–00:04 : Elle se tient d'un air endormi devant sa penderie ouverte, examinant plusieurs vêtements suspendus. Elle sort une chemise oversize simple et la place contre elle tout en regardant vers le miroir.
+
+00:04–00:08 : Elle change d'avis, la remet en place et en sort une autre. Elle maintient la seconde contre elle et observe son reflet d'un air pensif.
+
+00:08–00:12 : Elle regarde alternativement les deux chemises, tenant l'une dans chaque main. Elle jette un coup d'œil vers le caméscope avec un léger sourire hésitant, comme pour demander silencieusement laquelle porter.
+
+00:12–00:16 : Elle pose les deux chemises sur le lit et s'assoit un instant. Elle regarde vers la fenêtre pluvieuse, écoutant la pluie, puis reporte son regard sur les vêtements.
+
+00:16–00:20 : Elle reprend l'une des chemises et se place devant le miroir, la maintenant brièvement contre elle sous différents angles. Elle pivote légèrement vers la gauche et vers la droite pour observer le résultat.
+
+00:20–00:24 : Elle semble enfin satisfaite. Elle raccroche l'autre chemise dans la penderie et plie soigneusement la chemise choisie sur son bras.
+
+00:24–00:27 : Elle remarque une veste légère suspendue à proximité, s'arrête et l'envisage également. Elle touche la veste, puis regarde dehors la pluie à travers la fenêtre.
+
+00:27–00:30 : Elle décide de prendre aussi la veste. Elle regarde vers le caméscope avec un petit sourire satisfait, attrape son sac à bandoulière en toile et sort de la chambre. La caméra la suit naturellement pendant deux ou trois pas avant la coupure.
+
+Audio : Son d'ambiance direct uniquement — pluie régulière contre la fenêtre, froissement des vêtements, portes coulissantes de la penderie, bruits de pas feutrés, mouvement des tissus, léger trafic lointain et ambiance calme de l'appartement. Pas de musique, pas de narration ni d'effets sonores ajoutés.
+
+Objectif : Donner l'impression d'un fragment ordinaire de 30 secondes d'une vidéo de famille du début des années 2000 plutôt que d'une vidéo de mode structurée. L'histoire la montre simplement en train de décider tranquillement quoi porter par un matin de pluie. Les petites pauses, l'indécision et les gestes naturels doivent rendre la scène spontanée, intime et authentique.
+
+Qualité du mouvement : Conserver chaque action fluide, continue et physiquement réaliste. Laisser suffisamment de temps à chaque mouvement pour qu'il s'accomplisse naturellement. Éviter les coupes rapides ou les actions compressées. La caméra tenue à la main doit dériver et recadrer doucement, comme une vraie personne filmant sans prétention. Aucun bégaiement, saccade, saut d'image, image dupliquée ou aspect de faible cadence d'images. L'esthétique vintage doit provenir entièrement des caractéristiques authentiques du MiniDV, non d'un mouvement saccadé.
 ```
 
 [↑ Retour aux catégories](#catalog)
