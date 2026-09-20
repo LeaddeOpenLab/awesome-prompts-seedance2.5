@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**157** 件 · 最新の追加: **2026-09-19**
+**162** 件 · 最新の追加: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -393,6 +393,28 @@ UGCスタイル
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2101442950647697549"></a>
+
+### 翻訳中
+
+作者：[@studiokagurajp](https://x.com/studiokagurajp) · [元の投稿](https://x.com/studiokagurajp/status/2101442950647697549)
+
+シネマティック / フィルムスチル · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101442950647697549.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -4315,6 +4337,96 @@ Seedance 2.5を720pで使用し、各ショットを個別に処理してくだ�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2101148067458347258"></a>
+
+### 翻訳中
+
+作者：[@AIwithkhan](https://x.com/AIwithkhan) · [元の投稿](https://x.com/AIwithkhan/status/2101148067458347258)
+
+インフォグラフィック / 教育ビジュアル · インフルエンサー / モデル · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101148067458347258.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### 翻訳中
+
+作者：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [元の投稿](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+その他 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101462342265389125.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### 翻訳中
+
+作者：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [元の投稿](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2101457329401057421.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### 翻訳中
+
+作者：[@0xKarmi](https://x.com/0xKarmi) · [元の投稿](https://x.com/0xKarmi/status/2101430744195428713)
+
+風景 / 自然 · 配信済み
+
+元の投稿：[@ridark\_eth](https://x.com/ridark_eth) · [元の投稿](https://x.com/ridark_eth/status/2100972106586439809)
+
+**概要:** 翻訳中
+
+<img src="covers/2101430744195428713.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:24:04.780Z",
+  "model": "seedance2.5",
+  "prompt": "An eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics.",
+  "promptTranslations": {
+    "en": "An eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics."
+  },
+  "summaryTranslations": {
+    "en": "An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer."
+  },
+  "translationVersion": 2,
+  "summary": "An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.",
+  "summaryEn": "An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101462342265389125",
+    "canonicalUrl": "https://x.com/IronEntrepreneu/status/2101462342265389125",
+    "author": {
+      "username": "IronEntrepreneu",
+      "displayName": "Token360.ai",
+      "profileUrl": "https://x.com/IronEntrepreneu"
+    },
+    "publishedAt": "2026-09-20T00:04:00.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "FocusSuspended by scarlet strings. Governed by another’s will.\nAn eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics.\n\nWatch the generation on Seedance 2.5:\nhttps://t.co/0A53e8qLhC\n\n#AIVideo #Seedance #GhostBride #HorrorCinema #TextToVideo #UE5 #3DCG",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/IronEntrepreneu/status/2101462342265389125",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101401257248190465/img/pWkOMUr3yB7fx96C.jpg",
+        "analysisUrl": "https://x.com/IronEntrepreneu/status/2101462342265389125"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/IronEntrepreneu/status/2101462342265389125",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101401257248190465/img/pWkOMUr3yB7fx96C.jpg",
+  "coverPath": "covers/2101462342265389125.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101401257248190465",
+    "x-post:2101462342265389125"
+  ],
+  "analysis": {
+    "summary": "An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.",
+    "summaryEn": "An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video directly showcases a mechanical ghost bride in red robes dancing via puppet strings in a temple, controlled by a puppeteer above."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics.",
+    "sourceRange": {
+      "start": 63,
+      "end": 286
+    },
+    "translations": {
+      "zh": "破旧的仪式神庙内，诡异的机械鬼新娘在上方冷酷傀儡师的操控下起舞。以超精密定格机械关节、体积烟雾和丝绸物理效果呈现。",
+      "en": "An eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

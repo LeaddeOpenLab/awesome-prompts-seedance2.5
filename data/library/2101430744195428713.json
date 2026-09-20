@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:23:03.687Z",
+  "model": "seedance2.5",
+  "prompt": "a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric.",
+  "promptTranslations": {
+    "en": "a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric."
+  },
+  "summaryTranslations": {
+    "en": "A hammock tent strung between two trees in a rainy foggy forest."
+  },
+  "translationVersion": 2,
+  "summary": "A hammock tent strung between two trees in a rainy foggy forest.",
+  "summaryEn": "A hammock tent strung between two trees in a rainy foggy forest.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100972106586439809",
+      "canonicalUrl": "https://x.com/ridark_eth/status/2100972106586439809",
+      "author": {
+        "username": "ridark_eth",
+        "displayName": "Ridark",
+        "profileUrl": "https://x.com/ridark_eth"
+      },
+      "originalText": "https://t.co/S31w6V9PVL"
+    },
+    "id": "2101430744195428713",
+    "canonicalUrl": "https://x.com/0xKarmi/status/2101430744195428713",
+    "author": {
+      "username": "0xKarmi",
+      "displayName": "Karmi",
+      "profileUrl": "https://x.com/0xKarmi"
+    },
+    "publishedAt": "2026-09-19T21:58:26.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "EVERYONE SAYS AI CANNOT MAKE YOU FEEL SAFE\n\ni opened Seedance 2.5, typed \"a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric.\" hit generate. closed my eyes.\n\n00:00 – two trees. fog between them. a green hammock tent hangs on orange straps. rain falls through the canopy.\n\n00:04 – the drops hit the tent fabric and roll down. each drop traces a path dictated by the weave pattern. the heavier drops pool at the center seam and drip from the lowest point.\n\n00:08 – the fog shifts. a tree behind the tent appears and disappears. the depth of field isn't optical. it's atmospheric. the forest decides what you see.\n\n00:12 – you hear the rain without audio. the visual rhythm of the drops is so consistent that your brain fills in the sound.\n\nnobody prompted \"drops follow weave pattern.\" nobody prompted \"fog decides visibility.\" nobody prompted \"visual rhythm creates phantom audio.\"\n\n15 seconds. no action. no character. no plot. and 38 million people watched it to the end. most of them watched it twice.\n\nthe model didn't learn physics here. it learned comfort. it understood that sometimes the most powerful video is the one that makes you want to fall asleep inside it.\n\nsave this one.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xKarmi/status/2101430744195428713",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101430625399889920/img/PNzhYLGLOLP7sxzx.jpg",
+        "analysisUrl": "https://x.com/0xKarmi/status/2101430744195428713"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1258
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/0xKarmi/status/2101430744195428713",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101430625399889920/img/PNzhYLGLOLP7sxzx.jpg",
+  "coverPath": "covers/2101430744195428713.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101430625399889920",
+    "x-post:2101430744195428713",
+    "x-post:2100972106586439809"
+  ],
+  "analysis": {
+    "summary": "A hammock tent strung between two trees in a rainy foggy forest.",
+    "summaryEn": "A hammock tent strung between two trees in a rainy foggy forest.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a hammock tent between two trees in a foggy, rainy forest."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric.",
+    "sourceRange": {
+      "start": 74,
+      "end": 163
+    },
+    "translations": {
+      "zh": "在多雨多雾的森林中，两棵树之间挂着一顶吊床帐篷。雨水敲打在布料上。",
+      "en": "a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "nature video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

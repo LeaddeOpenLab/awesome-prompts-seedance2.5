@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**157** 筆內容 · 最新收錄: **2026-09-19**
+**162** 筆內容 · 最新收錄: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -393,6 +393,28 @@ UGC風格
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2101442950647697549"></a>
+
+### 翻譯中
+
+作者：[@studiokagurajp](https://x.com/studiokagurajp) · [查看 X 原帖](https://x.com/studiokagurajp/status/2101442950647697549)
+
+電影感 / 電影劇照 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101442950647697549.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -4313,6 +4335,96 @@ FOLLOW THE SOUND.
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2101148067458347258"></a>
+
+### 翻譯中
+
+作者：[@AIwithkhan](https://x.com/AIwithkhan) · [查看 X 原帖](https://x.com/AIwithkhan/status/2101148067458347258)
+
+資訊圖表 / 教育視覺化內容 · 網紅 / 模特兒 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101148067458347258.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### 翻譯中
+
+作者：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [查看 X 原帖](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101462342265389125.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### 翻譯中
+
+作者：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [查看 X 原帖](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101457329401057421.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### 翻譯中
+
+作者：[@0xKarmi](https://x.com/0xKarmi) · [查看 X 原帖](https://x.com/0xKarmi/status/2101430744195428713)
+
+風景 / 大自然 · 已推流
+
+查看 X 原帖：[@ridark\_eth](https://x.com/ridark_eth) · [查看 X 原帖](https://x.com/ridark_eth/status/2100972106586439809)
+
+**概括:** 翻譯中
+
+<img src="covers/2101430744195428713.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

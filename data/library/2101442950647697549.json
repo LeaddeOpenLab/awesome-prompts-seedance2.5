@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:23:10.428Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\n\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\n\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\n\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\n\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\n\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air.",
+  "promptTranslations": {
+    "en": "SCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\\n\\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\\n\\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\\n\\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\\n\\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\\n\\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\\n\\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic Edo-period night alley scene featuring a soba vendor with rising steam."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.",
+  "summaryEn": "Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101442950647697549",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2101442950647697549",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-19T22:46:57.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "ja",
+    "originalText": "AI didn't ruin this shot. My first verb did.\nショットを壊したのはAIじゃなく、最初の動詞だった。\n\nI wrote \"fog.\" The alley looked like a machine. I changed it to rolls, and kept the take where the sheet thins.\n「fog」と書いた。ドライアイスになった。rolls に替えて、厚くなって薄れるテイクを残した。\n\nPROMPT (worked, as-is):\n\nSCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\n\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\n\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\n\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\n\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\n\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 15s / Sound On / no Start frame\n効いているのはこの1行 → ACTION の \"rolls … one slow sheet, then thins.\" fog とも sit とも書かない。\n\nSteal this. Swap the pot. Ship it.\n鍋だけ替えてそのまま使ってOK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2101442950647697549",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101442881735294976/pu/img/gc5vy64WrY_UMpjB.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2101442950647697549"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 49
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2101442950647697549",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101442881735294976/pu/img/gc5vy64WrY_UMpjB.jpg",
+  "coverPath": "covers/2101442950647697549.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101442881735294976",
+    "x-post:2101442950647697549"
+  ],
+  "analysis": {
+    "summary": "Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.",
+    "summaryEn": "Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video directly displays the Edo-period alley, the vendor under a kasa hat, the glowing paper lantern, and the realistic steam rising from the stall pot."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\n\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\n\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\n\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\n\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\n\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air.",
+    "sourceRange": {
+      "start": 260,
+      "end": 1352
+    },
+    "translations": {
+      "zh": "场景：江户雨夜小巷，16:9。固定机位三分之四侧面拍摄无轮木制肩挑荞麦面摊。一盏纸制行灯亮着。摊位上有口沸腾的锅。三十多岁的成年小贩戴着笠帽，脸被帽檐遮掩。没有第二张面孔。暖帘或灯笼上无清晰文字。\n\n动作：热气从锅中滚滚升起，呈薄雾状缓慢掠过镜头后散去。摊贩不抬头，不向碗中盛汤，也没有顾客靠近。\n\n对焦：精准对焦在蒸汽边缘、锅缘和行灯纸面上。巷道木板虚化一档。\n\n物理效果：蒸汽滚烫潮湿，漂移随后消散，非干冰或造雾机效果，无CGI丝带感。\n\n光照：行灯是唯一暖色主光。周围夜色冷湿。仅在肉汤上有高光。\n\n风格：真实电影质感，日本时代剧，柴烟与油纸微光，柔和胶片颗粒。无动漫、文字、水印或标识。\n\n音频：仅环境音效。无音乐、配乐、歌声、说话、旁白或摊贩叫卖。蒸汽掠过镜头时伴有轻微沸腾与湿润咝咝声。远处夜巷空气声。",
+      "en": "SCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\n\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\n\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\n\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\n\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\n\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic historical Japanese night alley video scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

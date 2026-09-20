@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**157** Prompts · Zuletzt hinzugefügt: **2026-09-19**
+**162** Prompts · Zuletzt hinzugefügt: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -341,6 +341,28 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2101442950647697549"></a>
+
+### Übersetzung läuft
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101442950647697549.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -3877,6 +3899,96 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2101148067458347258"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Originalbeitrag](https://x.com/AIwithkhan/status/2101148067458347258)
+
+Infografik / Edu Visual · Influencer / Model · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101148067458347258.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### Übersetzung läuft
+
+Autor：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Originalbeitrag](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101462342265389125.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Übersetzung läuft
+
+Autor：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Originalbeitrag](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101457329401057421.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### Übersetzung läuft
+
+Autor：[@0xKarmi](https://x.com/0xKarmi) · [Originalbeitrag](https://x.com/0xKarmi/status/2101430744195428713)
+
+Landschaft / Natur · Veröffentlicht
+
+Originalbeitrag：[@ridark\_eth](https://x.com/ridark_eth) · [Originalbeitrag](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101430744195428713.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**157** Prompt · Bổ sung mới nhất: **2026-09-19**
+**162** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -343,6 +343,28 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2101442950647697549"></a>
+
+### Đang dịch
+
+Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101442950647697549.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -4004,6 +4026,96 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2101148067458347258"></a>
+
+### Đang dịch
+
+Tác giả：[@AIwithkhan](https://x.com/AIwithkhan) · [Bài gốc](https://x.com/AIwithkhan/status/2101148067458347258)
+
+Infographic / Hình ảnh giáo dục · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101148067458347258.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### Đang dịch
+
+Tác giả：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Bài gốc](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101462342265389125.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Đang dịch
+
+Tác giả：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Bài gốc](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101457329401057421.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### Đang dịch
+
+Tác giả：[@0xKarmi](https://x.com/0xKarmi) · [Bài gốc](https://x.com/0xKarmi/status/2101430744195428713)
+
+Phong cảnh / Thiên nhiên · Đã xuất bản
+
+Bài gốc：[@ridark\_eth](https://x.com/ridark_eth) · [Bài gốc](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101430744195428713.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

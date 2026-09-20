@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**157** Prompts · Última adição: **2026-09-19**
+**162** Prompts · Última adição: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -327,6 +327,28 @@ Tradução em andamento
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2101442950647697549"></a>
+
+### Tradução em andamento
+
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101442950647697549.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -3885,6 +3907,96 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101148067458347258"></a>
+
+### Tradução em andamento
+
+Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicação original](https://x.com/AIwithkhan/status/2101148067458347258)
+
+Infográfico / Edu Visual · Influenciador(a) / Modelo · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101148067458347258.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### Tradução em andamento
+
+Autor：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Publicação original](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101462342265389125.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Tradução em andamento
+
+Autor：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Publicação original](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101457329401057421.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### Tradução em andamento
+
+Autor：[@0xKarmi](https://x.com/0xKarmi) · [Publicação original](https://x.com/0xKarmi/status/2101430744195428713)
+
+Paisagem / Natureza · Publicado
+
+Publicação original：[@ridark\_eth](https://x.com/ridark_eth) · [Publicação original](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101430744195428713.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

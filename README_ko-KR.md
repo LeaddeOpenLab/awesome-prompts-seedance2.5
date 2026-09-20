@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**157** 개 · 최근 추가: **2026-09-19**
+**162** 개 · 최근 추가: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -343,6 +343,28 @@ UGC 스타일
 <a name="category-cinematic-film-still"></a>
 
 ## 시네마틱 / 영화 스틸컷
+
+<a name="prompt-2101442950647697549"></a>
+
+### 번역 중
+
+작성자：[@studiokagurajp](https://x.com/studiokagurajp) · [원본 게시물](https://x.com/studiokagurajp/status/2101442950647697549)
+
+시네마틱 / 영화 스틸컷 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101442950647697549.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -4269,6 +4291,96 @@ Seedance 2.5를 720p 해상도로 사용하여 각 샷을 개별적으로 처리
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2101148067458347258"></a>
+
+### 번역 중
+
+작성자：[@AIwithkhan](https://x.com/AIwithkhan) · [원본 게시물](https://x.com/AIwithkhan/status/2101148067458347258)
+
+인포그래픽 / 교육용 시각 자료 · 인플루언서 / 모델 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101148067458347258.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### 번역 중
+
+작성자：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [원본 게시물](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+기타 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101462342265389125.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### 번역 중
+
+작성자：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [원본 게시물](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101457329401057421.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### 번역 중
+
+작성자：[@0xKarmi](https://x.com/0xKarmi) · [원본 게시물](https://x.com/0xKarmi/status/2101430744195428713)
+
+풍경 / 자연 · 배포 완료
+
+원본 게시물：[@ridark\_eth](https://x.com/ridark_eth) · [원본 게시물](https://x.com/ridark_eth/status/2100972106586439809)
+
+**요약:** 번역 중
+
+<img src="covers/2101430744195428713.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

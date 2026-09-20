@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**157** Prompts · Dernier ajout: **2026-09-19**
+**162** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -341,6 +341,28 @@ Traduction en cours
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2101442950647697549"></a>
+
+### Traduction en cours
+
+Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101442950647697549.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -3877,6 +3899,96 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2101148067458347258"></a>
+
+### Traduction en cours
+
+Auteur：[@AIwithkhan](https://x.com/AIwithkhan) · [Publication originale](https://x.com/AIwithkhan/status/2101148067458347258)
+
+Infographie / Visuel éducatif · Influenceur / Mannequin · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101148067458347258.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### Traduction en cours
+
+Auteur：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Publication originale](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101462342265389125.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Traduction en cours
+
+Auteur：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Publication originale](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101457329401057421.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### Traduction en cours
+
+Auteur：[@0xKarmi](https://x.com/0xKarmi) · [Publication originale](https://x.com/0xKarmi/status/2101430744195428713)
+
+Paysage / Nature · Publié
+
+Publication originale：[@ridark\_eth](https://x.com/ridark_eth) · [Publication originale](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101430744195428713.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**157** Prompt · Son eklenen: **2026-09-19**
+**162** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -327,6 +327,28 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2101442950647697549"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101442950647697549.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -3885,6 +3907,96 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101148067458347258"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIwithkhan](https://x.com/AIwithkhan) · [Orijinal gönderi](https://x.com/AIwithkhan/status/2101148067458347258)
+
+İnfografik / Eğitici Görsel · Influencer / Model · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101148067458347258.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Orijinal gönderi](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101462342265389125.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Orijinal gönderi](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101457329401057421.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@0xKarmi](https://x.com/0xKarmi) · [Orijinal gönderi](https://x.com/0xKarmi/status/2101430744195428713)
+
+Manzara / Doğa · Yayımlandı
+
+Orijinal gönderi：[@ridark\_eth](https://x.com/ridark_eth) · [Orijinal gönderi](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101430744195428713.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 

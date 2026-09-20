@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:24:21.286Z",
+  "model": "seedance2.5",
+  "prompt": "Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.",
+  "promptTranslations": {
+    "en": "Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps."
+  },
+  "summaryTranslations": {
+    "en": "An 8-second animation prompt based on an outfit infographic board, directing the model and individual item boxes to showcase a synchronized 360-degree rotation."
+  },
+  "translationVersion": 2,
+  "summary": "基于穿搭信息图展板的8秒动画提示词，指示模特与各服装单品框同步进行360度旋转展示。",
+  "summaryEn": "An 8-second fashion infographic animation prompt driving synchronous 360-degree rotation of a model and boxed outfit items.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101148067458347258",
+    "canonicalUrl": "https://x.com/AIwithkhan/status/2101148067458347258",
+    "author": {
+      "username": "AIwithkhan",
+      "displayName": "Smiling Khan",
+      "profileUrl": "https://x.com/AIwithkhan"
+    },
+    "publishedAt": "2026-09-19T03:15:11.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "Korean outfit style board\n\nUsing GPT Image 2 and Seedance 2.5\n\nPrompt :\n\nCreate a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithkhan/status/2101148067458347258",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg",
+        "analysisUrl": "https://x.com/AIwithkhan/status/2101148067458347258"
+      }
+    ],
+    "metrics": {
+      "likeCount": 220,
+      "repostCount": 17,
+      "replyCount": 65,
+      "quoteCount": 1,
+      "viewCount": 12314
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithkhan/status/2101148067458347258",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101148034981875712/img/Lb8TtAzos4Csy5Xc.jpg",
+  "coverPath": "covers/2101148067458347258.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101148034981875712",
+    "x-post:2101148067458347258"
+  ],
+  "analysis": {
+    "summary": "基于穿搭信息图展板的8秒动画提示词，指示模特与各服装单品框同步进行360度旋转展示。",
+    "summaryEn": "An 8-second fashion infographic animation prompt driving synchronous 360-degree rotation of a model and boxed outfit items.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video showcases the outfit board where the female model and individual fashion items in the grid rotate synchronously 360 degrees against a white studio background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.",
+    "sourceRange": {
+      "start": 73,
+      "end": 1460
+    },
+    "translations": {
+      "zh": "基于穿搭展板布局制作一段干净、高级的8秒时尚信息图动画。整体画面在白色极简背景上保持可见。右侧女性模特沿纵轴进行360°平滑旋转，如时尚转盘展示。动作优雅连贯，衣物物理效果自然。同时，编号框内展示的项链、发结、掌机、工装短裙、厚底靴与露肩上衣等单品同步360°旋转展示细节，外框与排版保持静止，镜头微推入，工作室柔光与高级商业画风。",
+      "en": "Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background. The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Concurrently, all items inside the numbered boxes (necklace, bow, handheld console, cargo skirt, boots, top) rotate synchronously while layout frames stay fixed."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "fashion infographic animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

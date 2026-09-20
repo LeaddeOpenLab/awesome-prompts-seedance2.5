@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**157** Prompts · Latest addition: **2026-09-19**
+**162** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -405,6 +405,28 @@ Do not omit actively mounting the table or intentional interference; do not show
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2101442950647697549"></a>
+
+### Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.
+
+Author：[@studiokagurajp](https://x.com/studiokagurajp) · [Source](https://x.com/studiokagurajp/status/2101442950647697549)
+
+Cinematic / Film Still · Published
+
+**Summary:** Cinematic Edo-period night alley scene featuring a soba vendor with rising steam.
+
+<img src="covers/2101442950647697549.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+SCENE: Edo night alley, 16:9. Locked three-quarter on a wooden shoulder-yoke soba stall, no wheels. One paper andon glows. A boiling pot sits in the stall. An adult vendor, thirties, wears a kasa; the face stays hidden under the brim. No second face. No readable writing on the noren or lantern.\n\nACTION: Steam rolls off the pot and crosses the lens in one slow sheet, then thins. The vendor does not look up. No pour into a bowl. No customer stepping in.\n\nFOCUS: Tack-sharp on the steam edge, the pot rim, and the andon paper. The alley boards are one stop soft.\n\nPHYSICS: Steam is hot and wet. It drifts, then fades. It does not look like dry ice or a fog machine. No CGI ribbons.\n\nLIGHT: The andon is the only warm key. Cool wet night around it. Specular on the broth only.\n\nSTYLE: Photoreal cinematic, period Japan, wood smoke and oil-paper glow, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. No vendor call. Soft boil and a wet steam hiss as the sheet crosses the lens. Distant night alley air.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101173902307467397"></a>
 
@@ -5902,6 +5924,96 @@ Text remains clear and stable while on screen, free of typos, garbled characters
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101148067458347258"></a>
+
+### An 8-second animation prompt based on an outfit infographic board, directing the model and individual item boxes to showcase a synchronized 360-degree rotation.
+
+Author：[@AIwithkhan](https://x.com/AIwithkhan) · [Source](https://x.com/AIwithkhan/status/2101148067458347258)
+
+Infographic / Edu Visual · Influencer / Model · Fashion Item · Published
+
+**Summary:** An 8-second animation prompt based on an outfit infographic board, directing the model and individual item boxes to showcase a synchronized 360-degree rotation.
+
+<img src="covers/2101148067458347258.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101462342265389125"></a>
+
+### An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.
+
+Author：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Source](https://x.com/IronEntrepreneu/status/2101462342265389125)
+
+Other · Published
+
+**Summary:** An eerie mechanical ghost bride dancing in a dark temple, manipulated by strings from an overhead puppeteer.
+
+<img src="covers/2101462342265389125.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An eerie, mechanical ghost bride dance inside a dilapidated ritual temple, controlled from high above by a cold puppeteer. Rendered with hyper-precise stop-motion mechanical articulation, volumetric smoke, and silk physics.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101457329401057421"></a>
+
+### Drone shots passing through grassland and mountains.
+
+Author：[@SomebodyisEscip](https://x.com/SomebodyisEscip) · [Source](https://x.com/SomebodyisEscip/status/2101457329401057421)
+
+Landscape / Nature · Published
+
+**Summary:** Drone shots passing through grassland and mountains.
+
+<img src="covers/2101457329401057421.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+-Drone passing through grass-land\n-Drone passing throught the mountain
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101430744195428713"></a>
+
+### A hammock tent strung between two trees in a rainy foggy forest.
+
+Author：[@0xKarmi](https://x.com/0xKarmi) · [Source](https://x.com/0xKarmi/status/2101430744195428713)
+
+Landscape / Nature · Published
+
+Source：[@ridark\_eth](https://x.com/ridark_eth) · [Source](https://x.com/ridark_eth/status/2100972106586439809)
+
+**Summary:** A hammock tent strung between two trees in a rainy foggy forest.
+
+<img src="covers/2101430744195428713.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a hammock tent strung between two trees in a rainy foggy forest. rain hitting the fabric.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101176910244139187"></a>
 
