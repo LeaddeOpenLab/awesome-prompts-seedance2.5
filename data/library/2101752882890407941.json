@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T20:23:23.015Z",
+  "model": "seedance2.5",
+  "prompt": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave 🌂\n\nThe camera keeps pulling back until she’s just a red thread in a concrete cathedral.",
+  "promptTranslations": {
+    "en": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave 🌂\\n\\nThe camera keeps pulling back until she’s just a red thread in a concrete cathedral."
+  },
+  "summaryTranslations": {
+    "en": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave."
+  },
+  "translationVersion": 2,
+  "summary": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave.",
+  "summaryEn": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101752882890407941",
+    "canonicalUrl": "https://x.com/aaassa120/status/2101752882890407941",
+    "author": {
+      "username": "aaassa120",
+      "displayName": "Rshhad",
+      "profileUrl": "https://x.com/aaassa120"
+    },
+    "publishedAt": "2026-09-20T19:18:30.000Z",
+    "collectedAt": "2026-09-20T20:15:35.699Z",
+    "language": "en",
+    "originalText": "One of a thousand, and the only one in colour\n\nA single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave 🌂\n\nThe camera keeps pulling back until she’s just a red thread in a concrete cathedral.\nMade with Seedance 2.5 on @itsPolloAI, one prompt, 30 seconds, no cuts 🎬",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aaassa120/status/2101752882890407941",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101752802808610816/img/XH6xom1RxyFBeYdU.jpg",
+        "analysisUrl": "https://x.com/aaassa120/status/2101752882890407941"
+      }
+    ],
+    "metrics": {
+      "likeCount": 193,
+      "repostCount": 90,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 724
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/aaassa120/status/2101752882890407941",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101752802808610816/img/XH6xom1RxyFBeYdU.jpg",
+  "coverPath": "covers/2101752882890407941.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101752802808610816",
+    "x-post:2101752882890407941"
+  ],
+  "analysis": {
+    "summary": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave.",
+    "summaryEn": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video exactly shows a woman in a crimson coat ascending stairs amidst gray hooded figures who open umbrellas, followed by a continuous camera pull-back in a massive concrete structure."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave 🌂\n\nThe camera keeps pulling back until she’s just a red thread in a concrete cathedral.",
+    "sourceRange": {
+      "start": 47,
+      "end": 251
+    },
+    "translations": {
+      "zh": "一件深红色大衣走上楼梯，而一片灰兜帽之海屏住呼吸，随后伞群如波浪般撑开 🌂\n\n摄像机不断后拉，直到她在混凝土大教堂中只留下一抹红线。",
+      "en": "A single crimson coat walks the stairs while a sea of grey hoods holds its breath, then the umbrellas open in a wave 🌂\n\nThe camera keeps pulling back until she’s just a red thread in a concrete cathedral."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic visual storytelling",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
