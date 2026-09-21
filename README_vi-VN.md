@@ -4519,20 +4519,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2101902583858122820"></a>
 
-### Đang dịch
+### đầu máy gốm men ngọc, các toa tàu màu ngà/xanh xô thơm, tường sứ, ánh trăng, tiếng lách cách bánh xe đồng bộ \+ tiếng phì phò của hơi nước \+ tiếng chuông chùa.
 
 Tác giả：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Bài gốc](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** đầu máy gốm men ngọc, các toa tàu màu ngà/xanh xô thơm, tường sứ, ánh trăng, tiếng lách cách bánh xe đồng bộ \+ tiếng phì phò của hơi nước \+ tiếng chuông chùa.
 
 <img src="covers/2101902583858122820.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+đầu máy gốm men ngọc, các toa tàu màu ngà/xanh xô thơm, tường sứ, ánh trăng, tiếng lách cách bánh xe đồng bộ + tiếng phì phò của hơi nước + tiếng chuông chùa.
 ```
 
 [↑ Về danh mục](#catalog)

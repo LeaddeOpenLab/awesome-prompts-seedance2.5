@@ -4434,20 +4434,20 @@ Traduzione in corso
 
 <a name="prompt-2101902583858122820"></a>
 
-### Traduzione in corso
+### locomotiva in ceramica celadon, vagoni avorio e salvia, pareti di porcellana, chiaro di luna, sferragliare sincronizzato delle ruote \+ sbuffo di vapore \+ campana del tempio.
 
 Autore：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Post originale](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** locomotiva in ceramica celadon, vagoni avorio e salvia, pareti di porcellana, chiaro di luna, sferragliare sincronizzato delle ruote \+ sbuffo di vapore \+ campana del tempio.
 
 <img src="covers/2101902583858122820.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+locomotiva in ceramica celadon, vagoni avorio e salvia, pareti di porcellana, chiaro di luna, sferragliare sincronizzato delle ruote + sbuffo di vapore + campana del tempio.
 ```
 
 [↑ Torna alle categorie](#catalog)

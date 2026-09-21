@@ -4428,20 +4428,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2101902583858122820"></a>
 
-### Çeviri sürüyor
+### seladon seramik lokomotif, fildişi ve adaçayı yeşili vagonlar, porselen duvarlar, ay ışığı, senkronize tekerlek tıkırtısı \+ buhar püskürtmesi \+ tapınak çanı.
 
 Yazar：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Orijinal gönderi](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** seladon seramik lokomotif, fildişi ve adaçayı yeşili vagonlar, porselen duvarlar, ay ışığı, senkronize tekerlek tıkırtısı \+ buhar püskürtmesi \+ tapınak çanı.
 
 <img src="covers/2101902583858122820.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+seladon seramik lokomotif, fildişi ve adaçayı yeşili vagonlar, porselen duvarlar, ay ışığı, senkronize tekerlek tıkırtısı + buhar püskürtmesi + tapınak çanı.
 ```
 
 [↑ Kategorilere dön](#catalog)

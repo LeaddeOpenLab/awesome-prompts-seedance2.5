@@ -4572,20 +4572,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2101902583858122820"></a>
 
-### 翻譯中
+### 青瓷陶瓷火車頭，象牙白與鼠尾草綠相間的車廂，瓷質牆壁，月光，同步的車輪喀噠聲 \+ 蒸汽呼哧聲 \+ 寺廟鐘聲。
 
 作者：[@KaminiKamini222](https://x.com/KaminiKamini222) · [查看 X 原帖](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 車輛 · 已推流
 
-**概括:** 翻譯中
+**概括:** 青瓷陶瓷火車頭，象牙白與鼠尾草綠相間的車廂，瓷質牆壁，月光，同步的車輪喀噠聲 \+ 蒸汽呼哧聲 \+ 寺廟鐘聲。
 
 <img src="covers/2101902583858122820.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+青瓷陶瓷火車頭，象牙白與鼠尾草綠相間的車廂，瓷質牆壁，月光，同步的車輪喀噠聲 + 蒸汽呼哧聲 + 寺廟鐘聲。
 ```
 
 [↑ 返回分類目錄](#catalog)

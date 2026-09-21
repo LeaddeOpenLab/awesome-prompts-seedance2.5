@@ -4434,20 +4434,20 @@ Traduction en cours
 
 <a name="prompt-2101902583858122820"></a>
 
-### Traduction en cours
+### locomotive en céramique céladon, wagons ivoire et sauge, murs en porcelaine, clair de lune, claquement synchronisé des roues \+ chuintement de la vapeur \+ cloche de temple.
 
 Auteur：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Publication originale](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** locomotive en céramique céladon, wagons ivoire et sauge, murs en porcelaine, clair de lune, claquement synchronisé des roues \+ chuintement de la vapeur \+ cloche de temple.
 
 <img src="covers/2101902583858122820.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+locomotive en céramique céladon, wagons ivoire et sauge, murs en porcelaine, clair de lune, claquement synchronisé des roues + chuintement de la vapeur + cloche de temple.
 ```
 
 [↑ Retour aux catégories](#catalog)

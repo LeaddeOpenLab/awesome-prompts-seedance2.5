@@ -4434,20 +4434,20 @@ Traducción en curso
 
 <a name="prompt-2101902583858122820"></a>
 
-### Traducción en curso
+### locomotora de cerámica celadón, vagones color marfil y salvia, paredes de porcelana, luz de luna, traqueteo sincronizado de ruedas \+ resoplido de vapor \+ campana de templo.
 
 Autor：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Publicación original](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** locomotora de cerámica celadón, vagones color marfil y salvia, paredes de porcelana, luz de luna, traqueteo sincronizado de ruedas \+ resoplido de vapor \+ campana de templo.
 
 <img src="covers/2101902583858122820.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+locomotora de cerámica celadón, vagones color marfil y salvia, paredes de porcelana, luz de luna, traqueteo sincronizado de ruedas + resoplido de vapor + campana de templo.
 ```
 
 [↑ Volver a categorías](#catalog)

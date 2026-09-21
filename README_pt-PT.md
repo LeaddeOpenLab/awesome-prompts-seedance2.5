@@ -4428,20 +4428,20 @@ Tradução em curso
 
 <a name="prompt-2101902583858122820"></a>
 
-### Tradução em curso
+### locomotiva de cerâmica celadonte, carruagens em marfim e salva, paredes de porcelana, luar, clique sincronizado das rodas \+ sopro de vapor \+ sino de templo.
 
 Autor：[@KaminiKamini222](https://x.com/KaminiKamini222) · [Publicação original](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** locomotiva de cerâmica celadonte, carruagens em marfim e salva, paredes de porcelana, luar, clique sincronizado das rodas \+ sopro de vapor \+ sino de templo.
 
 <img src="covers/2101902583858122820.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+locomotiva de cerâmica celadonte, carruagens em marfim e salva, paredes de porcelana, luar, clique sincronizado das rodas + sopro de vapor + sino de templo.
 ```
 
 [↑ Voltar às categorias](#catalog)

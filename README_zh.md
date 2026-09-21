@@ -4575,20 +4575,20 @@ NO: cartoon style, anime, distorted buildings, random geometry changes, excessiv
 
 <a name="prompt-2101902583858122820"></a>
 
-### 翻译中
+### 青瓷陶瓷机车，象牙白与鼠尾草绿相间的车厢，瓷质墙壁，月光，同步的车轮咔嗒声 \+ 蒸汽呼哧声 \+ 寺庙钟声。
 
 作者：[@KaminiKamini222](https://x.com/KaminiKamini222) · [查看 X 原帖](https://x.com/KaminiKamini222/status/2101902583858122820)
 
 车辆 · 已推流
 
-**概括:** 翻译中
+**概括:** 青瓷陶瓷机车，象牙白与鼠尾草绿相间的车厢，瓷质墙壁，月光，同步的车轮咔嗒声 \+ 蒸汽呼哧声 \+ 寺庙钟声。
 
 <img src="covers/2101902583858122820.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+青瓷陶瓷机车，象牙白与鼠尾草绿相间的车厢，瓷质墙壁，月光，同步的车轮咔嗒声 + 蒸汽呼哧声 + 寺庙钟声。
 ```
 
 [↑ 返回分类目录](#catalog)
