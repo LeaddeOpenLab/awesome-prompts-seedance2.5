@@ -406,20 +406,20 @@ Cảnh biểu diễn thời trang điện ảnh siêu thực, một phụ nữ t
 
 <a name="prompt-2101889590621536594"></a>
 
-### Đang dịch
+### Trình tự điện ảnh về một ngày kỳ quặc của cô gái Hàn Quốc tại sân chơi và khu thể thao.
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2101889590621536594)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Trình tự điện ảnh về một ngày kỳ quặc của cô gái Hàn Quốc tại sân chơi và khu thể thao.
 
 <img src="covers/2101889590621536594.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video về một cô gái Hàn Quốc xinh đẹp đang có một ngày vui tươi, mơ màng tại một sân chơi ngoài trời đầy màu sắc. Cô ấy mặc áo sơ mi trắng giản dị, quần jean tối màu, giày thể thao và mang một chiếc túi đeo vai họa tiết da báo sành điệu. Thể hiện cảnh cô ấy đang thư giãn và tinh nghịch nằm trên chiếc cầu trượt màu vàng tươi của sân chơi. Sau đó chuyển cảnh sang hình ảnh cô ấy ngồi lặng lẽ trên xích đu, trông có vẻ hơi mệt mỏi và chìm trong suy nghĩ. Tiếp theo, cô ấy ngồi bên rìa sân chơi và đội một chiếc nón chóp giao thông màu cam hài hước, tạo nên khoảnh khắc điện ảnh đầy kỳ quặc. Thể hiện cảnh cô ấy nghỉ ngơi yên bình trên những bậc thang bê tông dưới ánh sáng ban ngày tự nhiên dịu nhẹ cùng bầu không khí tĩnh lặng. Kết thúc bằng cảnh cô ấy ngủ thoải mái bên trong một chiếc xe đẩy hàng chứa đầy bóng rổ, tạo nên một cảnh tượng hài hước và bất ngờ. Sử dụng biểu cảm khuôn mặt chân thực, chuyển động cơ thể tự nhiên, chuyển động máy quay mang phong cách điện ảnh, màu sắc nhẹ nhàng và các chi tiết chân thực như ảnh chụp. Giữ cho danh tính và diện mạo của cô gái Hàn Quốc nhất quán trong toàn bộ video, với các chuyển cảnh mượt mà và phong cách kể chuyện điện ảnh đầy tinh nghịch.
 ```
 
 [↑ Về danh mục](#catalog)

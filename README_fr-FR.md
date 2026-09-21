@@ -404,20 +404,28 @@ Scène de performance de mode cinématographique ultra-réaliste, une belle jeun
 
 <a name="prompt-2101889590621536594"></a>
 
-### Traduction en cours
+### Séquence cinématographique de la journée insolite d'une fille coréenne dans une aire de jeux et un espace sportif.
 
 Auteur：[@Lianaalane](https://x.com/Lianaalane) · [Publication originale](https://x.com/Lianaalane/status/2101889590621536594)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence cinématographique de la journée insolite d'une fille coréenne dans une aire de jeux et un espace sportif.
 
 <img src="covers/2101889590621536594.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo d'une belle fille coréenne passant une journée ludique et rêveuse dans une aire de jeux extérieure colorée.
+Elle porte une chemise blanche décontractée, un jean foncé, des baskets et porte un élégant sac à bandoulière à imprimé léopard.
+Montrez-la en train de se détendre et de s'allonger de manière espiègle sur un toboggan jaune vif de l'aire de jeux.
+Passez ensuite à elle assise tranquillement sur une balançoire, l'air légèrement fatigué et perdue dans ses pensées.
+Plus tard, elle s'assoit au bord de l'aire de jeux en portant un drôle de chapeau en forme de cône orange, créant un moment cinématographique décalé.
+Montrez-la se reposant paisiblement sur des marches en béton sous une douce lumière naturelle du jour et dans une atmosphère sereine.
+Terminez avec elle dormant confortablement dans un caddie rempli de ballons de basket, créant une scène amusante et inattendue.
+Utilisez des expressions faciales réalistes, des mouvements corporels naturels, des mouvements de caméra cinématographiques, des couleurs douces et des détails photoréalistes.
+Conservez l'identité et l'apparence de la fille coréenne constantes tout au long de la vidéo, avec des transitions fluides et un style de narration cinématographique et ludique.
 ```
 
 [↑ Retour aux catégories](#catalog)

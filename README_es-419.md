@@ -404,20 +404,28 @@ Escena cinematográfica de actuación de moda ultrarrealista, una hermosa mujer 
 
 <a name="prompt-2101889590621536594"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica del día excéntrico de una chica coreana en un parque infantil y área deportiva.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2101889590621536594)
 
 Cine / Fotograma · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica del día excéntrico de una chica coreana en un parque infantil y área deportiva.
 
 <img src="covers/2101889590621536594.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video de una hermosa chica coreana pasando un día juguetón y de ensueño en un colorido parque infantil al aire libre.
+Lleva una camisa blanca informal, jeans oscuros, tenis y lleva un elegante bolso de hombro con estampado de leopardo.
+Muéstrala relajándose y acostada de forma juguetona en un resbaladero amarillo brillante del parque.
+Luego, haz una transición hacia ella sentada tranquilamente en un columpio, luciendo ligeramente cansada y perdida en sus pensamientos.
+Más tarde, se sienta en el borde del parque usando un divertido cono naranja como sombrero, creando un momento cinematográfico excéntrico.
+Muéstrala descansando plácidamente en unos escalones de concreto con suave luz natural de día y una atmósfera tranquila.
+Termina con ella durmiendo cómodamente dentro de un carrito de compras lleno de pelotas de baloncesto, creando una escena divertida e inesperada.
+Utiliza expresiones faciales realistas, movimiento corporal natural, movimiento de cámara cinematográfico, colores suaves y detalles fotorrealistas.
+Mantén la identidad y la apariencia de la chica coreana constantes a lo largo de todo el video, con transiciones fluidas y un estilo narrativo cinematográfico y juguetón.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -390,20 +390,28 @@ Cena cinematográfica de performance de moda ultrarrealista, uma linda jovem de 
 
 <a name="prompt-2101889590621536594"></a>
 
-### Tradução em andamento
+### Sequência cinematográfica do dia peculiar de uma garota coreana em um parquinho e área esportiva.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2101889590621536594)
 
 Cinematográfico / Imagem de Filme · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência cinematográfica do dia peculiar de uma garota coreana em um parquinho e área esportiva.
 
 <img src="covers/2101889590621536594.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo de uma linda garota coreana aproveitando um dia descontraído e sonhador em um parquinho ao ar livre colorido.
+Ela veste uma camisa branca casual, calça jeans escura, tênis e carrega uma elegante bolsa de ombro com estampa de leopardo.
+Mostre-a relaxando e deitada de forma brincalhona em um escorregador amarelo brilhante do parquinho.
+Depois, faça uma transição para ela sentada em silêncio em um balanço, parecendo um pouco cansada e perdida em pensamentos.
+Mais tarde, ela se senta na borda do parquinho usando um divertido chapéu de cone laranja, criando um momento cinematográfico peculiar.
+Mostre-a descansando pacificamente em degraus de concreto com uma suave luz natural do dia e uma atmosfera calma.
+Termine com ela dormindo confortavelmente dentro de um carrinho de compras cheio de bolas de basquete, criando uma cena divertida e inesperada.
+Use expressões faciais realistas, movimentos corporais naturais, movimentos de câmera cinematográficos, cores suaves e detalhes fotorrealistas.
+Mantenha a identidade e a aparência da garota coreana consistentes ao longo de todo o vídeo, com transições suaves e um estilo cinematográfico e divertido de contar histórias.
 ```
 
 [↑ Voltar às categorias](#catalog)

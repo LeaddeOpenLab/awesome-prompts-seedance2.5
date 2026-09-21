@@ -390,20 +390,28 @@ Cena cinematográfica de performance de moda ultrarrealista, uma jovem deslumbra
 
 <a name="prompt-2101889590621536594"></a>
 
-### Tradução em curso
+### Sequência cinematográfica do dia peculiar de uma rapariga coreana num parque infantil e área desportiva.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2101889590621536594)
 
 Cena de Cinema / Fotograma · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência cinematográfica do dia peculiar de uma rapariga coreana num parque infantil e área desportiva.
 
 <img src="covers/2101889590621536594.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cria um vídeo de uma linda rapariga coreana a passar um dia brincalhão e de sonho num parque infantil ao ar livre colorido.
+Ela veste uma camisa branca casual, calças de ganga escuras, sapatilhas e leva uma elegante mala a tiracolo com padrão de leopardo.
+Mostra-a a relaxar e deitada de forma divertida num escorrega amarelo brilhante do parque infantil.
+Depois, faz a transição para ela sentada calmamente num baloiço, com um ar ligeiramente cansado e perdida nos seus pensamentos.
+Mais tarde, senta-se na borda do parque infantil a usar um chapéu cónico cor de laranja engraçado, criando um momento cinematográfico peculiar.
+Mostra-a a descansar pacificamente em degraus de betão com luz natural suave de dia e uma atmosfera calma.
+Termina com ela a dormir confortavelmente dentro de um carrinho de compras cheio de bolas de basquetebol, criando uma cena engraçada e inesperada.
+Utiliza expressões faciais realistas, movimento corporal natural, movimento de câmara cinematográfico, cores suaves e detalhes fotorrealistas.
+Mantém a identidade e a aparência da rapariga coreana consistentes ao longo de todo o vídeo, com transições suaves e um estilo cinematográfico e divertido de narrativa.
 ```
 
 [↑ Voltar às categorias](#catalog)

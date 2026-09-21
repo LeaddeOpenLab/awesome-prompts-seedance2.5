@@ -404,20 +404,28 @@ Scena cinematografica ultra-realistica di una performance di moda: una bellissim
 
 <a name="prompt-2101889590621536594"></a>
 
-### Traduzione in corso
+### Sequenza cinematografica della bizzarra giornata di una ragazza coreana in un parco giochi e un'area sportiva.
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2101889590621536594)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza cinematografica della bizzarra giornata di una ragazza coreana in un parco giochi e un'area sportiva.
 
 <img src="covers/2101889590621536594.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video di una bellissima ragazza coreana che trascorre una giornata giocosa e sognante in un colorato parco giochi all'aperto.
+Indossa una camicia bianca casual, jeans scuri, scarpe da ginnastica e porta un'elegante borsa a tracolla leopardata.
+Mostrala mentre si rilassa e si sdraia scherzosamente su uno scivolo giallo brillante del parco giochi.
+Poi passa a lei seduta tranquillamente su un'altalena, con un'aria leggermente stanca e persa nei suoi pensieri.
+Più tardi siede sul bordo del parco giochi indossando un buffo cappello a forma di cono arancione, creando un momento cinematografico bizzarro.
+Mostrala mentre riposa pacificamente su gradini di cemento con una morbida luce diurna naturale e un'atmosfera serena.
+Concludi con lei che dorme comodamente dentro un carrello della spesa pieno di palloni da basket, creando una scena divertente e inaspettata.
+Usa espressioni facciali realistiche, movimenti corporei naturali, movimenti di macchina cinematografici, colori tenui e dettagli fotorealistici.
+Mantieni l'identità e l'aspetto della ragazza coreana coerenti per tutto il video, con transizioni fluide e uno stile di narrazione cinematografico e giocoso.
 ```
 
 [↑ Torna alle categorie](#catalog)

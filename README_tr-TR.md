@@ -390,20 +390,28 @@ Ultra gerçekçi sinematik moda performansı sahnesi; uzun, koyu siyah saçlı g
 
 <a name="prompt-2101889590621536594"></a>
 
-### Çeviri sürüyor
+### Koreli bir kızın oyun alanı ve spor alanındaki sıra dışı gününü anlatan sinematik sekans.
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2101889590621536594)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Koreli bir kızın oyun alanı ve spor alanındaki sıra dışı gününü anlatan sinematik sekans.
 
 <img src="covers/2101889590621536594.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Renkli bir açık hava oyun alanında neşeli, rüya gibi bir gün geçiren güzel bir Koreli kızın videosunu oluşturun.
+Üzerinde günlük beyaz bir gömlek, koyu renk kot pantolon, spor ayakkabılar var ve şık bir leopar desenli omuz çantası taşıyor.
+Onu oyun alanındaki parlak sarı bir kaydırağın üzerinde dinlenirken ve şakacı bir şekilde uzanırken gösterin.
+Ardından bir salıncakta sessizce otururken, biraz yorgun ve düşüncelere dalmış göründüğü ana geçiş yapın.
+Daha sonra oyun alanının kenarında komik turuncu bir koni şapka takmış halde oturur ve sıra dışı sinematik bir an yaratır.
+Yumuşak doğal gün ışığı ve sakin bir atmosfer eşliğinde beton basamaklarda huzurla dinlendiğini gösterin.
+Basketbol toplarıyla dolu bir alışveriş arabasının içinde rahatça uyurken, komik ve beklenmedik bir sahne yaratarak bitirin.
+Gerçekçi yüz ifadeleri, doğal vücut hareketleri, sinematik kamera hareketleri, yumuşak renkler ve fotogerçekçi ayrıntılar kullanın.
+Pürüzsüz geçişler ve eğlenceli, sinematik bir hikaye anlatımı tarzıyla Koreli kızın kimliğini ve görünümünü tüm video boyunca tutarlı tutun.
 ```
 
 [↑ Kategorilere dön](#catalog)

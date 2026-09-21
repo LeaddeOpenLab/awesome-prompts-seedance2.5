@@ -404,20 +404,28 @@ Ultrarealistische filmische Mode-Performance-Szene: Eine wunderschöne junge Fra
 
 <a name="prompt-2101889590621536594"></a>
 
-### Übersetzung läuft
+### Cineastische Sequenz über den skurrilen Tag eines koreanischen Mädchens auf einem Spielplatz und Sportbereich.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2101889590621536594)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cineastische Sequenz über den skurrilen Tag eines koreanischen Mädchens auf einem Spielplatz und Sportbereich.
 
 <img src="covers/2101889590621536594.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein Video von einem wunderschönen koreanischen Mädchen, das einen verspielten, verträumten Tag auf einem bunten Spielplatz im Freien verbringt.
+Sie trägt ein lässiges weißes Hemd, dunkle Jeans, Sneaker und eine stilvolle Umhängetasche mit Leopardenmuster.
+Zeige sie, wie sie sich entspannt und verspielt auf einer leuchtend gelben Spielplatzrutsche liegt.
+Gehe dann dazu über, wie sie ruhig auf einer Schaukel sitzt, etwas müde wirkt und in Gedanken versunken ist.
+Später sitzt sie mit einem lustigen orangefarbenen Kegelhut am Rand des Spielplatzes und sorgt für einen skurrilen, filmischen Moment.
+Zeige sie friedlich auf Betonstufen ruhend, bei sanftem natürlichem Tageslicht und in einer ruhigen Atmosphäre.
+Beende das Video damit, dass sie bequem in einem mit Basketbällen gefüllten Einkaufswagen schläft, was eine lustige, unerwartete Szene ergibt.
+Verwende realistische Gesichtsausdrücke, natürliche Körperbewegungen, cineastische Kamerabewegungen, sanfte Farben und fotorealistische Details.
+Behalte die Identität und das Erscheinungsbild des koreanischen Mädchens während des gesamten Videos bei, mit sanften Übergängen und einem verspielten, filmischen Erzählstil.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
