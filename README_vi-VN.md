@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**195** Prompt · Bổ sung mới nhất: **2026-09-21**
+**200** Prompt · Bổ sung mới nhất: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -353,20 +353,25 @@ Cảnh quay du lịch thực tế năm 2026, phong cảnh Nhật Bản tự nhi�
 
 <a name="prompt-2097097582262825180"></a>
 
-### Đang dịch
+### 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
 Tác giả：[@john87445528](https://x.com/john87445528) · [Bài gốc](https://x.com/john87445528/status/2097097582262825180)
 
 Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
 
 <img src="covers/2097097582262825180.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+｜15秒｜男主第一人称｜海妖风暧昧喜剧 【剧情锁定】 成年女主角#1发现男主准备击球，故意走进他的视野，主动侧坐上台球桌，屈起一条腿，让预定#2服装原有剪裁自然呈现大腿线条，以海妖风眼神和姿态干扰瞄准。男主停杆、抬头，她以为自己的小心思奏效；男主却不耐烦地倒转球杆，用橡胶粗端隔着衣服轻顶她臀侧一下，催她下桌。她被识破后调皮又无奈地让开，男主立即继续击球，母球撞中目标球，目标球落袋。 必须完整呈现“她先站着—主动上桌—故意展示腿部线条并观察他的反应”。她明知会干扰打球，仍主动试探；不能开场便让她已经坐好，也不能演成偶然挡路。 【人物与服装】 画面中唯一可见的人物是成年女主角#1
+，面孔、发型、体型保持一致。#1完整穿着预定#2
+屏幕截图_31-8-2026_22160_jimeng.jianying.com
+服装，带着装饰眼镜
+包括既定丝袜
+和配饰；#2仅是服装编号，绝不生成第二个人物。腿部呈现服从#2本身的长度、开口和袜装，不能为了露腿改变剪裁、消除袜子或凭空缩短衣服。 成年男主只提供第一人称视点、唯一一支球杆和一句画外对白。脸、身体、手臂、双手、影子、倒影均不入画。全片不出现其他人或人物复制。 【影像与拍摄关系】 9:16竖屏，1080×1920，30fps，约26—28mm等效视角。男主佩戴贴近眼线的轻型头戴相机，保留未经处理的手机视频观感。低头看球、抬头看人、直起身体均带动真实镜头运动。男主无需手持摄影设备，可以正常操杆；握杆手和架杆手始终位于取景下缘之外。 全程连续第一人称，不切到男主正面、第三人称或外部全景。轻微呼吸起伏、头部晃动和不完美重新构图；从白球转看#1时，对焦允许短暂迟疑。冷白顶灯照明，肤色和衣料保留纹理，暗部带少量手机噪点；快速调杆有适量运动模糊，但不能糊掉端头交换。无美颜、磨皮、电影调色和稳定器运镜。 构图以能读懂人物动作为先：上桌时保留她扶库边的手、坐下的位置和两腿变化；试探时让脸与腿部线条同时在画面内；赶人时让表情和球杆粗端同时可见；最后回到白球、红球、中袋的完整路线。镜头不长时间追着某一处身体，也不能为了看脸把上桌和调杆动作裁掉。 【台球厅环境】 普通室内台球厅，绿色台呢、红棕色木质库边、黑色桌体、银色边框和白色网兜球袋。背景为深灰与棕色竖向墙板、浅色百叶窗、深绿色等候椅，顶灯将桌面照得比背景明亮。远处可见另一张无人使用的球桌，环境朴素、有实际使用痕迹，整体空间和光线全程不变。 没有酒吧灯光、粉色爱心、霓虹装饰、豪华软包或摄影棚布景。镜头范围内不出现其他顾客、工作人员、人像海报或镜面反射。 【空间与球局】 男主位于近侧长库边中央，#1开始站在对面长库边、画面右侧。两人隔着约1.3米的桌宽相对，不能改成隔着整张球桌的长度。对面中袋位于画面上方中央，始终是明确的落袋目标。 桌上起始共有四颗球：一颗白色母球、一颗红色实心目标球、一颗蓝球、一颗黄球。白球位于近半台中央；红球在对面中袋前约25厘米，白球、红球、中袋形成容易看清的直线。蓝球与黄球分别停在左右远离球路的位置，全程静止。 #1坐在对面中袋右侧的库边，身体斜向镜头；一条屈腿轻放在台面右侧边缘，另一条腿垂在桌外。她的腿部和上身进入男主瞄准视野，但不踩球、不压球、不把腿跨在两球之间。她必须下桌后男主才击球。 她坐下前，白球到红球、红球到中袋的路线已在开场建立；她坐下后，屈腿位于这条路线右侧，进入视野并分散注意，但实际球路没有被身体堵死。她收腿下桌的过程中不得碰动任何球。球位从开头直到出杆保持不变，观众能用同一组位置看懂男主始终想打哪一球。 【海妖风与结尾表情】 坐姿呈自然S曲线：身体微侧，肩部下沉，颈部拉长，下巴轻轻侧抬，腰胯略向一侧移。屈腿与垂腿前后错位，大腿线条在人物整体中自然可见；左手撑库边，右手只整理一次发丝。半垂眼冷感直视男主，嘴角仅有很淡的试探笑意。 前半段冷艳、克制、有距离感；后半段按剧情允许出现调皮、无奈的微笑。她被识破后不惊恐、不生气，也不狼狈尖叫，而是嘴角先停半拍，随后侧眼抿笑、小幅摇头，像在用表情说“行吧，你就知道打球”。这句话不实际说出，不加字幕。 暧昧必须通过相互观察表现：她每次调整坐姿后都会瞥一眼杆头，看到杆头停住才露出得意；男主的镜头则反复从她回到红球，留下他其实更在乎球局的线索。前半段的腿部展示、后半段的调皮笑都属于成年人的轻松玩笑，保持自然、从容，不用夸张表情代替剧情。 【球杆连续性】 唯一一支约145厘米的台球杆：浅木色细杆、细小蓝色皮头、深色粗握柄、尾部黑色橡胶保护帽。细头用于击球，橡胶粗端用于一次轻微赶人动作。 调头是端对端转过180度。必须连续看见：细头离开白球并撤回；同一杆身斜向扫过镜头前方；细头转向侧下方，粗握柄和黑色尾帽从另一侧绕出；最终黑色粗端指向#1。握持点可以藏在下缘，杆身不能整根退出后突然换成另一端，也不能只沿长轴自转。 翻杆时杆身经过人物前方，必须与她保持明显的前后距离，不扫到头发、面部或肩膀。橡胶尾帽靠近臀侧后仅短暂接触一次，随即离开；接下来由#1自己撑住库边、收腿、滑下。她的身体运动、衣料变化与接触顺序同步，不能先下桌再补拍顶人的动作。 【严格时间分镜】 → 0—3秒，第一人称俯看球桌。白球、红球、中袋与左右静止的蓝黄两球同时建立，细杆头正在白球后方试瞄。 原本站在对面长库边右侧的#1先看一眼球杆方向，再看向镜头。她主动扶住库边，侧身坐上去，屈起一条腿放到台面边缘，另一条腿垂在桌外。坐下、抬腿和衣料自然形成褶皱的过程连续可见，#2原有剪裁呈现大腿线条。镜头随男主抬头，从球路转向她的完整坐姿。 → 3—5.5秒，保持#1面部、上身和腿部同框的中景。她肩部放松下沉、颈部拉长，身体形成S曲线，指尖整理发丝，半垂眼看着镜头，随后把视线短暂移向球杆，确认男主是否停下。 球杆停止试瞄。镜头略低头看球，又抬回她脸上。#1看见这个反应，嘴角慢慢浮起一丝笃定笑意，屈起的膝盖略向侧面调整，使大腿线条更完整。动作明显带有故意干扰的试探，但不拉扯衣摆。 → 5.5—7秒，球杆再次靠近白球，却仍未击打。男主短促呼气，镜头随他直起身体升高，发出略带火气、不耐烦的成年男声：“让开，让开。” #1没有立刻移动，只轻轻侧头，半垂眼望着他，嘴角还保留着以为自己成功的笑意。 → 7—8.5秒，完整展示调转球杆。浅木色细头先从白球后方撤回，同一杆身斜贯画面前景，细头沿侧下方转走；深色粗柄与黑色橡胶尾帽从另一侧转到正前方，完成端对端半圈翻转。 相机有轻微头部晃动，但始终让杆身的一部分留在画面中。最终画面下方清楚出现朝向#1的黑色橡胶粗端，细头已经朝向男主一侧。 → 8.5—10秒，男主将粗端越过桌面，隔着完整#2服装，在#1靠台面一侧的臀部外侧短促轻顶一下，随即撤开。人物中景同时交代她的脸、姿态、库边和接触动作，不切局部特写。 #1低头看一眼黑色杆尾，嘴角原来的笃定笑意停住半拍。她明白男主完全没有配合自己的试探，主动双手撑库边，把屈起的腿收出台面，顺势向桌外滑下。动作由她自身支撑完成，不被顶飞，也不跌倒。 → 10—11秒，#1双脚落地后向画面右侧让开半步，鞋底落地声清楚。她侧眼看向男主，抿住忍不住扬起的嘴角，轻轻摇一次头，带一点“被你看穿了”的调皮无奈。 她身体重新微侧，颈线拉长，维持冷艳基调；不是慌张、恼怒、委屈或被羞辱的表情。 → 11—12秒，球杆粗端收回，按先前相反的路径端对端调转：黑色尾帽转向下缘，浅木色杆身和蓝色细皮头重新指向白球。镜头随男主低头回到球路，细头停在白球后方，#1已经完全让出观察方向。 → 12—14秒，男主平稳出杆一次，细皮头实际接触白球，发出清楚的“嗒”。白球先滚动，再撞上红球；红球沿直线滚向对面中袋，越过袋沿并落进白色网兜，发出真实的落袋声。 白球碰撞后留在台面，减速停下；蓝球和黄球原地不动。落袋后桌上剩白、蓝、黄三颗球，红球不能再次出现在桌面。 → 14—15秒，镜头从空出的中袋略抬向右侧。#1站在桌旁，目光先扫过落袋位置，再回到男主，半垂眼侧视，嘴角带着克制的调皮笑意，轻轻呼出一口气。 她保持自然S曲线和前后错位的双腿，一副小计策失败却又拿他没办法的模样。男主没有搭话，结尾停在她无奈抿笑的反应上。 【音频】 现场同期声：通风设备、远处模糊人声、坐上库边的衣料摩擦、球杆转动的轻响、鞋底落地、击球、球体碰撞与落袋声。唯一对白来自镜头后方成年男主：“让开，让开。”#1用表情完成反应。无背景音乐、旁白、解释性对白和罐头笑声。 【负面约束】 不得省略主动上桌和故意干扰；不得只拍她已经坐好的状态；不得把大腿裁出画面，也不得使用裙底角度或腿臀慢扫；不得改变#2服装或露出内衣；不得复制人物、肢体、球和球杆；不得出现男主或第二个#1；不得把翻杆省略成杆子退出后换端；不得用细头顶人、反复顶撞、造成受伤或摔落；不得让#1做惊恐、愤怒或委屈反应；不得省略白球撞红球和红球真实落袋；不得白球入袋代替红球，不得目标球凭空消失；不得出现字幕、水印、平台UI、爱心贴纸、慢动作或电影滤镜。
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2038,20 +2043,20 @@ CẢNH: Nội thất đối diện với cửa shoji đóng kín, 16:9. Khung h�
 
 <a name="prompt-2100088243492385019"></a>
 
-### Cuộc rượt đuổi ban đêm đậm chất điện ảnh dưới mưa lớn trên đường phố với sự hồi hộp và giằng co.
+### Đang dịch
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2100088243492385019)
 
 Điện ảnh / Ảnh tĩnh từ phim · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Cuộc rượt đuổi ban đêm đậm chất điện ảnh dưới mưa lớn trên đường phố với sự hồi hộp và giằng co.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100088243492385019.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một video người đóng dài 30 giây mang phong cách điện ảnh, siêu thực tế lấy bối cảnh trên một con phố đêm mưa trong thành phố, với mặt đường ướt sũng phản chiếu ánh đèn đường và ánh đèn pha của những chiếc xe ô tô lướt qua. Thể hiện một người đang đi bộ một mình dọc theo vỉa hè dưới trời mưa lớn, đeo một chiếc túi đeo vai và mặc một chiếc áo khoác mưa sẫm màu. Ghi lại bầu không khí bằng ánh sáng điện ảnh đầy tâm trạng, những giọt mưa chân thực, các hình ảnh phản chiếu, làn sương mù và những bóng tối tự nhiên ban đêm. Dần dần xuất hiện một người khác đang tiến đến từ phía sau, tạo nên cảm giác căng thẳng và bất an. Cho thấy nhân vật chính đột ngột phản ứng và giằng co với kẻ đang tiến lại gần ở khu vực gần các cửa hàng. Tiếp tục với cảnh cả hai nhân vật chạy dưới mưa về phía một chiếc xe hơi đang đỗ trong khi máy quay theo dõi bằng chuyển động cầm tay sống động. Sử dụng cử động người chân thực, tính chất vật lý cơ thể tự nhiên, trang phục ướt nước chi tiết và bầu không khí thành phố sống động. Kết thúc bằng cảnh nhân vật chính đứng trên đường phố dưới mưa khi ánh đèn pha rọi sáng khung cảnh, để lại một khoảnh khắc kết thúc đầy kịch tính mang đậm chất điện ảnh.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2083,52 +2088,20 @@ Câu chuyện bắt đầu tại một xưởng may trang nhã, nơi một ngư�
 
 <a name="prompt-2100085430976930255"></a>
 
-### Lời nhắc phân cảnh hành động kiếm hiệp nhiều góc quay mang chất điện ảnh với một chiến binh tóc bạc chiến đấu trong cơn lốc bão sa mạc.
+### Đang dịch
 
 Tác giả：[@Noor\_ul\_ain43](https://x.com/Noor_ul_ain43) · [Bài gốc](https://x.com/Noor_ul_ain43/status/2100085430976930255)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Lời nhắc phân cảnh hành động kiếm hiệp nhiều góc quay mang chất điện ảnh với một chiến binh tóc bạc chiến đấu trong cơn lốc bão sa mạc.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100085430976930255.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một phân cảnh hành động võ thuật giả tưởng đậm chất điện ảnh dài 17–18 giây trên một vùng sa mạc cằn cỗi rộng lớn dưới bầu trời giông bão kịch tính.
-
-Một chiến binh trẻ tuổi đầy uy lực với mái tóc dài màu trắng bạc bồng bềnh, khoác trên mình bộ võ phục màu trắng trang nhã mang phong cách Đông Á cổ đại với nhiều lớp vải bay bổng, chi tiết thắt lưng bằng da tối màu và các yếu tố giáp kim loại tinh tế. Chàng mang một thanh kiếm dài và chuyển động với tốc độ cùng độ chính xác siêu nhiên.
-
-CẢNH 1 — 0:00–0:02
-Cận cảnh cực độ / mở đầu tạo bầu không khí. Khung hình bắt đầu gần như phủ kín hoàn toàn bởi bụi cát màu be cuộn xoáy và ánh nắng ấm áp rực rỡ. Các hạt bụi lao nhanh về phía máy quay, tạo nên sự chuyển cảnh đầy ấn tượng. Chuyển động nhòe (motion blur) đậm chất điện ảnh, các tia sáng thể tích (volumetric light rays), độ sâu trường ảnh nông.
-
-CẢNH 2 — 0:02–0:04
-Để lộ một vùng đồng bằng sa mạc trống trải bao la với một cấu trúc đá tảng sẫm màu cao lớn ở phía sau. Người chiến binh xuất hiện ở phía xa, di chuyển nhanh thoăn thoắt trên cát. Tà áo trắng và mái tóc bạc dài của chàng tung bay dữ dội trong gió. Máy quay bám theo chuyển động của chàng với góc nhìn thấp mang tính điện ảnh.
-
-CẢNH 3 — 0:04–0:06
-Chiến binh tung ra một thế võ phi thường. Chàng vung kiếm khi đang xoay người trên không trung. Một vệt năng lượng màu xanh trắng rực rỡ bám theo đường kiếm, trong khi một vòng cung năng lượng màu vàng cam ấm áp quét vòng quanh chàng. Năng lượng trông phải có tính vật lý và phát sáng, thắp sáng lớp bụi xung quanh.
-
-CẢNH 4 — 0:06–0:09
-Góc máy quay động từ trên cao/ba phần tư. Chiến binh xoay người nhanh chóng trên mặt sa mạc. Áo choàng của chàng tạo nên những đường tròn lượn sóng lớn. Một vòng tròn năng lượng màu cam phát sáng hình thành xung quanh chàng trong khi năng lượng màu xanh trắng phát ra thành từng đợt từ thanh kiếm. Cát bốc lên dữ dội dưới chân chàng và xoắn ốc ra ngoài.
-
-CẢNH 5 — 0:09–0:12
-Máy quay lùi xa ấn tượng khi một lốc xoáy bụi khổng lồ bắt đầu hình thành quanh người chiến binh. Hàng ngàn hạt bụi và mảng đất đá xoay tròn trong không trung. Chiến binh vẫn hiện rõ ở trung tâm, được bao bọc bởi luồng năng lượng màu xanh trắng và ánh vàng xoáy tròn. Quy mô cảnh quay phải mang lại cảm giác to lớn và siêu nhiên.
-
-CẢNH 6 — 0:12–0:14
-Cảnh toàn thiết lập bối cảnh. Một cột cát khổng lồ tựa như lốc xoáy bốc lên từ mặt sa mạc thẳng vào những đám mây đen bên trên. Chiến binh ẩn hiện một phần bên trong lốc xoáy. Nhiều vùng nhiễu loạn hình tròn và dấu chân/hố lún xuất hiện trên cát. Độ tương phản mạnh mẽ giữa những đám mây bão đen tối và lớp bụi được chiếu sáng.
-
-CẢNH 7 — 0:14–0:16
-Máy quay lướt nhanh đầy tính điện ảnh xuyên qua lớp bụi xoáy về phía chiến binh. Chàng bước ra khỏi cơn lốc xoáy, thanh kiếm vươn thẳng ra ngoài. Năng lượng màu xanh trắng tuôn trào từ lưỡi kiếm như một làn sóng phát sáng. Mái tóc dài và vạt áo của chàng bay tự nhiên trong làn gió mạnh. Những mảnh vụn nhỏ bay vụt qua máy quay.
-
-CẢNH 8 — 0:16–0:18
-Cảnh quay cận/trung cảnh hào hùng kết lại. Chiến binh đối mặt với máy quay với vẻ mặt bình thản, kiên định trong khi giữ thanh kiếm chĩa chéo ra ngoài. Mái tóc trắng bạc lay động trong gió, tà áo trắng bay lượn kịch tính. Bụi cát và ánh nắng tạo nên bối cảnh lung linh đầy khí chất. Kết thúc bằng bố cục tĩnh đầy sức mạnh như một khung hình đóng băng của điện ảnh.
-
-PHONG CÁCH HÌNH ẢNH:
-Phim giả tưởng kinh phí lớn mang tầm sử thi, hành động siêu nhiên lấy cảm hứng từ kiếm hiệp (wuxia), nhân vật chân thực như ảnh chụp, mô phỏng vải thực tế, vật lý chuyển động của tóc chân thực, bụi và mảnh vụn đáng tin cậy về mặt vật lý, ánh sáng thể tích, luật xa gần trong khí quyển, mây bão ấn tượng, độ sâu trường ảnh điện ảnh, đặc tính thấu kính anamorphic, hạt phim (film grain) tinh tế, dải tương phản động cao (HDR), chi tiết vân da và chất liệu vải rõ nét, tương tác môi trường chân thực.
-
-MÁY QUAY:
-Chuyển động máy quay điện ảnh nhanh nhưng có kiểm soát, cảnh theo dõi góc thấp, xoay từ trên cao, đẩy góc tới nhanh, cảnh toàn thiết lập bối cảnh, chuyển đổi góc nhìn linh hoạt, độ nhòe chuyển động thỉnh thoảng xuất hiện trong các pha chuyển động siêu nhiên. Kỹ thuật quay phim mượt mà, chuyên nghiệp thay vì rung lắc máy quay ngẫu nhiên.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2181,47 +2154,20 @@ Tác giả：[@juliaevee](https://x.com/juliaevee) · [Bài gốc](https://x.com
 
 <a name="prompt-2100013701659283924"></a>
 
-### Lời nhắc tạo video hoạt hình ngắn 30 giây rượt đuổi phong cách Makoto Shinkai, bao gồm nhân vật, bối cảnh, âm thanh và dòng thời gian phân cảnh.
+### Đang dịch
 
 Tác giả：[@fps\_lusu](https://x.com/fps_lusu) · [Bài gốc](https://x.com/fps_lusu/status/2100013701659283924)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Anime / Manga · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Lời nhắc tạo video hoạt hình ngắn 30 giây rượt đuổi phong cách Makoto Shinkai, bao gồm nhân vật, bối cảnh, âm thanh và dòng thời gian phân cảnh.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100013701659283924.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Cài đặt cơ bản
-​Thời lượng: Phim ngắn 30 giây
-​Tỷ lệ khung hình: 16:9 (Định dạng phong cảnh màn ảnh rộng)
-​Thể loại: Phim hoạt hình anime điện ảnh rượt đuổi siêu thực tế, phong cách Makoto Shinkai.
-​Bối cảnh: Một khu rừng ma thuật rùng rợn, siêu chi tiết. Bùn ướt chân thực như ảnh chụp, rêu phong, những thân cây cổ thụ cao chót vót, sương mù dày đặc trườn trên mặt đất.
-​Phong cách & Hình ảnh
-​Chất lượng: Anime điện ảnh kiệt tác, kết cấu môi trường chân thực như ảnh kết hợp liền mạch với phong cách đổ bóng anime cao cấp.
-​Ánh sáng: Độ tương phản ấn tượng. Rừng tối được thắp sáng bởi hệ thực vật phát quang nhấp nháy màu lục lam/tím độc hại, ánh sáng viền sắc nét trên nhân vật, chuyển dần sang ánh nắng ấm áp rực rỡ.
-​Máy quay & Khung hình: Theo dõi chuyển động ngang mở rộng, bố cục góc rộng biến dạng (anamorphic), cận cảnh macro bullet-time đột ngột, kéo máy quay lùi toàn cảnh ngoạn mục.
-​Tính nhất quán: Giữ vững tuyệt đối tính nhất quán về mặt hình ảnh cho Nako và Toto xuyên suốt.
-​Âm thanh & ASMR
-​BGM: Nhạc rượt đuổi giao hưởng tiết tấu nhanh, chậm lại đột ngột trong thời gian bullet-time, chuyển sang giai điệu acoustic êm đềm ở giây thứ 22.
-​SFX: Tiếng quất như roi vọt, tiếng chạy trên bùn, tiếng "shing" sắc lẹm ở cảnh quay chậm, mờ dần thành làn gió nhẹ và tiếng cỏ xào xạc.
-​ASMR: Tiếng thở dốc nặng nề chân thực từ Nako và Toto, dịu dần thành tiếng thở dài nhẹ nhõm. KHÔNG có giọng nói, KHÔNG có đối thoại.
-​Nhân vật & Kẻ thù
-​Nhân vật 1 (Nako): Tóc ngắn màu nâu, áo khoác thám hiểm màu xanh lá cây, quần short, ủng, ba lô. Đổ mồ hôi, nét mặt tuyệt vọng.
-​Nhân vật 2 (Toto): Chó Shih Tzu lông xù màu trắng và nâu vàng. Chạy nước rút điên cuồng, tai đập phành phạch, thở dốc dữ dội.
-​Gai nhọn (Kẻ thù): Dây leo khổng lồ màu xanh đậm có tri giác với những chiếc gai phát sáng màu lục lam/tím sắc như dao cạo, tấn công với tốc độ vụt như roi đầy kinh hoàng.
-​Mốc thời gian & Hành động
-​0–10s (Rượt đuổi tốc độ cao góc rộng): Chạy nước rút điên cuồng ngay lập tức trên khung hình rộng. Nako và Toto chạy với tốc độ cực nhanh. Những dây leo phát sáng quất dữ dội xuống mặt đất ngay sau gót chân họ, làm bùn và mảnh vụn bắn tung tóe về phía ống kính.
-​10–15s (Né tránh nhào lộn Bullet-Time): Đột ngột quay siêu chậm. Một chiếc gai phát sáng sắc như dao cạo đâm thẳng vào mặt Nako. Cô thực hiện cú trượt ngửa người uốn cong nhào lộn trên khung hình rộng; mũi gai phát sáng sượt qua chỉ vài milimét trên mắt cô, cắt đứt một sợi tóc. Toto trượt một cách mượt mà bên dưới cô.
-​15–22s (Sự đột phá): Trở lại tốc độ cao ngay lập tức, họ lao qua ranh giới hàng cây vào một khoảng đất trống ngập tràn ánh nắng dưới bầu trời sáng tỏ. Các dây leo lập tức co rút lại vào bóng tối.
-​22–30s (Nhẹ nhõm và Kéo máy toàn cảnh): Nako ngã quỵ nằm dang tay chân trên bãi cỏ, mỉm cười ấm áp với Toto. Toto ngồi bên cạnh cô, thở hổn hển một cách vui vẻ với cái đuôi vẫy ngoe nguẩy. Máy quay lùi dần lên cao một cách êm ái tạo thành một cảnh quay toàn cảnh rộng lớn, tĩnh lặng và ngoạn mục của đồng cỏ ngập nắng và rìa rừng xa xa.
-​Lời nhắc phủ định / Ràng buộc
-​KHÔNG chữ viết, KHÔNG tiêu đề, KHÔNG giao diện người dùng, KHÔNG logo.
-​KHÔNG biến đổi nhân vật, KHÔNG đổi trang phục, KHÔNG đổi giống loài.
-​KHÔNG đối thoại, KHÔNG tiếng người.
-​KHÔNG nhịp độ chậm (ngoại trừ đoạn bullet-time 10–15s), KHÔNG rung lắc máy ảnh, KHÔNG giải phẫu méo mó.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2230,20 +2176,20 @@ Cài đặt cơ bản
 
 <a name="prompt-2100043484849926230"></a>
 
-### Vlog du lịch điện ảnh cổ điển 15 giây, cô gái trẻ châu Á cầm máy ảnh retro dạo quanh thành phố, quán cà phê và công viên lúc hoàng hôn.
+### Đang dịch
 
 Tác giả：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Bài gốc](https://x.com/Aiwithmaha/status/2100043484849926230)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Nhân vật · Thực phẩm / Đồ uống · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Vlog du lịch điện ảnh cổ điển 15 giây, cô gái trẻ châu Á cầm máy ảnh retro dạo quanh thành phố, quán cà phê và công viên lúc hoàng hôn.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100043484849926230.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một vlog du lịch điện ảnh chân thực kéo dài 15 giây khắc họa một phụ nữ trẻ châu Á đang khám phá một thành phố xinh đẹp cùng những địa điểm ngoài trời yên bình với tính thẩm mỹ của máy ảnh kỹ thuật số cổ điển. Cô ấy mang theo một chiếc máy ảnh retro nhỏ và chụp hoa, đường phố, quán cà phê cùng những khoảnh khắc đời thường một cách tự nhiên khi đi dạo xung quanh. Thể hiện các cảnh quay cận cảnh đôi bàn tay cô ấy đang cầm và sử dụng máy ảnh, bao gồm các nút bấm chân thực, chi tiết ống kính và các cử động máy ảnh tự nhiên. Bao gồm một cảnh quán cà phê quyến rũ nơi cô ngồi bên bàn, thưởng thức đồ uống lạnh, trông thư thái và vui vẻ một cách tự nhiên. Chuyển tiếp sang cảnh công viên vào giờ vàng ấm áp, nơi cô dạo bước qua rặng cây cùng chiếc máy ảnh, với ánh nắng mặt trời tạo nên hiệu ứng lóe sáng ống kính (lens flare) tuyệt đẹp cùng ánh sáng ngược mềm mại. Kết thúc với cảnh cô quay lại nhìn vào máy quay, mỉm cười tự nhiên trong khi tay vẫn cầm máy ảnh, tạo nên cảm giác ký ức du lịch chân thực, đầy ngẫu hứng. Sử dụng phong cách quay phim tài liệu cầm tay, hiện tượng bắt nét tự động tinh tế, thay đổi độ phơi sáng tự nhiên, kết cấu da chân thực, độ sâu trường ảnh mềm mại, hạt phim nhẹ nhàng, tông màu ấm áp và những chuyển động thực tế không hoàn hảo. Giữ cho khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể và máy ảnh của nhân vật đồng nhất trong mọi khung hình, với các chuyển cảnh điện ảnh mượt mà và không có vẻ ngoài nhân tạo hoặc được trau chuốt quá mức của AI.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2252,20 +2198,20 @@ Tạo một vlog du lịch điện ảnh chân thực kéo dài 15 giây khắc 
 
 <a name="prompt-2099404551199809774"></a>
 
-### Video điện ảnh về một chú gấu con dễ thương đang khám phá và lái một chiếc xe cổ màu xanh lam tại một trang trại vùng nông thôn.
+### Đang dịch
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2099404551199809774)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Video điện ảnh về một chú gấu con dễ thương đang khám phá và lái một chiếc xe cổ màu xanh lam tại một trang trại vùng nông thôn.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2099404551199809774.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một video theo phong cách kể chuyện điện ảnh, siêu thực tế: một chú gấu nâu con dễ thương đi qua một trang trại vùng nông thôn yên bình hướng về một chiếc xe hơi cổ điển màu xanh lam cũ kỹ đỗ gần một chuồng trại bằng gỗ mộc mạc. Chú gấu tò mò tiến lại gần xe, trèo vào trong và ngồi một cách tự nhiên vào ghế lái với hai chân trước đặt trên vô lăng. Máy quay ghi lại các chi tiết cận cảnh về bộ lông chân thực, đôi mắt biểu cảm, những chiếc chân nhỏ nhắn của chú gấu và nội thất nhuốm màu thời gian của chiếc xe cổ. Sau đó, chiếc xe bắt đầu lăn bánh chậm rãi dọc theo con đường nông thôn ẩm ướt, tạo nên những hình ảnh phản chiếu tinh tế và chuyển động tự nhiên. Các góc quay rộng đậm chất điện ảnh mở ra những cánh đồng xanh, những cuộn cỏ khô, một ngôi nhà nông trại nhỏ và ánh nắng vàng ấm áp của giờ vàng ở hậu cảnh. Sử dụng chuyển động máy quay mượt mà, độ sâu trường ảnh chân thực, hiệu ứng lóa ống kính mềm mại, bóng đổ tự nhiên, bề mặt chi tiết và ánh sáng môi trường chân thực. Tâm trạng tổng thể phải mang lại cảm giác quyến rũ, phiêu lưu, đậm chất điện ảnh và hơi tinh nghịch, với chuyển động thực tế của con vật và tương tác thuyết phục với chiếc xe, được quay như một bộ phim động vật hoang dã kinh phí lớn.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2401,6 +2347,72 @@ Jack rít một hơi thuốc lá, tàn than đỏ rực hơn khi anh rít, rồi
 
 ---
 
+<a name="prompt-2099089929439531390"></a>
+
+### Đang dịch
+
+Tác giả：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Bài gốc](https://x.com/MeenakshiYACS/status/2099089929439531390)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099089929439531390.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098797781792047191"></a>
+
+### Đang dịch
+
+Tác giả：[@MadMax\_Series](https://x.com/MadMax_Series) · [Bài gốc](https://x.com/MadMax_Series/status/2098797781792047191)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098797781792047191.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098803826405089450"></a>
+
+### Đang dịch
+
+Tác giả：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Bài gốc](https://x.com/MeenakshiYACS/status/2098803826405089450)
+
+Điện ảnh / Ảnh tĩnh từ phim · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098803826405089450.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098777905010778507"></a>
 
 ### Đang dịch
@@ -2412,6 +2424,50 @@ Tác giả：[@bmx\_ai13](https://x.com/bmx_ai13) · [Bài gốc](https://x.com/
 **Tóm tắt:** Đang dịch
 
 <img src="covers/2098777905010778507.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098791384392282330"></a>
+
+### Đang dịch
+
+Tác giả：[@abulu8](https://x.com/abulu8) · [Bài gốc](https://x.com/abulu8/status/2098791384392282330)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098791384392282330.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098748314548134381"></a>
+
+### Đang dịch
+
+Tác giả：[@johnAGI168](https://x.com/johnAGI168) · [Bài gốc](https://x.com/johnAGI168/status/2098748314548134381)
+
+Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098748314548134381.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -3888,34 +3944,34 @@ Một người gác hải đăng già dãi dầu sương gió đứng trên vác
 
 <a name="prompt-2097225058439840092"></a>
 
-### Một prompt video dọc dài 30 giây chi tiết mô tả quá trình biến đổi theo dòng thời gian từ một clay blockout Blender 3D màu xám thành một thành phố sa mạc tương lai chân thực bao quanh một đài quan sát trung tâm.
+### A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
 Tác giả：[@Itswsm105f](https://x.com/Itswsm105f) · [Bài gốc](https://x.com/Itswsm105f/status/2097225058439840092)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Một prompt video dọc dài 30 giây chi tiết mô tả quá trình biến đổi theo dòng thời gian từ một clay blockout Blender 3D màu xám thành một thành phố sa mạc tương lai chân thực bao quanh một đài quan sát trung tâm.
+**Tóm tắt:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
 
 <img src="covers/2097225058439840092.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo video so sánh đậm chất điện ảnh dọc 9:16 dài 30 giây chứng minh cách một blockout Blender 3D đơn giản có thể biến đổi thành một khung cảnh điện ảnh do AI tạo ra với độ chi tiết cao.
-Ý TƯỞNG: Một thành phố sa mạc tương lai được xây dựng xung quanh một đài quan sát hình tròn khổng lồ mang nét cổ kính.
-0–5 giây — Blender Blockout:
-Hiển thị bản render đất sét (clay render) màu xám cơ bản trong Blender từ góc máy quay điện ảnh trên cao. Khung cảnh chứa các tòa nhà hình học đơn giản, các tháp hình trụ lớn, các bệ hình chữ nhật, một cấu trúc đài quan sát hình tròn khổng lồ ở trung tâm, đường sá cơ bản và các phương tiện mô hình thế chỗ (placeholder) nhỏ. Mọi thứ đều là đất sét xám không có chất liệu với ánh sáng đơn giản, mang dáng dấp rõ ràng của một blockout Blender 3D.
-5–10 giây — Camera Push-In:
-Từ từ đẩy máy quay về phía đài quan sát trung tâm trong khi vẫn duy trì bố cục và hình học chính xác. Cảm giác nhẹ nhàng của viewport/clay-render trong Blender. Không có chất liệu, không có vật liệu thực tế.
-10–15 giây — Biến đổi:
-Bắt đầu chuyển cảnh mượt mà về mặt thị giác từ blockout Blender màu xám sang môi trường điện ảnh hoàn thiện. Hình học vẫn giữ tính nhất quán về mặt cấu trúc trong khi các vật liệu thực tế, họa tiết bề mặt, ánh sáng, bầu không khí và chi tiết môi trường dần dần xuất hiện.
-15–25 giây — Khung cảnh điện ảnh AI cuối cùng:
-Khai mở một đô thị sa mạc tương lai ngoạn mục vào giờ vàng (golden hour). Những tòa tháp khổng lồ bằng đá sa thạch và kim loại vươn lên từ các cồn cát vàng, được kết nối bằng các cây cầu trên cao. Đài quan sát hình tròn ở trung tâm có kiến trúc tương lai phức tạp, các cửa sổ phát sáng và chi tiết cơ khí. Các phương tiện bay nhỏ di chuyển tự nhiên giữa các tòa nhà. Hạt bụi lơ lửng trong ánh nắng ấm áp. Bóng đổ dài, ánh sáng thể tích (volumetric lighting), phản xạ chân thực, bề mặt chi tiết, chiều sâu khí quyển và làn sương nhiệt mờ ảo. Khiến cho môi trường có cảm giác đồ sộ, đáng tin cậy và đậm chất điện ảnh.
-25–30 giây — Cảnh tiết lộ cuối cùng:
-Kéo máy quay lùi lại và hướng lên trên để hiển thị toàn bộ thành phố được bao quanh bởi những cồn cát sa mạc vô tận. Khung hình cuối cùng nên tạo ra sự tương phản thị giác mạnh mẽ giữa ý tưởng Blender đơn giản và thế giới tuyệt đẹp do AI tạo ra hoàn thiện.
-PHONG CÁCH: khoa học viễn tưởng điện ảnh chân thực như ảnh chụp, chất lượng môi trường game AAA, vật liệu thực tế, luật xa gần khí quyển tự nhiên, ánh nắng thể tích, kiến trúc chi tiết, ánh sáng chuẩn vật lý, chuyển động máy quay tinh tế, hiệu ứng VFX cao cấp, môi trường cực kỳ chi tiết.
-QUAN TRỌNG: Khung cảnh cuối cùng phải hoàn toàn nguyên bản và KHÔNG ĐƯỢC sao chép kiến trúc, bố cục, đền thờ Nhật Bản, đảo nổi, đội hình quân đội hoặc bối cảnh mây của video tham khảo. Chỉ giữ lại khái niệm chuyển đổi chung từ Blender blockout → AI cinematic.
-KHÔNG: phong cách hoạt hình, anime, công trình méo mó, hình học thay đổi ngẫu nhiên, rung máy quá mức, lỗi giả tạo văn bản, phương tiện bị nhân bản, kiến trúc biến dạng, vật lý phi thực tế.
+Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene.
+CONCEPT: A futuristic desert city built around a massive ancient-looking circular observatory.
+0–5 seconds — Blender Blockout:
+Show a basic gray Blender clay render from an elevated cinematic camera angle. The scene contains simple geometric buildings, large cylindrical towers, rectangular platforms, a huge circular observatory structure in the center, basic roads and small placeholder vehicles. Everything is untextured gray clay with simple lighting, clearly looking like a 3D Blender blockout.
+5–10 seconds — Camera Push-In:
+Slowly move the camera toward the central observatory while maintaining the exact composition and geometry. Subtle Blender viewport/clay-render feeling. No textures, no realistic materials.
+10–15 seconds — Transformation:
+Begin a smooth visual transition from the gray Blender blockout into the finished cinematic environment. Geometry remains structurally consistent while realistic materials, textures, lighting, atmosphere and environmental details gradually appear.
+15–25 seconds — Final AI Cinematic Scene:
+Reveal a spectacular futuristic desert metropolis at golden hour. Massive sandstone-and-metal towers rise from golden dunes, connected by elevated bridges. The central circular observatory has intricate futuristic architecture, glowing windows and mechanical details. Small flying vehicles move naturally between buildings. Dust particles float through warm sunlight. Long shadows, volumetric lighting, realistic reflections, detailed surfaces, atmospheric depth and subtle heat haze. Make the environment feel enormous, believable and cinematic.
+25–30 seconds — Final Reveal:
+Pull the camera backward and upward to reveal the full city surrounded by endless desert dunes. The final frame should create a strong visual contrast between the simple Blender concept and the stunning finished AI-generated world.
+STYLE: photorealistic cinematic sci-fi, AAA game environment quality, realistic materials, natural atmospheric perspective, volumetric sunlight, detailed architecture, physically realistic lighting, subtle camera movement, premium VFX, highly detailed environment.
+IMPORTANT: The final scene must be completely original and must NOT reproduce the reference video's architecture, composition, Japanese temples, floating islands, army formations, or cloud setting. Preserve only the general Blender blockout → AI cinematic transformation concept.
+NO: cartoon style, anime, distorted buildings, random geometry changes, excessive camera shake, text artifacts, duplicated vehicles, warped architecture, unrealistic physics.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4449,7 +4505,7 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Kết xuất 3D · Đã
 
 <a name="prompt-2100233948341367178"></a>
 
-### Phim ngắn kỹ xảo võ thuật nữ chiến binh tiên hiệp tốc biến đá văng yêu thú, kết thúc bằng bóng đen trên nền đỏ.
+### Đang dịch
 
 Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -4457,17 +4513,14 @@ Mực / Phong cách Trung Hoa · Đã xuất bản
 
 Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Tóm tắt:** Phim ngắn kỹ xảo võ thuật nữ chiến binh tiên hiệp tốc biến đá văng yêu thú, kết thúc bằng bóng đen trên nền đỏ.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100233948341367178.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tiên hiệp phong cách Trung Hoa, phim ngắn kỹ xảo thuần CG, 16:9, dựng phim đa góc máy, ánh sáng và bóng đổ chuẩn điện ảnh, vật liệu PBR thế hệ mới, HDR chuẩn điện ảnh.
-Cùng một nhân vật nữ tiên hiệp cổ phong tông màu đen, xanh lam, trắng và vàng kim, trang phục, phụ kiện tóc và trang điểm hoàn toàn đồng nhất xuyên suốt: hoa điền đỏ trên trán, tóc dài buộc cao, chiến bào tay áo rộng màu trắng thêu chỉ xanh lam viền vàng, thắt lưng kim loại, trâm cài tóc tua rua tinh xảo.
-Trong không gian năng lượng đen lam, nữ chính xuất hiện chớp nhoáng với tốc độ cực cao từ các hạt năng lượng lam-kim bên trái, góc máy quay ngang sườn, lao cực nhanh về phía yêu thú bên phải, mái tóc dài và vạt áo tạo thành vệt bóng mờ chuyển động. Sau đó góc máy thấp nghiêng bắt trọn khoảnh khắc nữ chính xoay hông gập gối, tung ra cú đá tống ngang với góc phối cảnh cực đại, vạt áo chiến bào tung bay để lộ làn da từ đùi trở xuống, chân và bàn chân được bao bọc bởi năng lượng luồng sáng lam-kim rực rỡ. Tiếp theo chuyển sang cảnh trúng đòn, một cú đá của nữ chính đánh trúng đầu yêu thú, sương máu, bụi sáng tan vỡ cùng các hạt nổ lam-kim đồng thời bùng nổ, sau khung hình chớp đen trắng ngắn ngủi chuyển sang hiệu ứng quay chậm (slow motion), yêu thú bị một lực cực mạnh đá bay theo hướng cú đá. Cuối cùng khung hình chuyển sang nền đỏ rực rỡ bão hòa cao với bóng đen (silhouette) của các nhân vật, nữ chính giữ nguyên tư thế sắc bén, yêu thú bay ngược về phía sau bên phải rồi rơi xuống đất, khói bụi đen nổ tung, tạo nên ấn tượng thị giác tương phản đỏ đen mạnh mẽ ở đoạn kết.
-Tổng thể chuyển động gọn gàng, dứt khoát, đầy tính bùng nổ, nhịp độ góc máy nhanh, nửa đầu tràn ngập kỹ xảo lam-kim mãn nhãn, kết thúc chuyển thành khung hình tương phản đỏ-đen súc tích và mạnh mẽ.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4567,20 +4620,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2101955160696336440"></a>
 
-### Đang dịch
+### Video phong cách quảng cáo về việc chế biến bánh burger hai lớp phô mai Wendy’s trên vỉ nướng phẳng.
 
 Tác giả：[@noorwithwifi](https://x.com/noorwithwifi) · [Bài gốc](https://x.com/noorwithwifi/status/2101955160696336440)
 
 Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video phong cách quảng cáo về việc chế biến bánh burger hai lớp phô mai Wendy’s trên vỉ nướng phẳng.
 
 <img src="covers/2101955160696336440.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ẩm thực theo phong cách quảng cáo quay cảnh một đầu bếp đeo găng tay đen và mặc đồng phục của Wendy’s đang chế biến món burger hai lớp phô mai trên vỉ nướng phẳng nóng hổi. Thể hiện cảnh bánh mì mè đang được nướng vàng, những miếng thịt bò hình vuông tươi ngon được ép xuống và xèo xèo bốc khói, phô mai Mỹ màu vàng tan chảy, sốt mayonnaise phết lên nửa bánh dưới, sau đó xếp hai miếng thịt phủ phô mai cùng với xà lách, cà chua, hành tây, dưa chuột muối, sốt cà chua và sốt mayonnaise trước khi đậy nửa bánh trên lại. Kết thúc bằng cảnh cận cảnh sống động người đầu bếp cầm chiếc burger hoàn thiện đưa về phía máy quay với nụ cười nhẹ, sử dụng ánh sáng ấm áp, kết cấu bóng bẩy, góc quay chuẩn điện ảnh và hậu cảnh làm mờ mềm mại.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5054,20 +5107,20 @@ Tạo một hoạt ảnh infographic thời trang cao cấp, tinh tế dài 8 gi
 
 <a name="prompt-2101462342265389125"></a>
 
-### Một cô dâu ma máy móc ma quái đang khiêu vũ trong ngôi đền tối tăm, bị điều khiển bằng những sợi dây từ người múa rối phía trên cao.
+### Đang dịch
 
 Tác giả：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Bài gốc](https://x.com/IronEntrepreneu/status/2101462342265389125)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Một cô dâu ma máy móc ma quái đang khiêu vũ trong ngôi đền tối tăm, bị điều khiển bằng những sợi dây từ người múa rối phía trên cao.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2101462342265389125.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Điệu múa ma quái của cô dâu ma máy móc bên trong một ngôi đền nghi lễ đổ nát, bị điều khiển từ trên cao bởi một người điều khiển rối lạnh lùng. Được kết xuất với các khớp cơ khí chuyển động tĩnh cực kỳ chuẩn xác, khói thể tích và vật lý dải lụa.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5640,97 +5693,20 @@ Chuyển động nhanh nhưng chân thực, trọng lượng, ma sát, thăng b�
 
 <a name="prompt-2100074769207247005"></a>
 
-### Phân đoạn game lén lút góc nhìn thứ ba chuẩn AAA dài 30 giây về một nữ nhân viên văn phòng Nhật Bản trốn về lúc 5 giờ chiều, hoàn chỉnh với các hành động căn giờ chính xác, lớp phủ HUD và các chiêu trò lén lút hài hước.
+### Đang dịch
 
 Tác giả：[@itxabdullaa](https://x.com/itxabdullaa) · [Bài gốc](https://x.com/itxabdullaa/status/2100074769207247005)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Phân đoạn game lén lút góc nhìn thứ ba chuẩn AAA dài 30 giây về một nữ nhân viên văn phòng Nhật Bản trốn về lúc 5 giờ chiều, hoàn chỉnh với các hành động căn giờ chính xác, lớp phủ HUD và các chiêu trò lén lút hài hước.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100074769207247005.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-CẢNH
-
-Phân cảnh hành động lén lút góc nhìn thứ ba chuẩn AAA siêu thực dài 30 giây bên trong văn phòng công ty Nhật Bản hiện đại vào đúng 17:00. NAGI, một nữ nhân viên văn phòng người Nhật 25 tuổi, vừa hết giờ làm và phải trốn thoát trước khi có ai giao thêm việc cho cô. Khắc họa văn phòng như một nhiệm vụ lén lút đầy căng thẳng nhưng mang yếu tố hài hước tinh tế.
-
-NAGI — KHÓA NHÂN VẬT
-
-Phụ nữ Nhật Bản, 25 tuổi, khuôn mặt giống hệt [@Image1], tóc đen dài thẳng với mái bằng, áo blouse trắng ngắn tay, quần tây màu xám than, thắt lưng đen, giày thể thao trắng tối giản, thẻ nhân viên, túi tote đi làm màu đen nhỏ. Cùng khuôn mặt, mái tóc, trang phục, tỷ lệ cơ thể và phụ kiện xuyên suốt. Giọng nữ Nhật Bản tự nhiên, nói tiếng Nhật.
-
-DÀN DIỄN VIÊN
-
-- Đồng nghiệp thâm niên: phụ nữ, cuối 40 tuổi, tóc bob ngắn màu nâu, đeo kính, áo blouse xanh nhạt, váy sẫm màu, kẹp tài liệu.
-- Đồng nghiệp tiệc tùng: nam, cuối 20 tuổi, tóc đen bù xù, áo len màu kem, hộp bánh kem và bóng bay.
-- Sếp: nam, 60 tuổi, thấp và đậm người, hói hoàn toàn có dải tóc bạc viền hai bên, kính gọng vàng, âu phục ba mảnh màu xám than, xấp tài liệu dày.
-- Nhân viên giao hàng: nam, đầu 30 tuổi, cao ráo, tóc ngắn đen, đồng phục sẫm màu, đang đẩy xe chở hàng.
-- Sếp là nhân vật duy nhất bị hói.
-
-LỘ TRÌNH
-
-Bàn làm việc → văn phòng mở → phòng giải lao → hành lang kho → hành lang chính → cổng an ninh → sảnh chờ → cửa kính lối ra.
-
-MÁY QUAY / ĐỊNH DẠNG
-
-Một cú máy quay liên tục theo góc nhìn gameplay thứ ba từ 0–27 giây, sau đó đúng một cú cắt dứt khoát (hard cut) ở giây thứ 27 sang một góc quay tĩnh cố định từ 27–30 giây. Máy quay giữ nguyên phía sau NAGI với chuyển động góc máy gameplay chân thực. Không xuyên vật thể, không dịch chuyển tức thời, không thêm vết cắt nào khác. Cảnh cuối cùng ở bên ngoài quay hướng về phía NAGI.
-
-HÀNH ĐỘNG
-
-0–5.5 giây:
-Đồng hồ điểm 17:00. NAGI chộp lấy túi tote và thì thầm:
-{定時だ…今なら逃げられる。}
-HUD: 5:00 PM — SHIFT OVER / OBJECTIVE: EXIT THE BUILDING.
-Một đồng nghiệp thâm niên đang dáo dác tìm người giúp việc. NAGI khom người sau chiếc ghế, né tránh hình nón phát hiện của người đó, rồi lẻn đi.
-
-5.5–11 giây:
-Tại phòng giải lao, một đồng nghiệp mang bánh kem và bóng bay chặn lối đi. Quả bóng chạm vào tóc NAGI. Cô đứng bất động cho đến khi anh ta đi qua, rồi thì thầm:
-{風船まで敵なの…？}
-HUD: THREAT PASSED.
-
-11–17 giây:
-Nhân viên giao hàng đẩy một xe chở đầy hàng qua hành lang hẹp. NAGI nấp sau các thùng các-tông và nhẹ nhàng đỡ lấy một thùng hàng đang rơi. HUD: SILENT INTERACTION +50. Cô tiếp tục tiến về lối ra.
-
-17–23 giây:
-SẾP xuất hiện trên tay cầm tài liệu. Dấu hiệu cảnh báo màu đỏ.
-{なぎさん、これ今日中に――}
-NAGI cúi thụp sau máy photocopy, đi vòng quanh nó, cắt đứt tầm nhìn phía sau vách ngăn kính và thì thầm:
-{今日はもう終わりです…！}
-HUD: ALERT / BREAK LINE OF SIGHT / ESCAPE ROUTE FOUND.
-
-23–27 giây:
-NAGI chạy nước rút tới cổng an ninh. Lần quét thẻ đầu tiên thất bại. Cô hoảng sợ, quét lại lần nữa: ACCESS GRANTED. Cô chạm tới và mở cửa kính lối ra. Sếp hét lên:
-{なぎさん！ちょっとだけ！}
-Cô quay đầu về phía máy quay.
-
-27 giây HARD CUT
-
-27–30 giây:
-Cú máy tĩnh cố định bên ngoài tòa nhà. NAGI đứng ngoài ôm túi tote, nhìn thấy Sếp qua lớp kính. Ông gọi lớn:
-{明日の朝でもいいから！}
-NAGI mỉm cười trước ống kính:
-{もちろんです！}
-Cô bước đi khi cánh cửa khép lại.
-
-HUD: MISSION COMPLETE / STEALTH RANK: S / ADRENALINE +200 / WORKDAY SUCCESSFULLY ESCAPED
-
-TÍNH CHÂN THỰC
-
-Người thật siêu thực tế với làn da, đôi mắt, mái tóc, nếp vải, nhịp thở, bóng đổ, hình phản chiếu và vật lý tự nhiên. Túi tote có trọng lượng thực tế; bóng bay, bánh xe đẩy, quần áo và tóc chuyển động tự nhiên. Không có khuôn mặt kiểu AI, không da nhựa, không anime, không hoạt hình, không dịch chuyển tức thời hay nhân vật bị nhân bản.
-
-ÁNH SÁNG
-
-Ánh nắng cuối chiều 5600K nhất quán xuyên qua cửa sổ văn phòng với bóng đổ và phản xạ thực tế. Ánh sáng ban ngày ngoài trời tiếp diễn một cách tự nhiên sau cú cắt máy.
-
-HUD / ÂM THANH
-
-HUD tiếng Anh phong cách GTA cố định ở cùng các vị trí. Không có phụ đề hay thanh chú thích. Chỉ có lời thoại tiếng Nhật. Nhạc nền synth lén lút căng thẳng, tiếng tim đập khi có báo động, âm thanh môi trường văn phòng chân thực, tiếng máy quét và tiếng cửa mở, kết thúc bằng một đoạn nhạc chiến thắng hài hước vang dội.
-
-ĐẦU RA
-
-16:9 • 30 giây • 0–27 giây một cú máy liên tục • 27–30 giây một cú máy cố định • đúng một lần cắt cảnh • chất lượng live-action chân thực như ảnh chụp.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5783,7 +5759,7 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100022778674254091"></a>
 
-### Prompt video chân thực ghi lại toàn bộ quy trình tự nhiên của một cô gái \(Sakura\) đi cắt tóc tại salon làm tóc.
+### Đang dịch
 
 Tác giả：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2100022778674254091)
 
@@ -5791,22 +5767,14 @@ Nhân vật · Đã xuất bản
 
 Bài gốc：[@akiyoshisan](https://x.com/akiyoshisan) · [Bài gốc](https://x.com/akiyoshisan/status/2099652823827054686)
 
-**Tóm tắt:** Prompt video chân thực ghi lại toàn bộ quy trình tự nhiên của một cô gái \(Sakura\) đi cắt tóc tại salon làm tóc.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100022778674254091.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Sakura, tập tại tiệm làm tóc.
-Tiệm làm tóc phong cách Nhật Bản tự nhiên thường ngày. Ngay từ đầu video đã đang trong quá trình cắt tóc. Nửa đầu: nhìn qua gương→nhìn nhanh qua camera selfie kiểm tra→góc quay cắt tóc từ bên cạnh→gội đầu→sấy tóc→tinh chỉnh lần cuối phần đuôi tóc và hai bên. Mái tóc chỉ ngắn dần theo một chiều duy nhất qua tất cả các cảnh, chuyển thành kiểu tóc bob ngắn ngang dưới cằm đến sát cổ, không chạm vai. Sau khi gội đầu và sấy tóc xong độ dài cũng không được dài ngược trở lại.
-
-Nửa sau: kiểm tra thành quả mái tóc sau khi hoàn thiện→tháo khăn choàng cắt tóc→soi gương kiểm tra tổng thể→lấy đồ đạc túi xách→thanh toán→rời khỏi tiệm. Khoảnh khắc bước ra ngoài, gió nhẹ làm tóc mái hơi rối một chút. Cuối cùng chỉ soi màn hình điện thoại kiểm tra đúng một lần, dùng ngón tay vuốt chỉnh nhẹ nhàng rồi cứ thế cất bước đi tiếp.
-
-Diễn xuất tinh tế, nhỏ nhẹ và tự nhiên. Không cười gượng gạo quá đà, không tạo dáng kiểu người mẫu.
-Góc máy: nhìn qua gương, quan sát cự ly trung bình, góc nghiêng bên hông, chéo từ phía sau, cầm tay tự nhiên. Cấm các góc máy quá hoàn hảo theo kiểu MV ca nhạc hoặc quảng cáo thương mại.
-Không lời thoại／không trò chuyện／không tiếng người nói／không nhép miệng／không phụ đề／không BGM. Chỉ có âm thanh sinh hoạt thực tế trong tiệm làm tóc và tiếng gió ngoài trời.
-Duy trì liên tục khuôn mặt, vóc dáng, trang phục, kiểu tóc, điện thoại, túi xách, thợ làm tóc và kết cấu không gian tiệm. Cấm lỗi phản chiếu trong gương, cấm lỗi ngón tay, cấm độ dài tóc bị đảo ngược dài ra.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
