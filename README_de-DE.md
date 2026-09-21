@@ -382,20 +382,40 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2102042146392129849"></a>
 
-### Übersetzung läuft
+### 30-sekündiger filmischer Prompt, der zeigt, wie ein Mann eine Frau rettet, indem er ein herabstürzendes Auto mit einer Hand im Stil eines koreanischen Action-Romantik-Dramas auffängt.
 
 Autor：[@AIwithWania](https://x.com/AIwithWania) · [Originalbeitrag](https://x.com/AIwithWania/status/2102042146392129849)
 
 Kinematisch / Filmstill · Charakter · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger filmischer Prompt, der zeigt, wie ein Mann eine Frau rettet, indem er ein herabstürzendes Auto mit einer Hand im Stil eines koreanischen Action-Romantik-Dramas auffängt.
 
 <img src="covers/2102042146392129849.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine ultra-realistische Live-Action-Szene aus einem koreanischen Action-Romantik-Film unter Verwendung des Referenz-Storyboards. Behalte durchgehend DIESELBEN zwei koreanischen Charaktere, exakte Gesichter, Frisuren, Outfits, Körperproportionen und DASSELBE schwarze Auto bei. Keine Änderungen von Identität, Garderobe, Frisur oder Fahrzeug.
+
+0–4s: Eine Frau geht mit Kopfhörern durch eine moderne koreanische Straße. Ein schwarzes Auto gerät plötzlich außer Kontrolle und fliegt auf sie zu.
+
+4–8s: Nahaufnahme, als sie das Auto geschockt bemerkt. Schnitt zum Mann mit Kapuze, der die Gefahr sieht und sofort reagiert.
+
+8–12s: Er rennt mit extremer Geschwindigkeit auf sie zu und reißt sie kurz vor dem Aufprall weg.
+
+12–16s: Sie stürzen sicher zu Boden. Sie blickt nach oben und sieht das beschädigte Auto direkt über ihnen herabfallen.
+
+16–20s: Er hebt eine Hand und stoppt das herabstürzende Auto über ihren Köpfen. Sie rückt vor Angst näher an ihn heran, während er es hält.
+
+20–24s: Nahaufnahme seines ruhigen, fokussierten Gesichts. Er stößt das Auto weg und es landet schwer einige Meter entfernt.
+
+24–28s: Sie stehen auf und sehen sich schweigend mit Schock, Erleichterung und Dankbarkeit an, während warmes Sonnenuntergangslicht die Straße erfüllt.
+
+28–30s: Weite Rückansicht von beiden vor der leuchtenden Skyline der Stadt. Langsame Kamerakranbewegung nach hinten/oben, dann Blende nach Schwarz.
+
+STIL: Hochwertiges koreanisches Live-Action-Kino, fotorealistische Haut, natürliche Gesichtsausdrücke, realistische Haar-/Kleidungsbewegung, glaubwürdige Schwerkraft und Autophysik, filmische Tiefenschärfe, realistische Bewegungsunschärfe, HDR-Beleuchtung, dezente Handkamera-Actionaufnahmen, sanfte emotionale Aufnahmen.
+
+STRENG GESPERRT: Keine KI-artig wirkenden Gesichter, Gesichtsveränderungen, Körpermorphing, duplizierte Personen, Garderobenwechsel, fehlerhafte Hände, unnatürliche Bewegungen, Teleportieren oder Änderungen des Automodells. Alle Bewegungen realistisch und professionell gespielt halten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -404,20 +424,20 @@ Kinematisch / Filmstill · Charakter · Fahrzeug · Veröffentlicht
 
 <a name="prompt-2102063363694231594"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung einer Zombie-Ausbruch-Horrorfilmszene in einem modernen koreanischen Büro, einschließlich Charakterdetails, Actionhandlung und Beschreibung der Horroratmosphäre.
 
 Autor：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Originalbeitrag](https://x.com/AIwithSynthia/status/2102063363694231594)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung einer Zombie-Ausbruch-Horrorfilmszene in einem modernen koreanischen Büro, einschließlich Charakterdetails, Actionhandlung und Beschreibung der Horroratmosphäre.
 
 <img src="covers/2102063363694231594.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 30-sekündige, ultra-realistische Ausbruchs-Horror-Sequenz in 1080p, die sich vollständig in einem modernen koreanischen Firmenbüro abspielt, wobei das hochgeladene Bild als Referenz mit höchster Priorität für die weibliche Hauptrolle verwendet wird und ihr exaktes Gesicht, ihre Frisur, ihr Hautton, ihre Körperproportionen und ihr Outfit beibehalten werden. Die junge Koreanerin arbeitet spät in der Nacht allein an ihrem Schreibtisch, als plötzlich ein seltsamer Kollege zwischen den Trennwänden auftaucht, schwer atmet und sich unnatürlich bewegt. Er bricht neben einem Arbeitsplatz zusammen, krampft heftig, steht dann plötzlich mit blutunterlaufenen Augen auf und stürmt auf einen anderen Mitarbeiter zu. Im Büro bricht Panik aus, während Mitarbeiter zwischen den Tischen hindurchsprinten und Stühle, Monitore und Papiere umwerfen. Die Frau rennt zum Haupteingang, sieht jedoch, wie infizierte Kollegen den Flur überfluten, was sie zur Umkehr zwingt. Sie und mehrere Überlebende schieben Schreibtische, Stühle und Aktenschränke gegen die gläsernen Eingangstüren, während infizierte Mitarbeiter gewaltsam dagegen hämmern. Risse breiten sich über das Glas aus, bevor plötzlich eine Scheibe zerspringt und infizierte Hände durch die Öffnung greifen. Die Überlebenden ziehen sich tiefer ins Büro zurück, eilen in einen gläsernen Konferenzraum und schlagen die Tür hinter sich zu. Sie zerren einen großen Konferenztisch vor den Eingang, während der Schwarm der Infizierten den Raum umzingelt. Die Frau bemerkt einen draußen gefangenen Kollegen, öffnet kurz die Tür, zieht ihn hinein und verbarrikadiert sie sofort wieder. Alle verstummen und atmen schwer, während infizierte Silhouetten gegen das gesprungene Glas hämmern. Das Bürolicht geht plötzlich aus und hinterlässt nur noch eine rote Notbeleuchtung, während das Glas unter dem Druck zu brechen beginnt. Das Ende zeigt die Frau, die voller Entsetzen in die Kamera blickt, während die infizierten Silhouetten den Konferenzraum vollständig umringen, dann Schnitt zu Schwarz; fotorealistische koreanische Büroumgebung, realistische Physik, Handkamera, flackernde Leuchtstoffröhren, atmosphärischer Staub, natürliche Büroatmosphäre, Alarme, Schritte, Schreie, schweres Atmen und hämmerndes Glas, keine Hintergrundmusik, kein übermäßiges Gore, kein CGI-Aussehen, keine verzerrten Gesichter, keine doppelten Charaktere, keine Teleportation, keine Outfitwechsel, keine Untertitel, Bildunterschriften, Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -426,20 +446,37 @@ Kinematisch / Filmstill · Charakter · Veröffentlicht
 
 <a name="prompt-2102022966112563595"></a>
 
-### Übersetzung läuft
+### Ein 30-sekündiger Prompt für einen filmischen Reise-Werbespot, der eine junge Koreanerin zeigt, die grüne Polarlichtreflexionen über einem winterlichen See in Jeongseon beobachtet.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Originalbeitrag](https://x.com/SimplyAnnisa/status/2102022966112563595)
 
 Kinematisch / Filmstill · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein 30-sekündiger Prompt für einen filmischen Reise-Werbespot, der eine junge Koreanerin zeigt, die grüne Polarlichtreflexionen über einem winterlichen See in Jeongseon beobachtet.
 
 <img src="covers/2102022966112563595.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen, fotorealistischen Live-Action-Werbespot für Korea-Reisen im 16:9-Kinoformat mit derselben jungen Koreanerin an einem friedlichen Wintersee in Jeongseon, Gangwon-do, Südkorea.
+
+Sie trägt eine schwarze Oversize-Pufferjacke, einen hellgrauen Pullover, blaue Jeans, weiß-graue Sneaker, eine beige Beanie-Mütze und eine schwarze Umhängetasche. Gesicht, Haare, Outfit und Proportionen durchgehend identisch beibehalten.
+
+Szene: Schneebedeckte Kiefern, dunkle Berge, ruhiger See, der ein dezentes smaragdgrünes Polarlicht widerspiegelt, sichtbarer Atem, sanfter Winterwind und realistische Nachtbeleuchtung.
+
+Sequenz:
+
+- 0–6s: Die Frau blickt auf den See und schaut staunend zum Polarlicht auf. Voiceover: "Wow... this is unreal."
+- 6–13s: Sie dreht sich zur Kamera, lächelt und zeigt auf das Polarlicht. Voiceover: "Look at that... it's beautiful."
+- 13–21s: Sie blickt friedlich auf den See, schließt die Augen und atmet langsam ein und aus. Voiceover: "I could stay here all night."
+- 21–30s: Sie dreht sich zur Kamera, macht einen Schritt nach vorne und lächelt sanft, während das Polarlicht leicht aufleuchtet. Voiceover: "Okay... I don't want to leave."
+
+Stil: Hochwertige koreanische Reise-Werbefilm-Kinematografie gemischt mit authentischem Smartphone-Vlog-Realismus. Natürliche Handkamerabewegung, realistischer Autofokus, subtile Tiefenschärfe, natürliche Hauttextur und glaubwürdige Polarlichtreflexionen.
+
+Nur natürlicher O-Ton: sanfter Wind, Rascheln der Kleidung, Schritte und Atmung. Konversationelles weibliches Voiceover. Keine Hintergrundmusik.
+
+Strikter Realismus: Kein CGI, 3D, Animation, Plastikhaut, Charakteränderungen, Outfitwechsel, zusätzliche Personen, unrealistische Reflexionen, Text, Untertitel, Logos oder Wasserzeichen. Durchgehender Schauplatz und durchgehendes Wetter. Fotorealistische Live-Action, Kinoqualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4655,20 +4692,20 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 
 <a name="prompt-2101887507059351894"></a>
 
-### Übersetzung läuft
+### 15-Sekunden-Werbespot-Prompt für einen luxuriösen Hautpflegetiegel mit Wasserspritzern, Cremewellen und floralen Akzenten.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Originalbeitrag](https://x.com/Aiwithmaha/status/2101887507059351894)
 
 Produktmarketing · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-Sekunden-Werbespot-Prompt für einen luxuriösen Hautpflegetiegel mit Wasserspritzern, Cremewellen und floralen Akzenten.
 
 <img src="covers/2101887507059351894.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 15-sekündigen, ultrarealistischen Luxus-Hautpflege-Werbespot mit einem eleganten Glastiegel mit der Aufschrift „AQUA LUXE – DEEP HYDRATION“ in einer kühlen blauen, erfrischenden Umgebung. Beginne mit einem sanften blauen atmosphärischen Hintergrund, während zarte Lichtstrahlen und subtile Wasserpartikel eine saubere Premium-Stimmung erzeugen. Enthülle langsam den Hautpflegetiegel, der auf einer glänzenden Wasseroberfläche steht, mit realistischen Reflexionen und kinoreifer Schärfentiefe. Bewege die Kamera allmählich näher heran, während sanfte Lichtreflexe über den metallisch-silbernen Deckel und die Glasverpackung gleiten. Umgebe den Tiegel mit sanften, seidigen weißen, cremeartigen Wellen, die anmutig um ihn herumfließen und eine luxuriöse Hautpflegetextur erzeugen. Füge schwebende Wassertropfen und winzige Bläschen hinzu, die sich mit realistischer Physik natürlich durch die Szene bewegen. Gehe über in einen dramatischen Spritzer kristallklaren Wassers, der sich um das Produkt legt, während der Tiegel vollkommen scharf und zentriert bleibt. Führe zarte weiße Blumen und frische grüne Blätter rund um den Spritzer ein, um eine frische, von Feuchtigkeit inspirierte Atmosphäre zu schaffen. Schließe mit einem wunderschönen Hero-Shot des zentrierten AQUA LUXE DEEP HYDRATION Tiegels vor dem blauen Hintergrund ab, umgeben von Wassertropfen, Blumen und sanftem, leuchtendem Licht, mit erstklassiger kinoreifer Beleuchtung und makellosem Produktfokus.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

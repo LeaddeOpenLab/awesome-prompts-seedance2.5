@@ -382,20 +382,40 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2102042146392129849"></a>
 
-### Traducción en curso
+### Prompt cinematográfico de 30 segundos que representa a un hombre salvando a una mujer atrapando un coche que cae con una mano al estilo de acción y romance de drama coreano.
 
 Autor：[@AIwithWania](https://x.com/AIwithWania) · [Publicación original](https://x.com/AIwithWania/status/2102042146392129849)
 
 Cine / Fotograma de película · Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinematográfico de 30 segundos que representa a un hombre salvando a una mujer atrapando un coche que cae con una mano al estilo de acción y romance de drama coreano.
 
 <img src="covers/2102042146392129849.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una escena de acción y romance coreana de acción real ultrarrealista utilizando el guion gráfico de referencia. Mantén a los MISMOS dos personajes coreanos, rostros exactos, peinados, atuendos, proporciones corporales y el MISMO automóvil negro en todo momento. Sin cambios de identidad, vestuario, peinado o vehículo.
+
+0–4 s: Una mujer camina por una moderna calle coreana con auriculares puestos. Un coche negro pierde el control repentinamente y vuela hacia ella.
+
+4–8 s: Primer plano de ella al darse cuenta del coche en shock. Corte al hombre con capucha que ve el peligro y reacciona al instante.
+
+8–12 s: Corre hacia ella a una velocidad extrema y la aparta justo antes del impacto.
+
+12–16 s: Caen a salvo. Ella mira hacia arriba y ve el coche dañado cayendo directamente sobre ellos.
+
+16–20 s: Él levanta una mano y detiene el coche que cae sobre sus cabezas. Ella se acerca a él con miedo mientras él lo sostiene.
+
+20–24 s: Primer plano de su rostro tranquilo y concentrado. Empuja el coche y este aterriza pesadamente a varios metros de distancia.
+
+24–28 s: Se ponen de pie y se miran en silencio con conmoción, alivio y gratitud mientras la cálida luz del atardecer llena la calle.
+
+28–30 s: Plano general trasero de ambos contra el horizonte iluminado de la ciudad. Grúa lenta hacia atrás y hacia arriba, luego fundido a negro.
+
+ESTILO: Cine de acción real coreano prémium, piel fotorrealista, expresiones naturales, movimiento realista de cabello y ropa, gravedad y física del automóvil verosímiles, profundidad de campo cinematográfica, desenfoque de movimiento realista, iluminación HDR, sutiles tomas de acción cámara en mano, tomas emocionales fluidas.
+
+BLOQUEO ESTRICTO: Sin rostros con aspecto de IA, cambios de rostro, deformación corporal, personas duplicadas, cambios de vestuario, manos rotas, movimientos antinaturales, teletransportación o cambio de modelo de coche. Mantén todo el movimiento realista y con una actuación profesional.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -404,20 +424,20 @@ Traducción en curso
 
 <a name="prompt-2102063363694231594"></a>
 
-### Traducción en curso
+### Prompt de generación de escena de película de terror con brote zombi en una moderna oficina coreana, que incluye detalles de personajes, trama de acción y descripción de atmósfera de terror.
 
 Autor：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Publicación original](https://x.com/AIwithSynthia/status/2102063363694231594)
 
 Cine / Fotograma de película · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de escena de película de terror con brote zombi en una moderna oficina coreana, que incluye detalles de personajes, trama de acción y descripción de atmósfera de terror.
 
 <img src="covers/2102063363694231594.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia de terror y brote ultra realista de 30 segundos en 1080p que se desarrolle por completo dentro de una moderna oficina corporativa coreana, utilizando la imagen subida como referencia de máxima prioridad para la protagonista femenina y conservando con exactitud su rostro, peinado, tono de piel, proporciones corporales y atuendo. La joven coreana trabaja sola en su escritorio a altas horas de la noche cuando un extraño compañero de trabajo aparece repentinamente entre los cubículos, respirando con dificultad y moviéndose de manera antinatural. Se desploma junto a una estación de trabajo, sufre convulsiones violentas, luego se levanta de repente con los ojos inyectados en sangre y arremete contra otro empleado. La oficina estalla en pánico mientras los empleados corren despavoridos entre los escritorios, derribando sillas, monitores y papeles. La mujer corre hacia la entrada principal pero ve a compañeros de trabajo infectados inundando el pasillo, lo que la obliga a retroceder. Ella y varios supervivientes empujan escritorios, sillas y archivadores contra las puertas de vidrio de la entrada mientras los empleados infectados golpean violentamente contra ellas. Las grietas se extienden por el cristal antes de que un panel se haga añicos repentinamente y manos infectadas se extiendan a través de la abertura. Los supervivientes se repliegan más profundamente en la oficina y se apresuran a entrar en una sala de conferencias acristalada, cerrando la puerta de golpe tras de sí. Arrastran una gran mesa de conferencias contra la entrada mientras la multitud de infectados rodea la sala. La mujer nota a un compañero de trabajo atrapado afuera, abre brevemente la puerta, lo jala hacia adentro e inmediatamente vuelve a colocar la barricada. Todos guardan silencio, respirando con dificultad mientras las siluetas de los infectados golpean el cristal agrietado. Las luces de la oficina se apagan de repente, dejando solo la iluminación de emergencia roja a medida que el vidrio comienza a fracturarse bajo la presión. Termina con la mujer mirando hacia la cámara con terror mientras las siluetas de los infectados rodean por completo la sala de conferencias, para luego cortar a negro; entorno de oficina coreana fotorrealista, física realista, cámara en mano, luces fluorescentes parpadeantes, polvo ambiental, ambiente natural de oficina, alarmas, pasos, gritos, respiración agitada y golpes en el cristal, sin música de fondo, sin exceso de sangre, sin apariencia de CGI, sin rostros distorsionados, sin personajes duplicados, sin teletransportación, sin cambios de vestuario, sin subtítulos, leyendas, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -426,20 +446,37 @@ Traducción en curso
 
 <a name="prompt-2102022966112563595"></a>
 
-### Traducción en curso
+### Un prompt para un anuncio de viajes cinematográfico de 30 segundos que retrata a una joven coreana observando los reflejos de una aurora verde sobre un lago invernal en Jeongseon.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publicación original](https://x.com/SimplyAnnisa/status/2102022966112563595)
 
 Cine / Fotograma de película · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para un anuncio de viajes cinematográfico de 30 segundos que retrata a una joven coreana observando los reflejos de una aurora verde sobre un lago invernal en Jeongseon.
 
 <img src="covers/2102022966112563595.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio de viajes coreano cinematográfico, de acción real fotorrealista, de 30 segundos y en formato 16:9, protagonizado por la misma joven coreana junto a un apacible lago invernal en Jeongseon, Gangwon-do, Corea del Sur.
+
+Viste una chaqueta de plumas negra oversize, jersey gris claro, vaqueros azules, zapatillas blanco-grisáceas, gorro de lana beige y un bolso bandolera negro. Mantén idénticos el rostro, el pelo, el atuendo y las proporciones a lo largo de todo el metraje.
+
+Escena: Pinos cubiertos de nieve, montañas oscuras, lago en calma que refleja una sutil aurora boreal verde esmeralda, vaho visible al respirar, suave viento invernal e iluminación nocturna realista.
+
+Secuencia:
+
+- 0–6 s: La mujer mira hacia el lago y observa la aurora con asombro. Voz en off: "Wow... this is unreal."
+- 6–13 s: Se gira hacia la cámara, sonríe y señala la aurora. Voz en off: "Look at that... it's beautiful."
+- 13–21 s: Contempla plácidamente el lago, cierra los ojos y respira lentamente. Voz en off: "I could stay here all night."
+- 21–30 s: Se vuelve hacia la cámara, da un paso más cerca y sonríe suavemente mientras la aurora se ilumina ligeramente. Voz en off: "Okay... I don't want to leave."
+
+Estilo: Cinematografía premium de anuncio de viajes coreano combinada con el realismo auténtico de un vlog de smartphone. Movimiento natural de cámara en mano, enfoque automático realista, profundidad de campo sutil, textura de piel natural y reflejos creíbles de la aurora.
+
+Solo sonido directo del entorno: viento suave, roce de la ropa, pasos y respiración. Voz en off femenina conversacional. Sin música de fondo.
+
+Realismo estricto: Sin CGI, 3D, animación, piel plástica, cambios de personaje, cambios de vestuario, personas adicionales, reflejos poco realistas, texto, subtítulos, logotipos o marcas de agua. Ubicación y clima continuos. Acción real fotorrealista, calidad cinematográfica.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4716,20 +4753,20 @@ Traducción en curso
 
 <a name="prompt-2101887507059351894"></a>
 
-### Traducción en curso
+### Prompt para anuncio comercial de 15 segundos de un frasco de cuidado de la piel de lujo con salpicaduras de agua, ondas de crema y detalles florales.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicación original](https://x.com/Aiwithmaha/status/2101887507059351894)
 
 Marketing de producto · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para anuncio comercial de 15 segundos de un frasco de cuidado de la piel de lujo con salpicaduras de agua, ondas de crema y detalles florales.
 
 <img src="covers/2101887507059351894.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio publicitario de cuidado de la piel de lujo hiperrealista de 15 segundos que presente un elegante frasco de vidrio con la etiqueta “AQUA LUXE – DEEP HYDRATION” en un entorno azul frío y refrescante. Comienza con un suave fondo atmosférico azul mientras suaves rayos de luz y sutiles partículas de agua crean un ambiente limpio y premium. Revela lentamente el frasco de cuidado de la piel sobre una superficie de agua brillante, con reflejos realistas y profundidad de campo cinematográfica. Acerca gradualmente la cámara mientras suaves destellos se deslizan sobre la tapa plateada metálica y el envase de vidrio. Rodea el frasco con ondas suaves y sedosas similares a crema blanca que fluyen con gracia a su alrededor, creando una textura de cuidado de la piel lujosa. Añade gotas de agua flotantes y diminutas burbujas que se mueven de forma natural por la escena con una física realista. Haz la transición a una dramática salpicadura de agua cristalina que envuelve el producto manteniendo el frasco perfectamente nítido y centrado. Introduce delicadas flores blancas y hojas verdes frescas alrededor de la salpicadura para lograr una atmósfera fresca inspirada en la hidratación. Termina con una hermosa toma principal del frasco de AQUA LUXE DEEP HYDRATION centrado contra el fondo azul, rodeado de gotas de agua, flores y una suave luz brillante, con una iluminación cinematográfica de primera calidad y un enfoque impecable en el producto.
 ```
 
 [↑ Volver a categorías](#catalog)

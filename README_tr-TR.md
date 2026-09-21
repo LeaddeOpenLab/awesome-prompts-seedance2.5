@@ -368,20 +368,40 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2102042146392129849"></a>
 
-### Çeviri sürüyor
+### Bir Kore dizisi aksiyon-romantizm tarzında, bir erkeğin düşen arabayı tek eliyle yakalayarak bir kadını kurtarmasını tasvir eden 30 saniyelik sinematik istem.
 
 Yazar：[@AIwithWania](https://x.com/AIwithWania) · [Orijinal gönderi](https://x.com/AIwithWania/status/2102042146392129849)
 
 Sinematik / Film Karesi · Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir Kore dizisi aksiyon-romantizm tarzında, bir erkeğin düşen arabayı tek eliyle yakalayarak bir kadını kurtarmasını tasvir eden 30 saniyelik sinematik istem.
 
 <img src="covers/2102042146392129849.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans görsel taslağını kullanarak ultra gerçekçi bir canlı çekim Kore aksiyon-romantizm sahnesi oluşturun. Sahne boyunca AYNI iki Koreli karakteri, birebir aynı yüzleri, saç stillerini, kıyafetleri, vücut oranlarını ve AYNI siyah arabayı koruyun. Kimlik, gardırop, saç stili veya araç değişikliği olmasın.
+
+0–4sn: Bir kadın kulaklık takarak modern bir Kore sokağında yürür. Siyah bir araba aniden kontrolünü kaybeder ve ona doğru fırlar.
+
+4–8sn: Şok içinde arabayı fark ettiği yakın çekim. Tehlikeyi gören ve anında tepki veren kapüşonlu adama geçiş.
+
+8–12sn: Aşırı bir hızla ona doğru koşar ve çarpışmadan hemen önce onu kenara çeker.
+
+12–16sn: Güvenli bir şekilde yere düşerler. Kadın yukarı bakar ve hasarlı arabanın tam üzerlerine düştüğünü görür.
+
+16–20sn: Adam bir elini kaldırır ve tepelerinden düşen arabayı durdurur. O arabayı tutarken kadın korkuyla ona sokulur.
+
+20–24sn: Adamın sakin ve odaklanmış yüzünün yakın çekimi. Arabayı uzağa iter ve araba birkaç metre öteye sert bir şekilde çarpar.
+
+24–28sn: Ayağa kalkarlar ve sıcak gün batımı ışığı sokağı doldururken sessizce şok, rahatlama ve minnettarlıkla birbirlerine bakarlar.
+
+28–30sn: Işıldayan şehir silüetine karşı her ikisinin geniş arka plan çekimi. Yavaş vinç hareketiyle geriye/yukarıya doğru çekilme, ardından karararak kapanma.
+
+TARZ: Birinci sınıf Kore canlı çekim sineması, fotogerçekçi cilt, doğal ifadeler, gerçekçi saç/kıyafet hareketi, inandırıcı yerçekimi ve araba fiziği, sinematik alan derinliği, gerçekçi hareket bulanıklığı, HDR aydınlatma, zarif omuz kamerası aksiyon çekimleri, akıcı duygusal çekimler.
+
+KESİN SINIRLAMA: Yapay zekâ görünümlü yüzler, yüz değişiklikleri, vücut deformasyonları, yinelenen insanlar, gardırop değişiklikleri, bozuk eller, doğal olmayan hareketler, ışınlanma veya araba modeli değişikliği olmasın. Tüm hareketleri gerçekçi ve profesyonelce canlandırılmış şekilde tutun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -390,20 +410,20 @@ Sinematik / Film Karesi · Karakter · Araç · Yayımlandı
 
 <a name="prompt-2102063363694231594"></a>
 
-### Çeviri sürüyor
+### Karakter detayları, aksiyon olay örgüsü ve korku atmosferi açıklamalarını içeren, modern Kore ofisinde zombi salgını korku filmi sahnesi üretim istemi.
 
 Yazar：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Orijinal gönderi](https://x.com/AIwithSynthia/status/2102063363694231594)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karakter detayları, aksiyon olay örgüsü ve korku atmosferi açıklamalarını içeren, modern Kore ofisinde zombi salgını korku filmi sahnesi üretim istemi.
 
 <img src="covers/2102063363694231594.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tamamen modern bir Kore kurumsal ofisinin içinde geçen, yüklenen görseli kadın başrol için en yüksek öncelikli referans olarak kullanan ve onun tam yüzünü, saç stilini, ten rengini, vücut oranlarını ve kıyafetini koruyan, 30 saniyelik, 1080p ultra gerçekçi bir salgın-korku sekansı oluşturun. Genç Koreli kadın gece geç saatlerde masasında tek başına çalışırken, kabinlerin arasında aniden ağır nefes alan ve doğal olmayan şekilde hareket eden tuhaf bir iş arkadaşı belirir. Bir çalışma masasının yanına yığılır, şiddetle nöbet geçirir, ardından aniden kan çanağı gözlerle ayağa kalkar ve başka bir çalışana saldırır. Çalışanlar masaların arasında koşturup sandalyeleri, monitörleri ve kâğıtları devirirken ofiste panik patlak verir. Kadın ana girişe doğru koşar ancak koridoru istila eden enfekte iş arkadaşlarını görünce geri dönmek zorunda kalır. Enfekte çalışanlar cam giriş kapılarına şiddetle çarparken, kadın ve birkaç hayatta kalan kişi masaları, sandalyeleri ve dosya dolaplarını kapılara doğru iter. Bir panel aniden parçalanmadan ve enfekte eller açıklıktan uzanmadan önce camda çatlaklar yayılır. Hayatta kalanlar ofisin daha derinlerine çekilir ve arkalarından kapıyı çarparak kapatıp cam bir konferans odasına sığınırlar. Enfekte güruh odayı kuşatırken, girişe doğru büyük bir konferans masası sürüklerler. Kadın dışarıda mahsur kalan bir iş arkadaşını fark eder, kapıyı kısa bir süre açar, onu içeri çeker ve hemen tekrar barikat kurar. Enfekte silüetler çatlamış cama vururken herkes ağır nefes alarak sessizliğe gömülür. Ofis ışıkları aniden söner, cam basınç altında çatlamaya başlarken geriye sadece kırmızı acil durum aydınlatması kalır. Enfekte silüetler konferans odasını tamamen kuşatırken kadının dehşet içinde kameraya bakmasıyla bitirin, ardından karararak sonlansın; fotogerçekçi Kore ofis ortamı, gerçekçi fizik, el kamerası, titreyen floresan ışıklar, atmosferik toz, doğal ofis ortam sesleri, alarmlar, ayak sesleri, çığlıklar, ağır nefes alma ve cama vurma sesleri, arka plan müziği yok, aşırı vahşet/kan yok, CGI görünümü yok, bozuk yüzler yok, yinelenen karakterler yok, ışınlanma yok, kıyafet değişikliği yok, altyazı, başlık, logo veya filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -412,20 +432,37 @@ Sinematik / Film Karesi · Karakter · Yayımlandı
 
 <a name="prompt-2102022966112563595"></a>
 
-### Çeviri sürüyor
+### Jeongseon'da bir kış gölü üzerinde yeşil aurora yansımalarını izleyen genç bir Koreli kadını tasvir eden 30 saniyelik sinematik seyahat reklamı istemi.
 
 Yazar：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Orijinal gönderi](https://x.com/SimplyAnnisa/status/2102022966112563595)
 
 Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Jeongseon'da bir kış gölü üzerinde yeşil aurora yansımalarını izleyen genç bir Koreli kadını tasvir eden 30 saniyelik sinematik seyahat reklamı istemi.
 
 <img src="covers/2102022966112563595.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Jeongseon, Gangwon-do, Güney Kore'de huzurlu bir kış gölünün kenarında aynı genç Koreli kadının yer aldığı 30 saniyelik, 16:9 fotogerçekçi canlı çekim sinematik Kore seyahat reklamı oluşturun.
+
+Üzerinde siyah bol kesim puffer mont, açık gri kazak, mavi kot pantolon, beyaz-gri spor ayakkabılar, bej bere ve siyah çapraz askılı çanta bulunmaktadır. Yüzü, saçı, kıyafeti ve oranları baştan sona tamamen aynı tutun.
+
+Sahne: Kar kaplı çam ağaçları, karanlık dağlar, hafif zümrüt yeşili bir Kuzey Işıkları aurasını yansıtan sakin bir göl, görünür nefes buharı, hafif kış rüzgarı ve gerçekçi gece aydınlatması.
+
+Sekans:
+
+- 0–6sn: Kadın göle dönüktür, hayranlıkla auroraya bakar. Dış ses: "Wow... this is unreal."
+- 6–13sn: Kameraya döner, gülümser ve aurorayı işaret eder. Dış ses: "Look at that... it's beautiful."
+- 13–21sn: Sakince gölü izler, gözlerini kapatır ve yavaşça nefes alır. Dış ses: "I could stay here all night."
+- 21–30sn: Kameraya doğru döner, bir adım yaklaşır ve aurora hafifçe parlarken nazikçe gülümser. Dış ses: "Okay... I don't want to leave."
+
+Tarz: Seçkin Kore seyahat reklamı sinematografisi ile otantik akıllı telefon vlogger gerçekçiliğinin harmanı. Doğal el kamerası hareketi, gerçekçi otomatik odaklama, hafif alan derinliği, doğal cilt dokusu ve inandırıcı aurora yansımaları.
+
+Yalnızca doğal ortam sesi: hafif rüzgar, kıyafet hışırtısı, ayak sesleri ve nefes alıp verme. Doğal konuşma havasında kadın dış sesi. Arka plan müziği yok.
+
+Katı gerçekçilik: CGI, 3D, animasyon, plastik cilt görünümü, karakter değişiklikleri, kıyafet değişiklikleri, fazladan insanlar, gerçekçi olmayan yansımalar, metin, altyazı, logo veya filigran yok. Kesintisiz mekân ve hava durumu. Fotogerçekçi canlı çekim, sinematik kalite.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4649,20 +4686,20 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 
 <a name="prompt-2101887507059351894"></a>
 
-### Çeviri sürüyor
+### Su sıçramaları, krem dalgaları ve çiçeksi dokunuşlar içeren lüks bir cilt bakımı kavanozu için 15 saniyelik reklam istemi.
 
 Yazar：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Orijinal gönderi](https://x.com/Aiwithmaha/status/2101887507059351894)
 
 Ürün Pazarlaması · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Su sıçramaları, krem dalgaları ve çiçeksi dokunuşlar içeren lüks bir cilt bakımı kavanozu için 15 saniyelik reklam istemi.
 
 <img src="covers/2101887507059351894.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Serin mavi ve ferahlatıcı bir ortamda “AQUA LUXE – DEEP HYDRATION” etiketli zarif bir cam kavanozun yer aldığı 15 saniyelik ultra gerçekçi lüks bir cilt bakımı reklamı oluşturun. Nazik ışık ışınları ve ince su parçacıklarının temiz, birinci sınıf bir atmosfer yarattığı yumuşak mavi atmosferik bir arka planla başlayın. Parlak bir su yüzeyinde duran cilt bakımı kavanozunu gerçekçi yansımalar ve sinematik alan derinliğiyle yavaşça açığa çıkarın. Yumuşak parıltılar metalik gümüş kapağın ve cam ambalajın üzerinde süzülürken kamerayı kademeli olarak yaklaştırın. Kavanozun etrafını, zarifçe akıp giden pürüzsüz, ipeksi beyaz krem benzeri dalgalarla çevreleyerek lüks bir cilt bakımı dokusu oluşturun. Sahne boyunca gerçekçi fizik kurallarıyla doğal bir şekilde hareket eden yüzen su damlacıkları ve minik kabarcıklar ekleyin. Kavanozu mükemmel şekilde keskin ve merkezde tutarken, ürünü saran kristal berraklığında suyun dramatik bir sıçramasına geçiş yapın. Taze, nemlendirmeden ilham alan bir atmosfer için sıçramanın etrafına narin beyaz çiçekler ve taze yeşil yapraklar dahil edin. Su damlacıkları, çiçekler ve yumuşak parıldayan ışıkla çevrili, mavi arka plana karşı ortalanmış AQUA LUXE DEEP HYDRATION kavanozunun güzel bir kahraman çekimi (hero shot) ile birinci sınıf sinematik aydınlatma ve kusursuz ürün odağıyla sonlandırın.
 ```
 
 [↑ Kategorilere dön](#catalog)

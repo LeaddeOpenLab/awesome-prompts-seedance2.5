@@ -382,20 +382,40 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2102042146392129849"></a>
 
-### Traduction en cours
+### Prompt cinématographique de 30 secondes illustrant un homme sauvant une femme en rattrapant d'une seule main une voiture qui tombe, dans le style d'un drama d'action et de romance coréen.
 
 Auteur：[@AIwithWania](https://x.com/AIwithWania) · [Publication originale](https://x.com/AIwithWania/status/2102042146392129849)
 
 Image cinématographique / Photogramme de film · Personnage · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique de 30 secondes illustrant un homme sauvant une femme en rattrapant d'une seule main une voiture qui tombe, dans le style d'un drama d'action et de romance coréen.
 
 <img src="covers/2102042146392129849.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une scène d'action-romance coréenne en prises de vues réelles ultra-réaliste à l'aide du storyboard de référence. Conservez les MÊMES deux personnages coréens, visages exacts, coiffures, tenues, proportions corporelles et la MÊME voiture noire d'un bout à l'autre. Aucun changement d'identité, de garde-robe, de coiffure ou de véhicule.
+
+0–4s : Une femme marche dans une rue coréenne moderne en portant des écouteurs. Une voiture noire perd soudainement le contrôle et vole vers elle.
+
+4–8s : Gros plan alors qu'elle aperçoit la voiture sous le choc. Coupe sur l'homme à capuche qui voit le danger et réagit instantanément.
+
+8–12s : Il court vers elle à une vitesse extrême et l'écarte juste avant l'impact.
+
+12–16s : Ils tombent en sécurité. Elle lève les yeux et voit la voiture endommagée tomber directement au-dessus d'eux.
+
+16–20s : Il lève une main et arrête la voiture qui tombe au-dessus d'eux. Elle se rapproche de lui par peur pendant qu'il la maintient.
+
+20–24s : Gros plan sur son visage calme et concentré. Il repousse la voiture et elle atterrit lourdement à plusieurs mètres de là.
+
+24–28s : Ils se relèvent et se regardent en silence, emplis de choc, de soulagement et de gratitude tandis qu'une chaude lumière de coucher de soleil baigne la rue.
+
+28–30s : Plan large de dos des deux personnages face à la ligne d'horizon éclatante de la ville. Mouvement de grue lent vers l'arrière/le haut, puis fondu au noir.
+
+STYLE : Cinéma coréen en prises de vues réelles haut de gamme, peau photoréaliste, expressions naturelles, mouvement réaliste des cheveux/vêtements, gravité et physique automobile crédibles, profondeur de champ cinématographique, flou de mouvement réaliste, éclairage HDR, prises de vue d'action subtiles caméra à l'épaule, plans émotionnels fluides.
+
+VERROUILLAGE STRICT : Aucun visage au rendu IA, changements de visage, morphing corporel, personnes dupliquées, changements de garde-robe, mains déformées, mouvements non naturels, téléportation ou changement de modèle de voiture. Gardez tous les mouvements réalistes et joués de manière professionnelle.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -404,20 +424,20 @@ Traduction en cours
 
 <a name="prompt-2102063363694231594"></a>
 
-### Traduction en cours
+### Prompt de génération de scène de film d'horreur d'épidémie de zombies dans un bureau coréen moderne, comprenant les détails des personnages, l'action du scénario et la description de l'ambiance horrifique.
 
 Auteur：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Publication originale](https://x.com/AIwithSynthia/status/2102063363694231594)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération de scène de film d'horreur d'épidémie de zombies dans un bureau coréen moderne, comprenant les détails des personnages, l'action du scénario et la description de l'ambiance horrifique.
 
 <img src="covers/2102063363694231594.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence d'horreur de contagion ultra-réaliste de 30 secondes en 1080p se déroulant entièrement à l'intérieur d'un bureau d'entreprise coréen moderne, en utilisant l'image téléchargée comme référence de la plus haute priorité pour le rôle principal féminin et en préservant exactement son visage, sa coiffure, sa couleur de peau, ses proportions corporelles et sa tenue. La jeune femme coréenne travaille seule à son bureau tard dans la nuit lorsqu'un collègue étrange apparaît soudainement entre les box, respirant lourdement et se déplaçant de manière anormale. Il s'effondre à côté d'un poste de travail, convulse violemment, puis se relève brusquement les yeux injectés de sang et fonce sur un autre employé. La panique éclate dans le bureau alors que les employés sprintent entre les bureaux, renversant chaises, écrans et papiers. La femme court vers l'entrée principale mais voit des collègues infectés envahir le couloir, la forçant à faire demi-tour. Avec plusieurs survivants, elle pousse des bureaux, des chaises et des classeurs contre les portes d'entrée vitrées tandis que les employés infectés frappent violemment contre elles. Des fissures se propagent sur la vitre avant qu'un panneau ne se brise soudainement et que des mains infectées ne passent à travers l'ouverture. Les survivants battent en retraite plus profondément dans le bureau et se précipitent dans une salle de conférence vitrée, claquant la porte derrière eux. Ils tirent une grande table de conférence contre l'entrée pendant que la horde d'infectés encercle la pièce. La femme aperçoit un collègue piégé à l'extérieur, ouvre brièvement la porte, le tire à l'intérieur et barricade immédiatement à nouveau. Tout le monde se tait, respirant lourdement tandis que des silhouettes infectées martèlent le verre fissuré. Les lumières du bureau s'éteignent soudainement, ne laissant qu'un éclairage de secours rouge alors que la vitre commence à se fracturer sous la pression. Finissez avec la femme regardant la caméra avec terreur tandis que les silhouettes infectées encerclent complètement la salle de conférence, puis coupez au noir ; environnement de bureau coréen photoréaliste, physique réaliste, caméra portée, néons vacillants, poussière atmosphérique, ambiance naturelle de bureau, alarmes, bruits de pas, cris, respirations lourdes et martèlements sur le verre, pas de musique de fond, pas de gore excessif, pas d'aspect CGI, pas de visages déformés, pas de personnages dupliqués, pas de téléportation, pas de changement de tenue, pas de sous-titres, légendes, logos ou filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -426,20 +446,37 @@ Traduction en cours
 
 <a name="prompt-2102022966112563595"></a>
 
-### Traduction en cours
+### Un prompt de publicité de voyage cinématographique de 30 secondes représentant une jeune femme coréenne observant les reflets verts d'une aurore boréale sur un lac hivernal à Jeongseon.
 
 Auteur：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publication originale](https://x.com/SimplyAnnisa/status/2102022966112563595)
 
 Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de publicité de voyage cinématographique de 30 secondes représentant une jeune femme coréenne observant les reflets verts d'une aurore boréale sur un lac hivernal à Jeongseon.
 
 <img src="covers/2102022966112563595.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité de voyage coréenne cinématographique en prise de vue réelle, photoréaliste, de 30 secondes au format 16:9, mettant en scène la même jeune femme coréenne au bord d'un lac d'hiver paisible à Jeongseon, Gangwon-do, en Corée du Sud.
+
+Elle porte une doudoune noire surdimensionnée, un pull gris clair, un jean bleu, des baskets blanc et gris, un bonnet beige et un sac bandoulière noir. Conservez un visage, des cheveux, une tenue et des proportions identiques tout au long de la vidéo.
+
+Scène : Pins recouverts de neige, montagnes sombres, lac calme reflétant une subtile aurore boréale vert émeraude, souffle visible, doux vent d'hiver et éclairage nocturne réaliste.
+
+Séquence :
+
+- 0–6s : La femme fait face au lac, regarde l'aurore avec émerveillement. Voix off : "Wow... this is unreal."
+- 6–13s : Elle se tourne vers la caméra, sourit et pointe l'aurore du doigt. Voix off : "Look at that... it's beautiful."
+- 13–21s : Elle contemple paisiblement le lac, ferme les yeux et respire lentement. Voix off : "I could stay here all night."
+- 21–30s : Elle se tourne vers la caméra, fait un pas de plus et sourit doucement tandis que l'aurore s'intensifie légèrement. Voix off : "Okay... I don't want to leave."
+
+Style : Cinématographie haut de gamme de publicité de voyage coréenne mélangée au réalisme authentique d'un vlog sur smartphone. Mouvement naturel caméra à l'épaule, autofocus réaliste, profondeur de champ subtile, texture de peau naturelle et reflets d'aurore crédibles.
+
+Audio naturel du lieu uniquement : vent doux, froissement des vêtements, bruits de pas et respiration. Voix off féminine au ton conversationnel. Aucune musique de fond.
+
+Réalisme strict : Pas de CGI, de 3D, d'animation, de peau effet plastique, de changements de personnage, de changements de tenue, de personnes supplémentaires, de reflets irréalistes, de texte, de sous-titres, de logos ou de filigranes. Lieu et météo continus. Prise de vue réelle photoréaliste, qualité cinématographique.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4655,20 +4692,20 @@ Traduction en cours
 
 <a name="prompt-2101887507059351894"></a>
 
-### Traduction en cours
+### Prompt de publicité de 15 secondes pour un pot de soin de luxe avec éclaboussures d'eau, vagues de crème et touches florales.
 
 Auteur：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publication originale](https://x.com/Aiwithmaha/status/2101887507059351894)
 
 Marketing produit · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de publicité de 15 secondes pour un pot de soin de luxe avec éclaboussures d'eau, vagues de crème et touches florales.
 
 <img src="covers/2101887507059351894.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un spot publicitaire ultra-réaliste de 15 secondes pour des soins de la peau haut de gamme, mettant en valeur un élégant pot en verre étiqueté « AQUA LUXE – DEEP HYDRATION » dans un environnement rafraîchissant d'un bleu frais. Commencez par un arrière-plan atmosphérique bleu doux tandis que de légers rayons de lumière et de subtiles particules d'eau créent une ambiance pure et luxueuse. Révélez lentement le pot de soin posé sur une surface d'eau brillante, avec des reflets réalistes et une profondeur de champ cinématographique. Rapprochez progressivement la caméra tandis que de doux reflets glissent sur le couvercle argenté métallique et le pot en verre. Entourez le pot d'ondes lisses et soyeuses pareilles à une crème blanche qui s'écoulent gracieusement autour de lui, créant une texture de soin luxueuse. Ajoutez des gouttes d'eau flottantes et de minuscules bulles se déplaçant naturellement à travers la scène avec une physique réaliste. Enchaînez avec une éclaboussure spectaculaire d'eau cristalline enveloppant le produit tout en maintenant le pot parfaitement net et centré. Introduisez de délicates fleurs blanches et des feuilles vertes fraîches autour de l'éclaboussure pour une atmosphère fraîche inspirée par l'hydratation. Terminez par un magnifique plan héroïque du pot AQUA LUXE DEEP HYDRATION centré sur le fond bleu, entouré de gouttes d'eau, de fleurs et d'une douce lumière éclatante, avec un éclairage cinématographique haut de gamme et une mise au point impeccable sur le produit.
 ```
 
 [↑ Retour aux catégories](#catalog)

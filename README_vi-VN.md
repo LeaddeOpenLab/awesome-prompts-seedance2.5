@@ -384,20 +384,40 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2102042146392129849"></a>
 
-### Đang dịch
+### Lời nhắc điện ảnh dài 30 giây mô tả người đàn ông cứu một phụ nữ bằng cách đỡ chiếc xe đang rơi bằng một tay theo phong cách hành động lãng mạn phim truyền hình Hàn Quốc.
 
 Tác giả：[@AIwithWania](https://x.com/AIwithWania) · [Bài gốc](https://x.com/AIwithWania/status/2102042146392129849)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc điện ảnh dài 30 giây mô tả người đàn ông cứu một phụ nữ bằng cách đỡ chiếc xe đang rơi bằng một tay theo phong cách hành động lãng mạn phim truyền hình Hàn Quốc.
 
 <img src="covers/2102042146392129849.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh hành động lãng mạn live-action phong cách Hàn Quốc siêu thực tế bằng cách sử dụng storyboard tham chiếu. Giữ NGUYÊN hai nhân vật Hàn Quốc, khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể chính xác và NGUYÊN chiếc xe màu đen xuyên suốt. Không thay đổi danh tính, trang phục, kiểu tóc hay phương tiện.
+
+0–4 giây: Người phụ nữ đi bộ trên con phố Hàn Quốc hiện đại và đeo tai nghe. Một chiếc xe hơi màu đen bất ngờ mất lái và bay về phía cô.
+
+4–8 giây: Cận cảnh khi cô bàng hoàng nhận ra chiếc xe. Chuyển cảnh sang người đàn ông mặc áo trùm đầu nhìn thấy mối nguy hiểm và phản ứng ngay lập tức.
+
+8–12 giây: Anh lao về phía cô với tốc độ cực nhanh và kéo cô đi ngay trước khoảnh khắc va chạm.
+
+12–16 giây: Họ ngã xuống an toàn. Cô ngước nhìn lên và thấy chiếc xe hư hỏng đang rơi xuống ngay trên đầu họ.
+
+16–20 giây: Anh giơ một tay lên và chặn đứng chiếc xe đang rơi ngay trên đầu. Cô sợ hãi nép sát vào anh trong khi anh giữ chiếc xe.
+
+20–24 giây: Cận cảnh gương mặt điềm tĩnh, tập trung của anh. Anh đẩy chiếc xe ra xa và nó rơi mạnh xuống đất cách đó vài mét.
+
+24–28 giây: Họ đứng dậy và lặng lẽ nhìn nhau với vẻ bàng hoàng, nhẹ nhõm và biết ơn khi ánh hoàng hôn ấm áp tràn ngập con phố.
+
+28–30 giây: Cảnh quay góc rộng từ phía sau của cả hai người trên nền đường chân trời thành phố rực rỡ. Cần trục máy quay từ từ lùi lại/nâng lên cao, sau đó mờ dần sang màu đen.
+
+PHONG CÁCH: Điện ảnh live-action Hàn Quốc cao cấp, làn da chân thực như ảnh chụp, biểu cảm tự nhiên, chuyển động tóc/quần áo chân thực, trọng lực và vật lý xe hơi đáng tin cậy, độ sâu trường ảnh chuẩn điện ảnh, độ mờ chuyển động chân thực, ánh sáng HDR, các cảnh hành động quay cầm tay tinh tế, các cảnh cảm xúc mượt mà.
+
+KHÓA NGHIÊM NGẶT: Không có khuôn mặt trông giống AI, không đổi mặt, không biến dạng cơ thể, không nhân bản người, không đổi trang phục, không gãy tay/dị tật bàn tay, không chuyển động phi tự nhiên, không dịch chuyển tức thời, hoặc thay đổi mẫu xe. Giữ mọi chuyển động chân thực và diễn xuất chuyên nghiệp.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -406,20 +426,20 @@ Tác giả：[@AIwithWania](https://x.com/AIwithWania) · [Bài gốc](https://x
 
 <a name="prompt-2102063363694231594"></a>
 
-### Đang dịch
+### Lời nhắc tạo cảnh phim kinh dị đại dịch thây ma bùng phát trong văn phòng Hàn Quốc hiện đại, bao gồm chi tiết nhân vật, cốt truyện hành động và mô tả bầu không khí kinh dị.
 
 Tác giả：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Bài gốc](https://x.com/AIwithSynthia/status/2102063363694231594)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo cảnh phim kinh dị đại dịch thây ma bùng phát trong văn phòng Hàn Quốc hiện đại, bao gồm chi tiết nhân vật, cốt truyện hành động và mô tả bầu không khí kinh dị.
 
 <img src="covers/2102063363694231594.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phân cảnh kinh dị bùng phát dịch bệnh siêu thực dài 30 giây, độ phân giải 1080p, diễn ra hoàn toàn bên trong một văn phòng công ty Hàn Quốc hiện đại, sử dụng hình ảnh đã tải lên làm tài liệu tham khảo có mức độ ưu tiên cao nhất cho nhân vật nữ chính và giữ nguyên khuôn mặt, kiểu tóc, màu da, tỷ lệ cơ thể và trang phục của cô ấy. Người phụ nữ trẻ Hàn Quốc đang làm việc một mình tại bàn làm việc vào đêm muộn thì một đồng nghiệp kỳ lạ đột nhiên xuất hiện giữa các vách ngăn, thở hổn hển và di chuyển một cách bất thường. Anh ta ngã gục bên cạnh một bàn làm việc, co giật dữ dội, rồi đột nhiên đứng dậy với đôi mắt đỏ ngầu và lao vào một nhân viên khác. Văn phòng bùng lên sự hoảng loạn khi các nhân viên chạy thục mạng giữa các bàn làm việc, làm đổ ghế, màn hình và giấy tờ. Người phụ nữ chạy về phía lối vào chính nhưng thấy các đồng nghiệp bị nhiễm bệnh tràn ngập hành lang, buộc cô phải quay lại. Cô và một vài người sống sót đẩy bàn, ghế và tủ hồ sơ chắn trước cửa kính lối vào khi những nhân viên bị nhiễm bệnh đập mạnh vào chúng. Các vết nứt lan rộng trên mặt kính trước khi một tấm kính đột ngột vỡ vụn và những bàn tay của người nhiễm bệnh thò qua khe hở. Những người sống sót rút lui sâu hơn vào bên trong văn phòng và lao vào một phòng họp bằng kính, đóng sầm cửa lại phía sau. Họ kéo một chiếc bàn họp lớn chặn lối vào trong khi đám đông người nhiễm bao vây căn phòng. Người phụ nữ nhận thấy một đồng nghiệp bị mắc kẹt bên ngoài, mở hé cửa trong giây lát, kéo anh ta vào trong và ngay lập tức dựng lại chướng ngại vật. Mọi người im bặt, thở dốc khi bóng dáng những kẻ nhiễm bệnh đập vào lớp kính nứt nẻ. Đèn văn phòng đột ngột tắt phụt, chỉ còn lại ánh sáng khẩn cấp màu đỏ khi lớp kính bắt đầu nứt vỡ dưới áp lực. Kết thúc bằng cảnh người phụ nữ nhìn chằm chằm vào máy ảnh trong nỗi kinh hoàng khi bóng đen của những người nhiễm bệnh hoàn toàn bao vây phòng họp, sau đó cắt sang màn hình đen; môi trường văn phòng Hàn Quốc chân thực như ảnh chụp, vật lý thực tế, máy quay cầm tay, đèn huỳnh quang nhấp nháy, bụi trong không khí, âm thanh môi trường văn phòng tự nhiên, chuông báo động, tiếng bước chân, tiếng la hét, tiếng thở nặng nhọc và tiếng đập kính, không có nhạc nền, không có máu me quá mức, không có diện mạo CGI, không có khuôn mặt méo mó, không có nhân vật trùng lặp, không có dịch chuyển tức thời, không có thay đổi trang phục, không có phụ đề, chú thích, logo hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -428,20 +448,37 @@ Tác giả：[@AIwithSynthia](https://x.com/AIwithSynthia) · [Bài gốc](https
 
 <a name="prompt-2102022966112563595"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo du lịch điện ảnh dài 30 giây mô tả một cô gái trẻ Hàn Quốc ngắm nhìn ánh phản chiếu của cực quang màu xanh lá trên mặt hồ mùa đông ở Jeongseon.
 
 Tác giả：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Bài gốc](https://x.com/SimplyAnnisa/status/2102022966112563595)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo du lịch điện ảnh dài 30 giây mô tả một cô gái trẻ Hàn Quốc ngắm nhìn ánh phản chiếu của cực quang màu xanh lá trên mặt hồ mùa đông ở Jeongseon.
 
 <img src="covers/2102022966112563595.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo du lịch Hàn Quốc mang phong cách điện ảnh người đóng (live-action) chân thực dài 30 giây, tỷ lệ 16:9, có sự xuất hiện của cùng một phụ nữ trẻ Hàn Quốc bên bờ hồ mùa đông yên bình ở Jeongseon, Gangwon-do, Hàn Quốc.
+
+Cô ấy mặc áo khoác phao đen dáng rộng, áo len màu xám nhạt, quần jean xanh, giày thể thao màu trắng xám, mũ len be và túi đeo chéo màu đen. Giữ nguyên khuôn mặt, kiểu tóc, trang phục và tỷ lệ cơ thể trong suốt video.
+
+Bối cảnh: Những cây thông phủ đầy tuyết, những dãy núi tối màu, mặt hồ tĩnh lặng phản chiếu ánh cực quang xanh ngọc lục bảo mờ ảo, hơi thở hóa sương rõ rệt, làn gió mùa đông nhẹ nhàng và ánh sáng ban đêm chân thực.
+
+Trình tự cảnh:
+
+- 0–6 giây: Người phụ nữ quay mặt ra hồ, ngước nhìn cực quang với vẻ kinh ngạc. Giọng lồng tiếng: "Wow... this is unreal."
+- 6–13 giây: Cô ấy quay về phía máy quay, mỉm cười và chỉ tay về phía cực quang. Giọng lồng tiếng: "Look at that... it's beautiful."
+- 13–21 giây: Cô ấy bình yên ngắm nhìn mặt hồ, nhắm mắt và thở chậm rãi. Giọng lồng tiếng: "I could stay here all night."
+- 21–30 giây: Cô ấy quay lại hướng máy quay, bước tới một bước và mỉm cười nhẹ nhàng khi cực quang hơi sáng lên. Giọng lồng tiếng: "Okay... I don't want to leave."
+
+Phong cách: Kỹ thuật quay phim quảng cáo du lịch Hàn Quốc cao cấp kết hợp với tính chân thực của vlog quay bằng điện thoại thông minh. Chuyển động máy quay cầm tay tự nhiên, tự động lấy nét chân thực, độ sâu trường ảnh tinh tế, kết cấu da tự nhiên và hình ảnh phản chiếu cực quang thuyết phục.
+
+Chỉ sử dụng âm thanh thực tế tại hiện trường: tiếng gió nhẹ, tiếng cọ xát quần áo, tiếng bước chân và tiếng thở. Giọng lồng tiếng nữ mang tính đối thoại. Không có nhạc nền.
+
+Hiện thực nghiêm ngặt: Không có CGI, 3D, hoạt hình, làn da bóng như nhựa, thay đổi nhân vật, thay đổi trang phục, người thừa, phản chiếu phi thực tế, văn bản, phụ đề, logo hoặc hình mờ. Địa điểm và thời tiết liền mạch. Người đóng chân thực, chất lượng điện ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4730,20 +4767,20 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 
 <a name="prompt-2101887507059351894"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo 15 giây cho hũ dưỡng da sang trọng với nước bắn tung tóe, sóng kem và điểm xuyết hoa lá.
 
 Tác giả：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Bài gốc](https://x.com/Aiwithmaha/status/2101887507059351894)
 
 Tiếp thị sản phẩm · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo 15 giây cho hũ dưỡng da sang trọng với nước bắn tung tóe, sóng kem và điểm xuyết hoa lá.
 
 <img src="covers/2101887507059351894.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn quảng cáo chăm sóc da sang trọng siêu thực dài 15 giây với hình ảnh hũ thủy tinh thanh lịch mang nhãn “AQUA LUXE – DEEP HYDRATION” trong một không gian màu xanh lam mát mẻ, sảng khoái. Bắt đầu với phông nền không khí màu xanh lam dịu nhẹ khi những tia sáng nhẹ nhàng và các hạt nước li ti tạo nên tâm trạng cao cấp, tinh khiết. Từ từ hé lộ hũ dưỡng da đứng trên mặt nước sáng bóng, với hình ảnh phản chiếu chân thực và độ sâu trường ảnh chuẩn điện ảnh. Dần dần di chuyển máy ảnh lại gần hơn trong khi các vệt sáng mềm mại lướt qua nắp kim loại màu bạc và vỏ thủy tinh. Bao quanh hũ là những làn sóng kem màu trắng mịn như lụa chảy uyển chuyển xung quanh, tạo nên kết cấu dưỡng da sang trọng. Thêm các giọt nước lơ lửng và những bong bóng nhỏ chuyển động tự nhiên qua khung cảnh với vật lý chân thực. Chuyển cảnh sang làn nước trong vắt bắn tung tóe đầy ấn tượng ôm trọn lấy sản phẩm trong khi vẫn giữ hũ kem hoàn toàn sắc nét và ở vị trí trung tâm. Đưa vào những bông hoa trắng tinh tế và những chiếc lá xanh tươi xung quanh làn nước bắn để tạo bầu không khí căng mọng nước tươi mới. Kết thúc bằng một cảnh quay ấn tượng tuyệt đẹp của hũ AQUA LUXE DEEP HYDRATION ở vị trí trung tâm trên nền xanh lam, được bao quanh bởi các giọt nước, hoa và ánh sáng phát ra dịu nhẹ, với ánh sáng điện ảnh cao cấp và độ tập trung hoàn hảo vào sản phẩm.
 ```
 
 [↑ Về danh mục](#catalog)
