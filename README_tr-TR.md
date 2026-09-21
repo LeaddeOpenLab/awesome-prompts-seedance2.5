@@ -4450,20 +4450,40 @@ Araç · Yayımlandı
 
 <a name="prompt-2101889380193620167"></a>
 
-### Çeviri sürüyor
+### Koreli bir kadının modern spor salonunda geçen el kamerası vlog tarzı videosu; zaman aralıklı hareketler, replikler ve ortam ses efektleri.
 
 Yazar：[@doctorwasif](https://x.com/doctorwasif) · [Orijinal gönderi](https://x.com/doctorwasif/status/2101889380193620167)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Koreli bir kadının modern spor salonunda geçen el kamerası vlog tarzı videosu; zaman aralıklı hareketler, replikler ve ortam ses efektleri.
 
 <img src="covers/2101889380193620167.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+image = Ana Konu. 
+
+Gerçekçi, modern bir spor salonu vlog'unda otantik Koreli kadın. 16:9, RAW elde tutulan akıllı telefon/vlog stili, doğal otomatik odaklama, mikro sarsıntılar, ara sıra yeniden kadrajlama, hafif hareket bulanıklığı, doğal aydınlatma ve renkler. Müzik yok. Gerçekçi spor salonu ambiyansını dahil edin: ayak sesleri, ağırlıklar, koşu bandı, uzaktan gelen konuşmalar ve net, doğal Korece diyalog.
+
+00:00–00:03 — Giriş. Ayakkabılarını bağlar, spor çantasını ve su şişesini alır, kameraya bakar: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — Dışarıda spor salonuna doğru yürürken, rahat elde taşınan/arkadan takip çekimi.
+
+00:06–00:09 — Jimnastik matı. Esner ve şöyle der: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Bir aynanın önünde, dambıl curl yapar, yansımasını izler ve sayar: “하나, 둘, 셋...”
+
+00:13–00:16 — Yakın çekim. Hareketi bitirir, dambılları yere bırakır, nefes verir ve güler: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Yan takip çekimi. Koşu bandında orta tempoda koşar ve nefes nefese şöyle der: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Yakın çekim. Yavaşlar, havluyla terini siler, ağır nefes alır ama gülümser.
+
+00:23–00:27 — Bankta oturur, su içer ve rahat bir tavırla konuşur: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Ayağa kalkar, çantasını alır, el sallar ve gülümser: “오늘 영상은 여기까지! 다음에 봐요.” Doğal kesme.
 ```
 
 [↑ Kategorilere dön](#catalog)

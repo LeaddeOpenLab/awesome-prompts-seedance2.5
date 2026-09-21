@@ -4456,20 +4456,40 @@ Traducción en curso
 
 <a name="prompt-2101889380193620167"></a>
 
-### Traducción en curso
+### Video estilo vlog cámara en mano de una mujer coreana en un gimnasio moderno, con acciones segmentadas por tiempo, diálogos y efectos de sonido ambiental.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicación original](https://x.com/doctorwasif/status/2101889380193620167)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video estilo vlog cámara en mano de una mujer coreana en un gimnasio moderno, con acciones segmentadas por tiempo, diálogos y efectos de sonido ambiental.
 
 <img src="covers/2101889380193620167.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+image = Sujeto principal. 
+
+Mujer coreana auténtica en un vlog de gimnasio moderno y realista. 16:9, estilo RAW grabado con smartphone en mano/vlog, enfoque automático natural, microtemblores, reencuadres ocasionales, ligero desenfoque de movimiento, iluminación y colores naturales. Sin música. Incluir ambiente realista de gimnasio: pasos, pesas, cinta de correr, charlas lejanas y diálogo claro y natural en coreano.
+
+00:00–00:03 — Entrada. Se ata las zapatillas, toma su bolso de gimnasio y su botella de agua, mira a la cámara: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — Caminando afuera hacia el gimnasio, toma casual cámara en mano/de seguimiento.
+
+00:06–00:09 — Colchoneta de gimnasio. Se estira y dice: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Frente a un espejo, realiza flexiones de bíceps con mancuernas, mirando su reflejo y contando: “하나, 둘, 셋...”
+
+00:13–00:16 — Toma cercana. Termina, baja las mancuernas, exhala y se ríe: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Toma de seguimiento lateral. Trota de manera moderada en una cinta de correr y dice entre respiraciones: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Toma cercana. Disminuye la velocidad, se limpia el sudor con una toalla, respirando agitadamente pero sonriendo.
+
+00:23–00:27 — Sentada en un banco, bebiendo agua y hablando de manera casual: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Se pone de pie, toma su bolso, saluda con la mano y sonríe: “오늘 영상은 여기까지! 다음에 봐요.” Corte natural.
 ```
 
 [↑ Volver a categorías](#catalog)

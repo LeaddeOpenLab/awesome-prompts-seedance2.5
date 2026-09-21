@@ -4541,20 +4541,40 @@ Phương tiện · Đã xuất bản
 
 <a name="prompt-2101889380193620167"></a>
 
-### Đang dịch
+### Video phong cách Vlog quay cầm tay tại phòng gym hiện đại của phụ nữ Hàn Quốc, phân đoạn hành động, lời thoại và hiệu ứng âm thanh môi trường.
 
 Tác giả：[@doctorwasif](https://x.com/doctorwasif) · [Bài gốc](https://x.com/doctorwasif/status/2101889380193620167)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video phong cách Vlog quay cầm tay tại phòng gym hiện đại của phụ nữ Hàn Quốc, phân đoạn hành động, lời thoại và hiệu ứng âm thanh môi trường.
 
 <img src="covers/2101889380193620167.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+image = Chủ thể chính.
+
+Người phụ nữ Hàn Quốc chân thực trong vlog phòng gym hiện đại đầy thực tế. 16:9, phong cách quay cầm tay RAW bằng điện thoại thông minh/vlog, tự động lấy nét tự nhiên, rung lắc vi mô, thỉnh thoảng căn chỉnh lại khung hình, độ mờ chuyển động nhẹ, ánh sáng và màu sắc tự nhiên. Không có âm nhạc. Bao gồm âm thanh môi trường phòng gym chân thực: tiếng bước chân, tạ, máy chạy bộ, tiếng trò chuyện từ xa và đối thoại tiếng Hàn tự nhiên, rõ ràng.
+
+00:00–00:03 — Lối vào. Cô ấy buộc dây giày, cầm túi tập gym và chai nước, nhìn vào máy quay: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — Đi bộ bên ngoài hướng về phía phòng gym, cảnh quay cầm tay/theo sau tự nhiên.
+
+00:06–00:09 — Thảm tập gym. Cô ấy giãn cơ và nói: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Trước gương, cô ấy thực hiện động tác dumbbell curl, nhìn hình ảnh phản chiếu của mình và đếm: “하나, 둘, 셋...”
+
+00:13–00:16 — Cảnh cận. Cô ấy hoàn thành, đặt tạ xuống, thở ra và cười: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Cảnh lia máy từ một bên. Cô ấy chạy bộ vừa phải trên máy chạy bộ và nói giữa các nhịp thở: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Cảnh cận. Cô ấy chậm lại, lấy khăn lau mồ hôi, thở dốc nhưng mỉm cười.
+
+00:23–00:27 — Ngồi trên ghế tập, uống nước và nói chuyện thoải mái: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Cô ấy đứng dậy, cầm túi, vẫy tay và mỉm cười: “오늘 영상은 여기까지! 다음에 봐요.” Cắt cảnh tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

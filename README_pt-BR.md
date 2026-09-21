@@ -4450,20 +4450,40 @@ Tradução em andamento
 
 <a name="prompt-2101889380193620167"></a>
 
-### Tradução em andamento
+### Vídeo em estilo vlog gravado na mão de mulher coreana em academia moderna, com ações divididas por tempo, falas e efeitos sonoros ambientes.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicação original](https://x.com/doctorwasif/status/2101889380193620167)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo em estilo vlog gravado na mão de mulher coreana em academia moderna, com ações divididas por tempo, falas e efeitos sonoros ambientes.
 
 <img src="covers/2101889380193620167.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+image = Sujeito principal. 
+
+Mulher coreana autêntica em um vlog realista em uma academia moderna. 16:9, estilo RAW gravado com smartphone na mão/vlog, foco automático natural, microtremores, enquadramentos reajustados ocasionais, leve desfoque de movimento, iluminação e cores naturais. Sem música. Incluir ambiente de academia realista: passos, pesos, esteira, conversas distantes e diálogo natural e claro em coreano.
+
+00:00–00:03 — Entrada. Ela amarra os sapatos, pega sua bolsa de academia e a garrafa de água, olha para a câmera: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — Caminhando do lado de fora em direção à academia, plano casual na mão/de perseguição.
+
+00:06–00:09 — Colchonete de academia. Ela se alonga e diz: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Em frente a um espelho, ela faz rosca direta com halteres, observando seu reflexo e contando: “하나, 둘, 셋...”
+
+00:13–00:16 — Plano fechado. Ela termina, abaixa os halteres, expira e ri: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Plano de acompanhamento lateral. Ela corre moderadamente em uma esteira e diz entre respirações: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Plano fechado. Ela diminui o ritmo, enxuga o suor com uma toalha, respirando com dificuldade, mas sorrindo.
+
+00:23–00:27 — Sentada em um banco, bebendo água e falando informalmente: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Ela se levanta, pega a bolsa, acena e sorri: “오늘 영상은 여기까지! 다음에 봐요.” Corte natural.
 ```
 
 [↑ Voltar às categorias](#catalog)

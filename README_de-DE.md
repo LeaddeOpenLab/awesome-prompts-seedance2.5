@@ -4456,20 +4456,40 @@ Fahrzeug · Veröffentlicht
 
 <a name="prompt-2101889380193620167"></a>
 
-### Übersetzung läuft
+### Video im Handheld-Vlog-Stil einer koreanischen Frau in einem modernen Fitnessstudio, mit zeitlich unterteilten Aktionen, Dialogen und Umgebungsgeräuschen.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Originalbeitrag](https://x.com/doctorwasif/status/2101889380193620167)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video im Handheld-Vlog-Stil einer koreanischen Frau in einem modernen Fitnessstudio, mit zeitlich unterteilten Aktionen, Dialogen und Umgebungsgeräuschen.
 
 <img src="covers/2101889380193620167.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+image = Hauptmotiv. 
+
+Authentische koreanische Frau in einem realistischen modernen Fitnessstudio-Vlog. 16:9, RAW-Handheld-Smartphone-/Vlogging-Stil, natürlicher Autofokus, Mikrowackler, gelegentliches Neukadrieren, leichte Bewegungsunschärfe, natürliche Beleuchtung und Farben. Keine Musik. Realistische Fitnessstudio-Atmosphäre einbeziehen: Schritte, Hanteln, Laufband, fernes Plaudern und klare, natürliche koreanische Dialoge.
+
+00:00–00:03 — Eingangsbereich. Sie bindet ihre Schuhe, schnappt sich ihre Sporttasche und Trinkflasche, blickt in die Kamera: „좋아요, 헬스장 갈 준비 다 됐어요.“
+
+00:03–00:06 — Geht draußen in Richtung Fitnessstudio, lässige Handheld-/Verfolgungsaufnahme.
+
+00:06–00:09 — Gymnastikmatte. Sie dehnt sich und sagt: „오늘은 어깨랑 팔 운동 할 거예요.“
+
+00:09–00:13 — Vor einem Spiegel macht sie Kurzhantel-Curls, beobachtet ihr Spiegelbild und zählt: „하나, 둘, 셋...“
+
+00:13–00:16 — Nahaufnahme. Sie beendet den Satz, legt die Hanteln ab, atmet aus und lacht: „이거 진짜 힘드네요.“
+
+00:16–00:20 — Seitliche Verfolgungsaufnahme. Sie joggt moderat auf einem Laufband und sagt zwischen Atemzügen: „페이스 좀 올려볼게요.“
+
+00:20–00:23 — Nahaufnahme. Sie wird langsamer, wischt sich den Schweiß mit einem Handtuch ab, atmet schwer, lächelt aber.
+
+00:23–00:27 — Sitzt auf einer Bank, trinkt Wasser und spricht ungezwungen: „오늘 컨디션 진짜 좋았던 것 같아요.“
+
+00:27–00:30 — Sie steht auf, nimmt ihre Tasche, winkt und lächelt: „오늘 영상은 여기까지! 다음에 봐요.“ Natürlicher Schnitt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

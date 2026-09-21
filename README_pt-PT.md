@@ -4450,20 +4450,40 @@ Tradução em curso
 
 <a name="prompt-2101889380193620167"></a>
 
-### Tradução em curso
+### Vídeo em estilo vlog filmado na mão de mulher coreana num ginásio moderno, com ações segmentadas por tempo, falas e efeitos sonoros de ambiente.
 
 Autor：[@doctorwasif](https://x.com/doctorwasif) · [Publicação original](https://x.com/doctorwasif/status/2101889380193620167)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Vídeo em estilo vlog filmado na mão de mulher coreana num ginásio moderno, com ações segmentadas por tempo, falas e efeitos sonoros de ambiente.
 
 <img src="covers/2101889380193620167.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+image = Sujeito principal. 
+
+Mulher coreana autêntica num vlog realista de ginásio moderno. 16:9, estilo RAW filmado com smartphone na mão/vlog, focagem automática natural, microtremores, enquadramentos reajustados ocasionais, ligeiro desfoque de movimento, iluminação e cores naturais. Sem música. Incluir ambiente realista de ginásio: passos, pesos, passadeira, conversa distante e diálogo claro e natural em coreano.
+
+00:00–00:03 — Entrada. Ela aperta os atacadores, pega no saco de ginásio e na garrafa de água, olha para a câmara: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — A caminhar no exterior em direção ao ginásio, plano informal na mão/de seguimento.
+
+00:06–00:09 — Tapete de ginásio. Ela alonga-se e diz: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Em frente a um espelho, ela realiza curls de bíceps com halteres, olhando para o seu reflexo e contando: “하나, 둘, 셋...”
+
+00:13–00:16 — Plano aproximado. Ela termina, pousa os halteres, expira e ri-se: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Plano de acompanhamento lateral. Ela corre moderadamente numa passadeira e diz entre respirações: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Plano aproximado. Ela abranda, limpa o suor com uma toalha, a respirar com esforço, mas a sorrir.
+
+00:23–00:27 — Sentada num banco, a beber água e a falar de forma descontraída: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Ela levanta-se, pega no saco, acena e sorri: “오늘 영상은 여기까지! 다음에 봐요.” Corte natural.
 ```
 
 [↑ Voltar às categorias](#catalog)

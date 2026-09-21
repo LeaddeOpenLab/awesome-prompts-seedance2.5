@@ -4456,20 +4456,40 @@ Traduzione in corso
 
 <a name="prompt-2101889380193620167"></a>
 
-### Traduzione in corso
+### Video in stile vlog a mano libera di una donna coreana in una moderna palestra, con azioni scandite nel tempo, battute ed effetti sonori ambientali.
 
 Autore：[@doctorwasif](https://x.com/doctorwasif) · [Post originale](https://x.com/doctorwasif/status/2101889380193620167)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video in stile vlog a mano libera di una donna coreana in una moderna palestra, con azioni scandite nel tempo, battute ed effetti sonori ambientali.
 
 <img src="covers/2101889380193620167.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+image = Soggetto principale. 
+
+Autentica donna coreana in un vlog realistico in una palestra moderna. 16:9, stile RAW girato a mano con smartphone/vlog, messa a fuoco automatica naturale, micro-vibrazioni, occasionali ricomposizioni dell'inquadratura, leggero motion blur, illuminazione e colori naturali. Niente musica. Includere un'atmosfera realistica da palestra: passi, pesi, tapis roulant, chiacchiere in lontananza e chiari dialoghi naturali in coreano.
+
+00:00–00:03 — Ingresso. Si allaccia le scarpe, prende la borsa della palestra e la bottiglietta d'acqua, guarda la telecamera: “좋아요, 헬스장 갈 준비 다 됐어요.”
+
+00:03–00:06 — Camminando all'aperto verso la palestra, ripresa casual a mano/a seguire.
+
+00:06–00:09 — Tappetino da palestra. Fa stretching e dice: “오늘은 어깨랑 팔 운동 할 거예요.”
+
+00:09–00:13 — Davanti a uno specchio, esegue curl con manubri, guardando il proprio riflesso e contando: “하나, 둘, 셋...”
+
+00:13–00:16 — Primo piano. Termina l'esercizio, appoggia i manubri, espira e ride: “이거 진짜 힘드네요.”
+
+00:16–00:20 — Inquadratura laterale di tracciamento. Fa jogging a ritmo moderato su un tapis roulant e dice con il fiatone: “페이스 좀 올려볼게요.”
+
+00:20–00:23 — Primo piano. Rallenta, si asciuga il sudore con un asciugamano, respirando pesantemente ma sorridendo.
+
+00:23–00:27 — Seduta su una panca, beve acqua e parla con disinvoltura: “오늘 컨디션 진짜 좋았던 것 같아요.”
+
+00:27–00:30 — Si alza in piedi, afferra la borsa, saluta con la mano e sorride: “오늘 영상은 여기까지! 다음에 봐요.” Stacco naturale.
 ```
 
 [↑ Torna alle categorie](#catalog)

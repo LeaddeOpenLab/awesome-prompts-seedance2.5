@@ -4456,20 +4456,40 @@ Traduction en cours
 
 <a name="prompt-2101889380193620167"></a>
 
-### Traduction en cours
+### Vidéo façon vlog caméra au poing d'une femme coréenne dans une salle de sport moderne, avec actions par tranches horaires, répliques et effets sonores d'ambiance.
 
 Auteur：[@doctorwasif](https://x.com/doctorwasif) · [Publication originale](https://x.com/doctorwasif/status/2101889380193620167)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo façon vlog caméra au poing d'une femme coréenne dans une salle de sport moderne, avec actions par tranches horaires, répliques et effets sonores d'ambiance.
 
 <img src="covers/2101889380193620167.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+image = Sujet principal. 
+
+Femme coréenne authentique dans un vlog réaliste de salle de sport moderne. 16:9, style RAW smartphone à la main/vlog, autofocus naturel, micro-tremblements, recadrages occasionnels, léger flou de mouvement, éclairage et couleurs naturels. Pas de musique. Inclure une ambiance réaliste de salle de sport : bruits de pas, haltères, tapis de course, bavardages lointains et dialogue coréen naturel et clair.
+
+00:00–00:03 — Entrée. Elle lace ses chaussures, prend son sac de sport et sa bouteille d'eau, regarde la caméra : « 좋아요, 헬스장 갈 준비 다 됐어요. »
+
+00:03–00:06 — En marchant dehors vers la salle de sport, plan décontracté caméra au poing/en suivi.
+
+00:06–00:09 — Tapis de sol. Elle s'étire et dit : « 오늘은 어깨랑 팔 운동 할 거예요. »
+
+00:09–00:13 — Devant un miroir, elle fait des curls avec haltères, observant son reflet et comptant : « 하나, 둘, 셋... »
+
+00:13–00:16 — Plan rapproché. Elle termine, pose les haltères, expire et rit : « 이거 진짜 힘드네요. »
+
+00:16–00:20 — Plan de suivi latéral. Elle fait un jogging modéré sur un tapis de course et dit entre deux respirations : « 페이스 좀 올려볼게요. »
+
+00:20–00:23 — Plan rapproché. Elle ralentit, essuie sa sueur avec une serviette, respirant lourdement mais souriante.
+
+00:23–00:27 — Assise sur un banc, buvant de l'eau et parlant avec décontraction : « 오늘 컨디션 진짜 좋았던 것 같아요. »
+
+00:27–00:30 — Elle se lève, prend son sac, fait un signe de la main et sourit : « 오늘 영상은 여기까지! 다음에 봐요. » Coupure naturelle.
 ```
 
 [↑ Retour aux catégories](#catalog)
