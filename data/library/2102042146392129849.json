@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T16:30:50.140Z",
+  "model": "seedance2.5",
+  "prompt": "Create an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.\n\n0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.\n\n4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.\n\n8–12s: He runs toward her at extreme speed and pulls her away just before impact.\n\n12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.\n\n16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.\n\n20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.\n\n24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.\n\n28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.\n\nSTYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.\n\nSTRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted.",
+  "promptTranslations": {
+    "en": "Create an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.\\n\\n0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.\\n\\n4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.\\n\\n8–12s: He runs toward her at extreme speed and pulls her away just before impact.\\n\\n12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.\\n\\n16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.\\n\\n20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.\\n\\n24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.\\n\\n28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.\\n\\nSTYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.\\n\\nSTRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted."
+  },
+  "summaryTranslations": {
+    "en": "30-second cinematic prompt depicting a man saving a woman by catching a falling car with one hand in a Korean drama action-romance style."
+  },
+  "translationVersion": 2,
+  "summary": "30-second cinematic prompt depicting a man saving a woman by catching a falling car with one hand in a Korean drama action-romance style.",
+  "summaryEn": "30-second cinematic prompt depicting a man saving a woman by catching a falling car with one hand in a Korean drama action-romance style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102042146392129849",
+    "canonicalUrl": "https://x.com/AIwithWania/status/2102042146392129849",
+    "author": {
+      "username": "AIwithWania",
+      "displayName": "Wania",
+      "profileUrl": "https://x.com/AIwithWania"
+    },
+    "publishedAt": "2026-09-21T14:27:56.000Z",
+    "collectedAt": "2026-09-21T16:15:58.179Z",
+    "language": "en",
+    "originalText": "What would you do if a stranger saved you by stopping a falling car with one hand? 👀🔥\n\nCreated with Seedance 2.5  in @itsPolloAI\n\n30-SECOND CINEMATIC VIDEO PROMPT\n\nCreate an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.\n\n0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.\n\n4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.\n\n8–12s: He runs toward her at extreme speed and pulls her away just before impact.\n\n12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.\n\n16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.\n\n20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.\n\n24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.\n\n28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.\n\nSTYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.\n\nSTRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithWania/status/2102042146392129849",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102042051869339648/img/1zwoJHXvA1fsOeb1.jpg",
+        "analysisUrl": "https://x.com/AIwithWania/status/2102042146392129849"
+      }
+    ],
+    "metrics": {
+      "likeCount": 55,
+      "repostCount": 3,
+      "replyCount": 30,
+      "quoteCount": 0,
+      "viewCount": 538
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithWania/status/2102042146392129849",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102042051869339648/img/1zwoJHXvA1fsOeb1.jpg",
+  "coverPath": "covers/2102042146392129849.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102042051869339648",
+    "x-post:2102042146392129849"
+  ],
+  "analysis": {
+    "summary": "30-second cinematic prompt depicting a man saving a woman by catching a falling car with one hand in a Korean drama action-romance style.",
+    "summaryEn": "30-second cinematic prompt depicting a man saving a woman by catching a falling car with one hand in a Korean drama action-romance style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the exact sequence of events, camera timings, and character actions specified in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.\n\n0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.\n\n4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.\n\n8–12s: He runs toward her at extreme speed and pulls her away just before impact.\n\n12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.\n\n16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.\n\n20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.\n\n24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.\n\n28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.\n\nSTYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.\n\nSTRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted.",
+    "sourceRange": {
+      "start": 164,
+      "end": 1816
+    },
+    "translations": {
+      "zh": "根据参考故事板创建逼真的韩剧动作浪漫场景。始终保持相同的两位韩国角色、面部、发型、服装、体型及黑色汽车。\n\n0–4秒：女子戴耳机走在现代街道，失控黑车飞来。\n4–8秒：特写女子震惊，兜帽男迅速反应。\n8–12秒：男子极速冲刺拉开她。\n12–16秒：二人倒地，受损车辆在正上方坠落。\n16–20秒：男子单手接住下落汽车，女子恐惧贴近。\n20–24秒：男子特写，发力推开汽车，汽车重摔。\n24–28秒：二人站起在夕阳下对视。\n28–30秒：背影广角镜头，吊臂后移升起，渐暗至黑。\n\n风格：韩影质感，逼真物理与HDR光影。",
+      "en": "Create an ultra-realistic live-action Korean action-romance scene using the reference storyboard. Keep the SAME two Korean characters, exact faces, hairstyles, outfits, body proportions, and the SAME black car throughout. No identity, wardrobe, hairstyle, or vehicle changes.\n\n0–4s: Woman walks through a modern Korean street wearing earphones. A black car suddenly loses control and flies toward her.\n\n4–8s: Close-up as she notices the car in shock. Cut to the hooded man seeing the danger and reacting instantly.\n\n8–12s: He runs toward her at extreme speed and pulls her away just before impact.\n\n12–16s: They fall safely. She looks up and sees the damaged car falling directly above them.\n\n16–20s: He raises one hand and stops the falling car overhead. She moves closer to him in fear while he holds it.\n\n20–24s: Close-up of his calm, focused face. He pushes the car away and it lands heavily several meters away.\n\n24–28s: They stand up and quietly look at each other with shock, relief, and gratitude as warm sunset light fills the street.\n\n28–30s: Wide rear shot of both against the glowing city skyline. Slow crane backward/upward, then fade to black.\n\nSTYLE: Premium Korean live-action cinema, photorealistic skin, natural expressions, realistic hair/clothing movement, believable gravity and car physics, cinematic depth of field, realistic motion blur, HDR lighting, subtle handheld action shots, smooth emotional shots.\n\nSTRICT LOCK: No AI-looking faces, face changes, body morphing, duplicated people, wardrobe changes, broken hands, unnatural movement, teleporting, or changing car model. Keep all motion realistic and professionally acted."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic Korean superhero action-romance video sequence",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

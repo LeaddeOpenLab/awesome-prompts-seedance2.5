@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T16:30:56.010Z",
+  "model": "seedance",
+  "prompt": "Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.",
+  "promptTranslations": {
+    "en": "Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus."
+  },
+  "summaryTranslations": {
+    "en": "15-second commercial prompt for a luxury skincare jar with water splashes, cream waves, and floral accents."
+  },
+  "translationVersion": 2,
+  "summary": "15-second commercial prompt for a luxury skincare jar with water splashes, cream waves, and floral accents.",
+  "summaryEn": "15-second commercial prompt for a luxury skincare jar with water splashes, cream waves, and floral accents.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101887507059351894",
+    "canonicalUrl": "https://x.com/Aiwithmaha/status/2101887507059351894",
+    "author": {
+      "username": "Aiwithmaha",
+      "displayName": "Maha",
+      "profileUrl": "https://x.com/Aiwithmaha"
+    },
+    "publishedAt": "2026-09-21T04:13:27.000Z",
+    "collectedAt": "2026-09-21T16:15:58.179Z",
+    "language": "en",
+    "originalText": "Hydration meets luxury in every drop. 💧✨\nA cinematic skincare concept made to feel fresh, premium, and refreshing.\n\nCreated on seedance 2.0\n\nPrompt:\nCreate a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Aiwithmaha/status/2101887507059351894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg",
+        "analysisUrl": "https://x.com/Aiwithmaha/status/2101887507059351894"
+      }
+    ],
+    "metrics": {
+      "likeCount": 135,
+      "repostCount": 7,
+      "replyCount": 63,
+      "quoteCount": 2,
+      "viewCount": 1936
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithmaha/status/2101887507059351894",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg",
+  "coverPath": "covers/2101887507059351894.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101887426138681344",
+    "x-post:2101887507059351894"
+  ],
+  "analysis": {
+    "summary": "15-second commercial prompt for a luxury skincare jar with water splashes, cream waves, and floral accents.",
+    "summaryEn": "15-second commercial prompt for a luxury skincare jar with water splashes, cream waves, and floral accents.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features the exact jar labelled AQUA LUXE DEEP HYDRATION alongside water splashes, cream ripples, floating bubbles, and white flowers in a blue palette."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.",
+    "sourceRange": {
+      "start": 149,
+      "end": 1392
+    },
+    "translations": {
+      "zh": "制作一段15秒的超逼真奢华护肤品广告，在清爽的冷蓝色环境中展示一款标有“AQUA LUXE – DEEP HYDRATION”的精致玻璃罐。以柔和的蓝色氛围背景开场，光线与水粒子营造高端基调。缓缓展现立于光泽水面上的护肤品罐，伴有逼真倒影与景深。镜头推进，光泽掠过银色瓶盖与玻璃瓶身。乳霜波纹环绕周围，漂浮水滴与微小气泡依物理规律运动。随后过渡至清澈水花环绕产品的动态特写，点缀白花与绿叶。最终以居中的经典定格镜头收尾，水珠、花卉与柔光烘托出奢华光影与清晰对焦。",
+      "en": "Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "product commercial showcase",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
