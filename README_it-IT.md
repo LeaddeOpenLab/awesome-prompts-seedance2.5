@@ -500,20 +500,32 @@ Creata una sequenza video cinematografica catastrofica che mostra un imponente t
 
 <a name="prompt-2101908482073252349"></a>
 
-### Traduzione in corso
+### Prompt cinematografico a sequenza temporale che descrive dettagliatamente la trasformazione passo dopo passo di un uomo in un lupo mannaro in una foresta di pini nebbiosa al chiaro di luna.
 
 Autore：[@AIwithWania](https://x.com/AIwithWania) · [Post originale](https://x.com/AIwithWania/status/2101908482073252349)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt cinematografico a sequenza temporale che descrive dettagliatamente la trasformazione passo dopo passo di un uomo in un lupo mannaro in una foresta di pini nebbiosa al chiaro di luna.
 
 <img src="covers/2101908482073252349.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una trasformazione dark-fantasy cinematografica in 16:9. Un uomo adulto realistico con capelli corti scuri, barba corta e vestiti neri è da solo in una foresta di pini fredda e nebbiosa di notte. Mantieni lo STESSO viso, corpo, taglio di capelli e identità per tutta la durata.
+
+0–3s: Mezza figura frontale. Si china leggermente in avanti, tenendosi entrambi i lati della testa, respirando pesantemente. Carrellata in avanti lenta. Luce lunare blu-grigia e nebbia fluttuante.
+
+3–6s: Primissimo piano stretto. La mandibola si serra, l'espressione si intensifica e gli occhi iniziano gradualmente a brillare di una luce ambra-arancio. Spunta del pelo attorno a tempie, guance e collo; le orecchie diventano lentamente a punta.
+
+6–10s: Trasformazione continua e realistica: il viso assume sembianze di lupo, la mascella si allunga, i denti si affilano, una pelliccia grigio-marrone scuro si estende su testa, spalle, braccia e busto. Il corpo diventa più alto e muscoloso. Nessun morphing istantaneo, stacchi, sangue o gore.
+
+10–12s: La telecamera si allontana per rivelare un unico lupo mannaro realistico completamente trasformato con occhi ambrati brillanti, folta pelliccia, corpo muscoloso, mani artigliate, zampe da lupo e una coda naturale. Luna piena dietro gli alberi.
+
+12–15s: Campo lungo drammatico a figura intera. Il lupo mannaro è in piedi nella nebbia, respira affannosamente, la pelliccia si muove nel vento, poi solleva lentamente la testa verso la luna.
+
+Stile: live-action ultra-realistico, VFX cinematografici, luce lunare volumetrica, ombre profonde, pelliccia realistica, anatomia naturale, profondità di campo, motion blur sottile e grana da pellicola. Suono: vento della foresta, respiro pesante, rombo basso e cupo, suoni di trasformazione e ringhio profondo. Esattamente UN uomo si trasforma in UN lupo mannaro. Nessun duplicato, creature extra, arti in più, aspetto da cartone animato o anatomia deformata.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -522,20 +534,24 @@ Traduzione in corso
 
 <a name="prompt-2101901338267591008"></a>
 
-### Traduzione in corso
+### Una sequenza fantasy cinematografica di 15 secondi che segue la caccia al tesoro di un giovane ragazzo in una foresta incantata.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2101901338267591008)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una sequenza fantasy cinematografica di 15 secondi che segue la caccia al tesoro di un giovane ragazzo in una foresta incantata.
 
 <img src="covers/2101901338267591008.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza cinematografica di avventura fantasy fotorealistica di 15 secondi che segue un giovane ragazzo avventuroso attraverso una misteriosa foresta incantata. Inizia con un'inquadratura di apertura dal basso che si muove lentamente attraverso un fitto fogliame gigante da giungla, fiori blu luminosi, radici contorte, lucciole fluttuanti e particelle magiche → rivela il ragazzo con disordinati capelli castano-rossastri, che indossa una camicia gialla da avventura, pantaloncini blu, un piccolo zaino ed equipaggiamento da esploratore mentre cammina con cautela nella foresta → transizione verso un primo piano cinematografico mentre scopre una vecchia mappa del tesoro posata su una pietra coperta di muschio e la studia con curiosità → stacco su una dinamica carrellata mentre corre su gigantesche radici d'albero e segue il misterioso sentiero sempre più a fondo nella foresta → transizione in un tunnel buio e tortuoso formato da enormi radici d'albero, dove un antico scrigno del tesoro dorato risplende in lontananza → rivela improvvisamente una sinistra creatura magica verde simile a una strega che indossa un grande cappello a punta nero, mentre emerge drammaticamente da un fumo magico verde vorticoso vicino allo scrigno del tesoro → stacco sul ragazzo che non indietreggia mentre un'energia magica blu inizia a brillare attorno alla sua mano, con la sua espressione che muta dalla paura alla determinazione → transizione verso un drammatico primo piano mentre solleva la mano splendente verso la minaccia magica, con un'intensa luce blu che illumina il suo volto → stacco sull'antico scrigno del tesoro che si apre all'interno della foresta incantata, rivelando cumuli di monete d'oro e un brillante diamante blu risplendente → l'inquadratura finale diventa una panoramica eroica dal basso a grandangolo del giovane avventuriero che si erge con orgoglio sotto massicci alberi contorti mentre la calda luce dorata del sole filtra attraverso la volta della foresta, tenendo in mano il diamante blu brillante mentre particelle magiche fluttuano intorno a lui.
+
+Atmosfera cinematografica di avventura fantasy, animazione espressiva dei personaggi con movimenti naturali e credibili, espressioni facciali dettagliate, movimenti del corpo realistici, coreografia drammatica della cinepresa, transizioni fluide da scena a scena, ridotta profondità di campo, illuminazione volumetrica, piante bioluminescenti splendenti, texture della foresta realistiche, nebbia atmosferica, particelle magiche, contrasto di colori cinematografico blu e oro, drammatica illuminazione radente, ricchi dettagli ambientali, cinematografia curata da film d'animazione di alto livello, narrazione immersiva, aspetto e abbigliamento del personaggio coerenti in ogni inquadratura, forte senso di scala, progressione emotiva dalla curiosità al pericolo fino al trionfo, profondità cinematografica, illuminazione dinamica, ombre realistiche, sensazione da epico film d'avventura.
+
+Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun volto distorto, nessun dito in più, nessuna mano deforme, nessun personaggio duplicato, nessun abbigliamento incoerente, nessuna trasformazione del personaggio, nessun oggetto casuale, nessuna illuminazione piatta, nessuna CGI economica, nessun ambiente poco dettagliato, nessuno sfarfallio, nessun tremolio, nessun movimento innaturale.
 ```
 
 [↑ Torna alle categorie](#catalog)

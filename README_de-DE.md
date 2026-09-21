@@ -500,20 +500,32 @@ Erstellt wurde eine filmische Katastrophenvideosequenz, die einen gewaltigen Tsu
 
 <a name="prompt-2101908482073252349"></a>
 
-### Übersetzung läuft
+### Filmischer, zeitlich sequenzierter Prompt, der die schrittweise Verwandlung eines Mannes in einen Werwolf in einem nebligen Kiefernwald unter Mondlicht detailliert beschreibt.
 
 Autor：[@AIwithWania](https://x.com/AIwithWania) · [Originalbeitrag](https://x.com/AIwithWania/status/2101908482073252349)
 
 Kinematisch / Filmstill · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmischer, zeitlich sequenzierter Prompt, der die schrittweise Verwandlung eines Mannes in einen Werwolf in einem nebligen Kiefernwald unter Mondlicht detailliert beschreibt.
 
 <img src="covers/2101908482073252349.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine filmische Dark-Fantasy-Verwandlung in 16:9. Ein realistischer erwachsener Mann mit kurzen dunklen Haaren, leichten Stoppeln und schwarzer Kleidung steht nachts allein in einem kalten, nebligen Kiefernwald. Behalte durchgehend das GLEICHE Gesicht, denselben Körper, dieselbe Frisur und dieselbe Identität bei.
+
+0–3s: Halbnahaufnahme von vorne. Er beugt sich leicht nach vorne, hält sich beide Seiten des Kopfes und atmet schwer. Langsame Kamerafahrt vorwärts (Push-in). Blaugraues Mondlicht und ziehender Nebel.
+
+3–6s: Enge Nahaufnahme. Seine Kiefer mahlen, der Gesichtsausdruck intensiviert sich und die Augen leuchten allmählich bernstein-orange auf. Fell erscheint an den Schläfen, Wangen und am Hals; die Ohren spitzen sich langsam zu.
+
+6–10s: Kontinuierliche realistische Verwandlung: Das Gesicht wird wolfsähnlich, der Kiefer schiebt sich vor, die Zähne schärfen sich, dunkelbraun-graues Fell breitet sich über Kopf, Schultern, Arme und Torso aus. Der Körper wird größer und muskulöser. Kein sofortiges Morphen, keine Schnitte, kein Blut oder Gore.
+
+10–12s: Die Kamera zieht sich zurück und enthüllt einen einzelnen, vollständig verwandelten realistischen Werwolf mit leuchtenden bernsteinfarbenen Augen, dichtem Fell, muskulösem Körper, Klauenhänden, wolfsähnlichen Beinen und einem natürlichen Schwanz. Vollmond hinter den Bäumen.
+
+12–15s: Dramatische Totale des gesamten Körpers. Der Werwolf steht im Nebel, atmet schwer, das Fell bewegt sich im Wind, dann hebt er langsam den Kopf zum Mond.
+
+Stil: ultra-realistischer Live-Action-Stil, filmische VFX, volumetrisches Mondlicht, tiefe Schatten, realistisches Fell, natürliche Anatomie, Tiefenschärfe, subtile Bewegungsunschärfe und Filmkorn. Sound: Waldwind, schweres Atmen, tiefes Bassgrollen, Transformationsgeräusche und ein tiefes Knurren. Genau EIN Mann verwandelt sich in EINEN Werwolf. Keine Duplikate, keine zusätzlichen Kreaturen, keine zusätzlichen Gliedmaßen, kein Cartoon-Look oder deformierte Anatomie.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -522,20 +534,24 @@ Kinematisch / Filmstill · Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2101901338267591008"></a>
 
-### Übersetzung läuft
+### Eine 15-sekündige filmische Fantasy-Sequenz, die der Schatzsuche eines kleinen Jungen in einem Zauberwald folgt.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2101901338267591008)
 
 Kinematisch / Filmstill · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine 15-sekündige filmische Fantasy-Sequenz, die der Schatzsuche eines kleinen Jungen in einem Zauberwald folgt.
 
 <img src="covers/2101901338267591008.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 15-sekündige fotorealistische, filmische Fantasy-Abenteuersequenz, die einen abenteuerlustigen Jungen durch einen geheimnisvollen Zauberwald begleitet. Beginne mit einer Establishing-Aufnahme aus der Froschperspektive, die sich langsam durch dichtes, übergroßes Dschungeldickicht, leuchtend blaue Blumen, verschlungene Wurzeln, schwebende Glühwürmchen und magische Partikel bewegt → zeige den Jungen mit unordentlichem rötlich-braunem Haar, bekleidet mit einem gelben Abenteuerhemd, blauen Shorts, einem kleinen Rucksack und Entdeckerausrüstung, wie er vorsichtig durch den Wald geht → Übergang zu einer filmischen Nahaufnahme, als er eine alte Schatzkarte entdeckt, die auf einem moosbedeckten Stein liegt, und sie neugierig studiert → Schnitt zu einer dynamischen Verfolgungsaufnahme, während er über riesige Baumwurzeln rennt und dem geheimnisvollen Pfad tiefer in den Wald folgt → Übergang in einen dunklen, gewundenen Tunnel, der von gewaltigen Baumwurzeln gebildet wird, wo in der Ferne eine uralte, goldene Schatztruhe leuchtet → plötzlich erscheint eine unheimliche, grüne, hexenartige magische Kreatur mit einem großen schwarzen Spitzhut, die dramatisch aus wirbelndem grünen Zauberrauch nahe der Schatztruhe auftaucht → Schnitt auf den Jungen, der standhaft bleibt, während magische blaue Energie um seine Hand zu leuchten beginnt und sich sein Gesichtsausdruck von Angst in Entschlossenheit wandelt → Übergang zu einer dramatischen Nahaufnahme, als er seine leuchtende Hand gegen die magische Bedrohung erhebt und intensives blaues Licht sein Gesicht erhellt → Schnitt zurück zur uralten Schatztruhe, die sich im Zauberwald öffnet und Haufen von Goldmünzen sowie einen strahlend leuchtenden blauen Diamanten enthüllt → die letzte Einstellung wird zu einer heroischen Weitwinkelaufnahme aus niedriger Perspektive des jungen Abenteurers, der stolz unter gewaltigen, verschlungenen Bäumen steht, während warmes, goldenes Sonnenlicht durch das Blätterdach bricht, den leuchtenden blauen Diamanten haltend, während magische Partikel um ihn herumschweben.
+
+Filmische Fantasy-Abenteueratmosphäre, ausdrucksstarke Charakteranimation mit glaubwürdigen, natürlichen Bewegungen, detaillierte Gesichtsausdrücke, realistische Körperbewegungen, dramatische Kamerachoreografie, nahtlose Szenenübergänge, geringe Schärfentiefe, volumetrische Beleuchtung, leuchtende biolumineszierende Pflanzen, realistische Waldtexturen, atmosphärischer Nebel, magische Partikel, filmischer Blau-Gold-Farbkontrast, dramatisches Kantenlicht, detailreiche Umgebung, ausgefeilte High-End-Animationsfilm-Kinematografie, fesselndes Storytelling, einheitliches Erscheinungsbild und konsistente Kleidung der Figur in jeder Einstellung, starkes Gefühl für Größenverhältnisse, emotionale Entwicklung von Neugier über Gefahr bis zum Triumph, filmische Tiefe, dynamische Beleuchtung, realistische Schatten, episches Abenteuerfilmgefühl.
+
+Keine Untertitel, kein Text, keine Logos, kein Wasserzeichen, kein verzerrtes Gesicht, keine zusätzlichen Finger, keine missgebildeten Hände, keine doppelten Charaktere, keine inkonsistente Kleidung, keine Charaktertransformation, keine zufälligen Objekte, keine flache Beleuchtung, kein billiges CGI, keine detailarme Umgebung, kein Flackern, kein Ruckeln, keine unnatürlichen Bewegungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

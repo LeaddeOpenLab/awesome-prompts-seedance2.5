@@ -494,20 +494,32 @@ Tạo một chuỗi video thảm họa đậm chất điện ảnh thể hiện 
 
 <a name="prompt-2101908482073252349"></a>
 
-### Đang dịch
+### Lời nhắc theo trình tự thời gian điện ảnh mô tả chi tiết từng bước biến đổi của một người đàn ông thành người sói trong rừng thông mù sương dưới ánh trăng.
 
 Tác giả：[@AIwithWania](https://x.com/AIwithWania) · [Bài gốc](https://x.com/AIwithWania/status/2101908482073252349)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc theo trình tự thời gian điện ảnh mô tả chi tiết từng bước biến đổi của một người đàn ông thành người sói trong rừng thông mù sương dưới ánh trăng.
 
 <img src="covers/2101908482073252349.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh biến hình giả tưởng đen tối mang phong cách điện ảnh theo tỷ lệ 16:9. Một người đàn ông trưởng thành chân thực với mái tóc ngắn màu tối, râu lún phún và mặc đồ đen đứng một mình trong khu rừng thông lạnh lẽo, đầy sương mù vào ban đêm. Giữ NGUYÊN gương mặt, cơ thể, kiểu tóc và danh tính xuyên suốt.
+
+0–3 giây: Cảnh quay trung cảnh chính diện. Anh hơi cúi người về phía trước, hai tay ôm lấy đầu, thở dốc nặng nhọc. Máy quay từ từ tiến lại gần. Ánh trăng xám xanh và sương mù trôi lơ lửng.
+
+3–6 giây: Cảnh cận cảnh góc hẹp. Quai hàm anh nghiến chặt, nét mặt trở nên dữ dội và đôi mắt dần phát sáng màu cam hổ phách. Lông xuất hiện quanh thái dương, má và cổ; đôi tai từ từ trở nên nhọn.
+
+6–10 giây: Quá trình biến hình liên tục đầy chân thực: khuôn mặt chuyển thành dạng sói, hàm nhô ra, răng sắc nhọn lại, bộ lông màu xám nâu sẫm lan rộng khắp đầu, vai, cánh tay và thân mình. Cơ thể phát triển cao lớn và cơ bắp hơn. Không dùng hiệu ứng biến hình tức thời (morph), không chuyển cảnh cắt đột ngột, không có máu me hay cảnh kinh dị.
+
+10–12 giây: Máy quay lùi lại để hé lộ một người sói chân thực đã biến hình hoàn toàn với đôi mắt hổ phách phát sáng, bộ lông dày, thân hình cơ bắp, đôi bàn tay có vuốt, đôi chân giống sói và một chiếc đuôi tự nhiên. Trăng tròn phía sau những rặng cây.
+
+12–15 giây: Cảnh toàn cảnh kịch tính toàn thân. Người sói đứng trong sương mù, thở dốc nặng nề, lông bay theo gió, sau đó từ từ ngẩng đầu về phía mặt trăng.
+
+Phong cách: người đóng chân thực tột đỉnh, VFX chuẩn điện ảnh, ánh trăng thể tích (volumetric moonlight), bóng tối sâu thẳm, lông chân thực, giải phẫu tự nhiên, độ sâu trường ảnh, mờ chuyển động tinh tế và hạt phim (film grain). Âm thanh: tiếng gió rừng, tiếng thở nặng nhọc, tiếng ầm trầm của âm bass, âm thanh biến hình và tiếng gầm trầm sâu. Chính xác MỘT người đàn ông biến thành MỘT người sói. Không nhân bản, không thêm sinh vật thừa, không thêm chi thừa, không mang vẻ ngoài hoạt hình hay giải phẫu biến dạng.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -516,20 +528,24 @@ Tác giả：[@AIwithWania](https://x.com/AIwithWania) · [Bài gốc](https://x
 
 <a name="prompt-2101901338267591008"></a>
 
-### Đang dịch
+### Một chuỗi cảnh phim kỳ ảo điện ảnh dài 15 giây theo chân cuộc săn tìm kho báu của một cậu bé trong khu rừng mê hoặc.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2101901338267591008)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một chuỗi cảnh phim kỳ ảo điện ảnh dài 15 giây theo chân cuộc săn tìm kho báu của một cậu bé trong khu rừng mê hoặc.
 
 <img src="covers/2101901338267591008.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một chuỗi phiêu lưu kỳ ảo điện ảnh chân thực như ảnh dài 15 giây theo chân một cậu bé thích phiêu lưu đi qua một khu rừng mê hoặc đầy bí ẩn. Bắt đầu bằng một cảnh quay toàn cảnh góc thấp di chuyển chậm rãi qua những tán lá rừng rậm rạp khổng lồ, những bông hoa màu xanh phát sáng, rễ cây xoắn ốc, đom đóm lơ lửng và các hạt ma thuật → hé lộ cậu bé với mái tóc nâu đỏ bù xù, mặc áo thám hiểm màu vàng, quần đùi xanh lam, ba lô nhỏ và đồ nghề thám hiểm khi cậu thận trọng bước qua khu rừng → chuyển tiếp sang cảnh cận cảnh điện ảnh khi cậu phát hiện ra một tấm bản đồ kho báu cổ xưa nằm trên một phiến đá phủ đầy rêu và tò mò nghiên cứu nó → cắt sang một cảnh quay theo dõi năng động khi cậu chạy qua những rễ cây khổng lồ và đi theo con đường bí ẩn sâu hơn vào rừng → chuyển sang một đường hầm quanh co tăm tối được tạo thành bởi những rễ cây đồ sộ, nơi một rương kho báu vàng cổ xưa đang phát sáng ở phía xa → bất ngờ hé lộ một sinh vật ma thuật độc ác giống phù thủy màu xanh lá cây đội chiếc mũ nhọn lớn màu đen, xuất hiện đầy kịch tính từ làn khói ma thuật màu xanh lá cây cuộn xoáy gần rương kho báu → cắt sang cảnh cậu bé đứng vững khi năng lượng ma thuật màu xanh lam bắt đầu phát sáng quanh tay, biểu cảm của cậu chuyển từ sợ hãi sang quyết tâm → chuyển tiếp sang cảnh cận cảnh kịch tính khi cậu giơ bàn tay phát sáng của mình về phía mối đe dọa ma thuật, ánh sáng xanh lam mãnh liệt chiếu sáng khuôn mặt cậu → cắt trở lại cảnh rương kho báu cổ xưa mở ra bên trong khu rừng mê hoặc, để lộ những chồng tiền vàng và một viên kim cương xanh phát sáng rực rỡ → cảnh quay cuối cùng trở thành một cảnh góc rộng tầm thấp đầy anh dũng về nhà thám hiểm trẻ tuổi đứng kiêu hãnh bên dưới những cái cây khổng lồ uốn lượn khi ánh nắng vàng ấm áp xuyên qua tán rừng, cầm viên kim cương xanh phát sáng trong khi các hạt ma thuật trôi lơ lửng xung quanh cậu.
+
+Không khí phiêu lưu kỳ ảo điện ảnh, hoạt hình nhân vật biểu cảm với chuyển động tự nhiên đáng tin cậy, nét mặt chi tiết, chuyển động cơ thể chân thực, dàn dựng chuyển động máy quay ấn tượng, chuyển tiếp giữa các cảnh mượt mà, độ sâu trường ảnh nông, ánh sáng thể tích, thực vật phát quang sinh học, kết cấu rừng chân thực, sương mù khí quyển, các hạt ma thuật, độ tương phản màu xanh lam và vàng chuẩn điện ảnh, ánh sáng viền kịch tính, chi tiết môi trường phong phú, kỹ xảo điện ảnh phim hoạt hình cao cấp được trau chuốt, cách kể chuyện nhập tâm, ngoại hình và trang phục nhân vật nhất quán trong mọi cảnh quay, cảm quan mạnh mẽ về quy mô, tiến trình cảm xúc từ tò mò đến nguy hiểm rồi đến chiến thắng, chiều sâu điện ảnh, ánh sáng động, bóng đổ chân thực, cảm giác phim phiêu lưu sử thi.
+
+Không có phụ đề, không có văn bản, không có logo, không có hình mờ, không có khuôn mặt bị biến dạng, không có thêm ngón tay, không có bàn tay dị dạng, không có nhân vật trùng lặp, không có trang phục không nhất quán, không có sự biến đổi nhân vật, không có vật thể ngẫu nhiên, không có ánh sáng phẳng, không có CGI rẻ tiền, không có môi trường chi tiết thấp, không nhấp nháy, không rung giật, không có chuyển động phi tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

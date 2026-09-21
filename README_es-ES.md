@@ -492,20 +492,32 @@ Crea una secuencia cinematográfica de desastre en video que muestre un tsunami 
 
 <a name="prompt-2101908482073252349"></a>
 
-### Traducción en curso
+### Prompt cinematográfico secuenciado en el tiempo que detalla la transformación paso a paso de un hombre en hombre lobo en un bosque de pinos brumoso bajo la luz de la luna.
 
 Autor：[@AIwithWania](https://x.com/AIwithWania) · [Publicación original](https://x.com/AIwithWania/status/2101908482073252349)
 
 Cine / Fotograma de película · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinematográfico secuenciado en el tiempo que detalla la transformación paso a paso de un hombre en hombre lobo en un bosque de pinos brumoso bajo la luz de la luna.
 
 <img src="covers/2101908482073252349.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una transformación cinematográfica de fantasía oscura en 16:9. Un hombre adulto y realista, con pelo corto y oscuro, barba incipiente y ropa negra, está solo en un bosque de pinos frío y brumoso por la noche. Mantén el MISMO rostro, cuerpo, peinado e identidad durante todo el metraje.
+
+0–3 s: Plano medio frontal. Se inclina ligeramente hacia adelante, sujetándose ambos lados de la cabeza y respirando con dificultad. Lento travelling de aproximación (push-in). Luz de luna azul grisácea y niebla flotante.
+
+3–6 s: Primer plano cerrado. Aprieta la mandíbula, su expresión se intensifica y sus ojos comienzan a brillar gradualmente con un tono ámbar anaranjado. Aparece pelaje alrededor de las sienes, las mejillas y el cuello; las orejas se vuelven puntiagudas lentamente.
+
+6–10 s: Transformación realista y continua: el rostro adquiere aspecto de lobo, la mandíbula se alarga, los dientes se afilan y un pelaje marrón grisáceo oscuro se extiende por la cabeza, los hombros, los brazos y el torso. El cuerpo se vuelve más alto y musculoso. Sin transformaciones instantáneas (morph), cortes, sangre ni vísceras.
+
+10–12 s: La cámara retrocede para revelar a un único hombre lobo realista y completamente transformado, con ojos ámbar brillantes, pelaje grueso, cuerpo musculoso, manos con garras, patas de lobo y una cola natural. Luna llena detrás de los árboles.
+
+12–15 s: Dramático plano general de cuerpo entero. El hombre lobo permanece entre la niebla, respirando con dificultad, con el pelaje ondeando al viento, y luego levanta lentamente la cabeza hacia la luna.
+
+Estilo: acción real ultrarrealista, VFX cinematográficos, luz de luna volumétrica, sombras profundas, pelaje realista, anatomía natural, profundidad de campo, desenfoque de movimiento sutil y grano de película. Sonido: viento del bosque, respiración agitada, retumbar de bajos profundos, sonidos de transformación y un gruñido grave. Exactamente UN hombre se transforma en UN hombre lobo. Sin duplicados, criaturas adicionales, extremidades extra, aspecto de dibujos animados ni anatomía deformada.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -514,20 +526,24 @@ Traducción en curso
 
 <a name="prompt-2101901338267591008"></a>
 
-### Traducción en curso
+### Una secuencia cinematográfica de fantasía de 15 segundos que sigue la búsqueda del tesoro de un niño en un bosque encantado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2101901338267591008)
 
 Cine / Fotograma de película · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una secuencia cinematográfica de fantasía de 15 segundos que sigue la búsqueda del tesoro de un niño en un bosque encantado.
 
 <img src="covers/2101901338267591008.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia cinematográfica de aventura y fantasía fotorrealista de 15 segundos siguiendo a un joven y aventurero niño a través de un misterioso bosque encantado. Comienza con un plano general de establecimiento en ángulo bajo que se mueve lentamente a través del denso follaje de una jungla sobredimensionada, flores azules brillantes, raíces retorcidas, luciérnagas flotantes y partículas mágicas → revela al joven niño con el pelo revuelto de color marrón rojizo, vistiendo una camisa amarilla de aventura, pantalones cortos azules, una pequeña mochila y equipo de explorador mientras camina con cautela por el bosque → transición a un primer plano cinematográfico cuando descubre un viejo mapa del tesoro que descansa sobre una piedra cubierta de musgo y lo examina con curiosidad → corte a un plano de seguimiento dinámico mientras corre sobre raíces gigantescas de árboles y sigue el misterioso camino adentrándose más en el bosque → transición hacia un túnel oscuro y serpenteante formado por enormes raíces de árboles, donde un antiguo cofre del tesoro dorado brilla a lo lejos → revela repentinamente a una siniestra criatura mágica de aspecto de bruja verde con un gran sombrero puntiagudo negro, emergiendo dramáticamente de un humo mágico verde arremolinado cerca del cofre del tesoro → corte al niño manteniéndose firme mientras una energía mágica azul comienza a brillar alrededor de su mano, cambiando su expresión de miedo a determinación → transición a un primer plano dramático mientras levanta su mano brillante hacia la amenaza mágica, con una intensa luz azul iluminando su rostro → corte de regreso al antiguo cofre del tesoro abriéndose dentro del bosque encantado, revelando montones de monedas de oro y un brillante diamante azul resplandeciente → el plano final se convierte en un plano contrapicado panorámico heroico del joven aventurero de pie con orgullo bajo enormes árboles retorcidos mientras la cálida luz dorada del sol atraviesa el dosel del bosque, sosteniendo el diamante azul brillante mientras partículas mágicas flotan a su alrededor.
+
+Atmósfera cinematográfica de aventura y fantasía, animación de personajes expresiva con movimiento natural y creíble, expresiones faciales detalladas, movimiento corporal realista, coreografía dramática de cámara, transiciones fluidas entre escenas, baja profundidad de campo, iluminación volumétrica, plantas bioluminiscentes brillantes, texturas de bosque realistas, niebla atmosférica, partículas mágicas, contraste de color azul y dorado cinematográfico, iluminación de borde dramática, rico detalle ambiental, cinematografía pulida de película animada de alta gama, narración inmersiva, apariencia y vestimenta del personaje consistentes en cada toma, fuerte sentido de escala, progresión emocional de la curiosidad al peligro y luego al triunfo, profundidad cinematográfica, iluminación dinámica, sombras realistas, sensación de película épica de aventuras.
+
+Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin rostro distorsionado, sin dedos adicionales, sin manos malformadas, sin personajes duplicados, sin ropa inconsistente, sin transformación de personajes, sin objetos aleatorios, sin iluminación plana, sin CGI barato, sin entornos de bajo detalle, sin parpadeos, sin temblores, sin movimientos antinaturales.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -486,20 +486,32 @@ Criou-se uma sequência cinematográfica de desastre em vídeo mostrando um tsun
 
 <a name="prompt-2101908482073252349"></a>
 
-### Tradução em curso
+### Prompt cinematográfico sequenciado no tempo a detalhar a transformação passo a passo de um homem em lobisomem numa floresta de pinheiros com nevoeiro sob a luz da lua.
 
 Autor：[@AIwithWania](https://x.com/AIwithWania) · [Publicação original](https://x.com/AIwithWania/status/2101908482073252349)
 
 Cena de Cinema / Fotograma · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt cinematográfico sequenciado no tempo a detalhar a transformação passo a passo de um homem em lobisomem numa floresta de pinheiros com nevoeiro sob a luz da lua.
 
 <img src="covers/2101908482073252349.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma transformação cinematográfica de fantasia sombria em 16:9. Um homem adulto realista com cabelo escuro e curto, barba por fazer e roupas pretas está sozinho numa floresta de pinheiros fria e nevoenta à noite. Mantenha o MESMO rosto, corpo, penteado e identidade ao longo de todo o vídeo.
+
+0–3s: Plano médio frontal. Ele inclina-se ligeiramente para a frente, segurando ambos os lados da cabeça, a respirar com dificuldade. Aproximação lenta de câmara (push-in). Luar azul-acinzentado e nevoeiro à deriva.
+
+3–6s: Grande plano fechado. A sua mandíbula cerra-se, a expressão intensifica-se e os olhos gradualmente brilham em âmbar-alaranjado. Surge pelo em redor das fontes, bochechas e pescoço; as orelhas tornam-se lentamente pontiagudas.
+
+6–10s: Transformação contínua e realista: o rosto ganha feições de lobo, o maxilar projeta-se, os dentes afiam-se, pelos castanho-escuros e acinzentados espalham-se pela cabeça, ombros, braços e tronco. O corpo fica mais alto e musculado. Sem metamorfose instantânea, cortes, sangue ou violência explícita.
+
+10–12s: A câmara afasta-se para revelar um único lobisomem realista totalmente transformado, com olhos âmbar brilhantes, pelo espesso, corpo musculado, mãos com garras, pernas lupinas e uma cauda natural. Lua cheia por trás das árvores.
+
+12–15s: Plano geral dramático de corpo inteiro. O lobisomem permanece no nevoeiro, a respirar com dificuldade, com a pelagem a mover-se ao vento, erguendo depois lentamente a cabeça em direção à lua.
+
+Estilo: live-action ultrarrealista, efeitos visuais cinematográficos, luar volumétrico, sombras profundas, pelo realista, anatomia natural, profundidade de campo, desfoque de movimento subtil e grão de película. Som: vento na floresta, respiração ofegante, estrondo grave profundo, sons de transformação e rosnado profundo. Exatamente UM homem transforma-se em UM lobisomem. Sem duplicados, criaturas adicionais, membros extra, aspeto de desenho animado ou anatomia deformada.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -508,20 +520,24 @@ Tradução em curso
 
 <a name="prompt-2101901338267591008"></a>
 
-### Tradução em curso
+### Uma sequência cinematográfica de fantasia de 15 segundos acompanhando a caça ao tesouro de um jovem rapaz numa floresta encantada.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2101901338267591008)
 
 Cena de Cinema / Fotograma · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma sequência cinematográfica de fantasia de 15 segundos acompanhando a caça ao tesouro de um jovem rapaz numa floresta encantada.
 
 <img src="covers/2101901338267591008.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma sequência fotorrealista e cinematográfica de aventura e fantasia de 15 segundos acompanhando um jovem rapaz aventureiro através de uma misteriosa floresta encantada. Comece com um plano de estabelecimento em ângulo contra-picado movendo-se lentamente através da densa folhagem tropical gigantesca, flores azuis brilhantes, raízes retorcidas, pirilampos flutuantes e partículas mágicas → revele o jovem rapaz de cabelo castanho-avermelhado desgrenhado, vestindo uma camisa amarela de aventura, calções azuis, mochila pequena e equipamento de explorador enquanto caminha cautelosamente pela floresta → transite para um grande plano cinematográfico quando descobre um velho mapa do tesouro pousado sobre uma pedra coberta de musgo e o estuda com curiosidade → corte para um plano de seguimento dinâmico enquanto corre sobre raízes gigantescas de árvores e segue o caminho misterioso mais profundamente na floresta → transite para um túnel escuro e sinuoso formado por raízes colossais de árvores, onde um antigo baú de tesouro dourado repousa a brilhar ao longe → revele repentinamente uma criatura mágica sinistra semelhante a uma bruxa verde, usando um grande chapéu pontiagudo preto, a emergir dramaticamente de um fumo mágico verde em espiral perto do baú do tesouro → corte para o rapaz a manter a sua posição enquanto uma energia mágica azul começa a brilhar à volta da sua mão, com a sua expressão a mudar do medo para a determinação → transite para um grande plano dramático enquanto eleva a sua mão brilhante em direção à ameaça mágica, com uma intensa luz azul a iluminar-lhe o rosto → corte de volta para o antigo baú do tesouro a abrir-se dentro da floresta encantada, revelando pilhas de moedas douradas e um diamante azul brilhante resplandecente → o plano final torna-se num plano geral heroico em ângulo contra-picado do jovem aventureiro de pé com orgulho sob árvores imensas e retorcidas enquanto a luz quente e dourada do sol atravessa a copa da floresta, segurando o diamante azul brilhante enquanto partículas mágicas flutuam à sua volta.
+
+Atmosfera cinematográfica de aventura e fantasia, animação expressiva de personagens com movimento natural e credível, expressões faciais detalhadas, movimento corporal realista, coreografia dramática de câmara, transições suaves entre cenas, profundidade de campo reduzida, iluminação volumétrica, plantas bioluminescentes brilhantes, texturas florestais realistas, nevoeiro atmosférico, partículas mágicas, contraste cinematográfico de cores azul e dourado, iluminação de contorno dramática, riqueza de detalhes ambientais, cinematografia cuidada de filme de animação de topo, narrativa imersiva, aparência de personagem e vestuário consistentes em todos os planos, forte sentido de escala, progressão emocional da curiosidade ao perigo e ao triunfo, profundidade cinematográfica, iluminação dinâmica, sombras realistas, sensação de filme de aventura épico.
+
+Sem legendas, sem texto, sem logótipos, sem marca de água, sem rosto distorcido, sem dedos adicionais, sem mãos malformadas, sem personagem duplicado, sem vestuário inconsistente, sem transformação de personagem, sem objetos aleatórios, sem iluminação plana, sem CGI de fraca qualidade, sem ambiente de baixo detalhe, sem cintilação, sem trepidação, sem movimento artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

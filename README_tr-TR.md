@@ -486,20 +486,32 @@ Karanlık ve fırtınalı bir gökyüzü altında modern bir şehre yaklaşan de
 
 <a name="prompt-2101908482073252349"></a>
 
-### Çeviri sürüyor
+### Ay ışığı altında, sisli bir çam ormanında bir adamın adım adım kurt adama dönüşümünü ayrıntılarıyla anlatan sinematik, zaman sıralı istem.
 
 Yazar：[@AIwithWania](https://x.com/AIwithWania) · [Orijinal gönderi](https://x.com/AIwithWania/status/2101908482073252349)
 
 Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ay ışığı altında, sisli bir çam ormanında bir adamın adım adım kurt adama dönüşümünü ayrıntılarıyla anlatan sinematik, zaman sıralı istem.
 
 <img src="covers/2101908482073252349.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+16:9 formatında sinematik bir karanlık fantezi dönüşümü oluşturun. Kısa koyu saçlı, hafif kirli sakallı ve siyah giysili gerçekçi bir yetişkin adam, gece vakti soğuk, sisli bir çam ormanında tek başına duruyor. Baştan sona AYNI yüzü, bedeni, saç modelini ve kimliği koruyun.
+
+0–3sn: Karşıdan orta çekim. Başının her iki yanını tutarak hafifçe öne doğru eğilir, ağır ağır nefes alır. Yavaşça kamerayla yaklaşma (push-in). Mavi-gri ay ışığı ve süzülen sis.
+
+3–6sn: Dar yakın plan. Çenesi kenetlenir, ifadesi sertleşir ve gözleri yavaş yavaş kehribar-turuncu renkte parlar. Şakaklar, yanaklar ve boyun çevresinde kürkler belirir; kulaklar yavaşça sivrilir.
+
+6–10sn: Kesintisiz gerçekçi dönüşüm: yüz kurt görünümü alır, çene öne doğru uzar, dişler keskinleşir, koyu kahverengi-gri kürk başa, omuzlara, kollara ve gövdeye yayılır. Vücut daha uzun ve daha kaslı hale gelir. Ani biçim değiştirme (morphing), kesmeler, kan veya vahşet yok.
+
+10–12sn: Kamera geri çekilerek parlayan kehribar gözleri, kalın kürkü, kaslı vücudu, pençeli elleri, kurt benzeri bacakları ve doğal bir kuyruğu olan, tamamen dönüşmüş tek bir gerçekçi kurt adamı gözler önüne serer. Ağaçların arkasında dolunay.
+
+12–15sn: Dramatik tam boy geniş açı çekim. Kurt adam siste durur, ağır nefes alır, kürkü rüzgarda hareket eder, ardından yavaşça başını aya doğru kaldırır.
+
+Tarz: ultra gerçekçi canlı çekim (live-action), sinematik VFX, hacimsel ay ışığı, derin gölgeler, gerçekçi kürk, doğal anatomi, alan derinliği, hafif hareket bulanıklığı ve film greni. Ses: orman rüzgarı, ağır nefes alma, alçak bas uğultusu, dönüşüm sesleri ve derin bir hırıltı. Tam olarak BİR adam BİR kurt adama dönüşür. Kopyalar, ekstra yaratıklar, fazladan uzuvlar, çizgi film görünümü veya deforme olmuş anatomi yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -508,20 +520,24 @@ Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2101901338267591008"></a>
 
-### Çeviri sürüyor
+### Genç bir çocuğun büyülü bir ormandaki define avını takip eden 15 saniyelik sinematik bir fantastik sekans.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2101901338267591008)
 
 Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir çocuğun büyülü bir ormandaki define avını takip eden 15 saniyelik sinematik bir fantastik sekans.
 
 <img src="covers/2101901338267591008.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gizemli ve büyülü bir ormanda genç, maceraperest bir çocuğu takip eden 15 saniyelik, fotogerçekçi, sinematik bir fantastik macera sekansı oluşturun. Sık, devasa orman yaprakları, parlayan mavi çiçekler, kıvrılan kökler, uçuşan ateş böcekleri ve büyülü parçacıklar arasında yavaşça ilerleyen alt açı bir sahne belirleme çekimi ile başlayın → ormanda temkinli bir şekilde yürüyen, dağınık kızıl-kahverengi saçlı, sarı macera gömleği, mavi şort, küçük bir sırt çantası ve kâşif ekipmanı giymiş genç çocuğu ortaya çıkarın → yosun kaplı bir taşın üzerinde duran eski bir define haritasını keşfedip onu merakla incelediği sinematik bir yakın çekime geçiş yapın → dev ağaç kökleri üzerinde koştuğu ve ormanın daha derinlerine giden gizemli patikayı takip ettiği dinamik bir takip çekimine geçin → uzakta parıldayan kadim altın bir hazine sandığının durduğu, devasa ağaç köklerinden oluşmuş karanlık ve dolambaçlı bir tünele geçiş yapın → hazine sandığının yanında girdap gibi dönen yeşil büyülü dumanların arasından dramatik bir şekilde beliren, büyük siyah sivri bir şapka takmış, uğursuz, yeşil, cadı benzeri büyülü bir yaratığı aniden ortaya çıkarın → elinin etrafında büyülü mavi bir enerji parlamaya başlarken, ifadesi korkudan kararlılığa dönüşen ve geri adım atmayan çocuğa geçiş yapın → parlayan elini büyülü tehdide doğru kaldırırken, yüzünü aydınlatan yoğun mavi ışıkla dramatik bir yakın çekime geçiş yapın → büyülü ormanın içinde açılan, altın sikke yığınlarını ve göz alıcı bir şekilde parlayan mavi bir elması ortaya çıkaran kadim hazine sandığına geri dönün → son çekim, sıcak altın rengi güneş ışığı ormanın tepesindeki yaprak örtüsünü yarıp geçerken, etrafında süzülen büyülü parçacıklar eşliğinde parlayan mavi elması tutarak devasa kıvrık ağaçların altında gururla duran genç maceracının kahramanca, geniş açılı, alt açıdan bir çekimine dönüşür.
+
+Sinematik fantastik macera atmosferi, inandırıcı doğal hareketlere sahip etkileyici karakter animasyonu, ayrıntılı yüz ifadeleri, gerçekçi vücut hareketleri, dramatik kamera koreografisi, sahneler arası pürüzsüz geçişler, sığ alan derinliği, hacimsel aydınlatma, parlayan biyolüminesans bitkiler, gerçekçi orman dokuları, atmosferik sis, büyülü parçacıklar, sinematik mavi ve altın rengi kontrastı, dramatik kenar aydınlatması, zengin çevresel detaylar, birinci sınıf animasyon filmi kalitesinde kusursuz sinematografi, sürükleyici hikâye anlatımı, her çekimde tutarlı karakter görünümü ve kıyafetleri, güçlü ölçek hissi, meraktan tehlikeye ve zafere uzanan duygusal ilerleyiş, sinematik derinlik, dinamik aydınlatma, gerçekçi gölgeler, epik macera filmi hissi.
+
+Altyazı yok, metin yok, logo yok, filigran yok, bozuk yüz yok, fazladan parmak yok, şekilsiz eller yok, yinelenen karakter yok, tutarsız kıyafet yok, karakter dönüşümü yok, rastgele nesneler yok, düz aydınlatma yok, ucuz CGI yok, düşük detaylı çevre yok, titreme yok, sarsıntı yok, doğal olmayan hareket yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

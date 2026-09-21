@@ -500,20 +500,32 @@ Création d'une séquence vidéo cinématographique de catastrophe montrant un t
 
 <a name="prompt-2101908482073252349"></a>
 
-### Traduction en cours
+### Prompt cinématographique séquencé dans le temps détaillant la transformation pas à pas d'un homme en loup-garou dans une forêt de pins brumeuse sous le clair de lune.
 
 Auteur：[@AIwithWania](https://x.com/AIwithWania) · [Publication originale](https://x.com/AIwithWania/status/2101908482073252349)
 
 Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique séquencé dans le temps détaillant la transformation pas à pas d'un homme en loup-garou dans une forêt de pins brumeuse sous le clair de lune.
 
 <img src="covers/2101908482073252349.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une transformation cinématographique de dark fantasy en 16:9. Un homme adulte réaliste aux cheveux courts et foncés, avec une barbe de trois jours et des vêtements noirs se tient seul dans une forêt de pins froide et brumeuse la nuit. Conservez les MÊMES visage, corps, coiffure et identité tout du long.
+
+0–3s : Plan moyen frontal. Il se penche légèrement en avant, tenant les deux côtés de sa tête, respirant lourdement. Travelling avant lent. Clair de lune bleu-gris et brume mouvante.
+
+3–6s : Gros plan serré. Sa mâchoire se serre, son expression s'intensifie et ses yeux se mettent progressivement à luire d'un éclat ambre-orangé. De la fourrure apparaît autour des tempes, des joues et du cou ; les oreilles deviennent lentement pointues.
+
+6–10s : Transformation réaliste et continue : le visage prend l'aspect d'un loup, la mâchoire s'allonge, les dents s'aiguisent, une fourrure brun foncé-gris se propage sur la tête, les épaules, les bras et le torse. Le corps grandit et devient plus musclé. Pas de morphing instantané, de coupures, de sang ni de gore.
+
+10–12s : La caméra recule pour révéler un seul loup-garou réaliste entièrement transformé, avec des yeux ambrés luisants, une fourrure épaisse, un corps musclé, des mains griffues, des pattes de loup et une queue naturelle. Pleine lune derrière les arbres.
+
+12–15s : Plan large dramatique en pied. Le loup-garou se tient dans le brouillard, respirant lourdement, sa fourrure ondulant dans le vent, puis lève lentement la tête vers la lune.
+
+Style : prises de vues réelles ultra-réalistes, effets visuels cinématographiques, clair de lune volumétrique, ombres profondes, fourrure réaliste, anatomie naturelle, profondeur de champ, flou de mouvement subtil et grain argentique. Son : vent de la forêt, respiration lourde, grondement sourd de basses, bruits de transformation et grognement profond. Exactement UN homme se transforme en UN loup-garou. Pas de doublons, de créatures supplémentaires, de membres en trop, d'aspect dessin animé ou d'anatomie déformée.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -522,20 +534,24 @@ Traduction en cours
 
 <a name="prompt-2101901338267591008"></a>
 
-### Traduction en cours
+### Une séquence fantastique cinématographique de 15 secondes suivant la chasse au trésor d'un jeune garçon dans une forêt enchantée.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2101901338267591008)
 
 Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une séquence fantastique cinématographique de 15 secondes suivant la chasse au trésor d'un jeune garçon dans une forêt enchantée.
 
 <img src="covers/2101901338267591008.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence d'aventure fantastique cinématographique et photoréaliste de 15 secondes suivant un jeune garçon aventureux à travers une mystérieuse forêt enchantée. Commencez par un plan d'ensemble en contre-plongée se déplaçant lentement à travers un feuillage dense et surdimensionné de jungle, des fleurs bleues luminescentes, des racines tortueuses, des lucioles flottantes et des particules magiques → révélez le jeune garçon aux cheveux brun-roux en désordre, vêtu d'une chemise d'aventure jaune, d'un short bleu, d'un petit sac à dos et d'un équipement d'explorateur alors qu'il marche prudemment à travers la forêt → transition vers un gros plan cinématographique lorsqu'il découvre une vieille carte au trésor reposant sur une pierre recouverte de mousse et l'étudie avec curiosité → passage à un plan travelling dynamique alors qu'il court sur des racines d'arbres géantes et suit le sentier mystérieux plus profondément dans la forêt → transition vers un tunnel sombre et sinueux formé par d'énormes racines d'arbres, où un ancien coffre au trésor doré brille au loin → révélez soudainement une créature magique sinistre et verdâtre semblable à une sorcière portant un grand chapeau pointu noir, émergeant dramatiquement d'une fumée magique verte tourbillonnante près du coffre au trésor → plan sur le garçon tenant bon tandis qu'une énergie magique bleue commence à luire autour de sa main, son expression passant de la peur à la détermination → transition vers un gros plan dramatique lorsqu'il lève sa main luminescente vers la menace magique, une intense lumière bleue illuminant son visage → retour sur l'ancien coffre au trésor qui s'ouvre à l'intérieur de la forêt enchantée, révélant des piles de pièces d'or et un brillant diamant bleu étincelant → le plan final devient un plan large héroïque en contre-plongée du jeune aventurier debout avec fierté sous des arbres massifs et tortueux alors que la lumière chaude et dorée du soleil traverse la canopée de la forêt, tenant le diamant bleu brillant tandis que des particules magiques flottent autour de lui.
+
+Atmosphère d'aventure fantastique cinématographique, animation expressive des personnages avec des mouvements naturels et crédibles, expressions faciales détaillées, mouvements corporels réalistes, chorégraphie de caméra dramatique, transitions fluides d'une scène à l'autre, faible profondeur de champ, éclairage volumétrique, plantes bioluminescentes éclatantes, textures de forêt réalistes, brume atmosphérique, particules magiques, contraste de couleurs bleu et or cinématographique, éclairage de contour spectaculaire, richesse des détails environnementaux, cinématographie soignée digne d'un film d'animation haut de gamme, narration immersive, apparence et vêtements du personnage cohérents tout au long de chaque prise de vue, fort sentiment d'échelle, progression émotionnelle de la curiosité au danger jusqu'au triomphe, profondeur cinématographique, éclairage dynamique, ombres réalistes, sensation de film d'aventure épique.
+
+Pas de sous-titres, pas de texte, pas de logos, pas de filigrane, pas de visage déformé, pas de doigts supplémentaires, pas de mains malformées, pas de personnage dupliqué, pas de vêtements incohérents, pas de transformation de personnage, pas d'objets aléatoires, pas d'éclairage plat, pas de CGI bon marché, pas d'environnement pauvre en détails, pas de scintillement, pas de tremblement, pas de mouvements non naturels.
 ```
 
 [↑ Retour aux catégories](#catalog)
