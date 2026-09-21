@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:32:05.763Z",
+  "model": "seedance",
+  "prompt": "Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic music video scene of a woman dancing in a white corset top in an underground garage with backup dancers and cars."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic music video scene of a woman dancing in a white corset top in an underground garage with backup dancers and cars.",
+  "summaryEn": "Cinematic music video scene of a woman dancing in a white corset top in an underground garage with backup dancers and cars.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101890198703354285",
+    "canonicalUrl": "https://x.com/AIwithMinal/status/2101890198703354285",
+    "author": {
+      "username": "AIwithMinal",
+      "displayName": "AIwithMinal",
+      "profileUrl": "https://x.com/AIwithMinal"
+    },
+    "publishedAt": "2026-09-21T04:24:09.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "en",
+    "originalText": "Confidence, attitude, and unstoppable energy — owning every moment like the spotlight was made just for her.\n\nCreated with seedance 2.0\n\nPrompt:\n\nUltra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithMinal/status/2101890198703354285",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg",
+        "analysisUrl": "https://x.com/AIwithMinal/status/2101890198703354285"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 0,
+      "replyCount": 10,
+      "quoteCount": 1,
+      "viewCount": 546
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithMinal/status/2101890198703354285",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg",
+  "coverPath": "covers/2101890198703354285.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101890134324965376",
+    "x-post:2101890198703354285"
+  ],
+  "analysis": {
+    "summary": "Cinematic music video scene of a woman dancing in a white corset top in an underground garage with backup dancers and cars.",
+    "summaryEn": "Cinematic music video scene of a woman dancing in a white corset top in an underground garage with backup dancers and cars.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video accurately depicts the central female performer in a white strapless corset and jeans with dancers around her in a moody garage setting with headlights."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.",
+    "sourceRange": {
+      "start": 146,
+      "end": 894
+    },
+    "translations": {
+      "zh": "超写实电影感时尚表演场景，一位留着黑色长发的年轻女子自信地站在中心，身穿优雅的白色抹胸紧身胸衣上衣、深色高腰修身牛仔裤，搭配多层银项链和圈形耳环。几位身着黑色皮质服装的舞者围绕着她，做出同步的舞蹈动作。背景为汽车与明亮车灯的夜晚工业场景，具有电影般的MV质感。",
+      "en": "Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "music video performance",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

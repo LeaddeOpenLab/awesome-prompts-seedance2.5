@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:31:57.339Z",
+  "model": "seedance",
+  "prompt": "Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.\nShe wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.\nShow her relaxing and playfully lying on a bright yellow playground slide.\nThen transition to her sitting quietly on a swing, looking slightly tired and lost in thought.\nShe later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.\nShow her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.\nEnd with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.\nUse realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.\nKeep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.",
+  "promptTranslations": {
+    "en": "Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.\\nShe wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.\\nShow her relaxing and playfully lying on a bright yellow playground slide.\\nThen transition to her sitting quietly on a swing, looking slightly tired and lost in thought.\\nShe later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.\\nShow her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.\\nEnd with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.\\nUse realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.\\nKeep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic sequence of a Korean girl's quirky day at a playground and sports area."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic sequence of a Korean girl's quirky day at a playground and sports area.",
+  "summaryEn": "Cinematic sequence of a Korean girl's quirky day at a playground and sports area.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101889590621536594",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2101889590621536594",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-21T04:21:44.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "en",
+    "originalText": "Sometimes the best stories are the most unexpected.\n\nCreated on seedance 2.0\n\nPrompt:\nCreated a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.\nShe wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.\nShow her relaxing and playfully lying on a bright yellow playground slide.\nThen transition to her sitting quietly on a swing, looking slightly tired and lost in thought.\nShe later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.\nShow her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.\nEnd with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.\nUse realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.\nKeep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Lianaalane/status/2101889590621536594",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg",
+        "analysisUrl": "https://x.com/Lianaalane/status/2101889590621536594"
+      }
+    ],
+    "metrics": {
+      "likeCount": 102,
+      "repostCount": 5,
+      "replyCount": 37,
+      "quoteCount": 1,
+      "viewCount": 4348
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2101889590621536594",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg",
+  "coverPath": "covers/2101889590621536594.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101889348534956032",
+    "x-post:2101889590621536594"
+  ],
+  "analysis": {
+    "summary": "Cinematic sequence of a Korean girl's quirky day at a playground and sports area.",
+    "summaryEn": "Cinematic sequence of a Korean girl's quirky day at a playground and sports area.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video reproduces all scripted scenes: lying on yellow slide, swinging, wearing traffic cone hat, lying on stairs, and sleeping in basketball cart."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.\nShe wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.\nShow her relaxing and playfully lying on a bright yellow playground slide.\nThen transition to her sitting quietly on a swing, looking slightly tired and lost in thought.\nShe later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.\nShow her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.\nEnd with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.\nUse realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.\nKeep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.",
+    "sourceRange": {
+      "start": 86,
+      "end": 1063
+    },
+    "translations": {
+      "zh": "生成一段视频：一位美丽的韩国女孩在色彩缤纷的户外游乐场度过梦幻俏皮的一天。她身穿白色休闲衬衫、深色牛仔裤、运动鞋，背着时髦的豹纹单肩包。画面展示她在亮黄色滑梯上放松仰卧，随后切至荡秋千沉思，接着头上扣着橙色路锥坐在游乐场边缘，又在水泥台阶上静卧，最后舒适地睡在装满篮球的手推车里。保持逼真表情、自然动态与角色一致性。",
+      "en": "Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.\nShe wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.\nShow her relaxing and playfully lying on a bright yellow playground slide.\nThen transition to her sitting quietly on a swing, looking slightly tired and lost in thought.\nShe later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.\nShow her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.\nEnd with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.\nUse realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.\nKeep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative storytelling",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:31:48.550Z",
+  "model": "seedance2.5",
+  "prompt": "image = Main Subject. \n\nAuthentic Korean woman in a realistic modern gym vlog. 16:9, RAW handheld smartphone/vlogging style, natural autofocus, micro-shakes, occasional reframing, slight motion blur, natural lighting and colors. No music. Include realistic gym ambience: footsteps, weights, treadmill, distant chatter, and clear natural Korean dialogue.\n\n00:00–00:03 — Entryway. She ties her shoes, grabs her gym bag and water bottle, looks at camera: “좋아요, 헬스장 갈 준비 다 됐어요.”\n\n00:03–00:06 — Walking outside toward the gym, casual handheld/trailing shot.\n\n00:06–00:09 — Gym mat. She stretches and says: “오늘은 어깨랑 팔 운동 할 거예요.”\n\n00:09–00:13 — In front of a mirror, she performs dumbbell curls, watching her reflection and counting: “하나, 둘, 셋...”\n\n00:13–00:16 — Close shot. She finishes, puts down the dumbbells, exhales and laughs: “이거 진짜 힘드네요.”\n\n00:16–00:20 — Side tracking shot. She jogs moderately on a treadmill and says between breaths: “페이스 좀 올려볼게요.”\n\n00:20–00:23 — Close shot. She slows down, wipes sweat with a towel, breathing heavily but smiling.\n\n00:23–00:27 — Sitting on a bench, drinking water and speaking casually: “오늘 컨디션 진짜 좋았던 것 같아요.”\n\n00:27–00:30 — She stands, grabs her bag, waves and smiles: “오늘 영상은 여기까지! 다음에 봐요.” Natural cut.",
+  "promptTranslations": {
+    "en": "image = Main Subject. \n\nAuthentic Korean woman in a realistic modern gym vlog. 16:9, RAW handheld smartphone/vlogging style, natural autofocus, micro-shakes, occasional reframing, slight motion blur, natural lighting and colors. No music. Include realistic gym ambience: footsteps, weights, treadmill, distant chatter, and clear natural Korean dialogue.\n\n00:00–00:03 — Entryway. She ties her shoes, grabs her gym bag and water bottle, looks at camera: “좋아요, 헬스장 갈 준비 다 됐어요.”\n\n00:03–00:06 — Walking outside toward the gym, casual handheld/trailing shot.\n\n00:06–00:09 — Gym mat. She stretches and says: “오늘은 어깨랑 팔 운동 할 거예요.”\n\n00:09–00:13 — In front of a mirror, she performs dumbbell curls, watching her reflection and counting: “하나, 둘, 셋...”\n\n00:13–00:16 — Close shot. She finishes, puts down the dumbbells, exhales and laughs: “이거 진짜 힘드네요.”\n\n00:16–00:20 — Side tracking shot. She jogs moderately on a treadmill and says between breaths: “페이스 좀 올려볼게요.”\n\n00:20–00:23 — Close shot. She slows down, wipes sweat with a towel, breathing heavily but smiling.\n\n00:23–00:27 — Sitting on a bench, drinking water and speaking casually: “오늘 컨디션 진짜 좋았던 것 같아요.”\n\n00:27–00:30 — She stands, grabs her bag, waves and smiles: “오늘 영상은 여기까지! 다음에 봐요.” Natural cut."
+  },
+  "summaryTranslations": {
+    "en": "Handheld vlog-style video of a Korean woman in a modern gym, featuring timed actions, dialogue, and ambient sound effects."
+  },
+  "translationVersion": 2,
+  "summary": "韩国女性现代健身房手持 Vlog 风格视频，分时段动作、台词与环境音效。",
+  "summaryEn": "Korean female gym vlog video prompt featuring timestamped actions, dialogues, and handheld aesthetic.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101889380193620167",
+    "canonicalUrl": "https://x.com/doctorwasif/status/2101889380193620167",
+    "author": {
+      "username": "doctorwasif",
+      "displayName": "WasifAI",
+      "profileUrl": "https://x.com/doctorwasif"
+    },
+    "publishedAt": "2026-09-21T04:20:54.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "en",
+    "originalText": "Korean It-Girl Gym Routine. Seedance 2.5 on Higgsfield\n\nPrompt:\nimage = Main Subject. \n\nAuthentic Korean woman in a realistic modern gym vlog. 16:9, RAW handheld smartphone/vlogging style, natural autofocus, micro-shakes, occasional reframing, slight motion blur, natural lighting and colors. No music. Include realistic gym ambience: footsteps, weights, treadmill, distant chatter, and clear natural Korean dialogue.\n\n00:00–00:03 — Entryway. She ties her shoes, grabs her gym bag and water bottle, looks at camera: “좋아요, 헬스장 갈 준비 다 됐어요.”\n\n00:03–00:06 — Walking outside toward the gym, casual handheld/trailing shot.\n\n00:06–00:09 — Gym mat. She stretches and says: “오늘은 어깨랑 팔 운동 할 거예요.”\n\n00:09–00:13 — In front of a mirror, she performs dumbbell curls, watching her reflection and counting: “하나, 둘, 셋...”\n\n00:13–00:16 — Close shot. She finishes, puts down the dumbbells, exhales and laughs: “이거 진짜 힘드네요.”\n\n00:16–00:20 — Side tracking shot. She jogs moderately on a treadmill and says between breaths: “페이스 좀 올려볼게요.”\n\n00:20–00:23 — Close shot. She slows down, wipes sweat with a towel, breathing heavily but smiling.\n\n00:23–00:27 — Sitting on a bench, drinking water and speaking casually: “오늘 컨디션 진짜 좋았던 것 같아요.”\n\n00:27–00:30 — She stands, grabs her bag, waves and smiles: “오늘 영상은 여기까지! 다음에 봐요.” Natural cut.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/doctorwasif/status/2101889380193620167",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101889347834523648/img/mcKKmg5sr8ChA6sr.jpg",
+        "analysisUrl": "https://x.com/doctorwasif/status/2101889380193620167"
+      }
+    ],
+    "metrics": {
+      "likeCount": 47,
+      "repostCount": 3,
+      "replyCount": 21,
+      "quoteCount": 0,
+      "viewCount": 1509
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/doctorwasif/status/2101889380193620167",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101889347834523648/img/mcKKmg5sr8ChA6sr.jpg",
+  "coverPath": "covers/2101889380193620167.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101889347834523648",
+    "x-post:2101889380193620167"
+  ],
+  "analysis": {
+    "summary": "韩国女性现代健身房手持 Vlog 风格视频，分时段动作、台词与环境音效。",
+    "summaryEn": "Korean female gym vlog video prompt featuring timestamped actions, dialogues, and handheld aesthetic.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中的分镜、韩语台词、拉伸、哑铃弯举、跑步机慢跑、擦汗喝水与挥手镜头与提示词脚本精准吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "image = Main Subject. \n\nAuthentic Korean woman in a realistic modern gym vlog. 16:9, RAW handheld smartphone/vlogging style, natural autofocus, micro-shakes, occasional reframing, slight motion blur, natural lighting and colors. No music. Include realistic gym ambience: footsteps, weights, treadmill, distant chatter, and clear natural Korean dialogue.\n\n00:00–00:03 — Entryway. She ties her shoes, grabs her gym bag and water bottle, looks at camera: “좋아요, 헬스장 갈 준비 다 됐어요.”\n\n00:03–00:06 — Walking outside toward the gym, casual handheld/trailing shot.\n\n00:06–00:09 — Gym mat. She stretches and says: “오늘은 어깨랑 팔 운동 할 거예요.”\n\n00:09–00:13 — In front of a mirror, she performs dumbbell curls, watching her reflection and counting: “하나, 둘, 셋...”\n\n00:13–00:16 — Close shot. She finishes, puts down the dumbbells, exhales and laughs: “이거 진짜 힘드네요.”\n\n00:16–00:20 — Side tracking shot. She jogs moderately on a treadmill and says between breaths: “페이스 좀 올려볼게요.”\n\n00:20–00:23 — Close shot. She slows down, wipes sweat with a towel, breathing heavily but smiling.\n\n00:23–00:27 — Sitting on a bench, drinking water and speaking casually: “오늘 컨디션 진짜 좋았던 것 같아요.”\n\n00:27–00:30 — She stands, grabs her bag, waves and smiles: “오늘 영상은 여기까지! 다음에 봐요.” Natural cut.",
+    "sourceRange": {
+      "start": 64,
+      "end": 1307
+    },
+    "translations": {
+      "zh": "图像 = 主体。\n\n逼真的现代健身房 Vlog 中的真实韩国女性。16:9，RAW 手持智能手机/Vlog 风格，自然自动对焦，微小晃动，偶尔重新构图，轻微动态模糊，自然光线和色彩。无音乐。包含逼真的健身房环境声：脚步声、哑铃声、跑步机声、远处的交谈声，以及清晰自然的韩语对话。\n\n00:00–00:03 — 入口处。她系好鞋带，拿起健身包和水瓶，看着镜头：“好了，准备好去健身房了。”\n\n00:03–00:06 — 走在室外前往健身房，随意的跟随/手持拍摄。\n\n00:06–00:09 — 健身垫。她拉伸并说：“今天要做肩部和手臂运动。”\n\n00:09–00:13 — 镜子前，她做哑铃弯举，看着镜中的自己并数数：“一，二，三……”\n\n00:13–00:16 — 特写镜头。她练完放下哑铃，呼出一口气笑笑：“这个真累啊。”\n\n00:16–00:20 — 侧面跟拍。她在跑步机上慢跑，气喘吁吁地说：“稍微提下速吧。”\n\n00:20–00:23 — 特写。她减速，用毛巾擦汗，大口喘气但微笑着。\n\n00:23–00:27 — 坐在长凳上，喝水并随意闲聊：“今天状态好像特别好。”\n\n00:27–00:30 — 她站起身，拿上包，挥手微笑：“今天的视频就到这里！下次见。”自然转场切断。",
+      "en": "image = Main Subject. \n\nAuthentic Korean woman in a realistic modern gym vlog. 16:9, RAW handheld smartphone/vlogging style, natural autofocus, micro-shakes, occasional reframing, slight motion blur, natural lighting and colors. No music. Include realistic gym ambience: footsteps, weights, treadmill, distant chatter, and clear natural Korean dialogue.\n\n00:00–00:03 — Entryway. She ties her shoes, grabs her gym bag and water bottle, looks at camera: “좋아요, 헬스장 갈 준비 다 됐어요.”\n\n00:03–00:06 — Walking outside toward the gym, casual handheld/trailing shot.\n\n00:06–00:09 — Gym mat. She stretches and says: “오늘은 어깨랑 팔 운동 할 거예요.”\n\n00:09–00:13 — In front of a mirror, she performs dumbbell curls, watching her reflection and counting: “하나, 둘, 셋...”\n\n00:13–00:16 — Close shot. She finishes, puts down the dumbbells, exhales and laughs: “이거 진짜 힘드네요.”\n\n00:16–00:20 — Side tracking shot. She jogs moderately on a treadmill and says between breaths: “페이스 좀 올려볼게요.”\n\n00:20–00:23 — Close shot. She slows down, wipes sweat with a towel, breathing heavily but smiling.\n\n00:23–00:27 — Sitting on a bench, drinking water and speaking casually: “오늘 컨디션 진짜 좋았던 것 같아요.”\n\n00:27–00:30 — She stands, grabs her bag, waves and smiles: “오늘 영상은 여기까지! 다음에 봐요.” Natural cut."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "健身 Vlog 风格视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
