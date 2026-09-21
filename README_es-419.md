@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**181** Prompts · Última incorporación: **2026-09-20**
+**180** Prompts · Última incorporación: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -351,25 +351,20 @@ Crea un videoblog de viajes fotorrealista de 30 segundos en un pueblo de montañ
 
 <a name="prompt-2097097582262825180"></a>
 
-### 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
+### Traducción en curso
 
 Autor：[@john87445528](https://x.com/john87445528) · [Publicación original](https://x.com/john87445528/status/2097097582262825180)
 
 Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
-**Resumen:** 15秒第一人称视角的台球厅暧昧喜剧视频提示词，包含详细的分镜时间线、人物互动、运镜方式、台球局轨迹及音频与负面约束。
+**Resumen:** Traducción en curso
 
 <img src="covers/2097097582262825180.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-｜15秒｜男主第一人称｜海妖风暧昧喜剧 【剧情锁定】 成年女主角#1发现男主准备击球，故意走进他的视野，主动侧坐上台球桌，屈起一条腿，让预定#2服装原有剪裁自然呈现大腿线条，以海妖风眼神和姿态干扰瞄准。男主停杆、抬头，她以为自己的小心思奏效；男主却不耐烦地倒转球杆，用橡胶粗端隔着衣服轻顶她臀侧一下，催她下桌。她被识破后调皮又无奈地让开，男主立即继续击球，母球撞中目标球，目标球落袋。 必须完整呈现“她先站着—主动上桌—故意展示腿部线条并观察他的反应”。她明知会干扰打球，仍主动试探；不能开场便让她已经坐好，也不能演成偶然挡路。 【人物与服装】 画面中唯一可见的人物是成年女主角#1
-，面孔、发型、体型保持一致。#1完整穿着预定#2
-屏幕截图_31-8-2026_22160_jimeng.jianying.com
-服装，带着装饰眼镜
-包括既定丝袜
-和配饰；#2仅是服装编号，绝不生成第二个人物。腿部呈现服从#2本身的长度、开口和袜装，不能为了露腿改变剪裁、消除袜子或凭空缩短衣服。 成年男主只提供第一人称视点、唯一一支球杆和一句画外对白。脸、身体、手臂、双手、影子、倒影均不入画。全片不出现其他人或人物复制。 【影像与拍摄关系】 9:16竖屏，1080×1920，30fps，约26—28mm等效视角。男主佩戴贴近眼线的轻型头戴相机，保留未经处理的手机视频观感。低头看球、抬头看人、直起身体均带动真实镜头运动。男主无需手持摄影设备，可以正常操杆；握杆手和架杆手始终位于取景下缘之外。 全程连续第一人称，不切到男主正面、第三人称或外部全景。轻微呼吸起伏、头部晃动和不完美重新构图；从白球转看#1时，对焦允许短暂迟疑。冷白顶灯照明，肤色和衣料保留纹理，暗部带少量手机噪点；快速调杆有适量运动模糊，但不能糊掉端头交换。无美颜、磨皮、电影调色和稳定器运镜。 构图以能读懂人物动作为先：上桌时保留她扶库边的手、坐下的位置和两腿变化；试探时让脸与腿部线条同时在画面内；赶人时让表情和球杆粗端同时可见；最后回到白球、红球、中袋的完整路线。镜头不长时间追着某一处身体，也不能为了看脸把上桌和调杆动作裁掉。 【台球厅环境】 普通室内台球厅，绿色台呢、红棕色木质库边、黑色桌体、银色边框和白色网兜球袋。背景为深灰与棕色竖向墙板、浅色百叶窗、深绿色等候椅，顶灯将桌面照得比背景明亮。远处可见另一张无人使用的球桌，环境朴素、有实际使用痕迹，整体空间和光线全程不变。 没有酒吧灯光、粉色爱心、霓虹装饰、豪华软包或摄影棚布景。镜头范围内不出现其他顾客、工作人员、人像海报或镜面反射。 【空间与球局】 男主位于近侧长库边中央，#1开始站在对面长库边、画面右侧。两人隔着约1.3米的桌宽相对，不能改成隔着整张球桌的长度。对面中袋位于画面上方中央，始终是明确的落袋目标。 桌上起始共有四颗球：一颗白色母球、一颗红色实心目标球、一颗蓝球、一颗黄球。白球位于近半台中央；红球在对面中袋前约25厘米，白球、红球、中袋形成容易看清的直线。蓝球与黄球分别停在左右远离球路的位置，全程静止。 #1坐在对面中袋右侧的库边，身体斜向镜头；一条屈腿轻放在台面右侧边缘，另一条腿垂在桌外。她的腿部和上身进入男主瞄准视野，但不踩球、不压球、不把腿跨在两球之间。她必须下桌后男主才击球。 她坐下前，白球到红球、红球到中袋的路线已在开场建立；她坐下后，屈腿位于这条路线右侧，进入视野并分散注意，但实际球路没有被身体堵死。她收腿下桌的过程中不得碰动任何球。球位从开头直到出杆保持不变，观众能用同一组位置看懂男主始终想打哪一球。 【海妖风与结尾表情】 坐姿呈自然S曲线：身体微侧，肩部下沉，颈部拉长，下巴轻轻侧抬，腰胯略向一侧移。屈腿与垂腿前后错位，大腿线条在人物整体中自然可见；左手撑库边，右手只整理一次发丝。半垂眼冷感直视男主，嘴角仅有很淡的试探笑意。 前半段冷艳、克制、有距离感；后半段按剧情允许出现调皮、无奈的微笑。她被识破后不惊恐、不生气，也不狼狈尖叫，而是嘴角先停半拍，随后侧眼抿笑、小幅摇头，像在用表情说“行吧，你就知道打球”。这句话不实际说出，不加字幕。 暧昧必须通过相互观察表现：她每次调整坐姿后都会瞥一眼杆头，看到杆头停住才露出得意；男主的镜头则反复从她回到红球，留下他其实更在乎球局的线索。前半段的腿部展示、后半段的调皮笑都属于成年人的轻松玩笑，保持自然、从容，不用夸张表情代替剧情。 【球杆连续性】 唯一一支约145厘米的台球杆：浅木色细杆、细小蓝色皮头、深色粗握柄、尾部黑色橡胶保护帽。细头用于击球，橡胶粗端用于一次轻微赶人动作。 调头是端对端转过180度。必须连续看见：细头离开白球并撤回；同一杆身斜向扫过镜头前方；细头转向侧下方，粗握柄和黑色尾帽从另一侧绕出；最终黑色粗端指向#1。握持点可以藏在下缘，杆身不能整根退出后突然换成另一端，也不能只沿长轴自转。 翻杆时杆身经过人物前方，必须与她保持明显的前后距离，不扫到头发、面部或肩膀。橡胶尾帽靠近臀侧后仅短暂接触一次，随即离开；接下来由#1自己撑住库边、收腿、滑下。她的身体运动、衣料变化与接触顺序同步，不能先下桌再补拍顶人的动作。 【严格时间分镜】 → 0—3秒，第一人称俯看球桌。白球、红球、中袋与左右静止的蓝黄两球同时建立，细杆头正在白球后方试瞄。 原本站在对面长库边右侧的#1先看一眼球杆方向，再看向镜头。她主动扶住库边，侧身坐上去，屈起一条腿放到台面边缘，另一条腿垂在桌外。坐下、抬腿和衣料自然形成褶皱的过程连续可见，#2原有剪裁呈现大腿线条。镜头随男主抬头，从球路转向她的完整坐姿。 → 3—5.5秒，保持#1面部、上身和腿部同框的中景。她肩部放松下沉、颈部拉长，身体形成S曲线，指尖整理发丝，半垂眼看着镜头，随后把视线短暂移向球杆，确认男主是否停下。 球杆停止试瞄。镜头略低头看球，又抬回她脸上。#1看见这个反应，嘴角慢慢浮起一丝笃定笑意，屈起的膝盖略向侧面调整，使大腿线条更完整。动作明显带有故意干扰的试探，但不拉扯衣摆。 → 5.5—7秒，球杆再次靠近白球，却仍未击打。男主短促呼气，镜头随他直起身体升高，发出略带火气、不耐烦的成年男声：“让开，让开。” #1没有立刻移动，只轻轻侧头，半垂眼望着他，嘴角还保留着以为自己成功的笑意。 → 7—8.5秒，完整展示调转球杆。浅木色细头先从白球后方撤回，同一杆身斜贯画面前景，细头沿侧下方转走；深色粗柄与黑色橡胶尾帽从另一侧转到正前方，完成端对端半圈翻转。 相机有轻微头部晃动，但始终让杆身的一部分留在画面中。最终画面下方清楚出现朝向#1的黑色橡胶粗端，细头已经朝向男主一侧。 → 8.5—10秒，男主将粗端越过桌面，隔着完整#2服装，在#1靠台面一侧的臀部外侧短促轻顶一下，随即撤开。人物中景同时交代她的脸、姿态、库边和接触动作，不切局部特写。 #1低头看一眼黑色杆尾，嘴角原来的笃定笑意停住半拍。她明白男主完全没有配合自己的试探，主动双手撑库边，把屈起的腿收出台面，顺势向桌外滑下。动作由她自身支撑完成，不被顶飞，也不跌倒。 → 10—11秒，#1双脚落地后向画面右侧让开半步，鞋底落地声清楚。她侧眼看向男主，抿住忍不住扬起的嘴角，轻轻摇一次头，带一点“被你看穿了”的调皮无奈。 她身体重新微侧，颈线拉长，维持冷艳基调；不是慌张、恼怒、委屈或被羞辱的表情。 → 11—12秒，球杆粗端收回，按先前相反的路径端对端调转：黑色尾帽转向下缘，浅木色杆身和蓝色细皮头重新指向白球。镜头随男主低头回到球路，细头停在白球后方，#1已经完全让出观察方向。 → 12—14秒，男主平稳出杆一次，细皮头实际接触白球，发出清楚的“嗒”。白球先滚动，再撞上红球；红球沿直线滚向对面中袋，越过袋沿并落进白色网兜，发出真实的落袋声。 白球碰撞后留在台面，减速停下；蓝球和黄球原地不动。落袋后桌上剩白、蓝、黄三颗球，红球不能再次出现在桌面。 → 14—15秒，镜头从空出的中袋略抬向右侧。#1站在桌旁，目光先扫过落袋位置，再回到男主，半垂眼侧视，嘴角带着克制的调皮笑意，轻轻呼出一口气。 她保持自然S曲线和前后错位的双腿，一副小计策失败却又拿他没办法的模样。男主没有搭话，结尾停在她无奈抿笑的反应上。 【音频】 现场同期声：通风设备、远处模糊人声、坐上库边的衣料摩擦、球杆转动的轻响、鞋底落地、击球、球体碰撞与落袋声。唯一对白来自镜头后方成年男主：“让开，让开。”#1用表情完成反应。无背景音乐、旁白、解释性对白和罐头笑声。 【负面约束】 不得省略主动上桌和故意干扰；不得只拍她已经坐好的状态；不得把大腿裁出画面，也不得使用裙底角度或腿臀慢扫；不得改变#2服装或露出内衣；不得复制人物、肢体、球和球杆；不得出现男主或第二个#1；不得把翻杆省略成杆子退出后换端；不得用细头顶人、反复顶撞、造成受伤或摔落；不得让#1做惊恐、愤怒或委屈反应；不得省略白球撞红球和红球真实落袋；不得白球入袋代替红球，不得目标球凭空消失；不得出现字幕、水印、平台UI、爱心贴纸、慢动作或电影滤镜。
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -380,17 +375,17 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 ## Cine / Fotograma
 
-<a name="prompt-2101541610035064931"></a>
+<a name="prompt-2101801894410920335"></a>
 
 ### Traducción en curso
 
-Autor：[@Zorax\_Ai](https://x.com/Zorax_Ai) · [Publicación original](https://x.com/Zorax_Ai/status/2101541610035064931)
+Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicación original](https://x.com/studiokagurajp/status/2101801894410920335)
 
-Cine / Fotograma · Personaje · Publicado
+Cine / Fotograma · Paisaje urbano / Calle · Publicado
 
 **Resumen:** Traducción en curso
 
-<img src="covers/2101541610035064931.jpg" alt="Imagen 1" width="480" />
+<img src="covers/2101801894410920335.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
@@ -402,22 +397,59 @@ Traducción en curso
 
 ---
 
+<a name="prompt-2101541610035064931"></a>
+
+### Secuencia cinematográfica toma por toma de una chica de secundaria coreana con cabello rosa que realiza una voltereta acrobática mientras lanza y atrapa una bandeja de almuerzo sin derramar nada en una cafetería.
+
+Autor：[@Zorax\_Ai](https://x.com/Zorax_Ai) · [Publicación original](https://x.com/Zorax_Ai/status/2101541610035064931)
+
+Cine / Fotograma · Personaje · Publicado
+
+**Resumen:** Secuencia cinematográfica toma por toma de una chica de secundaria coreana con cabello rosa que realiza una voltereta acrobática mientras lanza y atrapa una bandeja de almuerzo sin derramar nada en una cafetería.
+
+<img src="covers/2101541610035064931.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Drama coreano cinematográfico de escuela secundaria, secuencia de toma continua de 22 segundos, acción real fotorrealista, 24 fps, profundidad de campo de baja a media, iluminación fluorescente natural de cafetería mezclada con la luz del día de las ventanas, gradación de color ligeramente cálida.
+Cafetería concurrida de una escuela secundaria coreana: mesas largas de madera, bancos de metal, piso de baldosas con un brillo tenue, techo blanco reticulado, luces fluorescentes colgantes. Decenas de estudiantes con uniformes de verano de manga corta en azul pastel con corbatas moradas (chicos) y lazos de cinta rosa (chicas) comiendo de bandejas con compartimentos de acero inoxidable.
+Heroína: mujer coreana de poco más de 20 años @[Image 1](image_1) caracterizada como estudiante de último año de secundaria — cabello largo y lacio de color rosa pastel con raya al medio y capas que enmarcan el rostro, maquillaje pálido, labios brillantes, blusa escolar de manga corta rosa pastel, lazo de cinta azul marino, minifalda rosa pastel, calcetines blancos de media caña, zapatillas blancas robustas, pequeña etiqueta con nombre azul en el pecho. Camina por el pasillo central sosteniendo con ambas manos una bandeja de almuerzo de acero inoxidable de 5 compartimentos. Contenido de la bandeja: montículo de arroz blanco, cilindros de tteokbokki rojo picante, una porción de kimchi, namul verde sazonado y un pequeño tazón de metal con sopa de estofado rojo. Una cuchara y palillos descansan sobre la bandeja.
+Toma 1 (0–1 s): Toma de seguimiento en plano medio general. Camina en línea recta hacia la cámara por el pasillo, expresión tranquila, bandeja sostenida horizontal a la altura de la cintura. Los estudiantes de fondo se ríen y comen.
+Toma 2 (1 s): Plano inserto cerrado y bajo de sus pies. Raspa el talón de su zapatilla blanca izquierda contra el piso pulido, luego apoya ambos pies con firmeza.
+Toma 3 (2 s): Primer plano medio de su rostro mientras levanta la vista, ligeramente sorprendida, el cabello balanceándose.
+Tomas 4–6 (3–6 s): Secuencia en cámara lenta de efectos visuales (VFX) con la comida. Lanza la bandeja hacia arriba. La bandeja y los utensilios quedan suspendidos en el aire. Los trozos de tteokbokki, el kimchi y el namul se elevan de los compartimentos y flotan en una ordenada línea horizontal sobre la bandeja, como si la gravedad se hubiera detenido. Corte a plano cenital: la comida vuelve a asentarse a la perfección en cada compartimento; el tazón de sopa se mantiene derecho, nada se derrama.
+Toma 7 (7 s): Plano general. Se lanza a una rápida voltereta hacia atrás / rueda lateral en el piso de la cafetería, la falda se voltea, una zapatilla patea en alto. Los estudiantes de las mesas cercanas se quedan inmóviles y miran fijamente.
+Toma 8 (8 s): Aterriza girando, el cabello ondeando, y atrapa en el aire la bandeja que cae y los utensilios en un solo movimiento fluido sin que caiga comida.
+Tomas 9–11 (9–11 s): Primeros planos de las manos atrapando los palillos y la cuchara, luego una toma heroica y estética de la bandeja completa extendida hacia la cámara — arroz, tteokbokki, kimchi, namul y estofado, todos perfectamente ordenados.
+Toma 12 (12 s): Corte a una mesa de chicos. Un apuesto chico de cabello oscuro con camisa blanca y corbata azul marino se gira con la boca abierta del asombro; sus amigos a su alrededor miran boquiabiertos.
+Tomas 13–14 (13–14 s): Primer plano estético y cerrado del rostro de la heroína, mirando fijamente a la cámara, para luego esbozar una sonrisa diminuta y cómplice.
+Tomas 15–20 (15–20 s): Pasa caminando junto a la mesa del chico impresionado, con la bandeja en la mano izquierda, mirándolo de reojo hacia abajo. Suave línea de diálogo en coreano, subtitulada: “Let’s eat and see.” Él mira hacia abajo, avergonzado. Ella continúa caminando.
+Toma 21 (21 s): Toma de seguimiento trasera mientras se aleja por el pasillo, cabello largo y falda azul marino, el murmullo de la cafetería reanudándose a sus espaldas.
+Notas de estilo: cinematografía de K-drama de alta gama (al estilo de un romance adolescente brillante / fantasía escolar), set práctico de cafetería, cámara lenta sutil únicamente en los momentos de la comida flotante y la acrobacia, efectos visuales nítidos para que la comida nunca se manche ni parezca caricaturesca, sin logotipos, sin texto en pantalla excepto el subtítulo opcional en coreano para la única línea de diálogo.
+Negativo: derrames desordenados, bandeja rota, cafetería occidental, ropa de oficina de adultos, caras de anime exageradas, metraje tembloroso de teléfono, marcas de agua.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2101752882890407941"></a>
 
-### Traducción en curso
+### Un solitario abrigo carmesí sube las escaleras mientras un mar de capuchas grises contiene la respiración, luego los paraguas se abren en una ola.
 
 Autor：[@aaassa120](https://x.com/aaassa120) · [Publicación original](https://x.com/aaassa120/status/2101752882890407941)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un solitario abrigo carmesí sube las escaleras mientras un mar de capuchas grises contiene la respiración, luego los paraguas se abren en una ola.
 
 <img src="covers/2101752882890407941.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un solitario abrigo carmesí sube las escaleras mientras un mar de capuchas grises contiene la respiración, luego los paraguas se abren en una ola 🌂\n\nLa cámara sigue alejándose hasta que ella es solo un hilo rojo en una catedral de concreto.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1733,20 +1765,20 @@ ESCENA: Interior frente a un shoji cerrado, 16:9. Plano fijo. La cuadrícula de 
 
 <a name="prompt-2100088243492385019"></a>
 
-### Traducción en curso
+### Persecución nocturna cinematográfica bajo una intensa lluvia en las calles de la ciudad que incluye suspenso y forcejeo.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2100088243492385019)
 
 Cine / Fotograma · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Persecución nocturna cinematográfica bajo una intensa lluvia en las calles de la ciudad que incluye suspenso y forcejeo.
 
 <img src="covers/2100088243492385019.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinemático y ultrarrealista de acción real de 30 segundos ambientado en una calle de la ciudad lluviosa por la noche, con calles mojadas que reflejan las farolas y las luces de los autos que pasan. Muestra a una persona caminando sola por la acera bajo una intensa lluvia, llevando un bolso de hombro y vistiendo una chaqueta impermeable oscura. Captura la atmósfera con una iluminación cinematográfica melancólica, gotas de lluvia realistas, reflejos, neblina y sombras nocturnas naturales. Introduce gradualmente a otra persona que se acerca por detrás, creando una sensación de tensión e incertidumbre. Muestra al personaje principal reaccionando repentinamente y forcejeando con la persona que se acerca cerca de las fachadas de las tiendas. Continúa con ambos personajes corriendo bajo la lluvia hacia un auto estacionado mientras la cámara los sigue con un movimiento dinámico de cámara en mano. Utiliza movimientos humanos realistas, física corporal natural, ropa mojada detallada y un ambiente urbano auténtico. Termina con el personaje principal parado en la calle lluviosa mientras los faros iluminan la escena, dejando un momento final dramático y cinematográfico.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1843,20 +1875,47 @@ Traducción en curso
 
 <a name="prompt-2100013701659283924"></a>
 
-### Traducción en curso
+### Prompt para un corto de persecución de anime de 30 segundos al estilo de Makoto Shinkai, que incluye personajes, escenarios, efectos de sonido y una línea de tiempo toma por toma.
 
 Autor：[@fps\_lusu](https://x.com/fps_lusu) · [Publicación original](https://x.com/fps_lusu/status/2100013701659283924)
 
 Cómic / Guion gráfico · Cine / Fotograma · Anime / Manga · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un corto de persecución de anime de 30 segundos al estilo de Makoto Shinkai, que incluye personajes, escenarios, efectos de sonido y una línea de tiempo toma por toma.
 
 <img src="covers/2100013701659283924.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Configuración básica
+​Duración: Corto de 30 segundos
+​Relación de aspecto: 16:9 (Formato horizontal panorámico)
+​Género: Secuencia cinematográfica de persecución anime hiperrealista, estilo Makoto Shinkai.
+​Escenario: Un bosque mágico aterrador y con hiperdetalle. Lodo húmedo fotorrealista, musgo, árboles antiguos e imponentes, niebla densa y reptante.
+​Estilo y aspectos visuales
+​Calidad: Anime cinematográfico de obra maestra, texturas ambientales fotorrealistas combinadas a la perfección con sombreado de anime premium.
+​Iluminación: Contraste dramático. Bosque oscuro iluminado por flora tóxica pulsante cian/morada, iluminación de borde nítida en los personajes, en transición hacia una luz solar cálida y brillante.
+​Cámara y encuadre: Seguimiento horizontal expansivo, composición anamórfica amplia, primer plano macro repentino en bullet-time, paneo panorámico hacia atrás envolvente.
+​Consistencia: Mantener estrictamente una consistencia visual absoluta para Nako y Toto en todo momento.
+​Audio y ASMR
+​BGM: Música orquestal de persecución de ritmo rápido, se ralentiza abruptamente durante el bullet-time, transicionando a una melodía acústica pacífica a los 22 s.
+​SFX: Chasquidos semejantes a látigos, correr sobre lodo, un "shing" nítido en cámara lenta, desvaneciéndose en una brisa suave y el susurro de la hierba.
+​ASMR: Jadeo visceral y pesado de Nako y Toto, suavizándose en suspiros de alivio. SIN voces, SIN diálogo.
+​Personajes y enemigos
+​Personaje 1 (Nako): Cabello castaño corto, chaqueta de exploradora verde, pantalones cortos, botas, mochila. Sudorosa, expresión desesperada.
+​Personaje 2 (Toto): Perro Shih Tzu esponjoso blanco y tostado. Carrera frenética, orejas ondeando, jadeando descontroladamente.
+​Las Espinas (Enemigo): Enredaderas gigantes de color verde oscuro conscientes con espinas afiladas como navajas que brillan en cian/morado, atacando con una velocidad aterradora como látigos.
+​Línea de tiempo y acción
+​0–10 s (Persecución amplia a alta velocidad): Carrera frenética inmediata a lo largo del encuadre amplio. Nako y Toto corren a velocidad extrema. Enredaderas brillantes golpean el suelo violentamente detrás de sus talones, salpicando lodo y escombros hacia la lente.
+​10–15 s (Esquiva acrobática en bullet-time): Cámara lenta extrema repentina. Una espina brillante y afilada como navaja se lanza hacia el rostro de Nako. Ella realiza un arqueamiento acrobático hacia atrás deslizándose a lo largo del encuadre amplio; la punta brillante roza milímetros por encima de sus ojos, cortando un mechón de cabello. Toto se desliza con fluidez por debajo de ella.
+​15–22 s (El avance): Volviendo a la alta velocidad, irrumpen a través de la línea de árboles hacia un vasto claro cubierto de hierba iluminado por el sol bajo un cielo brillante. Las enredaderas retroceden instantáneamente hacia las sombras.
+​22–30 s (Alivio y alejamiento panorámico): Nako se desploma con brazos y piernas abiertos sobre la hierba, sonriendo cálidamente a Toto. Toto se sienta a su lado, jadeando felizmente con la cola meneándose. La cámara retrocede suavemente hacia arriba en una impresionante y silenciosa toma panorámica amplia del prado soleado y el borde distante del bosque.
+​Prompt negativo / Restricciones
+​SIN texto, SIN título, SIN interfaz de usuario, SIN logotipos.
+​SIN metamorfosis de personajes, SIN cambios de atuendo, SIN cambios de raza.
+​SIN diálogo, SIN voces humanas.
+​SIN ritmo lento (excepto bullet-time de 10–15 s), SIN temblor de cámara, SIN anatomía distorsionada.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1865,20 +1924,20 @@ Traducción en curso
 
 <a name="prompt-2100043484849926230"></a>
 
-### Traducción en curso
+### Vlog de viajes de 15 segundos con estilo cinematográfico vintage: una joven asiática con una cámara retro recorre la ciudad, una cafetería y un parque al atardecer.
 
 Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicación original](https://x.com/Aiwithmaha/status/2100043484849926230)
 
 Fotografía · Cine / Fotograma · Retro / Vintage · Personaje · Comida y bebida · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Vlog de viajes de 15 segundos con estilo cinematográfico vintage: una joven asiática con una cámara retro recorre la ciudad, una cafetería y un parque al atardecer.
 
 <img src="covers/2100043484849926230.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vlog de viajes cinematográfico fotorrealista de 15 segundos con una estética de cámara digital vintage, protagonizado por una joven asiática que explora una hermosa ciudad y tranquilos lugares al aire libre. Lleva una pequeña cámara retro y fotografía con naturalidad flores, calles, cafeterías y momentos cotidianos mientras pasea. Muestra primeros planos de sus manos sosteniendo y usando la cámara, incluidos botones realistas, detalles de la lente y movimientos naturales de la cámara. Incluye una encantadora escena en una cafetería donde está sentada a una mesa, disfruta de una bebida fría y luce naturalmente relajada y feliz. Haz una transición a una cálida escena en un parque durante la hora dorada, donde camina entre los árboles llevando su cámara, con la luz del sol creando hermosos destellos en el lente y una suave retroiluminación. Termina con ella girándose hacia la cámara y sonriendo con naturalidad mientras sostiene la cámara, creando una auténtica sensación de recuerdo de viaje espontáneo. Utiliza cinematografía estilo documental cámara en mano, un sutil titubeo de autoenfoque, cambios naturales de exposición, textura de piel realista, suave profundidad de campo, grano de película sutil, colores cálidos y movimientos imperfectos de la vida real. Mantén el rostro, el peinado, el atuendo, las proporciones corporales y la cámara del personaje consistentes en cada toma, con transiciones cinematográficas fluidas y sin una apariencia artificial o excesivamente pulida de IA.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1887,20 +1946,20 @@ Traducción en curso
 
 <a name="prompt-2099404551199809774"></a>
 
-### Traducción en curso
+### Video cinematográfico de un tierno cachorro de oso explorando y conduciendo un auto clásico azul en una granja campestre.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2099404551199809774)
 
 Cine / Fotograma · Retro / Vintage · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video cinematográfico de un tierno cachorro de oso explorando y conduciendo un auto clásico azul en una granja campestre.
 
 <img src="covers/2099404551199809774.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video con un estilo narrativo cinematográfico y ultrarrealista: un tierno cachorro de oso pardo camina por una tranquila granja campestre hacia un viejo auto azul clásico estacionado cerca de un rústico granero de madera. El oso se acerca con curiosidad al auto, se sube a él y se sienta de forma natural en el asiento del conductor con sus patas sobre el volante. La cámara captura detalles en primer plano del pelaje realista del oso, sus ojos expresivos, sus pequeñas patas y el interior envejecido del auto clásico. Luego, el auto comienza a avanzar lentamente por un camino rural húmedo, creando reflejos sutiles y un movimiento natural. Tomas panorámicas cinematográficas revelan campos verdes, fardos de heno, una pequeña casa de campo y la cálida luz dorada del atardecer en el fondo. Utiliza movimientos de cámara fluidos, profundidad de campo realista, destellos de lente suaves, sombras naturales, texturas detalladas e iluminación ambiental auténtica. La atmósfera general debe sentirse encantadora, aventurera, cinematográfica y ligeramente juguetona, con movimientos realistas del animal y una interacción creíble con el auto, filmada como una película de vida silvestre de gran presupuesto.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2050,72 +2109,6 @@ Jack le da una pitada al cigarrillo, la brasa brilla con más intensidad cuando 
 
 ---
 
-<a name="prompt-2099089929439531390"></a>
-
-### Traducción en curso
-
-Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicación original](https://x.com/MeenakshiYACS/status/2099089929439531390)
-
-Cine / Fotograma · Personaje · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="covers/2099089929439531390.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2098797781792047191"></a>
-
-### Traducción en curso
-
-Autor：[@MadMax\_Series](https://x.com/MadMax_Series) · [Publicación original](https://x.com/MadMax_Series/status/2098797781792047191)
-
-Cine / Fotograma · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="covers/2098797781792047191.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2098803826405089450"></a>
-
-### Traducción en curso
-
-Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicación original](https://x.com/MeenakshiYACS/status/2098803826405089450)
-
-Cine / Fotograma · Vehículo · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="covers/2098803826405089450.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
 <a name="prompt-2098777905010778507"></a>
 
 ### Traducción en curso
@@ -2127,50 +2120,6 @@ Cine / Fotograma · Cyberpunk / Ciencia ficción · Publicado
 **Resumen:** Traducción en curso
 
 <img src="covers/2098777905010778507.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2098791384392282330"></a>
-
-### Traducción en curso
-
-Autor：[@abulu8](https://x.com/abulu8) · [Publicación original](https://x.com/abulu8/status/2098791384392282330)
-
-Cine / Fotograma · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="covers/2098791384392282330.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2098748314548134381"></a>
-
-### Traducción en curso
-
-Autor：[@johnAGI168](https://x.com/johnAGI168) · [Publicación original](https://x.com/johnAGI168/status/2098748314548134381)
-
-Cómic / Guion gráfico · Fotografía · Cine / Fotograma · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="covers/2098748314548134381.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
@@ -3539,34 +3488,20 @@ Un curtido y viejo farero está de pie sobre un acantilado brumoso de noche, vis
 
 <a name="prompt-2097225058439840092"></a>
 
-### A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
+### Un detallado prompt para un video vertical de 30 segundos que describe una transformación basada en una línea de tiempo desde un blockout de arcilla gris en Blender 3D hasta una ciudad desértica futurista fotorrealista alrededor de un observatorio central.
 
 Autor：[@Itswsm105f](https://x.com/Itswsm105f) · [Publicación original](https://x.com/Itswsm105f/status/2097225058439840092)
 
 Fotografía · Cine / Fotograma · Renderizado 3D · Cyberpunk / Ciencia ficción · Publicado
 
-**Resumen:** A detailed 30-second vertical video prompt detailing a timeline-based transformation from a gray Blender 3D clay blockout into a photorealistic futuristic desert city around a central observatory.
+**Resumen:** Un detallado prompt para un video vertical de 30 segundos que describe una transformación basada en una línea de tiempo desde un blockout de arcilla gris en Blender 3D hasta una ciudad desértica futurista fotorrealista alrededor de un observatorio central.
 
 <img src="covers/2097225058439840092.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 30-second vertical 9:16 cinematic comparison video demonstrating how a simple Blender 3D blockout can be transformed into a highly detailed cinematic AI-generated scene.
-CONCEPT: A futuristic desert city built around a massive ancient-looking circular observatory.
-0–5 seconds — Blender Blockout:
-Show a basic gray Blender clay render from an elevated cinematic camera angle. The scene contains simple geometric buildings, large cylindrical towers, rectangular platforms, a huge circular observatory structure in the center, basic roads and small placeholder vehicles. Everything is untextured gray clay with simple lighting, clearly looking like a 3D Blender blockout.
-5–10 seconds — Camera Push-In:
-Slowly move the camera toward the central observatory while maintaining the exact composition and geometry. Subtle Blender viewport/clay-render feeling. No textures, no realistic materials.
-10–15 seconds — Transformation:
-Begin a smooth visual transition from the gray Blender blockout into the finished cinematic environment. Geometry remains structurally consistent while realistic materials, textures, lighting, atmosphere and environmental details gradually appear.
-15–25 seconds — Final AI Cinematic Scene:
-Reveal a spectacular futuristic desert metropolis at golden hour. Massive sandstone-and-metal towers rise from golden dunes, connected by elevated bridges. The central circular observatory has intricate futuristic architecture, glowing windows and mechanical details. Small flying vehicles move naturally between buildings. Dust particles float through warm sunlight. Long shadows, volumetric lighting, realistic reflections, detailed surfaces, atmospheric depth and subtle heat haze. Make the environment feel enormous, believable and cinematic.
-25–30 seconds — Final Reveal:
-Pull the camera backward and upward to reveal the full city surrounded by endless desert dunes. The final frame should create a strong visual contrast between the simple Blender concept and the stunning finished AI-generated world.
-STYLE: photorealistic cinematic sci-fi, AAA game environment quality, realistic materials, natural atmospheric perspective, volumetric sunlight, detailed architecture, physically realistic lighting, subtle camera movement, premium VFX, highly detailed environment.
-IMPORTANT: The final scene must be completely original and must NOT reproduce the reference video's architecture, composition, Japanese temples, floating islands, army formations, or cloud setting. Preserve only the general Blender blockout → AI cinematic transformation concept.
-NO: cartoon style, anime, distorted buildings, random geometry changes, excessive camera shake, text artifacts, duplicated vehicles, warped architecture, unrealistic physics.
+Crea un video cinematográfico comparativo vertical de 30 segundos en formato 9:16 que demuestre cómo un blockout básico de Blender 3D puede transformarse en una escena cinematográfica generada por IA altamente detallada.\nCONCEPTO: Una ciudad desértica futurista construida alrededor de un enorme observatorio circular de aspecto antiguo.\n0–5 segundos — Blockout de Blender:\nMuestra un render básico de arcilla gris (clay render) de Blender desde un ángulo de cámara cinematográfico elevado. La escena contiene edificios geométricos simples, grandes torres cilíndricas, plataformas rectangulares, una enorme estructura de observatorio circular en el centro, caminos básicos y pequeños vehículos provisionales de referencia (placeholders). Todo es arcilla gris sin texturas con iluminación simple, luciendo claramente como un blockout 3D de Blender.\n5–10 segundos — Acercamiento de cámara (Push-In):\nMueve lentamente la cámara hacia el observatorio central manteniendo la composición y geometría exactas. Sensación sutil de viewport/render en arcilla de Blender. Sin texturas, sin materiales realistas.\n10–15 segundos — Transformación:\nInicia una transición visual fluida desde el blockout gris de Blender hacia el entorno cinematográfico terminado. La geometría se mantiene estructuralmente coherente mientras van apareciendo progresivamente materiales realistas, texturas, iluminación, atmósfera y detalles ambientales.\n15–25 segundos — Escena cinematográfica final generada por IA:\nRevela una espectacular metrópolis desértica futurista durante la hora dorada. Enormes torres de arenisca y metal se alzan sobre dunas doradas, conectadas por puentes elevados. El observatorio circular central cuenta con una arquitectura futurista intrincada, ventanas iluminadas y detalles mecánicos. Pequeños vehículos voladores se desplazan de manera natural entre los edificios. Partículas de polvo flotan a través de la cálida luz solar. Sombras largas, iluminación volumétrica, reflejos realistas, superficies detalladas, profundidad atmosférica y una sutil bruma de calor. Haz que el entorno se sienta enorme, creíble y cinematográfico.\n25–30 segundos — Revelación final:\nMueve la cámara hacia atrás y hacia arriba para revelar la ciudad completa rodeada de interminables dunas del desierto. El fotograma final debe crear un fuerte contraste visual entre el concepto simple de Blender y el impresionante mundo final generado por IA.\nESTILO: ciencia ficción cinematográfica fotorrealista, calidad de entorno de videojuego AAA, materiales realistas, perspectiva atmosférica natural, luz solar volumétrica, arquitectura detallada, iluminación físicamente realista, movimiento sutil de cámara, efectos visuales (VFX) de alta gama, entorno altamente detallado.\nIMPORTANTE: La escena final debe ser completamente original y NO debe reproducir la arquitectura, composición, templos japoneses, islas flotantes, formaciones de ejércitos ni el entorno nublado del video de referencia. Conserva únicamente el concepto general de transformación de blockout de Blender a cinematografía con IA.\nNO: estilo caricatura, anime, edificios distorsionados, cambios aleatorios de geometría, sacudidas excesivas de cámara, artefactos de texto, vehículos duplicados, arquitectura deformada, física poco realista.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3835,20 +3770,42 @@ Traducción en curso
 
 <a name="prompt-2101493389115953586"></a>
 
-### Traducción en curso
+### Tierno video animado en 3D de un esponjoso hámster dorado con auriculares y un lazo rosa, entrando a una habitación y sosteniendo una rosa roja.
 
 Autor：[@Zarnab\_with\_Ai](https://x.com/Zarnab_with_Ai) · [Publicación original](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
 
 Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Tierno video animado en 3D de un esponjoso hámster dorado con auriculares y un lazo rosa, entrando a una habitación y sosteniendo una rosa roja.
 
 <img src="covers/2101493389115953586.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un tierno, reconfortante y ultrarrealista video vertical animado en 3D de un diminuto y esponjoso hámster dorado y blanco en el acogedor interior de una casa cálidamente iluminada.
+
+El hámster tiene un pelaje afelpado extremadamente suave, enormes ojos negros y brillantes, mejillas sonrosadas, una pequeña nariz rosada y una adorable expresión de inocencia. Lleva unos auriculares extragrandes de color rosa pálido, un gran lazo rosa con lunares en la cabeza y un delicado collar de cinta rosa con una pequeña placa identificativa colgando.
+
+Escena 1: El hámster se asoma lentamente desde detrás de una puerta blanca, mirando tímidamente hacia la cámara. Da un paso cuidadoso hacia un suelo de madera cálida y pulida mientras mantiene el contacto visual con el espectador.
+
+Escena 2: El hámster camina hacia la cámara con diminutos y adorables pasitos y se detiene en el centro de la habitación. Sus orejas y su lazo se mueven de forma natural con cada paso. El fondo presenta una acogedora estantería de madera, una cálida lámpara de mesa, suaves paredes beige y una hermosa iluminación ambiental dorada.
+
+Escena 3: El hámster mira directamente a la cámara con una expresión dulce e inocente. Tras un breve instante, se agacha suavemente y recoge una única y hermosa rosa roja con sus diminutas patitas.
+
+Escena 4: Sosteniendo la rosa roja frente a su cuerpo, el hámster sonríe cálidamente a la cámara. Sus mejillas se vuelven ligeramente más sonrosadas, y luce tímido y cariñoso.
+
+Toma final: El hámster cierra los ojos con una gran y adorable sonrisa mientras sostiene la rosa roja contra su pecho. El momento se siente sano, romántico, tierno y reconfortante.
+
+Cámara: vertical 9:16, ángulo de cámara bajo al nivel de los ojos, movimiento de cámara suave y lento, acercamiento suave (push-in) hacia el hámster, profundidad de campo reducida, encuadre cinematográfico.
+
+Iluminación: iluminación interior dorada y cálida, sombras naturales suaves, ambiente acogedor de atardecer/noche, reflejos sutiles en el pelaje del hámster.
+
+Estilo: animación de personajes en 3D tierna y ultrarrealista, pelaje esponjoso sumamente detallado, expresiones faciales realistas, renderizado cinematográfico suave, reflejos en el suelo de madera pulida, movimiento realista de objetos, narrativa emocional adorable, calidad de película animada prémium.
+
+Movimiento: movimientos naturales de patitas diminutas, movimientos sutiles de la cabeza, parpadeo realista, respiración suave, movimiento delicado de orejas y lazo, animación fluida al caminar, interacción creíble con la rosa.
+
+Sin texto, sin subtítulos, sin marcas de agua, sin personajes adicionales, sin anatomía distorsionada, sin objetos duplicados.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4086,7 +4043,7 @@ Traducción en curso
 
 <a name="prompt-2100233948341367178"></a>
 
-### Traducción en curso
+### Cortometraje de artes marciales y efectos visuales de una guerrera xianxia que se teletransporta y patea a una bestia, con final en siluetas rojas y negras.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2100233948341367178)
 
@@ -4094,14 +4051,17 @@ Tinta / Estilo chino · Publicado
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2100087420771610707)
 
-**Resumen:** Traducción en curso
+**Resumen:** Cortometraje de artes marciales y efectos visuales de una guerrera xianxia que se teletransporta y patea a una bestia, con final en siluetas rojas y negras.
 
 <img src="covers/2100233948341367178.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Estilo Xianxia tradicional chino, cortometraje puramente de efectos especiales CG, 16:9, edición multicámara, iluminación cinematográfica, materiales PBR de última generación, HDR cinematográfico.
+Un mismo personaje femenino de Xianxia de estilo clásico en tonos negro, azul, blanco y dorado, con vestuario, peinado y maquillaje completamente consistentes en todo momento: huadian rojo en la frente, cabello largo recogido en alto, túnica de combate de mangas anchas en blanco con bordados azul y oro, fajín metálico a la cintura y finos accesorios para el cabello con borlas.
+En un espacio energético negro y azul, la protagonista se teletransporta a gran velocidad desde partículas azul dorado a la izquierda, toma lateral, corriendo a máxima velocidad hacia la bestia a la derecha, con su cabello largo y la túnica dejando una estela dinámica de movimiento. Luego, una toma lateral en contrapicado muestra a la protagonista girando la cadera y doblando la rodilla para conectar una patada lateral con una perspectiva extrema; el faldón de combate se levanta dejando ver los muslos y las piernas, que junto a los pies están envueltos en energía fluida azul y dorada. Enseguida se corta al impacto: la patada golpea de lleno la cabeza de la criatura, desatando al mismo tiempo una nube de sangre, destellos fragmentados y partículas de explosión azul dorado; tras un breve cuadro en blanco y negro, entra en cámara lenta mientras la bestia sale disparada por la enorme fuerza en la dirección del golpe. Al final, la escena cambia a un fondo rojo de alta saturación con siluetas negras de los personajes; la heroína sostiene su pose desafiante mientras la bestia vuela hacia atrás a la derecha y se estrella contra el suelo, estallando una nube de humo negro, cerrando con un impacto visual muy potente en rojo y negro.
+Las acciones son limpias, feroces y explosivas, con un ritmo de cámara ágil; la primera mitad destaca por sus intensos efectos azul y oro, terminando en una escena de contraste rojo y negro sobria y contundente.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4199,22 +4159,128 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2101689290992542125"></a>
+<a name="prompt-2101690647313043576"></a>
 
 ### Traducción en curso
+
+Autor：[@john\_my07](https://x.com/john_my07) · [Publicación original](https://x.com/john_my07/status/2101690647313043576)
+
+Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101690647313043576.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101792588252790800"></a>
+
+### Traducción en curso
+
+Autor：[@SloppenhAImer](https://x.com/SloppenhAImer) · [Publicación original](https://x.com/SloppenhAImer/status/2101792588252790800)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101792588252790800.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101827048402534496"></a>
+
+### Traducción en curso
+
+Autor：[@john87445528](https://x.com/john87445528) · [Publicación original](https://x.com/john87445528/status/2101827048402534496)
+
+Cómic / Guion gráfico · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101827048402534496.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101689290992542125"></a>
+
+### Una joven en el ascensor de un edificio de apartamentos coreano se transforma en una criatura antinatural y persigue a su aterrorizado vecino.
 
 Autor：[@AIwithkhan](https://x.com/AIwithkhan) · [Publicación original](https://x.com/AIwithkhan/status/2101689290992542125)
 
 Personaje · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una joven en el ascensor de un edificio de apartamentos coreano se transforma en una criatura antinatural y persigue a su aterrorizado vecino.
 
 <img src="covers/2101689290992542125.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una joven coreana que viste un top corto azul ajustado y pantalones cortos blancos entra sola al ascensor de un antiguo edificio de apartamentos; un vecino cansado permanece en silencio a su lado.
+
+Las puertas del ascensor se cierran; las luces fluorescentes parpadean mientras la mujer mira fijamente al suelo, completamente inmóvil.
+
+El indicador de piso falla repentinamente; ella levanta lentamente la cabeza y mira hacia el vecino con una inquietante expresión vacía.
+
+Sus dedos comienzan a crisparse violentamente; sus hombros se sacuden como si algo se moviera debajo de su piel.
+
+De repente se agarra del pasamanos del ascensor, se inclina hacia adelante de forma antinatural y luego se desploma contra la pared.
+
+El vecino retrocede con miedo y presiona desesperadamente el botón de emergencia.
+
+Ella se queda completamente inmóvil por un momento, luego se levanta lentamente con los ojos muy abiertos y desenfocados, la piel pálida y una postura antinatural.
+
+Su cabeza se inclina bruscamente hacia un lado; sus manos tiemblan mientras su respiración se vuelve pesada e irregular.
+
+El vecino intenta forzar las puertas del ascensor para abrirlas, pero permanecen atascadas entre pisos.
+
+La mujer de repente se lanza hacia adelante y se estrella contra la pared del ascensor, luego se gira hacia el vecino con una expresión aterradora.
+
+Las luces de emergencia cambian a rojo mientras el ascensor se sacude y se detiene por completo.
+
+El vecino se arrastra desesperadamente hacia el panel de control mientras ella se acerca lentamente por detrás.
+
+El ascensor de repente cae unos centímetros; ambos tropiezan mientras las luces parpadean violentamente.
+
+Las puertas finalmente se abren hasta la mitad, revelando un oscuro pasillo del edificio afuera.
+
+El vecino se escurre a través de la abertura, pero la mujer de repente corre hacia adelante y se arrastra por debajo de las puertas que se están cerrando.
+
+El vecino corre por el pasillo mientras la criatura lo sigue con movimientos rápidos y antinaturales.
+
+Un residente abre la puerta de su apartamento, ve que la criatura se acerca e inmediatamente cierra la puerta de golpe.
+
+La criatura se detiene, se gira lentamente hacia la cámara y luego carga repentinamente por el pasillo.
+
+Las luces del pasillo parpadean una a una mientras la cámara retrocede hacia el hueco de la escalera.
+
+Las puertas del ascensor permanecen abiertas detrás de ella, completamente vacío, mientras un débil sonido distorsionado de respiración proviene de su interior.
+
+STYLE: Ultra-realistic Korean apartment elevator horror, claustrophobic handheld camera, flickering fluorescent and emergency lighting, realistic skin and facial expressions, unnatural but physically believable body movement, tense pacing, realistic elevator reflections, subtle camera shake, natural motion blur, cinematic but grounded, practical-effects horror, no gore, no blood, no explicit injuries, no subtitles, no watermark, no CGI look.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4383,20 +4449,20 @@ Crea una animación infográfica de moda limpia y prémium de 8 segundos basada 
 
 <a name="prompt-2101462342265389125"></a>
 
-### Traducción en curso
+### Una espeluznante novia fantasma mecánica que baila en un templo oscuro, manipulada con hilos por un titiritero desde las alturas.
 
 Autor：[@IronEntrepreneu](https://x.com/IronEntrepreneu) · [Publicación original](https://x.com/IronEntrepreneu/status/2101462342265389125)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una espeluznante novia fantasma mecánica que baila en un templo oscuro, manipulada con hilos por un titiritero desde las alturas.
 
 <img src="covers/2101462342265389125.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La danza de una espeluznante novia fantasma mecánica dentro de un templo ritual en ruinas, controlada desde las alturas por un frío titiritero. Renderizado con articulación mecánica de stop-motion hiperprecisa, humo volumétrico y física de seda.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -5017,7 +5083,7 @@ Traducción en curso
 
 <a name="prompt-2100022778674254091"></a>
 
-### Traducción en curso
+### Prompt de video realista que describe la secuencia fluida y natural de una mujer \(Sakura\) cortándose el cabello en la peluquería.
 
 Autor：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicación original](https://x.com/akiyoshisan/status/2100022778674254091)
 
@@ -5025,14 +5091,22 @@ Personaje · Publicado
 
 Publicación original：[@akiyoshisan](https://x.com/akiyoshisan) · [Publicación original](https://x.com/akiyoshisan/status/2099652823827054686)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video realista que describe la secuencia fluida y natural de una mujer \(Sakura\) cortándose el cabello en la peluquería.
 
 <img src="covers/2100022778674254091.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sakura, episodio de la peluquería.
+Una peluquería japonesa natural y cotidiana. Desde el inicio ya está en pleno corte de cabello. Primera mitad: a través del espejo→comprobación rápida en modo selfie→corte visto desde el lateral→lavado de cabello→secado→ajuste final de las puntas y los lados. El cabello se acorta progresivamente en una sola dirección en todas las tomas, quedando en un estilo bob corto entre debajo de la barbilla y el cuello, sin tocar los hombros. Ni después del lavado ni tras el secado vuelve a recuperar longitud.
+
+Segunda mitad: revisión del resultado final→quitar la capa de corte→revisión general en el espejo→tomar las pertenencias y la bolsa→pago→salida del local. En cuanto sale a la calle, el viento despeina ligeramente el flequillo. Al final, se mira una sola vez en el celular, se acomoda el cabello suavemente con los dedos y empieza a caminar.
+
+Actuación sutil y natural. Sin sonrisas exageradas ni poses de modelo.
+Cámara: a través del espejo, observación a media distancia, lateral, diagonal trasera, cámara en mano natural. Prohibidas las tomas excesivamente perfectas de estilo video musical o comercial publicitario.
+Sin diálogos／sin conversación／sin voces humanas／sin lipsync／sin subtítulos／sin música de fondo (BGM). Solo el sonido ambiente cotidiano de la peluquería y el viento del exterior.
+Continuidad estricta en rostro, complexión, vestimenta, peinado, celular, bolsa, peluquero y estructura del salón. Prohibidos errores en el espejo, deformaciones en los dedos o que el cabello vuelva a alargarse.
 ```
 
 [↑ Volver a categorías](#catalog)

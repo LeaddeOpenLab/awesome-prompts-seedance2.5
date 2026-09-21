@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:25:29.152Z",
+  "model": "seedance2.5",
+  "prompt": "World's fattest Jockey races a rhino",
+  "promptTranslations": {
+    "en": "World's fattest Jockey races a rhino"
+  },
+  "summaryTranslations": {
+    "en": "An animated scene of the world's fattest jockey riding a rhino in a race."
+  },
+  "translationVersion": 2,
+  "summary": "世界上最胖的骑师骑犀牛参加竞速比赛的动画场景。",
+  "summaryEn": "Animated scene of the world's fattest jockey racing a rhino.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101792588252790800",
+    "canonicalUrl": "https://x.com/SloppenhAImer/status/2101792588252790800",
+    "author": {
+      "username": "SloppenhAImer",
+      "displayName": "SloppenhAImer",
+      "profileUrl": "https://x.com/SloppenhAImer"
+    },
+    "publishedAt": "2026-09-20T21:56:17.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "en",
+    "originalText": "&gt;World's fattest Jockey races a rhino\n\nMidjourney, Seedance 2.5 https://t.co/K1j01n1rzO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SloppenhAImer/status/2101792588252790800",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101791924839727104/img/-4rCL2XvYEiZARnt.jpg",
+        "analysisUrl": "https://x.com/SloppenhAImer/status/2101792588252790800"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SloppenhAImer/status/2101792588252790800",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101791924839727104/img/-4rCL2XvYEiZARnt.jpg",
+  "coverPath": "covers/2101792588252790800.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101791924839727104",
+    "x-post:2101792588252790800"
+  ],
+  "analysis": {
+    "summary": "世界上最胖的骑师骑犀牛参加竞速比赛的动画场景。",
+    "summaryEn": "Animated scene of the world's fattest jockey racing a rhino.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video portrays an obese jockey riding a rhino against other animals in a racetrack."
+    },
+    "videoQuality": null,
+    "originalPrompt": "World's fattest Jockey races a rhino",
+    "sourceRange": {
+      "start": 4,
+      "end": 40
+    },
+    "translations": {
+      "zh": "世界上最胖的骑师骑着犀牛比赛",
+      "en": "World's fattest Jockey races a rhino"
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

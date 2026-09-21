@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:24:27.117Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: A narrow wooden street at night, 16:9. Locked camera, chest-height. Paper lanterns under eaves recede in depth. Wet packed earth, not asphalt. An adult, thirties, in a dark kimono and a deep kasa, starts at the right edge. Face hidden by the brim. No second person. No shrine gate. No readable shop signs.\n\nACTION: The figure walks left through the frame in one continuous pass and exits. The walk has weight. The kasa brim never lifts. Camera does not pan. No second figure. No look-back.\n\nFOCUS: Tack-sharp on the walking figure's shoulders and the nearest lantern paper. Far eaves are one stop soft.\n\nPHYSICS: The body has weight. Feet meet the wet ground. The person does not glide or hover. Cloth lags a little, then catches up.\n\nLIGHT: Warm lanterns only. Cool darkness between them. No modern streetlight. No beauty key on the face — the face is not seen.\n\nSTYLE: Photoreal cinematic, period Japan, wet wood and oil-paper lanterns, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Weighted footsteps on wet packed earth. Soft cloth. Night air between lanterns. The sound leaves with the figure.",
+  "promptTranslations": {
+    "en": "SCENE: A narrow wooden street at night, 16:9. Locked camera, chest-height. Paper lanterns under eaves recede in depth. Wet packed earth, not asphalt. An adult, thirties, in a dark kimono and a deep kasa, starts at the right edge. Face hidden by the brim. No second person. No shrine gate. No readable shop signs.\n\nACTION: The figure walks left through the frame in one continuous pass and exits. The walk has weight. The kasa brim never lifts. Camera does not pan. No second figure. No look-back.\n\nFOCUS: Tack-sharp on the walking figure's shoulders and the nearest lantern paper. Far eaves are one stop soft.\n\nPHYSICS: The body has weight. Feet meet the wet ground. The person does not glide or hover. Cloth lags a little, then catches up.\n\nLIGHT: Warm lanterns only. Cool darkness between them. No modern streetlight. No beauty key on the face — the face is not seen.\n\nSTYLE: Photoreal cinematic, period Japan, wet wood and oil-paper lanterns, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Weighted footsteps on wet packed earth. Soft cloth. Night air between lanterns. The sound leaves with the figure."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic shot of a figure in dark kimono and kasa walking along a narrow wet wooden street lined with paper lanterns at night."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic shot of a figure in dark kimono and kasa walking along a narrow wet wooden street lined with paper lanterns at night.",
+  "summaryEn": "Cinematic shot of a figure in dark kimono and kasa walking along a narrow wet wooden street lined with paper lanterns at night.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101801894410920335",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2101801894410920335",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-20T22:33:15.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "ja",
+    "originalText": "Sept 24 is the Sora API cutoff. I already had a street I could keep.\n9/24にSora APIが止まる。残せる夜道は、もう手元にあった。\n\nI wrote a walk with weight. The brim never lifts. I kept the pass that exits.\n歩きに重さを書いた。笠は上がらない。画面を抜けたテイクを残した。\n\nPROMPT (worked, as-is):\n\nSCENE: A narrow wooden street at night, 16:9. Locked camera, chest-height. Paper lanterns under eaves recede in depth. Wet packed earth, not asphalt. An adult, thirties, in a dark kimono and a deep kasa, starts at the right edge. Face hidden by the brim. No second person. No shrine gate. No readable shop signs.\n\nACTION: The figure walks left through the frame in one continuous pass and exits. The walk has weight. The kasa brim never lifts. Camera does not pan. No second figure. No look-back.\n\nFOCUS: Tack-sharp on the walking figure's shoulders and the nearest lantern paper. Far eaves are one stop soft.\n\nPHYSICS: The body has weight. Feet meet the wet ground. The person does not glide or hover. Cloth lags a little, then catches up.\n\nLIGHT: Warm lanterns only. Cool darkness between them. No modern streetlight. No beauty key on the face — the face is not seen.\n\nSTYLE: Photoreal cinematic, period Japan, wet wood and oil-paper lanterns, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Weighted footsteps on wet packed earth. Soft cloth. Night air between lanterns. The sound leaves with the figure.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 15s / Sound On / no Start frame\n効いているのはこの1行 → PHYSICS の \"does not glide or hover.\" 歩かせるなら、滑らせない。\n\nTry it and show me — I read every reply.\n試したらリプで見せてください。全部見ます",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2101801894410920335",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101801802853494784/pu/img/vYZaLvdrJdwmZ2aa.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2101801894410920335"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2101801894410920335",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2101801802853494784/pu/img/vYZaLvdrJdwmZ2aa.jpg",
+  "coverPath": "covers/2101801894410920335.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101801802853494784",
+    "x-post:2101801894410920335"
+  ],
+  "analysis": {
+    "summary": "Cinematic shot of a figure in dark kimono and kasa walking along a narrow wet wooden street lined with paper lanterns at night.",
+    "summaryEn": "Cinematic shot of a figure in dark kimono and kasa walking along a narrow wet wooden street lined with paper lanterns at night.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video exactly reflects the prompt: locked perspective, a narrow dark alley lined with lit lanterns, wet ground, and a person in dark clothing and a broad kasa walking past and out of the frame."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: A narrow wooden street at night, 16:9. Locked camera, chest-height. Paper lanterns under eaves recede in depth. Wet packed earth, not asphalt. An adult, thirties, in a dark kimono and a deep kasa, starts at the right edge. Face hidden by the brim. No second person. No shrine gate. No readable shop signs.\n\nACTION: The figure walks left through the frame in one continuous pass and exits. The walk has weight. The kasa brim never lifts. Camera does not pan. No second figure. No look-back.\n\nFOCUS: Tack-sharp on the walking figure's shoulders and the nearest lantern paper. Far eaves are one stop soft.\n\nPHYSICS: The body has weight. Feet meet the wet ground. The person does not glide or hover. Cloth lags a little, then catches up.\n\nLIGHT: Warm lanterns only. Cool darkness between them. No modern streetlight. No beauty key on the face — the face is not seen.\n\nSTYLE: Photoreal cinematic, period Japan, wet wood and oil-paper lanterns, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Weighted footsteps on wet packed earth. Soft cloth. Night air between lanterns. The sound leaves with the figure.",
+    "sourceRange": {
+      "start": 242,
+      "end": 1440
+    },
+    "translations": {
+      "zh": "场景：夜晚狭窄的木质街道，16:9。固定机位，胸部高度。屋檐下的纸灯笼向纵深延伸。潮湿结实的泥土路，非沥青路面。一名三十多岁的成年人，身穿深色和服，头戴深斗笠，从画面右边缘起始。面部被帽檐遮掩。无第二人。无鸟居神社门。无清晰可辨的商铺招牌。\n\n动作：人影以一次连续的行进自右向左穿过画面并出画。步伐带有沉重感。笠檐始终不抬起。镜头不摇移。无第二个人物。不回头。\n\n对焦：行走人物的肩部及最近的灯笼纸面焦点极为锐利。远端屋檐虚化一档。\n\n物理：身体具有重量感。脚掌踩踏潮湿地面。人物不滑动或悬浮。衣料略有滞后，随即跟上。\n\n光照：仅有温暖的灯笼光源。其间为清冷的阴暗。无现代路灯。面部无修容主光——不露出面部。\n\n风格：真实写实电影质感，日本时代剧，湿润木料与油纸灯笼，微弱颗粒。无动漫风。无文字。无水印。无标志。\n\n音频：仅原生物理音效。无音乐。无配乐。无歌声。无语音。无旁白。潮湿泥地上的沉重脚步声。柔和的布料摩擦声。灯笼间的夜间空气感。声音随人物离去而隐没。",
+      "en": "SCENE: A narrow wooden street at night, 16:9. Locked camera, chest-height. Paper lanterns under eaves recede in depth. Wet packed earth, not asphalt. An adult, thirties, in a dark kimono and a deep kasa, starts at the right edge. Face hidden by the brim. No second person. No shrine gate. No readable shop signs.\n\nACTION: The figure walks left through the frame in one continuous pass and exits. The walk has weight. The kasa brim never lifts. Camera does not pan. No second figure. No look-back.\n\nFOCUS: Tack-sharp on the walking figure's shoulders and the nearest lantern paper. Far eaves are one stop soft.\n\nPHYSICS: The body has weight. Feet meet the wet ground. The person does not glide or hover. Cloth lags a little, then catches up.\n\nLIGHT: Warm lanterns only. Cool darkness between them. No modern streetlight. No beauty key on the face — the face is not seen.\n\nSTYLE: Photoreal cinematic, period Japan, wet wood and oil-paper lanterns, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. Weighted footsteps on wet packed earth. Soft cloth. Night air between lanterns. The sound leaves with the figure."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
