@@ -478,20 +478,20 @@ Traducción en curso
 
 <a name="prompt-2101907970972119058"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica de desastre por tsunami que muestra inundaciones masivas, un buque de carga arrastrado entre rascacielos de la ciudad y una destrucción generalizada.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicación original](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica de desastre por tsunami que muestra inundaciones masivas, un buque de carga arrastrado entre rascacielos de la ciudad y una destrucción generalizada.
 
 <img src="covers/2101907970972119058.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Se crea una secuencia cinematográfica de desastre en video que muestra un tsunami colosal aproximándose a una ciudad moderna bajo un cielo oscuro y tormentoso. El video comienza con una vista aérea amplia de la enorme ola elevándose imponente detrás del horizonte urbano, seguida por intensas inundaciones a nivel de la calle y poderosas corrientes de agua arrasando la ciudad. Un gigantesco buque de carga es arrastrado de forma dramática tierra adentro entre rascacielos, creando una atmósfera apocalíptica y surrealista. Autos, calles, edificios y estructuras de la ciudad se ven sobrepasados por olas violentas, escombros, neblina e inundaciones. La cámara emplea tomas panorámicas cinematográficas, perspectivas de ángulo bajo, movimientos de seguimiento y primeros planos dramáticos para resaltar la magnitud de la destrucción. Una iluminación melancólica en tonos gris azulado, nubes densas, físicas de agua realistas, niebla atmosférica y efectos ambientales detallados recrean la estética fotorrealista de una película de desastres de Hollywood. La secuencia mantiene una sólida continuidad visual y un movimiento realista de principio a fin, concluyendo con la ciudad casi totalmente sepultada por el agua y la bruma.
 ```
 
 [↑ Volver a categorías](#catalog)

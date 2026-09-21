@@ -464,20 +464,20 @@ Sinematik / Film Karesi · Retro / Vintage · Karakter · Yayımlandı
 
 <a name="prompt-2101907970972119058"></a>
 
-### Çeviri sürüyor
+### Büyük su baskınlarını, şehirdeki gökdelenlerin arasına sürüklenen bir kargo gemisini ve geniş çaplı yıkımı gösteren sinematik tsunami felaketi sekansı.
 
 Yazar：[@aiwithaayat](https://x.com/aiwithaayat) · [Orijinal gönderi](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Büyük su baskınlarını, şehirdeki gökdelenlerin arasına sürüklenen bir kargo gemisini ve geniş çaplı yıkımı gösteren sinematik tsunami felaketi sekansı.
 
 <img src="covers/2101907970972119058.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Karanlık ve fırtınalı bir gökyüzü altında modern bir şehre yaklaşan devasa bir tsunamiyi gösteren sinematik bir felaket video sekansı oluşturuldu. Video, şehir siluetinin arkasında yükselen dev dalganın geniş bir havadan çekimiyle açılıyor; ardından sokak seviyesinde şiddetli su baskınları ve şehrin içinden hızla akan güçlü su kütleleri geliyor. Gökyüzünü delen gökdelenlerin arasında dramatik bir şekilde karaya sürüklenen dev bir kargo gemisi, gerçeküstü ve kıyamet benzeri bir atmosfer yaratıyor. Arabalar, sokaklar, binalar ve şehir yapıları azgın dalgalar, enkazlar, su sisi ve taşkınlar altında eziliyor. Kamera, yıkımın boyutunu vurgulamak için sinematik geniş açılı çekimler, alt açı perspektifleri, takip hareketleri ve dramatik yakın çekimler kullanıyor. Kasvetli gri-mavi aydınlatma, ağır bulutlar, gerçekçi su fiziği, atmosferik sis ve ayrıntılı çevresel efektler, fotogerçekçi bir Hollywood felaket filmi görünümü yaratıyor. Sekans, baştan sona güçlü bir görsel sürekliliği ve gerçekçi hareketi koruyarak şehrin neredeyse tamamen sular ve sis tarafından yutulmasıyla sona eriyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

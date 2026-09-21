@@ -478,20 +478,20 @@ Kinematisch / Filmstill · Retro / Vintage · Charakter · Veröffentlicht
 
 <a name="prompt-2101907970972119058"></a>
 
-### Übersetzung läuft
+### Filmische Tsunami-Katastrophensequenz, die massive Überschwemmungen, ein zwischen Wolkenkratzern mitgerissenes Frachtschiff und weit verbreitete Zerstörung zeigt.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Originalbeitrag](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Tsunami-Katastrophensequenz, die massive Überschwemmungen, ein zwischen Wolkenkratzern mitgerissenes Frachtschiff und weit verbreitete Zerstörung zeigt.
 
 <img src="covers/2101907970972119058.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstellt wurde eine filmische Katastrophenvideosequenz, die einen gewaltigen Tsunami zeigt, der sich unter einem dunklen, stürmischen Himmel einer modernen Stadt nähert. Das Video beginnt mit einer weiten Luftaufnahme der riesigen Welle, die sich hinter der Skyline auftürmt, gefolgt von heftigen Überschwemmungen auf Straßenniveau und tosenden Wassermassen, die durch die Stadt rauschen. Ein riesiges Frachtschiff wird dramatisch landeinwärts zwischen Wolkenkratzer getragen, wodurch eine surreale, apokalyptische Atmosphäre entsteht. Autos, Straßen, Gebäude und städtische Strukturen werden von gewaltigen Wellen, Trümmern, Gischt und Fluten überwältigt. Die Kamera nutzt filmische Weitwinkelaufnahmen, Untersichten, Verfolgungsfahrten und dramatische Nahaufnahmen, um das Ausmaß der Zerstörung zu betonen. Düstere grau-blaue Beleuchtung, schwere Wolken, realistische Wasserphysik, atmosphärischer Nebel und detaillierte Umwelteffekte erzeugen den fotorealistischen Look eines Hollywood-Katastrophenfilms. Die Sequenz bewahrt durchgehend eine starke visuelle Kontinuität sowie realistische Bewegungen und endet mit einer Stadt, die fast vollständig von Wasser und Dunst verschlungen ist.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

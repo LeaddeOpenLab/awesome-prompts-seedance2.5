@@ -472,20 +472,20 @@ Tác giả：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Bài gốc](h
 
 <a name="prompt-2101907970972119058"></a>
 
-### Đang dịch
+### Chuỗi cảnh thảm họa sóng thần đậm chất điện ảnh thể hiện ngập lụt quy mô lớn, một tàu chở hàng bị cuốn giữa các tòa nhà chọc trời của thành phố và sự tàn phá diện rộng.
 
 Tác giả：[@aiwithaayat](https://x.com/aiwithaayat) · [Bài gốc](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi cảnh thảm họa sóng thần đậm chất điện ảnh thể hiện ngập lụt quy mô lớn, một tàu chở hàng bị cuốn giữa các tòa nhà chọc trời của thành phố và sự tàn phá diện rộng.
 
 <img src="covers/2101907970972119058.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một chuỗi video thảm họa đậm chất điện ảnh thể hiện một cơn sóng thần khổng lồ đang tiến vào một thành phố hiện đại dưới bầu trời tối tăm, bão tố. Video mở đầu bằng góc nhìn toàn cảnh từ trên cao cho thấy con sóng khổng lồ sừng sững phía sau đường chân trời, tiếp theo là cảnh ngập lụt dữ dội ở cấp độ đường phố và dòng nước cuồn cuộn đổ qua thành phố. Một con tàu chở hàng khổng lồ bị cuốn vào đất liền giữa các tòa nhà chọc trời một cách ngoạn mục, tạo nên bầu không khí tận thế đầy siêu thực. Ô tô, đường phố, tòa nhà và các công trình đô thị bị nhấn chìm bởi những con sóng dữ dội, mảnh vụn, sương mù và nước lũ. Máy quay sử dụng các góc quay rộng điện ảnh, góc nhìn từ dưới lên, chuyển động bám theo đối tượng và cận cảnh kịch tính để nhấn mạnh quy mô hủy diệt. Ánh sáng xanh xám u ám, mây đen dày đặc, cơ học chất lỏng chân thực, sương mù khí quyển và hiệu ứng môi trường chi tiết tạo nên diện mạo phim thảm họa Hollywood chân thực như ảnh chụp. Chuỗi cảnh duy trì tính liên tục thị giác mạnh mẽ và chuyển động chân thực xuyên suốt, kết thúc với cảnh thành phố gần như bị nước và sương mù nuốt chửng hoàn toàn.
 ```
 
 [↑ Về danh mục](#catalog)

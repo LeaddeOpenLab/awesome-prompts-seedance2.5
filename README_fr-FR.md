@@ -478,20 +478,20 @@ Traduction en cours
 
 <a name="prompt-2101907970972119058"></a>
 
-### Traduction en cours
+### Séquence cinématographique de catastrophe de tsunami montrant des inondations massives, un porte-conteneurs emporté entre les gratte-ciel de la ville et une destruction généralisée.
 
 Auteur：[@aiwithaayat](https://x.com/aiwithaayat) · [Publication originale](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence cinématographique de catastrophe de tsunami montrant des inondations massives, un porte-conteneurs emporté entre les gratte-ciel de la ville et une destruction généralisée.
 
 <img src="covers/2101907970972119058.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Création d'une séquence vidéo cinématographique de catastrophe montrant un tsunami massif s'approchant d'une ville moderne sous un ciel sombre et orageux. La vidéo s'ouvre sur une large vue aérienne de l'énorme vague surplombant la ligne d'horizon, suivie par d'intenses inondations au niveau des rues et de puissants flots d'eau se précipitant à travers la ville. Un immense porte-conteneurs est spectaculairement transporté à l'intérieur des terres entre les gratte-ciel, créant une atmosphère apocalyptique surréaliste. Voitures, rues, immeubles et structures urbaines sont submergés par des vagues violentes, des débris, de la brume et les inondations. La caméra utilise des plans larges cinématographiques, des contre-plongées, des travellings et des gros plans spectaculaires pour souligner l'ampleur de la destruction. Un éclairage maussade gris-bleu, des nuages menaçants, une physique de l'eau réaliste, un brouillard atmosphérique et des effets environnementaux détaillés créent le rendu photoréaliste d'un film de catastrophe hollywoodien. La séquence conserve une forte continuité visuelle et des mouvements réalistes d'un bout à l'autre, se terminant par une ville presque entièrement engloutie par l'eau et la brume.
 ```
 
 [↑ Retour aux catégories](#catalog)

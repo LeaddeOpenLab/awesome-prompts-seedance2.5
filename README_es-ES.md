@@ -470,20 +470,20 @@ Traducción en curso
 
 <a name="prompt-2101907970972119058"></a>
 
-### Traducción en curso
+### Secuencia cinematográfica de desastre por tsunami que muestra inundaciones masivas, un barco de carga arrastrado entre rascacielos de la ciudad y una destrucción generalizada.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicación original](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia cinematográfica de desastre por tsunami que muestra inundaciones masivas, un barco de carga arrastrado entre rascacielos de la ciudad y una destrucción generalizada.
 
 <img src="covers/2101907970972119058.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia cinematográfica de desastre en video que muestre un tsunami masivo acercándose a una ciudad moderna bajo un cielo oscuro y tormentoso. El video comienza con una amplia vista aérea de la enorme ola elevándose detrás del horizonte urbano, seguida de intensas inundaciones a nivel de calle y aguas poderosas que arrasan la ciudad. Un enorme barco de carga es arrastrado dramáticamente hacia el interior entre rascacielos, creando una atmósfera apocalíptica surrealista. Autos, calles, edificios y estructuras de la ciudad quedan abrumados por olas violentas, escombros, niebla e inundaciones. La cámara utiliza tomas amplias cinematográficas, perspectivas de ángulo bajo, movimientos de seguimiento y primeros planos dramáticos para enfatizar la escala de la destrucción. Una iluminación melancólica en tonos gris azulado, nubes densas, física realista del agua, niebla atmosférica y efectos ambientales detallados crean un aspecto fotorrealista de película de desastres de Hollywood. La secuencia mantiene una fuerte continuidad visual y movimiento realista en todo momento, terminando con la ciudad casi completamente sumergida por el agua y la niebla.
 ```
 
 [↑ Volver a categorías](#catalog)

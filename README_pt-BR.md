@@ -464,20 +464,20 @@ Tradução em andamento
 
 <a name="prompt-2101907970972119058"></a>
 
-### Tradução em andamento
+### Sequência cinematográfica de desastre por tsunami mostrando inundações massivas, um navio cargueiro arrastado entre arranha-céus da cidade e destruição generalizada.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicação original](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência cinematográfica de desastre por tsunami mostrando inundações massivas, um navio cargueiro arrastado entre arranha-céus da cidade e destruição generalizada.
 
 <img src="covers/2101907970972119058.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Criou-se uma sequência em vídeo cinematográfica de desastre mostrando um tsunami colossal se aproximando de uma cidade moderna sob um céu escuro e tempestuoso. O vídeo abre com uma ampla vista aérea da onda gigantesca erguendo-se sobre o horizonte urbano, seguida por intensos alagamentos no nível da rua e torrentes poderosas de água avançando pela cidade. Um navio cargueiro descomunal é arrastado dramaticamente para o interior entre arranha-céus, criando uma atmosfera apocalíptica surreal. Carros, ruas, prédios e estruturas urbanas são engolidos por ondas violentas, escombros, névoa e inundações. A câmera utiliza tomadas abertas cinematográficas, ângulos baixos, movimentos de rastreamento e closes dramáticos para enfatizar a escala da destruição. Uma iluminação sombria em tons de cinza-azulado, nuvens pesadas, física da água realista, névoa atmosférica e efeitos ambientais detalhados produzem o visual fotorrealista de um filme de desastre de Hollywood. A sequência mantém uma forte continuidade visual e movimentos realistas o tempo todo, terminando com a cidade quase completamente submersa por água e bruma.
 ```
 
 [↑ Voltar às categorias](#catalog)

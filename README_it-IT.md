@@ -478,20 +478,20 @@ Traduzione in corso
 
 <a name="prompt-2101907970972119058"></a>
 
-### Traduzione in corso
+### Sequenza cinematografica di un disastro causato da uno tsunami, con inondazioni massicce, una nave mercantile trascinata tra i grattacieli della città e distruzione diffusa.
 
 Autore：[@aiwithaayat](https://x.com/aiwithaayat) · [Post originale](https://x.com/aiwithaayat/status/2101907970972119058)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza cinematografica di un disastro causato da uno tsunami, con inondazioni massicce, una nave mercantile trascinata tra i grattacieli della città e distruzione diffusa.
 
 <img src="covers/2101907970972119058.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Creata una sequenza video cinematografica catastrofica che mostra un imponente tsunami avvicinarsi a una città moderna sotto un cielo scuro e tempestoso. Il video si apre con un'ampia veduta aerea dell'enorme onda che sovrasta lo skyline, seguita da violente inondazioni a livello della strada e potenti flussi d'acqua che attraversano la città a tutta forza. Un'enorme nave mercantile viene trascinata drammaticamente verso l'interno tra i grattacieli, creando un'atmosfera apocalittica e surreale. Automobili, strade, edifici e strutture urbane vengono travolti da onde violente, detriti, foschia e inondazioni. La cinepresa utilizza ampi campi lunghi cinematografici, prospettive dal basso, movimenti di tracking e drammatici primi piani per enfatizzare la scala della distruzione. Un'illuminazione cupa grigio-blu, nubi pesanti, una fisica dell'acqua realistica, nebbia atmosferica ed effetti ambientali dettagliati creano il look fotorealistico di un film catastrofico hollywoodiano. La sequenza mantiene una solida continuità visiva e un movimento realistico per tutta la durata, terminando con la città quasi del tutto inghiottita dall'acqua e dalla bruma.
 ```
 
 [↑ Torna alle categorie](#catalog)
