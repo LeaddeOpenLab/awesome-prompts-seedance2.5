@@ -414,20 +414,20 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 <a name="prompt-2102276993094176768"></a>
 
-### Çeviri sürüyor
+### Sinematik, gerçekçi, komik bir sabah rutini videosu: Yatağımda huzur içinde uyurken fütüristik bir robot yanıma yuvarlanarak geliyor, ekranında net bir şekilde “6 AM” yazıyor ve yüksek sesle bir alarm çalıyor. Yarı uykulu ve sinirli bir halde, eğlenceli bir slapstick anında robota sert bir yumruk atıyorum.
 
 Yazar：[@shushant\_l](https://x.com/shushant_l) · [Orijinal gönderi](https://x.com/shushant_l/status/2102276993094176768)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sinematik, gerçekçi, komik bir sabah rutini videosu: Yatağımda huzur içinde uyurken fütüristik bir robot yanıma yuvarlanarak geliyor, ekranında net bir şekilde “6 AM” yazıyor ve yüksek sesle bir alarm çalıyor. Yarı uykulu ve sinirli bir halde, eğlenceli bir slapstick anında robota sert bir yumruk atıyorum.
 
 <img src="covers/2102276993094176768.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sinematik, gerçekçi, komik bir sabah rutini videosu: Yatağımda huzur içinde uyurken fütüristik bir robot yanıma yuvarlanarak geliyor, ekranında net bir şekilde “6 AM” yazıyor ve yüksek sesle bir alarm çalıyor. Yarı uykulu ve sinirli bir halde, eğlenceli bir slapstick anında robota sert bir yumruk atıyorum. Zarar görmeyen robot anında bir uzaktan kumanda çıkarıyor ve yatağımı çılgınca dans eden, sallanan bir kanepeye dönüştürerek beni tamamen sarsıp uyandırıyor. Ardından her bir dişi temizleyerek dişlerimi hızlı ve kusursuz bir şekilde fırçalıyor, hemen ardından taze, sıcak bir kahve hazırlayıp bana uzatıyor ve ben de onu içiyorum. Hızlı tempolu görsel komedi, etkileyici tepkiler, akıcı dönüşümler, gerçekçi fizik, sinematik kamera hareketleri. Diyalog, konuşma, seslendirme veya sözlü iletişim yok. Yalnızca ses efektleri ve neşeli arka plan müziği. Görselim buraya eklenmiştir ve @img1 'dir. Onu eksiksiz ve mükemmel bir şekilde kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4890,20 +4890,40 @@ SES: Yalnızca doğal ortam sesi: kuşlar, esinti, yapraklar, uzaktaki motosikle
 
 <a name="prompt-2102278921161208273"></a>
 
-### Çeviri sürüyor
+### Bir salgından çatıya kaçan bir öğretmen ve öğrencilerin Japon lisesi korku sekansı.
 
 Yazar：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Orijinal gönderi](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir salgından çatıya kaçan bir öğretmen ve öğrencilerin Japon lisesi korku sekansı.
 
 <img src="covers/2102278921161208273.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sıradan bir öğleden sonra dersinde kadın bir öğretmeni takip eden ultra gerçekçi bir Japon lisesi korku-aksiyon sekansı oluşturun. Sınıf sakinken ışıklar aniden yanıp söner ve her öğrencinin telefonuna tam olarak aynı anda aynı acil durum uyarısı gelir. Öğretmen dışarı bakar ve okul bahçesinin tamamen boş olduğunu fark eder.
+
+Yandaki fen laboratuvarından yüksek bir gürültü gelir. Öğretmen herkese içeride kalmasını söyler ve sınıf kapısını dikkatlice açar. Koridor boş görünmektedir ancak dökülen kimyasal bir sıvının izi merdivenlere doğru gitmektedir. Aniden, sınıfın arkasında sessizce oturan bir öğrenci yere yığılır ve garip davranmaya başlar, bu da okulun içinde bir şeylerin çoktan yaşandığını ortaya çıkarır.
+
+Acil durum alarmı çalmaya başlar. Birkaç enfekte öğrenci aniden merdivenlerden sınıfa doğru koşar. Öğrenciler sandalyeler ve dolaplarla girişi kapatmak için birlikte çalışırken, öğretmen sıraları hızla kapı aralığına doğru iter. Bir öğrenci acil çıkış tabelasını fark eder ve grubu ikinci bir koridora doğru yönlendirir.
+
+Arkalarından yaklaşan ayak seslerini duyarken karanlık okul koridorunda ilerlerler. Öğretmen koridorun ışıklarını kapatır ve enfekte olanlar dışarıdan geçerken herkes boş bir sınıfta sessizce saklanır.
+
+Sonunda çatıya ulaşırlar ve yardım bulma umuduyla kapıyı iterek açarlar. Bunun yerine, aşağıdaki okul bahçesinde hareketsiz duran düzinelerce enfekte figür görürler.
+
+Öğretmen çatı kapısını yavaşça kapatır ve öğrencilerine doğru döner.
+
+Sonra arkalarından kısık bir ses fısıldar:
+
+“Sensei... birisi zaten burada.”
+
+Yavaşça arkasını döner.
+
+Karartma.
+
+Fotogerçekçi canlı çekim Japon korku-gerilimi, gerçekçi Japon lisesi ortamı, otantik öğrenci üniformaları, doğal yüz ifadeleri, pratik efektli korku, gerçekçi fizik, elde taşınan sinematik kamera, dinamik takip çekimleri, dramatik yakın çekimler, gerçekçi aydınlatma, acil durum ışıkları, atmosferik toz, doğal karakter hareketleri, otantik tepkiler, tırmanan gerilim, yalnızca diejetik ses, müzik yok, anlatım yok, gerilim odaklı korku, aşırı kan yok, grafik yaralanmalar yok, animasyon yok, anime yok, çizgi film yok, yapay CGI görünümü yok, bozuk anatomi yok, altyazı yok, rastgele metin yok, filigran yok
 ```
 
 [↑ Kategorilere dön](#catalog)

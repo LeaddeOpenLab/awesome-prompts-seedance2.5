@@ -430,20 +430,20 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 <a name="prompt-2102276993094176768"></a>
 
-### Đang dịch
+### Video thói quen buổi sáng đậm chất điện ảnh, chân thực và hài hước: Tôi đang ngủ say giấc trên giường thì một chú robot tương lai lăn đến bên cạnh, màn hình của nó hiển thị rõ ràng “6 AM” và phát chuông báo thức inh ỏi. Nửa tỉnh nửa mơ và bực bội, tôi đấm mạnh vào con robot trong một khoảnh khắc tấu hài đậm chất slapstick.
 
 Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.com/shushant_l/status/2102276993094176768)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video thói quen buổi sáng đậm chất điện ảnh, chân thực và hài hước: Tôi đang ngủ say giấc trên giường thì một chú robot tương lai lăn đến bên cạnh, màn hình của nó hiển thị rõ ràng “6 AM” và phát chuông báo thức inh ỏi. Nửa tỉnh nửa mơ và bực bội, tôi đấm mạnh vào con robot trong một khoảnh khắc tấu hài đậm chất slapstick.
 
 <img src="covers/2102276993094176768.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Video thói quen buổi sáng đậm chất điện ảnh, chân thực và hài hước: Tôi đang ngủ say giấc trên giường thì một chú robot tương lai lăn đến bên cạnh, màn hình của nó hiển thị rõ ràng “6 AM” và phát chuông báo thức inh ỏi. Nửa tỉnh nửa mơ và bực bội, tôi đấm mạnh vào con robot trong một khoảnh khắc tấu hài đậm chất slapstick. Chú robot chẳng hề hấn gì lập tức rút ra một chiếc điều khiển từ xa và biến chiếc giường của tôi thành một chiếc sofa rung lắc, nhảy múa điên cuồng, khiến tôi tỉnh ngủ hẳn. Sau đó, nó nhanh chóng và chải răng hoàn hảo cho tôi, làm sạch từng chiếc răng, trước khi lập tức pha chế và đưa cho tôi một ly cà phê nóng hổi mà tôi uống ngay. Hài hước thị giác nhịp độ nhanh, phản ứng biểu cảm phong phú, chuyển đổi mượt mà, vật lý chân thực, chuyển động máy quay đậm chất điện ảnh. Không có lời thoại, hội thoại, lồng tiếng hay giao tiếp bằng lời nói. Chỉ có hiệu ứng âm thanh và nhạc nền vui tươi. Hình ảnh của tôi được đính kèm ở đây và đó là @img1 . Hãy sử dụng nó một cách trọn vẹn và hoàn hảo.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4971,20 +4971,40 @@ Con dê tinh nghịch húc nhẹ vào cánh tay cô. Cô cười, nhẹ nhàng �
 
 <a name="prompt-2102278921161208273"></a>
 
-### Đang dịch
+### Phân cảnh kinh dị trường trung học Nhật Bản về một giáo viên và học sinh chạy trốn đợt bùng phát lên sân thượng.
 
 Tác giả：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Bài gốc](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phân cảnh kinh dị trường trung học Nhật Bản về một giáo viên và học sinh chạy trốn đợt bùng phát lên sân thượng.
 
 <img src="covers/2102278921161208273.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phân cảnh hành động kinh dị cực kỳ chân thực tại trường trung học Nhật Bản, theo chân một nữ giáo viên trong một tiết học buổi chiều bình thường. Lớp học đang yên tĩnh thì ánh đèn bỗng chớp tắt và điện thoại của mọi học sinh đều nhận được cùng một cảnh báo khẩn cấp vào đúng một thời điểm. Cô giáo nhìn ra ngoài và nhận thấy sân trường hoàn toàn vắng tanh.
+
+Một tiếng va chạm lớn vang lên từ phòng thí nghiệm khoa học bên cạnh. Cô giáo bảo mọi người ở yên bên trong rồi thận trọng mở cửa lớp học. Hành lang có vẻ trống rỗng, nhưng một vệt chất lỏng hóa học bị đổ lại dẫn về phía cầu thang. Đột nhiên, một học sinh vốn đang ngồi im lặng ở cuối lớp bỗng gục xuống và bắt đầu có những hành vi kỳ lạ, cho thấy điều gì đó đã xảy ra bên trong trường học.
+
+Chuông báo động khẩn cấp bắt đầu reo. Vài học sinh bị nhiễm bệnh bất ngờ lao từ cầu thang về phía lớp học. Cô giáo nhanh chóng đẩy các dãy bàn chắn ngang cửa trong khi học sinh cùng nhau dùng ghế và tủ để chặn lối vào. Một học sinh nhìn thấy biển báo lối thoát hiểm và dẫn cả nhóm về phía một hành lang thứ hai.
+
+Họ di chuyển qua hành lang trường học tối tăm trong khi nghe thấy tiếng bước chân đang tiến lại gần từ phía sau. Cô giáo tắt đèn hành lang, và mọi người im lặng trốn vào bên trong một lớp học trống khi những kẻ nhiễm bệnh đi ngang qua bên ngoài.
+
+Cuối cùng họ cũng lên được sân thượng và đẩy cửa ra, hy vọng tìm thấy sự trợ giúp. Thay vào đó, họ nhìn thấy hàng chục bóng người nhiễm bệnh đang đứng bất động khắp sân trường bên dưới.
+
+Cô giáo từ từ đóng cửa sân thượng lại và quay về phía các học sinh của mình.
+
+Rồi một giọng nói khẽ thì thầm từ phía sau họ:
+
+“Sensei... đã có ai đó ở đây rồi.”
+
+Cô từ từ quay người lại.
+
+Cắt sang màn hình đen.
+
+Phim kinh dị giật gân live-action Nhật Bản chân thực như ảnh chụp, bối cảnh trường trung học Nhật Bản chân thực, đồng phục học sinh chuẩn xác, biểu cảm khuôn mặt tự nhiên, kinh dị hiệu ứng thực tế (practical effects), vật lý thực tế, máy quay cầm tay phong cách điện ảnh, cú máy bám theo chủ thể sống động, cận cảnh kịch tính, ánh sáng chân thực, đèn khẩn cấp, bụi trong bầu không khí, chuyển động nhân vật tự nhiên, phản ứng chân thật, căng thẳng leo thang, chỉ có âm thanh trong cảnh (diegetic sound), không có nhạc nền, không có lời thuyết minh, kinh dị tập trung vào sự hồi hộp căng thẳng, không có máu me quá mức, không có vết thương ghê rợn, không hoạt hình, không anime, không hoạt họa, không tạo hình CGI giả tạo, không biến dạng giải phẫu, không phụ đề, không chữ ngẫu nhiên, không watermark
 ```
 
 [↑ Về danh mục](#catalog)

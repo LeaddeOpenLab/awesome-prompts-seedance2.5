@@ -428,20 +428,20 @@ Bande dessinée / Storyboard · Photographie · Personnage · Publié
 
 <a name="prompt-2102276993094176768"></a>
 
-### Traduction en cours
+### Vidéo cinématographique, réaliste et drôle d'une routine matinale : Je dors paisiblement dans mon lit lorsqu'un robot futuriste s'approche en roulant à côté de moi, son écran affichant clairement « 6 AM », et déclenche une alarme tonitruante. À moitié endormi et agacé, je frappe fort le robot dans un moment de comédie burlesque.
 
 Auteur：[@shushant\_l](https://x.com/shushant_l) · [Publication originale](https://x.com/shushant_l/status/2102276993094176768)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo cinématographique, réaliste et drôle d'une routine matinale : Je dors paisiblement dans mon lit lorsqu'un robot futuriste s'approche en roulant à côté de moi, son écran affichant clairement « 6 AM », et déclenche une alarme tonitruante. À moitié endormi et agacé, je frappe fort le robot dans un moment de comédie burlesque.
 
 <img src="covers/2102276993094176768.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vidéo cinématographique, réaliste et drôle d'une routine matinale : Je dors paisiblement dans mon lit lorsqu'un robot futuriste s'approche en roulant à côté de moi, son écran affichant clairement « 6 AM », et déclenche une alarme tonitruante. À moitié endormi et agacé, je frappe fort le robot dans un moment de comédie burlesque. Le robot indemne sort instantanément une télécommande et transforme mon lit en un canapé qui danse et tremble frénétiquement, me réveillant en sursaut. Il me brosse ensuite rapidement et parfaitement les dents, nettoyant chaque dent, avant de préparer et de me tendre instantanément un café chaud tout frais, que je bois. Comédie visuelle au rythme effréné, réactions expressives, transformations fluides, physique réaliste, mouvements de caméra cinématographiques. Aucun dialogue, aucune conversation, voix off ou communication parlée. Uniquement des effets sonores et une musique de fond entraînante. Mon image est jointe ici et c'est @img1 . Utilisez-la complètement et parfaitement.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4896,20 +4896,40 @@ AUDIO : Son d'ambiance naturel uniquement : oiseaux, brise, feuilles, motos loin
 
 <a name="prompt-2102278921161208273"></a>
 
-### Traduction en cours
+### Séquence d'horreur dans un lycée japonais où une enseignante et des élèves fuient une épidémie vers le toit.
 
 Auteur：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Publication originale](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence d'horreur dans un lycée japonais où une enseignante et des élèves fuient une épidémie vers le toit.
 
 <img src="covers/2102278921161208273.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une séquence d'action et d'horreur ultra-réaliste dans un lycée japonais, suivant une enseignante pendant un cours ordinaire de l'après-midi. La classe est calme lorsque soudainement les lumières clignotent et que le téléphone de chaque élève reçoit la même alerte d'urgence exactement au même instant. L'enseignante regarde dehors et remarque que la cour de l'école est complètement vide.
+
+Un fracas retentissant provient de la salle de sciences voisine. L'enseignante ordonne à tout le monde de rester à l'intérieur et ouvre prudemment la porte de la classe. Le couloir semble désert, mais une traînée de liquide chimique renversé mène vers l'escalier. Soudain, un élève qui était tranquillement assis au fond de la classe s'effondre et commence à se comporter étrangement, révélant que quelque chose s'est déjà produit à l'intérieur de l'école.
+
+L'alarme d'urgence commence à retentir. Plusieurs élèves infectés se précipitent soudainement depuis l'escalier vers la salle de classe. L'enseignante pousse rapidement les bureaux contre la porte pendant que les élèves s'associent pour bloquer l'entrée avec des chaises et des armoires. Un élève remarque un panneau de sortie de secours et guide le groupe vers un deuxième couloir.
+
+Ils avancent dans le sombre couloir de l'école tout en entendant des bruits de pas approcher derrière eux. L'enseignante éteint les lumières du couloir, et tout le monde se cache silencieusement dans une classe vide pendant que les infectés passent dehors.
+
+Ils atteignent enfin le toit et poussent la porte, espérant y trouver de l'aide. À la place, ils aperçoivent des dizaines de silhouettes infectées debout, immobiles, dans toute la cour de l'école en contrebas.
+
+L'enseignante referme lentement la porte du toit et se tourne vers ses élèves.
+
+Puis une voix discrète murmure derrière eux :
+
+« Sensei... someone is already here. »
+
+Elle se retourne lentement.
+
+Fondu au noir.
+
+Thriller d'horreur japonais en prise de vues réelles photoréaliste, environnement réaliste de lycée japonais, uniformes scolaires authentiques, expressions faciales naturelles, horreur aux effets pratiques, physique réaliste, caméra portée cinématographique, travellings dynamiques, gros plans dramatiques, éclairage réaliste, éclairage de secours, poussière atmosphérique, mouvements naturels des personnages, réactions authentiques, tension croissante, son diégétique uniquement, pas de musique, pas de narration, horreur axée sur le suspense, pas de gore excessif, pas de blessures explicites, pas d'animation, pas d'anime, pas de dessin animé, pas d'aspect CGI artificiel, pas d'anatomie déformée, pas de sous-titres, pas de texte aléatoire, pas de filigrane
 ```
 
 [↑ Retour aux catégories](#catalog)

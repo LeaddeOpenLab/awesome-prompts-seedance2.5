@@ -428,20 +428,20 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2102276993094176768"></a>
 
-### Übersetzung läuft
+### Filmreifes, realistisches, lustiges Video einer Morgenroutine: Ich schlafe friedlich im Bett, als ein futuristischer Roboter neben mich rollt, auf dessen Bildschirm deutlich „6 AM“ angezeigt wird, und einen Alarm ertönen lässt. Halbschlafend und genervt verpasse ich dem Roboter in einem verspielten Slapstick-Moment einen harten Schlag.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Originalbeitrag](https://x.com/shushant_l/status/2102276993094176768)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmreifes, realistisches, lustiges Video einer Morgenroutine: Ich schlafe friedlich im Bett, als ein futuristischer Roboter neben mich rollt, auf dessen Bildschirm deutlich „6 AM“ angezeigt wird, und einen Alarm ertönen lässt. Halbschlafend und genervt verpasse ich dem Roboter in einem verspielten Slapstick-Moment einen harten Schlag.
 
 <img src="covers/2102276993094176768.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Filmreifes, realistisches, lustiges Video einer Morgenroutine: Ich schlafe friedlich im Bett, als ein futuristischer Roboter neben mich rollt, auf dessen Bildschirm deutlich „6 AM“ angezeigt wird, und einen Alarm ertönen lässt. Halbschlafend und genervt verpasse ich dem Roboter in einem verspielten Slapstick-Moment einen harten Schlag. Der unversehrte Roboter zückt sofort eine Fernbedienung und verwandelt mein Bett in ein wild tanzendes, rüttelndes Sofa, was mich schlagartig wachrüttelt. Anschließend putzt er mir schnell und perfekt die Zähne, säubert jeden einzelnen Zahn, bevor er mir augenblicklich einen frischen, heißen Kaffee zubereitet und überreicht, den ich trinke. Rasante visuelle Komödie, ausdrucksstarke Reaktionen, nahtlose Verwandlungen, realistische Physik, filmische Kamerabewegung. Keine Dialoge, Gespräche, Voiceover oder gesprochene Kommunikation. Nur Soundeffekte und fröhliche Hintergrundmusik. Mein Bild ist hier angehängt und lautet @img1 . Verwende es vollständig und perfekt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4896,20 +4896,40 @@ AUDIO: Nur natürlicher O-Ton: Vögel, Brise, Blätter, ferne Motorräder, flatt
 
 <a name="prompt-2102278921161208273"></a>
 
-### Übersetzung läuft
+### Japanische Highschool-Horrorsequenz über eine Lehrerin und Schüler, die vor einem Ausbruch auf das Dach fliehen.
 
 Autor：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Originalbeitrag](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Japanische Highschool-Horrorsequenz über eine Lehrerin und Schüler, die vor einem Ausbruch auf das Dach fliehen.
 
 <img src="covers/2102278921161208273.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine ultrarealistische japanische Highschool-Horror-Action-Sequenz, die einer Lehrerin während eines gewöhnlichen Nachmittagsunterrichts folgt. Im Klassenzimmer herrscht Ruhe, als plötzlich die Lichter flackern und das Telefon jedes Schülers genau im selben Moment dieselbe Notfallwarnung empfängt. Die Lehrerin blickt nach draußen und bemerkt, dass der Schulhof völlig menschenleer ist.
+
+Ein lauter Knall ertönt aus dem benachbarten Naturwissenschaftsraum. Die Lehrerin weist alle an, drinnen zu bleiben, und öffnet vorsichtig die Klassenzimmertür. Der Flur wirkt leer, doch eine Spur verschütteter chemischer Flüssigkeit führt zur Treppe. Plötzlich bricht ein Schüler, der ruhig hinten im Klassenzimmer gesessen hatte, zusammen und beginnt sich seltsam zu verhalten, was offenbart, dass sich in der Schule bereits etwas ereignet hat.
+
+Der Notfallalarm beginnt zu schrillen. Mehrere infizierte Schüler stürmen plötzlich von der Treppe auf das Klassenzimmer zu. Die Lehrerin schiebt hastig die Tische gegen die Türöffnung, während die Schüler zusammenarbeiten, um den Eingang mit Stühlen und Schränken zu verbarrikadieren. Ein Schüler bemerkt ein Notausgangsschild und führt die Gruppe zu einem zweiten Korridor.
+
+Sie bewegen sich durch den dunklen Schulflur, während sie hören, wie sich von hinten Schritte nähern. Die Lehrerin schaltet die Flurbeleuchtung aus, und alle verstecken sich lautlos in einem leeren Klassenzimmer, während die Infizierten draußen vorbeiziehen.
+
+Schließlich erreichen sie das Dach und stoßen die Tür auf, in der Hoffnung, Hilfe zu finden. Stattdessen sehen sie Dutzende infizierter Gestalten, die regungslos unten auf dem gesamten Schulhof stehen.
+
+Die Lehrerin schließt langsam die Dachtür und dreht sich zu ihren Schülern um.
+
+Dann flüstert eine leise Stimme hinter ihnen:
+
+„Sensei... someone is already here.“
+
+Sie dreht sich langsam um.
+
+Schnitt zu Schwarz.
+
+Fotorealistischer Live-Action-Japan-Horror-Thriller, realistische japanische Highschool-Umgebung, authentische Schuluniformen, natürliche Mimik, Horror mit praktischen Effekten, realistische Physik, kinoreife Handkamera, dynamische Kamerafahrten, dramatische Nahaufnahmen, realistische Beleuchtung, Notbeleuchtung, atmosphärischer Staub, natürliche Figurenbewegungen, authentische Reaktionen, eskalierende Spannung, nur diegetischer Ton, keine Musik, kein Off-Sprecher, auf Hochspannung fokussierter Horror, kein übermäßiger Gore, keine expliziten Verletzungen, keine Animation, kein Anime, kein Cartoon, kein künstlicher CGI-Look, keine verzerrte Anatomie, keine Untertitel, kein zufälliger Text, kein Wasserzeichen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

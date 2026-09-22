@@ -428,20 +428,20 @@ Cómic / Guion gráfico · Fotografía · Personaje · Publicado
 
 <a name="prompt-2102276993094176768"></a>
 
-### Traducción en curso
+### Video cinematográfico, realista y divertido de una rutina matutina: Estoy durmiendo plácidamente en la cama cuando un robot futurista se acerca rodando a mi lado, con su pantalla mostrando claramente &quot;6 AM&quot;, y hace sonar una alarma. Medio dormido y molesto, le doy un fuerte puñetazo al robot en un momento cómico de slapstick.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicación original](https://x.com/shushant_l/status/2102276993094176768)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video cinematográfico, realista y divertido de una rutina matutina: Estoy durmiendo plácidamente en la cama cuando un robot futurista se acerca rodando a mi lado, con su pantalla mostrando claramente &quot;6 AM&quot;, y hace sonar una alarma. Medio dormido y molesto, le doy un fuerte puñetazo al robot en un momento cómico de slapstick.
 
 <img src="covers/2102276993094176768.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Video cinematográfico, realista y divertido de una rutina matutina: Estoy durmiendo plácidamente en la cama cuando un robot futurista se acerca rodando a mi lado, con su pantalla mostrando claramente "6 AM", y hace sonar una alarma. Medio dormido y molesto, le doy un fuerte puñetazo al robot en un momento cómico de slapstick. El robot, ileso, saca al instante un control remoto y transforma mi cama en un sofá que baila y se sacude salvajemente, despertándome por completo de un sobresalto. Luego me cepilla los dientes de forma rápida y perfecta, limpiando cada diente, antes de preparar y entregarme al instante un café caliente recién hecho, el cual bebo. Comedia visual de ritmo rápido, reacciones expresivas, transformaciones fluidas, física realista, movimiento de cámara cinematográfico. Sin diálogos, conversaciones, voz en off ni comunicación hablada. Solo efectos de sonido y música de fondo alegre. Mi imagen está adjunta aquí y es @img1 . Úsala de manera completa y perfecta.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4896,20 +4896,40 @@ AUDIO: Solo sonido natural del lugar: pájaros, brisa, hojas, motocicletas lejan
 
 <a name="prompt-2102278921161208273"></a>
 
-### Traducción en curso
+### Secuencia de terror en una escuela secundaria japonesa con una profesora y estudiantes huyendo de un brote hacia la azotea.
 
 Autor：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Publicación original](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de terror en una escuela secundaria japonesa con una profesora y estudiantes huyendo de un brote hacia la azotea.
 
 <img src="covers/2102278921161208273.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una secuencia de acción y terror de una escuela secundaria japonesa ultrarrealista que sigue a una profesora durante una clase ordinaria de la tarde. El aula está en calma cuando de repente las luces parpadean y el teléfono de cada estudiante recibe la misma alerta de emergencia exactamente en el mismo instante. La profesora mira hacia afuera y nota el patio de la escuela completamente vacío.
+
+Un fuerte estruendo proviene del laboratorio de ciencias de al lado. La profesora les dice a todos que se queden adentro y abre con cuidado la puerta del aula. El pasillo parece vacío, pero un rastro de líquido químico derramado conduce hacia la escalera. De repente, un estudiante que había estado sentado en silencio al fondo del salón se desploma y comienza a comportarse de forma extraña, revelando que algo ya ha ocurrido dentro de la escuela.
+
+La alarma de emergencia comienza a sonar. Varios estudiantes infectados corren repentinamente desde la escalera hacia el aula. La profesora empuja rápidamente los escritorios contra la entrada mientras los estudiantes colaboran para bloquearla con sillas y gabinetes. Un estudiante nota una señal de salida de emergencia y guía al grupo hacia un segundo pasillo.
+
+Avanzan por el oscuro pasillo de la escuela mientras escuchan pasos que se aproximan por detrás. La profesora apaga las luces del pasillo y todos se esconden en silencio dentro de un aula vacía mientras los infectados pasan de largo afuera.
+
+Finalmente llegan a la azotea y empujan la puerta para abrirla, esperando encontrar ayuda. En cambio, ven a decenas de figuras infectadas de pie e inmóviles por todo el patio escolar abajo.
+
+La profesora cierra lentamente la puerta de la azotea y se gira hacia sus estudiantes.
+
+Entonces una voz tenue susurra detrás de ellos:
+
+“Sensei... someone is already here.”
+
+Ella se da la vuelta lentamente.
+
+Corte a negro.
+
+Thriller de terror japonés de acción real fotorrealista, entorno realista de escuela secundaria japonesa, uniformes estudiantiles auténticos, expresiones faciales naturales, terror con efectos prácticos, física realista, cámara cinematográfica en mano, tomas de seguimiento dinámicas, primeros planos dramáticos, iluminación realista, luces de emergencia, polvo atmosférico, movimiento natural de los personajes, reacciones auténticas, tensión creciente, solo sonido diegético, sin música, sin narración, terror centrado en el suspenso, sin sangre excesiva, sin heridas gráficas, sin animación, sin anime, sin dibujos animados, sin aspecto CGI artificial, sin anatomía distorsionada, sin subtítulos, sin texto aleatorio, sin marcas de agua
 ```
 
 [↑ Volver a categorías](#catalog)

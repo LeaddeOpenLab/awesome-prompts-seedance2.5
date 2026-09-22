@@ -428,20 +428,20 @@ Fumetto / Storyboard · Fotografia · Personaggio · Pubblicato
 
 <a name="prompt-2102276993094176768"></a>
 
-### Traduzione in corso
+### Video cinematografico, realistico e divertente di una routine mattutina: Sto dormendo sonni tranquilli a letto quando un robot futuristico si avvicina rotolando accanto a me, con il suo schermo che mostra chiaramente &quot;6 AM&quot;, e fa suonare una sveglia a tutto volume. Mezzo addormentato e infastidito, sferro un pugno al robot in una giocosa scena slapstick.
 
 Autore：[@shushant\_l](https://x.com/shushant_l) · [Post originale](https://x.com/shushant_l/status/2102276993094176768)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video cinematografico, realistico e divertente di una routine mattutina: Sto dormendo sonni tranquilli a letto quando un robot futuristico si avvicina rotolando accanto a me, con il suo schermo che mostra chiaramente &quot;6 AM&quot;, e fa suonare una sveglia a tutto volume. Mezzo addormentato e infastidito, sferro un pugno al robot in una giocosa scena slapstick.
 
 <img src="covers/2102276993094176768.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Video cinematografico, realistico e divertente di una routine mattutina: Sto dormendo sonni tranquilli a letto quando un robot futuristico si avvicina rotolando accanto a me, con il suo schermo che mostra chiaramente "6 AM", e fa suonare una sveglia a tutto volume. Mezzo addormentato e infastidito, sferro un pugno al robot in una giocosa scena slapstick. Il robot illeso estrae all'istante un telecomando e trasforma il mio letto in un divano che balla e si scuote freneticamente, facendomi svegliare del tutto di soprassalto. Poi mi lava i denti rapidamente e perfettamente, pulendo ogni singolo dente, prima di preparare e passarmi istantaneamente un caffè caldo appena fatto, che io bevo. Commedia visiva dal ritmo incalzante, reazioni espressive, trasformazioni fluide, fisica realistica, movimenti di macchina cinematografici. Nessun dialogo, conversazione, voce fuori campo o comunicazione parlata. Solo effetti sonori e musica di sottofondo allegra. La mia immagine è allegata qui ed è @img1 . Usala completamente e perfettamente.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4896,20 +4896,40 @@ AUDIO: Solo suono naturale d'ambiente: uccelli, brezza, foglie, motociclette in 
 
 <a name="prompt-2102278921161208273"></a>
 
-### Traduzione in corso
+### Sequenza horror in una scuola superiore giapponese con un'insegnante e degli studenti che fuggono da un'epidemia verso il tetto.
 
 Autore：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Post originale](https://x.com/SadiaMalik182/status/2102278921161208273)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza horror in una scuola superiore giapponese con un'insegnante e degli studenti che fuggono da un'epidemia verso il tetto.
 
 <img src="covers/2102278921161208273.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una sequenza horror d'azione ultra-realistica ambientata in una scuola superiore giapponese, seguendo un'insegnante durante una normale lezione pomeridiana. L'aula è tranquilla quando improvvisamente le luci tremolano e il telefono di ogni studente riceve la stessa allerta d'emergenza esattamente nello stesso momento. L'insegnante guarda fuori e nota il cortile della scuola completamente deserto.
+
+Un forte schianto proviene dal laboratorio di scienze adiacente. L'insegnante ordina a tutti di rimanere all'interno e apre con cautela la porta dell'aula. Il corridoio sembra vuoto, ma una scia di liquido chimico versato conduce verso la scalinata. All'improvviso, uno studente che era rimasto seduto in silenzio in fondo alla classe si accascia e inizia a comportarsi in modo strano, rivelando che qualcosa è già accaduto all'interno dell'edificio.
+
+L'allarme d'emergenza inizia a suonare. Diversi studenti infetti si precipitano improvvisamente dalle scale verso la classe. L'insegnante spinge rapidamente i banchi contro l'apertura della porta mentre gli studenti collaborano per bloccare l'ingresso con sedie e armadietti. Uno studente nota il cartello di un'uscita d'emergenza e guida il gruppo verso un secondo corridoio.
+
+Avanzano lungo l'oscuro corridoio della scuola sentendo dei passi avvicinarsi alle loro spalle. L'insegnante spegne le luci del corridoio e tutti si nascondono in silenzio all'interno di un'aula vuota mentre gli infetti passano oltre all'esterno.
+
+Raggiungono infine il tetto e spingono la porta per aprirla, sperando di trovare aiuto. Al contrario, vedono dozzine di figure infette ferme e immobili lungo tutto il cortile sottostante della scuola.
+
+L'insegnante chiude lentamente la porta del tetto e si volta verso i suoi studenti.
+
+Poi una voce sommessa sussurra alle loro spalle:
+
+“Sensei... someone is already here.”
+
+Lei si volta lentamente.
+
+Stacco sul nero.
+
+Thriller horror giapponese live-action fotorealistico, ambiente realistico di una scuola superiore giapponese, autentiche divise scolastiche, espressioni facciali naturali, horror con effetti pratici, fisica realistica, macchina da presa a mano cinematografica, carrellate dinamiche, primi piani drammatici, illuminazione realistica, luci di emergenza, polvere atmosferica, movimenti naturali dei personaggi, reazioni autentiche, tensione crescente, solo suono diegetico, niente musica, nessuna voce narrante, horror incentrato sulla suspense, niente sangue eccessivo, niente lesioni grafiche, niente animazione, niente anime, niente cartoni animati, nessun look CGI artificiale, nessuna anatomia distorta, niente sottotitoli, nessun testo casuale, nessun watermark
 ```
 
 [↑ Torna alle categorie](#catalog)
