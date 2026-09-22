@@ -35,20 +35,44 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101897626123899372"></a>
 
-### Đang dịch
+### Chuỗi gameplay thực tế trò chơi phiêu lưu hành động góc nhìn thứ ba phong cách Unreal Engine 5, thể hiện việc khám phá thần điện nổi trên núi tuyết và trận chiến với Boss.
 
 Tác giả：[@kingofdairyque](https://x.com/kingofdairyque) · [Bài gốc](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi gameplay thực tế trò chơi phiêu lưu hành động góc nhìn thứ ba phong cách Unreal Engine 5, thể hiện việc khám phá thần điện nổi trên núi tuyết và trận chiến với Boss.
 
 <img src="covers/2101897626123899372.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một chuỗi gameplay hành động phiêu lưu giả tưởng góc nhìn thứ ba dài 30 giây, tỷ lệ 16:9, phong cách Unreal Engine 5 chân thực như ảnh chụp. Hãy làm cho nó mang lại cảm giác như gameplay AAA thực sự có thể chơi được với các chuyển động liền mạch, vật lý chân thực, góc máy động và giao diện HUD tối giản.
+
+Một nhà thám hiểm trẻ tuổi trong trang phục mùa đông phong trần, áo choàng viền lông thú, thiết bị leo núi, thanh kiếm cong và một thiết bị gió phát sáng màu xanh bạc đang khám phá một ngôi đền băng giá khổng lồ lơ lửng trên những đám mây. Duy trì tính nhất quán nghiêm ngặt về nhân vật và trang bị.
+
+0–5 giây — Đỉnh Núi Băng Giá
+Nhà thám hiểm leo lên một bức tường băng, nhảy lên một bục đang sụp đổ, sau đó chạy nước rút qua một cây cầu băng hẹp khi những tảng băng khổng lồ rơi xuống mây. Máy quay kéo ra xa để lộ ngôi đền đồ sộ.
+
+5–10 giây — Vượt Địa Hình Bằng Gió
+Cây cầu sụp đổ. Nhà thám hiểm kích hoạt thiết bị gió, phóng qua khoảng trống, chộp lấy một sợi xích treo, đu quanh một turbine cổ đại và đáp xuống một bục khác.
+
+10–15 giây — Ngôi Đền Thức Giấc
+Bên trong một căn phòng khổng lồ đầy pha lê, nhà thám hiểm kích hoạt ba cơ chế gió cổ xưa. Một cánh cổng băng phát nổ mở ra, để lộ một sinh vật có cánh khổng lồ đang thức giấc phía trên căn phòng.
+
+15–21 giây — Trốn Thoát
+Ngôi đền bắt đầu sụp đổ. Nhà thám hiểm chạy qua các bục xoay, né tránh đá rơi và sử dụng khả năng gió để lướt về phía lối ra trong khi sinh vật đó phá hủy các bục phía sau họ.
+
+21–26 giây — Đấu Trường Trùm
+Nhà thám hiểm lao ra một bục tròn khổng lồ phía trên những đám mây. Sinh vật đâm xuyên qua mái đền. Tuyết và băng nổ tung khắp đấu trường khi người chơi rút kiếm.
+
+26–30 giây — Trận Chiến Sử Thi
+Sinh vật tung ra một đòn tấn công bằng cánh khổng lồ. Nhà thám hiểm né xuống bên dưới, sử dụng thiết bị gió để làm lộ viên pha lê phát sáng ở ngực, sau đó chém vào nó bằng kiếm. Các vết nứt năng lượng màu xanh lam lan rộng khắp cơ thể sinh vật khi thanh máu của nó tụt xuống. Kết thúc bằng cảnh người chơi lao về phía trước khi sinh vật chuẩn bị cho đòn tấn công tiếp theo.
+
+Gameplay AAA chân thực như ảnh chụp, vật lý tuyết và băng chân thực, ánh sáng điện ảnh, mây thể tích (volumetric clouds), kiến trúc cổ đại chi tiết, chuyển động tự nhiên của vải và tóc, trọng lượng sinh vật đáng tin cậy, chuyển động 60fps mượt mà, camera do người chơi điều khiển liên tục.
+
+Không cắt cảnh kiểu dựng phim (montage), không yếu tố kinh dị máu me, không có máu, không vũ khí hiện đại, không phụ đề, không logo, không hình mờ, không thanh đen viền màn hình, không mờ dần biến mất.
 ```
 
 [↑ Về danh mục](#catalog)

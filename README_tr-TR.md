@@ -35,20 +35,44 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101897626123899372"></a>
 
-### Çeviri sürüyor
+### Karlı dağdaki süzülen tapınak keşfini ve Boss savaşını sergileyen Unreal Engine 5 tarzında üçüncü şahıs aksiyon-macera oynanış sekansı.
 
 Yazar：[@kingofdairyque](https://x.com/kingofdairyque) · [Orijinal gönderi](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karlı dağdaki süzülen tapınak keşfini ve Boss savaşını sergileyen Unreal Engine 5 tarzında üçüncü şahıs aksiyon-macera oynanış sekansı.
 
 <img src="covers/2101897626123899372.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Unreal Engine 5 ile hazırlanmış, 30 saniyelik, 16:9 oranında, fotogerçekçi, üçüncü şahıs fantastik aksiyon-macera oynanış sekansı. Kusursuz hareketler, gerçekçi fizik, dinamik kamera açıları ve asgari düzeyde HUD ile gerçek, oynanabilir bir AAA oyunu hissi verin.
+
+Yıpranmış kışlık giysiler, kürk astarlı pelerin, tırmanma ekipmanı, kavisli bir kılıç ve parıldayan gümüş-mavi bir rüzgâr cihazı taşıyan genç bir kâşif, bulutların üzerinde asılı duran devasa donmuş bir tapınağı keşfeder. Karakter ve ekipman tutarlılığını kesinlikle koruyun.
+
+0–5 sn — Donmuş Zirve
+Kâşif buzlu bir duvara tırmanır, çökmekte olan bir platformun üzerine atlar, ardından devasa buz kütleleri bulutlara doğru düşerken dar ve donmuş bir köprüden hızla koşar. Kamera devasa tapınağı gözler önüne sermek için geriye çekilerek geniş açıya geçer.
+
+5–10 sn — Rüzgârla Geçiş
+Köprü çöker. Kâşif rüzgâr cihazını etkinleştirir, boşluğun üzerinden fırlar, asılı bir zinciri yakalar, kadim bir türbinin etrafında sallanır ve başka bir platforma iniş yapar.
+
+10–15 sn — Tapınak Uyanıyor
+Kristallerle dolu devasa bir odanın içinde kâşif üç kadim rüzgâr mekanizmasını etkinleştirir. Donmuş bir kapı patlayarak açılır ve odanın yukarısında uyanmakta olan devasa kanatlı bir yaratığı ortaya çıkarır.
+
+15–21 sn — Kaçış
+Tapınak çökmeye başlar. Kâşif dönen platformlar üzerinde koşar, düşen taşlardan kaçar ve yaratık arkasındaki platformları yok ederken çıkışa doğru süzülmek için rüzgâr yeteneğini kullanır.
+
+21–26 sn — Boss Arenası
+Kâşif bulutların üzerindeki devasa dairesel bir platforma fırlar. Yaratık tapınağın çatısını kırarak içeri dalar. Oyuncu kılıcını çekerken arena boyunca kar ve buz etrafa saçılır.
+
+26–30 sn — Epik Dövüş
+Yaratık devasa bir kanat saldırısı başlatır. Kâşif altından sıyrılır, rüzgâr cihazını kullanarak parlayan göğüs kristalini açığa çıkarır, ardından kılıcıyla vurur. Yaratığın can barı düşerken mavi enerji çatlakları gövdesine yayılır. Yaratık bir sonraki saldırısını hazırlarken oyuncunun ileriye hücum etmesiyle sonlandırın.
+
+Fotogerçekçi AAA oynanış, gerçekçi kar ve buz fiziği, sinematik aydınlatma, hacimsel bulutlar, ayrıntılı kadim mimari, doğal kumaş ve saç hareketleri, yaratığın inandırıcı ağırlığı, akıcı 60 fps hareket, kesintisiz oyuncu kontrollü kamera.
+
+Kurgusal montaj kesintileri yok, vahşet yok, kan yok, modern silahlar yok, altyazı yok, logo yok, filigran yok, siyah şeritler yok, karararak kapanma (fade-out) yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

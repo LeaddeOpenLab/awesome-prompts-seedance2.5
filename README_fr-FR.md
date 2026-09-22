@@ -35,20 +35,44 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101897626123899372"></a>
 
-### Traduction en cours
+### Séquence de gameplay d'action-aventure à la troisième personne dans le style d'Unreal Engine 5, montrant l'exploration d'un temple flottant dans une montagne enneigée et un combat de boss.
 
 Auteur：[@kingofdairyque](https://x.com/kingofdairyque) · [Publication originale](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence de gameplay d'action-aventure à la troisième personne dans le style d'Unreal Engine 5, montrant l'exploration d'un temple flottant dans une montagne enneigée et un combat de boss.
 
 <img src="covers/2101897626123899372.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une séquence de gameplay d'action-aventure fantastique à la troisième personne de 30 secondes, au format 16:9, photoréaliste sous Unreal Engine 5. Rendez-la semblable à un véritable gameplay AAA jouable avec des mouvements fluides, une physique réaliste, un travail de caméra dynamique et un ATH minimal.
+
+Un jeune explorateur vêtu d'une tenue d'hiver usée, d'une cape doublée de fourrure, d'un équipement d'escalade, d'une épée courbée et d'un appareil à vent luminescent bleu-argenté explore un gigantesque temple gelé suspendu au-dessus des nuages. Maintenez une cohérence stricte du personnage et de l'équipement.
+
+0–5 s — Sommet gelé
+L'explorateur escalade une paroi de glace, saute sur une plateforme qui s'effondre, puis sprinte sur un pont gelé étroit tandis que d'énormes blocs de glace tombent dans les nuages. La caméra s'élargit pour révéler le temple monumental.
+
+5–10 s — Traversée venteuse
+Le pont s'effondre. L'explorateur active l'appareil à vent, se projette par-dessus le précipice, s'agrippe à une chaîne suspendue, tournoie autour d'une ancienne turbine et atterrit sur une autre plateforme.
+
+10–15 s — Le temple s'éveille
+À l'intérieur d'une immense salle remplie de cristaux, l'explorateur active trois anciens mécanismes à vent. Une porte gelée explose en s'ouvrant, révélant une créature ailée gigantesque qui s'éveille au-dessus de la salle.
+
+15–21 s — Fuite
+Le temple commence à s'effondrer. L'explorateur court sur des plateformes rotatives, esquive des pierres qui tombent et utilise la capacité de vent pour planer vers la sortie pendant que la créature détruit les plateformes derrière lui.
+
+21–26 s — Arène de boss
+L'explorateur débouche sur une immense plateforme circulaire au-dessus des nuages. La créature s'écrase à travers le toit du temple. De la neige et de la glace explosent à travers l'arène alors que le joueur dégaine son épée.
+
+26–30 s — Combat épique
+La créature déclenche une violente attaque d'ailes. L'explorateur esquive en dessous, utilise l'appareil à vent pour exposer un cristal lumineux sur son torse, puis le frappe avec son épée. Des fractures d'énergie bleue se propagent sur la créature tandis que sa barre de vie diminue. Finissez sur le joueur chargeant vers l'avant pendant que la créature prépare sa prochaine attaque.
+
+Gameplay AAA photoréaliste, physique réaliste de la neige et de la glace, éclairage cinématographique, nuages volumétriques, architecture ancienne détaillée, mouvements naturels des vêtements et des cheveux, poids crédible de la créature, mouvement fluide à 60 ips, caméra continue contrôlée par le joueur.
+
+Pas de coupes de montage, pas de gore, pas de sang, pas d'armes modernes, pas de sous-titres, pas de logos, pas de filigrane, pas de bandes noires, pas de fondu au noir.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -35,20 +35,44 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101897626123899372"></a>
 
-### Traduzione in corso
+### Sequenza di gameplay d'azione e avventura in terza persona in stile Unreal Engine 5, che mostra l'esplorazione di un tempio fluttuante su una montagna innevata e una battaglia contro un boss.
 
 Autore：[@kingofdairyque](https://x.com/kingofdairyque) · [Post originale](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza di gameplay d'azione e avventura in terza persona in stile Unreal Engine 5, che mostra l'esplorazione di un tempio fluttuante su una montagna innevata e una battaglia contro un boss.
 
 <img src="covers/2101897626123899372.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una sequenza di gameplay d'azione e avventura fantasy in terza persona di 30 secondi, in 16:9, fotorealistica in Unreal Engine 5. Falla sembrare un vero gameplay AAA giocabile con movimenti fluidi, fisica realistica, regia dinamica della telecamera e HUD minimale.
+
+Un giovane esploratore con indumenti invernali logori, mantello foderato di pelliccia, attrezzatura da arrampicata, spada ricurva e un dispositivo del vento luminoso blu-argento esplora un gigantesco tempio ghiacciato sospeso sopra le nuvole. Mantieni una rigorosa coerenza del personaggio e dell'equipaggiamento.
+
+0–5s — Vetta ghiacciata
+L'esploratore scala una parete di ghiaccio, salta su una piattaforma che crolla, poi scatta attraverso uno stretto ponte ghiacciato mentre enormi blocchi di ghiaccio precipitano tra le nuvole. La telecamera si allarga per rivelare l'enorme tempio.
+
+5–10s — Traversata col vento
+Il ponte crolla. L'esploratore attiva il dispositivo del vento, si lancia oltre il vuoto, afferra una catena sospesa, compie un giro oscillando attorno a un'antica turbina e atterra su un'altra piattaforma.
+
+10–15s — Il risveglio del tempio
+All'interno di un'enorme camera piena di cristalli, l'esploratore attiva tre antichi meccanismi a vento. Un cancello ghiacciato esplode aprendosi, rivelando una gigantesca creatura alata che si risveglia sopra la stanza.
+
+15–21s — Fuga
+Il tempio inizia a crollare. L'esploratore corre su piattaforme rotanti, schiva massi in caduta e usa l'abilità del vento per planare verso l'uscita mentre la creatura distrugge le piattaforme alle sue spalle.
+
+21–26s — Arena del boss
+L'esploratore irrompe su un'enorme piattaforma circolare sopra le nuvole. La creatura si schianta sfondando il tetto del tempio. Neve e ghiaccio esplodono nell'arena mentre il giocatore sguaina la spada.
+
+26–30s — Combattimento epico
+La creatura sferra un possente attacco con le ali. L'esploratore schiva scivolando sotto, usa il dispositivo del vento per esporre un cristallo luminoso sul petto della creatura, poi lo colpisce con la spada. Fratture di energia blu si propagano sulla creatura mentre la sua barra della salute scende. Concludi con il giocatore che carica in avanti mentre la creatura prepara il suo prossimo attacco.
+
+Gameplay AAA fotorealistico, fisica realistica di neve e ghiaccio, illuminazione cinematografica, nuvole volumetriche, architettura antica dettagliata, movimento naturale di tessuti e capelli, peso credibile della creatura, movimento fluido a 60 fps, telecamera continua controllata dal giocatore.
+
+Nessun taglio di montaggio, niente gore, niente sangue, niente armi moderne, niente sottotitoli, niente loghi, niente watermark, niente bande nere, nessuna dissolvenza in nero.
 ```
 
 [↑ Torna alle categorie](#catalog)

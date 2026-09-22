@@ -35,20 +35,44 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2101897626123899372"></a>
 
-### Tradução em curso
+### Sequência de jogabilidade de ação e aventura em terceira pessoa no estilo Unreal Engine 5, apresentando exploração de um templo flutuante na montanha de neve e combate com boss.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Publicação original](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência de jogabilidade de ação e aventura em terceira pessoa no estilo Unreal Engine 5, apresentando exploração de um templo flutuante na montanha de neve e combate com boss.
 
 <img src="covers/2101897626123899372.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma sequência de jogabilidade de ação e aventura fantástica em terceira pessoa de 30 segundos, em proporção 16:9, fotorrealista no Unreal Engine 5. Faça parecer jogabilidade AAA real e jogável com movimentos fluídos, física realista, trabalho de câmara dinâmico e HUD mínimo.
+
+Um jovem explorador com equipamento de inverno desgastado, manto com forro de pele, equipamento de escalada, espada curva e um dispositivo de vento prateado e azul brilhante explora um templo congelado gigantesco suspenso acima das nuvens. Mantenha uma consistência rigorosa da personagem e do equipamento.
+
+0–5s — Cume Congelado
+O explorador escala uma parede de gelo, salta para uma plataforma a ruir e corre através de uma ponte congelada estreita enquanto blocos maciços de gelo caem nas nuvens. A câmara recua num plano aberto para revelar o enorme templo.
+
+5–10s — Travessia com o Vento
+A ponte desaba. O explorador ativa o dispositivo de vento, projeta-se através do abismo, agarra uma corrente suspensa, baloiça em torno de uma turbina antiga e aterra noutra plataforma.
+
+10–15s — O Templo Desperta
+Dentro de uma câmara gigantesca repleta de cristais, o explorador ativa três mecanismos de vento ancestrais. Um portão congelado explode ao abrir-se, revelando uma criatura alada gigantesca a despertar por cima da câmara.
+
+15–21s — Fuga
+O templo começa a ruir. O explorador corre sobre plataformas giratórias, desvia-se de pedras em queda e usa a habilidade de vento para planar em direção à saída, enquanto a criatura destrói plataformas atrás de si.
+
+21–26s — Arena do Boss
+O explorador irrompe numa enorme plataforma circular acima das nuvens. A criatura despenha-se através do teto do templo. Neve e gelo explodem por toda a arena enquanto o jogador empunha a sua espada.
+
+26–30s — Combate Épico
+A criatura desfere um ataque violento com as asas. O explorador esquiva-se por baixo, usa o dispositivo de vento para expor um cristal brilhante no peito e atinge-o com a espada. Fissuras de energia azul espalham-se pela criatura enquanto a sua barra de vida diminui. Termine com o jogador a investir em frente enquanto a criatura prepara o seu próximo ataque.
+
+Jogabilidade AAA fotorrealista, física realista de neve e gelo, iluminação cinematográfica, nuvens volumétricas, arquitetura antiga detalhada, movimento natural de tecidos e cabelo, peso credível da criatura, movimento suave a 60fps, câmara contínua controlada pelo jogador.
+
+Sem cortes de montagem, sem violência gráfica, sem sangue, sem armas modernas, sem legendas, sem logótipos, sem marcas de água, sem barras pretas, sem fade-out.
 ```
 
 [↑ Voltar às categorias](#catalog)

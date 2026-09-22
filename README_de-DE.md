@@ -35,20 +35,44 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101897626123899372"></a>
 
-### Übersetzung läuft
+### Third-Person-Action-Adventure-Gameplay-Sequenz im Unreal Engine 5-Stil, die die Erkundung eines schwebenden Tempels im Schneegebirge und einen Bosskampf zeigt.
 
 Autor：[@kingofdairyque](https://x.com/kingofdairyque) · [Originalbeitrag](https://x.com/kingofdairyque/status/2101897626123899372)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Third-Person-Action-Adventure-Gameplay-Sequenz im Unreal Engine 5-Stil, die die Erkundung eines schwebenden Tempels im Schneegebirge und einen Bosskampf zeigt.
 
 <img src="covers/2101897626123899372.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine 30-sekündige, fotorealistische 16:9-Gameplay-Sequenz eines Third-Person-Fantasy-Action-Adventures in Unreal Engine 5. Es soll sich wie echtes, spielbares AAA-Gameplay mit nahtlosen Bewegungen, realistischer Physik, dynamischer Kameraführung und minimalem HUD anfühlen.
+
+Ein junger Entdecker in abgetragener Winterkleidung, mit pelzgefüttertem Umhang, Kletterausrüstung, Krummschwert und einem silbrig-blau leuchtenden Windgerät erkundet einen gigantischen, gefrorenen Tempel, der über den Wolken schwebt. Achte auf strikte Konsistenz von Charakter und Ausrüstung.
+
+0–5s — Gefrorener Gipfel
+Der Entdecker erklimmt eine Eiswand, springt auf eine einstürzende Plattform und sprintet dann über eine schmale gefrorene Brücke, während gewaltige Eisbrocken in die Wolken stürzen. Die Kamera zieht auf, um den gewaltigen Tempel zu enthüllen.
+
+5–10s — Windüberquerung
+Die Brücke bricht zusammen. Der Entdecker aktiviert das Windgerät, katapultiert sich über den Abgrund, greift nach einer hängenden Kette, schwingt um eine uralte Turbine und landet auf einer weiteren Plattform.
+
+10–15s — Der Tempel erwacht
+Im Inneren einer riesigen, kristallgefüllten Kammer aktiviert der Entdecker drei uralte Windmechanismen. Ein gefrorenes Tor explodiert auf und gibt den Blick frei auf eine gigantische geflügelte Kreatur, die über der Kammer erwacht.
+
+15–21s — Die Flucht
+Der Tempel beginnt einzustürzen. Der Entdecker rennt über rotierende Plattformen, weicht herabfallenden Steinen aus und nutzt die Windfähigkeit, um zum Ausgang zu gleiten, während die Kreatur hinter ihm die Plattformen zerstört.
+
+21–26s — Boss-Arena
+Der Entdecker gelangt auf eine riesige kreisförmige Plattform über den Wolken. Die Kreatur bricht durch das Tempeldach. Schnee und Eis explodieren über die Arena, während der Spieler sein Schwert zieht.
+
+26–30s — Epischer Kampf
+Die Kreatur entfesselt einen gewaltigen Flügelangriff. Der Entdecker weicht darunter hindurch aus, nutzt das Windgerät, um einen leuchtenden Brustkristall freizulegen, und schlägt dann mit dem Schwert darauf ein. Blaue Energierisse breiten sich über die Kreatur aus, während ihr Gesundheitsbalken sinkt. Endet damit, dass der Spieler nach vorne stürmt, während die Kreatur ihren nächsten Angriff vorbereitet.
+
+Fotorealistisches AAA-Gameplay, realistische Schnee- und Eisphysik, filmische Beleuchtung, volumetrische Wolken, detaillierte antike Architektur, natürliche Stoff- und Haarbewegungen, glaubhaftes Gewicht der Kreatur, flüssige 60fps-Bewegung, kontinuierliche spielergesteuerte Kamera.
+
+Keine Montageschnitte, kein Gore, kein Blut, keine modernen Waffen, keine Untertitel, keine Logos, kein Wasserzeichen, keine schwarzen Balken, keine Schwarzblende.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
