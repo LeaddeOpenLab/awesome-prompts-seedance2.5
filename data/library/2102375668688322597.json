@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:27:35.814Z",
+  "model": "seedance2.5",
+  "prompt": "10秒，9:16竖屏，真实手机手持拍摄，一镜到底。\n\n使用@图片1作为唯一人物角色卡，人物外貌、发型、服装严格保持角色卡一致。场景为自然光照亮的卧室，白色床单与柔软枕头，生活化画面，柔和暖色调。\n\n0—2秒：\n人物背对镜头趴在床上，前臂撑住上身，腿自然伸向床尾。摄影机从床尾附近的较高位置斜向下拍摄，初始构图包含人物背部、腿和脚。镜头沿床尾到床头的方向实际向前靠近，同时逐渐向上取景，从较宽构图推进至腰背和肩部，腿脚自然退出画面下方。保留轻微手持起伏，推进柔和连续。\n\n2—4.5秒：\n画外拍摄者的一只手短暂从画面左下方进入，轻碰人物腰侧衣料后退出。人物察觉后转头看向镜头，接着转肩、侧身，用手臂支撑身体，逐渐露出正脸。摄影机顺着人物动作向上抬镜，从肩背移动到脸与上半身，并小幅横向调整构图，始终保持床侧较高机位的斜俯拍。人物转身与镜头跟随衔接自然。\n\n4.5—6秒：\n人物侧身调整姿势，双膝自然弯曲并拢。摄影机做一次清晰、连续、略快的向下摇镜，取景从脸部经过上身落到弯曲的膝腿处，脸从画面上方退出；到达膝腿位置时短暂减速。运动中允许少量真实动态模糊和轻微手腕侧倾。\n\n6—7.5秒：\n镜头立即沿原路径反向上摇，从膝腿经过上身回到脸与肩部，动作连贯柔顺。人物轻轻抬手整理耳侧头发，视线由下方重新抬向镜头，表情自然，带一点疑惑和亲近感。\n\n7.5—10秒：\n摄影机小幅后撤，将构图放宽到头顶至大腿上部。人物侧身倚靠枕头，双手自然安放，继续看向镜头。镜头逐渐减速，在床侧斜俯拍位置停留，以细微的手持漂移结束。\n\n运镜重点：前段缓慢靠近，中段下摇与上摇稍快，结尾轻退放缓。相机移动、人物转身和取景变化保持空间连续，床、枕头及房间位置稳定。\n\n避免：切镜、转场、180度环绕、360度滚转、画面倒置、突然数字变焦、过度抖动、人物瞬移、脸部变化、服装变化、肢体畸形、多余手指、第二位完整人物入镜、字幕、水印。画外手仅在触碰时短暂出现，随后完全退出。",
+  "promptTranslations": {
+    "en": "10 seconds, 9:16 vertical screen, realistic mobile phone handheld shooting, continuous one-shot take.\n\nUse @Image1 as the only character reference card; the character's appearance, hairstyle, and clothing strictly remain consistent with the character card. The scene is a bedroom illuminated by natural light, with white bedsheets and soft pillows, presenting an everyday life aesthetic with soft, warm tones.\n\n0–2 seconds:\nThe character lies prone on the bed with their back to the camera, propping up the upper body with forearms, legs extending naturally toward the foot of the bed. The camera shoots diagonally downward from a high angle near the foot of the bed; the initial composition includes the character's back, legs, and feet. The camera physically dollies forward along the direction from the foot of the bed to the headboard, while gradually tilting up to frame higher, pushing in from a wider framing to the lower back and shoulders, with the legs and feet naturally exiting the bottom of the frame. Retain subtle handheld floating motion, moving forward gently and continuously.\n\n2–4.5 seconds:\nAn off-screen camera operator's hand briefly enters from the lower left of the frame, lightly touching the fabric at the character's waist before retracting. Sensing this, the character turns their head toward the camera, then rolls their shoulders, turns to their side, supporting their body with their arms, gradually revealing their full face. The camera tilts up following the character's movement, shifting from the back of the shoulders to the face and upper body, with minor horizontal reframing, consistently maintaining a high-angle oblique down-shot from the bedside. The character's turn and the camera follow connect naturally.\n\n4.5–6 seconds:\nThe character adjusts their posture on their side, with knees naturally bent and together. The camera performs a clear, continuous, slightly fast downward tilt, moving the framing from the face down across the upper body to settle on the bent knees and legs, with the face exiting out of the top of the frame; it briefly decelerates upon reaching the knees and legs. Allow a small amount of realistic motion blur and a slight wrist roll during the movement.\n\n6–7.5 seconds:\nThe camera immediately tilts back up along the original path in reverse, moving from the knees and legs across the upper body back to the face and shoulders in a coherent, smooth motion. The character gently raises a hand to adjust hair by the ear, shifting their gaze from below back up to the camera, with a natural expression showing a hint of curiosity and intimacy.\n\n7.5–10 seconds:\nThe camera slightly pulls back, widening the composition from the top of the head down to the upper thighs. The character leans sideways against the pillows, hands resting naturally, continuing to look at the camera. The camera gradually decelerates, resting at the bedside high-angle oblique position, concluding with subtle handheld drift.\n\nCamera movement focus: Slow approach in the opening segment, slightly faster downward and upward tilts in the middle segment, gentle pullback and deceleration at the end. Camera movement, character turn, and framing adjustments maintain spatial continuity, keeping the bed, pillows, and room position stable.\n\nAvoid: cuts, transitions, 180-degree wraps, 360-degree rolls, upside-down framing, abrupt digital zooms, excessive shaking, character teleportation, face changes, clothing changes, limb deformities, extra fingers, a second full person entering the frame, subtitles, watermarks. The off-screen hand appears only briefly during the touch, then completely exits."
+  },
+  "summaryTranslations": {
+    "en": "10-second mobile handheld one-shot bedroom portrait camera direction, finely controlling turning, downward tilt, and upward tilt movements in segmented stages."
+  },
+  "translationVersion": 2,
+  "summary": "10秒手机手持一镜到底的卧室人像运镜指令，分段精细控制转身、下摇与上摇动作。",
+  "summaryEn": "Detailed 10s handheld one-shot prompt directing bedroom portrait movements, tilts, and pacing.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102375668688322597",
+    "canonicalUrl": "https://x.com/johnAGI168/status/2102375668688322597",
+    "author": {
+      "username": "johnAGI168",
+      "displayName": "John",
+      "profileUrl": "https://x.com/johnAGI168"
+    },
+    "publishedAt": "2026-09-22T12:33:14.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "zh",
+    "originalText": "约拍摄影师上线📹\n\nby Seedance 2.5 🎬\n\nprompt 👇\n\n10秒，9:16竖屏，真实手机手持拍摄，一镜到底。\n\n使用@图片1作为唯一人物角色卡，人物外貌、发型、服装严格保持角色卡一致。场景为自然光照亮的卧室，白色床单与柔软枕头，生活化画面，柔和暖色调。\n\n0—2秒：\n人物背对镜头趴在床上，前臂撑住上身，腿自然伸向床尾。摄影机从床尾附近的较高位置斜向下拍摄，初始构图包含人物背部、腿和脚。镜头沿床尾到床头的方向实际向前靠近，同时逐渐向上取景，从较宽构图推进至腰背和肩部，腿脚自然退出画面下方。保留轻微手持起伏，推进柔和连续。\n\n2—4.5秒：\n画外拍摄者的一只手短暂从画面左下方进入，轻碰人物腰侧衣料后退出。人物察觉后转头看向镜头，接着转肩、侧身，用手臂支撑身体，逐渐露出正脸。摄影机顺着人物动作向上抬镜，从肩背移动到脸与上半身，并小幅横向调整构图，始终保持床侧较高机位的斜俯拍。人物转身与镜头跟随衔接自然。\n\n4.5—6秒：\n人物侧身调整姿势，双膝自然弯曲并拢。摄影机做一次清晰、连续、略快的向下摇镜，取景从脸部经过上身落到弯曲的膝腿处，脸从画面上方退出；到达膝腿位置时短暂减速。运动中允许少量真实动态模糊和轻微手腕侧倾。\n\n6—7.5秒：\n镜头立即沿原路径反向上摇，从膝腿经过上身回到脸与肩部，动作连贯柔顺。人物轻轻抬手整理耳侧头发，视线由下方重新抬向镜头，表情自然，带一点疑惑和亲近感。\n\n7.5—10秒：\n摄影机小幅后撤，将构图放宽到头顶至大腿上部。人物侧身倚靠枕头，双手自然安放，继续看向镜头。镜头逐渐减速，在床侧斜俯拍位置停留，以细微的手持漂移结束。\n\n运镜重点：前段缓慢靠近，中段下摇与上摇稍快，结尾轻退放缓。相机移动、人物转身和取景变化保持空间连续，床、枕头及房间位置稳定。\n\n避免：切镜、转场、180度环绕、360度滚转、画面倒置、突然数字变焦、过度抖动、人物瞬移、脸部变化、服装变化、肢体畸形、多余手指、第二位完整人物入镜、字幕、水印。画外手仅在触碰时短暂出现，随后完全退出。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/johnAGI168/status/2102375668688322597",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102375490992439296/img/sZFgq1lmcufvSEYB.jpg",
+        "analysisUrl": "https://x.com/johnAGI168/status/2102375668688322597"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 1,
+      "replyCount": 6,
+      "quoteCount": 1,
+      "viewCount": 2540
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/johnAGI168/status/2102375668688322597",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102375490992439296/img/sZFgq1lmcufvSEYB.jpg",
+  "coverPath": "covers/2102375668688322597.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102375490992439296",
+    "x-post:2102375668688322597"
+  ],
+  "analysis": {
+    "summary": "10秒手机手持一镜到底的卧室人像运镜指令，分段精细控制转身、下摇与上摇动作。",
+    "summaryEn": "Detailed 10s handheld one-shot prompt directing bedroom portrait movements, tilts, and pacing.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与提示词中的时间轴运镜、人物转身、手部互动及上下摇镜完全对应。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "10秒，9:16竖屏，真实手机手持拍摄，一镜到底。\n\n使用@图片1作为唯一人物角色卡，人物外貌、发型、服装严格保持角色卡一致。场景为自然光照亮的卧室，白色床单与柔软枕头，生活化画面，柔和暖色调。\n\n0—2秒：\n人物背对镜头趴在床上，前臂撑住上身，腿自然伸向床尾。摄影机从床尾附近的较高位置斜向下拍摄，初始构图包含人物背部、腿和脚。镜头沿床尾到床头的方向实际向前靠近，同时逐渐向上取景，从较宽构图推进至腰背和肩部，腿脚自然退出画面下方。保留轻微手持起伏，推进柔和连续。\n\n2—4.5秒：\n画外拍摄者的一只手短暂从画面左下方进入，轻碰人物腰侧衣料后退出。人物察觉后转头看向镜头，接着转肩、侧身，用手臂支撑身体，逐渐露出正脸。摄影机顺着人物动作向上抬镜，从肩背移动到脸与上半身，并小幅横向调整构图，始终保持床侧较高机位的斜俯拍。人物转身与镜头跟随衔接自然。\n\n4.5—6秒：\n人物侧身调整姿势，双膝自然弯曲并拢。摄影机做一次清晰、连续、略快的向下摇镜，取景从脸部经过上身落到弯曲的膝腿处，脸从画面上方退出；到达膝腿位置时短暂减速。运动中允许少量真实动态模糊和轻微手腕侧倾。\n\n6—7.5秒：\n镜头立即沿原路径反向上摇，从膝腿经过上身回到脸与肩部，动作连贯柔顺。人物轻轻抬手整理耳侧头发，视线由下方重新抬向镜头，表情自然，带一点疑惑和亲近感。\n\n7.5—10秒：\n摄影机小幅后撤，将构图放宽到头顶至大腿上部。人物侧身倚靠枕头，双手自然安放，继续看向镜头。镜头逐渐减速，在床侧斜俯拍位置停留，以细微的手持漂移结束。\n\n运镜重点：前段缓慢靠近，中段下摇与上摇稍快，结尾轻退放缓。相机移动、人物转身和取景变化保持空间连续，床、枕头及房间位置稳定。\n\n避免：切镜、转场、180度环绕、360度滚转、画面倒置、突然数字变焦、过度抖动、人物瞬移、脸部变化、服装变化、肢体畸形、多余手指、第二位完整人物入镜、字幕、水印。画外手仅在触碰时短暂出现，随后完全退出。",
+    "sourceRange": {
+      "start": 39,
+      "end": 858
+    },
+    "translations": {
+      "zh": "10秒9:16手机一镜到底视频。参考角色卡人物与卧室床景。0-2秒俯拍推向腰背；2-4.5秒画外手轻触腰部，人物转身回眸；4.5-6秒镜头下摇至膝腿；6-7.5秒上摇回面部，人物理发微笑；7.5-10秒微退定格倚枕姿势。保持真实自然与空间连贯。",
+      "en": "10s 9:16 vertical continuous handheld phone shot in a bedroom. 0-2s: push-in from feet to back. 2-4.5s: off-camera hand touches waist; woman turns to face camera. 4.5-6s: tilt down to knees. 6-7.5s: tilt back up to face as she tucks hair. 7.5-10s: slight pull-back resting against pillows. Smooth handheld movement."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "image-to-video",
+    "useCase": "约拍摄影风格的人像运镜视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
