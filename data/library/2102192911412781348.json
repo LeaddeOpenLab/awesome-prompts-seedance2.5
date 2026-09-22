@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:26:33.723Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: A tatami room, 16:9. Locked three-quarter on a six-fold gold-leaf byobu standing in a zigzag. The gold is plain — no painted scene, no famous composition. An adult is not in frame. No readable writing.\n\nACTION: The gold starts dim. A cooler band of window daylight slides across the folds as if a shutter opened, then holds. Light faces and shadow faces of the folds stay in place. The screen does not walk. This is not a wipe.\n\nFOCUS: Tack-sharp on the gold leaf grain and one fold edge at center. Far tatami is one stop soft.\n\nPHYSICS: Gold reflects. It does not sparkle like glitter. The screen has weight and stays planted. No CGI shimmer loop.\n\nLIGHT: One window from the left. Specular runs along the gold, then settles. No museum even-fill. No electric color.\n\nSTYLE: Photoreal cinematic, period Japan, gold leaf and lacquered frame, soft grain. No anime. No text. No watermark. No logos.",
+  "promptTranslations": {
+    "en": "SCENE: A tatami room, 16:9. Locked three-quarter on a six-fold gold-leaf byobu standing in a zigzag. The gold is plain — no painted scene, no famous composition. An adult is not in frame. No readable writing.\\n\\nACTION: The gold starts dim. A cooler band of window daylight slides across the folds as if a shutter opened, then holds. Light faces and shadow faces of the folds stay in place. The screen does not walk. This is not a wipe.\\n\\nFOCUS: Tack-sharp on the gold leaf grain and one fold edge at center. Far tatami is one stop soft.\\n\\nPHYSICS: Gold reflects. It does not sparkle like glitter. The screen has weight and stays planted. No CGI shimmer loop.\\n\\nLIGHT: One window from the left. Specular runs along the gold, then settles. No museum even-fill. No electric color.\\n\\nSTYLE: Photoreal cinematic, period Japan, gold leaf and lacquered frame, soft grain. No anime. No text. No watermark. No logos."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic text-to-video prompt for a traditional Japanese plain gold-leaf folding screen in a tatami room, capturing natural window daylight sweeping across the folds."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic text-to-video prompt for a traditional Japanese plain gold-leaf folding screen in a tatami room, capturing natural window daylight sweeping across the folds.",
+  "summaryEn": "Cinematic text-to-video prompt for a traditional Japanese plain gold-leaf folding screen in a tatami room, capturing natural window daylight sweeping across the folds.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102192911412781348",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2102192911412781348",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-22T00:27:01.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "ja",
+    "originalText": "I almost put a painting on this screen. The gold looked borrowed.\n最初は屏風に絵を入れかけた。金だけだと物足りないと思った。\n\nI took the painting out. Then the window light finally had somewhere to go.\nでも絵を外したら、光が走る場所ができた。残したのはそのテイクです。\n\nPROMPT (worked, as-is):\n\nSCENE: A tatami room, 16:9. Locked three-quarter on a six-fold gold-leaf byobu standing in a zigzag. The gold is plain — no painted scene, no famous composition. An adult is not in frame. No readable writing.\n\nACTION: The gold starts dim. A cooler band of window daylight slides across the folds as if a shutter opened, then holds. Light faces and shadow faces of the folds stay in place. The screen does not walk. This is not a wipe.\n\nFOCUS: Tack-sharp on the gold leaf grain and one fold edge at center. Far tatami is one stop soft.\n\nPHYSICS: Gold reflects. It does not sparkle like glitter. The screen has weight and stays planted. No CGI shimmer loop.\n\nLIGHT: One window from the left. Specular runs along the gold, then settles. No museum even-fill. No electric color.\n\nSTYLE: Photoreal cinematic, period Japan, gold leaf and lacquered frame, soft grain. No anime. No text. No watermark. No logos.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 15s / Sound Off / no Start frame\n効いているのはこの1行 → “The gold is plain — no painted scene.” 絵を足す前に、光の居場所を残す。\n\nSave this for your next shoot 🔖\n次の生成前に見返せるよう保存どうぞ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2102192911412781348",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102192838587129857/pu/img/uQgFEAweXElZUS8h.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2102192911412781348"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2102192911412781348",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102192838587129857/pu/img/uQgFEAweXElZUS8h.jpg",
+  "coverPath": "covers/2102192911412781348.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102192838587129857",
+    "x-post:2102192911412781348"
+  ],
+  "analysis": {
+    "summary": "Cinematic text-to-video prompt for a traditional Japanese plain gold-leaf folding screen in a tatami room, capturing natural window daylight sweeping across the folds.",
+    "summaryEn": "Cinematic text-to-video prompt for a traditional Japanese plain gold-leaf folding screen in a tatami room, capturing natural window daylight sweeping across the folds.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a six-fold plain gold-leaf byobu in a dim tatami room, with a soft band of daylight moving across the surface from the left side, exactly matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: A tatami room, 16:9. Locked three-quarter on a six-fold gold-leaf byobu standing in a zigzag. The gold is plain — no painted scene, no famous composition. An adult is not in frame. No readable writing.\n\nACTION: The gold starts dim. A cooler band of window daylight slides across the folds as if a shutter opened, then holds. Light faces and shadow faces of the folds stay in place. The screen does not walk. This is not a wipe.\n\nFOCUS: Tack-sharp on the gold leaf grain and one fold edge at center. Far tatami is one stop soft.\n\nPHYSICS: Gold reflects. It does not sparkle like glitter. The screen has weight and stays planted. No CGI shimmer loop.\n\nLIGHT: One window from the left. Specular runs along the gold, then settles. No museum even-fill. No electric color.\n\nSTYLE: Photoreal cinematic, period Japan, gold leaf and lacquered frame, soft grain. No anime. No text. No watermark. No logos.",
+    "sourceRange": {
+      "start": 233,
+      "end": 1135
+    },
+    "translations": {
+      "zh": "场景：榻榻米房间，16:9。固定四分之三机位拍摄呈折线展开的六曲纯金箔屏风。画面无人物、无文字。\n\n动作：金箔起初昏暗，随后一道清冷的窗外天光掠过折面后停驻，明暗面保持静止。\n\n对焦与物理：中心折边及金箔纹理清晰。金箔真实反光而非亮片闪烁，屏风稳固无位移。\n\n光影与风格：单侧窗光，真实反光蔓延后稳定。日本传统时期写实电影质感，带微弱颗粒。",
+      "en": "SCENE: A tatami room, 16:9. Locked three-quarter on a six-fold gold-leaf byobu standing in a zigzag. The gold is plain — no painted scene, no famous composition. An adult is not in frame. No readable writing.\n\nACTION: The gold starts dim. A cooler band of window daylight slides across the folds as if a shutter opened, then holds. Light faces and shadow faces of the folds stay in place. The screen does not walk. This is not a wipe.\n\nFOCUS: Tack-sharp on the gold leaf grain and one fold edge at center. Far tatami is one stop soft.\n\nPHYSICS: Gold reflects. It does not sparkle like glitter. The screen has weight and stays planted. No CGI shimmer loop.\n\nLIGHT: One window from the left. Specular runs along the gold, then settles. No museum even-fill. No electric color.\n\nSTYLE: Photoreal cinematic, period Japan, gold leaf and lacquered frame, soft grain. No anime. No text. No watermark. No logos."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

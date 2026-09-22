@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:07.104Z",
+  "model": "seedance2.5",
+  "prompt": "日本の猫カフェ。\nさくらは淡いセージグリーンのトップス＋アイボリー系パンツ。\n\n前半：気になるキジトラ系の短毛ミックス猫に少しずつ近づく→手を差し出す→猫は視線を外す／毛づくろい／少し場所を移動→さくらは追うのをやめる。\n\n後半：さくらがもう猫を見ていない状態から、猫の方がゆっくり距離を縮める→足元まで来る→手の匂いを嗅ぐ→一度だけ軽く撫でる→近くで落ち着く。\n\nCamera：友達による素人の手持ち撮影。固定禁止。猫の動きに0.3〜0.8秒遅れて追従、軽い手ブレ、立ち位置・高さ変更、短いAF迷い。猫→さくら→手元へ自然に視線が移るカメラ。完璧なジンバル感なし。\n\nActing：大げさな喜怒哀楽なし。視線、手を引く、肩の力を抜く、口元が少し緩む程度。\n\nSound：店内環境音＋猫の足音・衣擦れのみ。\nセリフ、人の声、撮影者の声、口パク、字幕、テロップ、ナレーション禁止。\n\nContinuity：同じさくら、同じ衣装、同じ猫、同じ猫カフェ空間を維持。\n猫を芸達者にしない。急に懐かせない。過剰演技・映画的演出・長尺固定・不要なハプニング禁止。",
+  "promptTranslations": {
+    "en": "A Japanese cat café.\nSakura is wearing a pale sage green top and ivory pants.\n\nFirst half: She gradually approaches a brown tabby short-haired mixed-breed cat that caught her attention -> extends her hand -> the cat averts its gaze / grooms itself / moves slightly away -> Sakura stops pursuing it.\n\nSecond half: While Sakura is no longer looking at the cat, the cat slowly closes the distance on its own -> comes up to her feet -> sniffs her hand -> she strokes it lightly just once -> it settles down nearby.\n\nCamera: Amateur handheld shooting by a friend. No static shots. Follows the cat's movements with a 0.3–0.8 second delay, slight camera shake, changes in standing position and height, brief autofocus hunting. The camera naturally shifts its gaze from cat -> Sakura -> hands. No flawless gimbal feel.\n\nActing: No exaggerated emotional displays. Limited to glances, pulling back the hand, relaxing the shoulders, and the mouth slightly softening.\n\nSound: Only store ambient sounds + cat footsteps and rustling clothes.\nNo dialogue, human voices, cameraman's voice, lip-syncing, subtitles, on-screen text, or narration.\n\nContinuity: Maintain the same Sakura, same outfit, same cat, and same cat café space.\nDo not make the cat act like a trained performer. Do not make it suddenly affectionate. No overacting, cinematic staging, prolonged fixed shots, or unnecessary incidents."
+  },
+  "summaryTranslations": {
+    "en": "A handheld-style prompt depicting a woman and a brown tabby cat naturally closing the distance between each other in a Japanese cat café."
+  },
+  "translationVersion": 2,
+  "summary": "日本の猫カフェで女性とキジトラ猫が自然に距離を縮める様子を描いた手持ち撮影風のプロンプト。",
+  "summaryEn": "A prompt describing a natural, amateur handheld video of a woman bonding with a tabby cat in a Japanese cat cafe.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101912827502248219",
+      "canonicalUrl": "https://x.com/akiyoshisan/status/2101912827502248219",
+      "author": {
+        "username": "akiyoshisan",
+        "displayName": "右よし左よし秋よし@AIエンタメ",
+        "profileUrl": "https://x.com/akiyoshisan"
+      },
+      "originalText": "Dreamina2.5 / 16:9 / 480p / 24fps\n友達とゲームセンターへ。\n狙うのは、クレーンゲームの中にいる小さなぬいぐるみ。\n\n何度か位置を確認して、慎重に操作。\n取れそうで取れない距離感。\n横から友達がスマホで撮っているような、少し揺れる素人っぽいカメラ。\n\n成功した瞬間も大げさに喜ばず、\n「取れた」という実感が少し遅れて表情に出るくらい。\n\n映画的に作り込みすぎない。\n演技しすぎない。\nカメラを完璧にしない。\n日常の中で偶然撮れたような空気感を優先。\n #DreaminaCPP @dreamina_cpp"
+    },
+    "id": "2102214977033818514",
+    "canonicalUrl": "https://x.com/akiyoshisan/status/2102214977033818514",
+    "author": {
+      "username": "akiyoshisan",
+      "displayName": "右よし左よし秋よし@AIエンタメ",
+      "profileUrl": "https://x.com/akiyoshisan"
+    },
+    "publishedAt": "2026-09-22T01:54:42.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "ja",
+    "originalText": "Seedance 2.5｜16:9｜480p｜24fps｜\n日本の猫カフェ。\nさくらは淡いセージグリーンのトップス＋アイボリー系パンツ。\n\n前半：気になるキジトラ系の短毛ミックス猫に少しずつ近づく→手を差し出す→猫は視線を外す／毛づくろい／少し場所を移動→さくらは追うのをやめる。\n\n後半：さくらがもう猫を見ていない状態から、猫の方がゆっくり距離を縮める→足元まで来る→手の匂いを嗅ぐ→一度だけ軽く撫でる→近くで落ち着く。\n\nCamera：友達による素人の手持ち撮影。固定禁止。猫の動きに0.3〜0.8秒遅れて追従、軽い手ブレ、立ち位置・高さ変更、短いAF迷い。猫→さくら→手元へ自然に視線が移るカメラ。完璧なジンバル感なし。\n\nActing：大げさな喜怒哀楽なし。視線、手を引く、肩の力を抜く、口元が少し緩む程度。\n\nSound：店内環境音＋猫の足音・衣擦れのみ。\nセリフ、人の声、撮影者の声、口パク、字幕、テロップ、ナレーション禁止。\n\nContinuity：同じさくら、同じ衣装、同じ猫、同じ猫カフェ空間を維持。\n猫を芸達者にしない。急に懐かせない。過剰演技・映画的演出・長尺固定・不要なハプニング禁止。\n @dreamina_cpp #DreaminaCPP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2102214977033818514",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102214858657931264/img/Mj07By0L73zL3rDm.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2102214977033818514"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/akiyoshisan/status/2102214977033818514",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101912686439395328/img/4eLCWZm2NQW5RI_a.jpg",
+        "analysisUrl": "https://x.com/akiyoshisan/status/2102214977033818514",
+        "sourcePostId": "2101912827502248219"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 146
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/akiyoshisan/status/2102214977033818514",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102214858657931264/img/Mj07By0L73zL3rDm.jpg",
+  "coverPath": "covers/2102214977033818514.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102214858657931264",
+    "x-video:2101912686439395328",
+    "x-post:2102214977033818514",
+    "x-post:2101912827502248219"
+  ],
+  "analysis": {
+    "summary": "日本の猫カフェで女性とキジトラ猫が自然に距離を縮める様子を描いた手持ち撮影風のプロンプト。",
+    "summaryEn": "A prompt describing a natural, amateur handheld video of a woman bonding with a tabby cat in a Japanese cat cafe.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中的猫咪咖啡馆场景、女性服装（鼠尾草绿上衣与浅色裤子）、虎斑猫的外貌及两人互动过程与手持镜头风格均与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "日本の猫カフェ。\nさくらは淡いセージグリーンのトップス＋アイボリー系パンツ。\n\n前半：気になるキジトラ系の短毛ミックス猫に少しずつ近づく→手を差し出す→猫は視線を外す／毛づくろい／少し場所を移動→さくらは追うのをやめる。\n\n後半：さくらがもう猫を見ていない状態から、猫の方がゆっくり距離を縮める→足元まで来る→手の匂いを嗅ぐ→一度だけ軽く撫でる→近くで落ち着く。\n\nCamera：友達による素人の手持ち撮影。固定禁止。猫の動きに0.3〜0.8秒遅れて追従、軽い手ブレ、立ち位置・高さ変更、短いAF迷い。猫→さくら→手元へ自然に視線が移るカメラ。完璧なジンバル感なし。\n\nActing：大げさな喜怒哀楽なし。視線、手を引く、肩の力を抜く、口元が少し緩む程度。\n\nSound：店内環境音＋猫の足音・衣擦れのみ。\nセリフ、人の声、撮影者の声、口パク、字幕、テロップ、ナレーション禁止。\n\nContinuity：同じさくら、同じ衣装、同じ猫、同じ猫カフェ空間を維持。\n猫を芸達者にしない。急に懐かせない。過剰演技・映画的演出・長尺固定・不要なハプニング禁止。",
+    "sourceRange": {
+      "start": 30,
+      "end": 505
+    },
+    "translations": {
+      "zh": "日本猫咪咖啡馆。小樱身穿淡鼠尾草绿上衣与象牙白长裤。前半段：渐渐靠近在意的虎斑短毛混血猫并伸手，猫移开视线梳毛后挪动位置，小樱放弃跟随。后半段：小樱不再看向猫，猫反而慢慢缩短距离靠近脚边，嗅手部气味后被轻轻抚摸一次，随后在身边安顿。镜头：朋友手持抓拍，轻微抖动与跟焦迟滞。表演克制自然，仅保留环境音与猫爪、衣物摩擦声。",
+      "en": "A Japanese cat cafe. Sakura wears a pale sage green top and ivory pants. First half: She approaches a tabby cat and extends a hand; the cat grooms and moves away; she stops pursuing. Second half: Sakura looks away, but the cat slowly approaches her feet, sniffs her hand, receives a gentle pet, and settles nearby. Camera: Amateur handheld by a friend with subtle shake and delayed tracking. Restrained acting and natural ambient sound only."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "realistic video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
