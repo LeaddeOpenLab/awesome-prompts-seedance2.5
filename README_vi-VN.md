@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**214** Prompt · Bổ sung mới nhất: **2026-09-23**
+**220** Prompt · Bổ sung mới nhất: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -466,22 +466,100 @@ Truyện tranh / Bảng phân cảnh · Nhiếp ảnh · Nhân vật · Đã xu�
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Đang dịch
+
+Tác giả：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Bài gốc](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102572922674225517.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Đang dịch
+
+Tác giả：[@aiwithaayat](https://x.com/aiwithaayat) · [Bài gốc](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Nhóm / Cặp đôi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102607673501892691.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Đang dịch
+
+Tác giả：[@AynahhX](https://x.com/AynahhX) · [Bài gốc](https://x.com/AynahhX/status/2102582169747300545)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102582169747300545.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### Dưới góc máy cận cảnh, những ngón tay của người trưởng thành đặt chuẩn xác một quân cờ vây màu đen lên giao điểm của bàn cờ gỗ.
 
 Tác giả：[@studiokagurajp](https://x.com/studiokagurajp) · [Bài gốc](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Dưới góc máy cận cảnh, những ngón tay của người trưởng thành đặt chuẩn xác một quân cờ vây màu đen lên giao điểm của bàn cờ gỗ.
 
 <img src="covers/2102535561278001202.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+CẢNH: Bàn cờ vây bằng gỗ, tỉ lệ 16:9. Cận cảnh cố định vào các giao điểm trống, chỉ có lưới cờ. Một quân cờ vây màu đen lồi làm từ đá phiến được giữ giữa các ngón tay của người trưởng thành ở độ tuổi ba mươi. Một âu cờ bằng gỗ đơn giản đặt mờ nhẹ ở rìa xa. Gương mặt ở ngoài khung hình. Không có chữ viết trên bàn cờ. Không có chữ khảm. Không có độ bóng của nhựa.
+
+HÀNH ĐỘNG: Một lần đặt quân. Quân cờ đen được đặt xuống một giao điểm duy nhất và nằm yên. Các ngón tay hơi rút lại rồi giữ nguyên. Không có quân cờ thứ hai. Không có quân trắng. Không có động tác gạt bàn cờ.
+
+TIÊU ĐIỂM: Cực kỳ sắc nét ở rìa quân cờ, vân gỗ tại điểm đặt và da đầu ngón tay. Phần còn lại của bàn cờ mềm mờ đi một stop.
+
+VẬT LÝ: Quân cờ có trọng lượng. Nó gõ cạch xuống gỗ và nằm yên. Không bay lơ lửng hay trượt vào vị trí. Không có lực hút nam châm.
+
+ÁNH SÁNG: Ánh sáng cửa sổ từ bên trái, chỉ tạo một đốm sáng phản chiếu nhỏ trên bề mặt gỗ đã đánh bóng.
+
+PHONG CÁCH: Điện ảnh chân thực, bối cảnh Nhật Bản thời kỳ cổ, đá phiến và gỗ mòn, hạt nhiễu nhẹ. Không phong cách anime. Không có văn bản. Không có hình mờ. Không có logo.
+
+ÂM THANH: Chỉ có hiệu ứng âm thanh nội tại trong cảnh (Diegetic SFX). Không có âm nhạc. Không có nhạc nền. Không có tiếng hát. Không có lời thoại. Không có lời dẫn chuyện. Một tiếng lách cách của quân cờ chạm vào gỗ. Sau đó là sự tĩnh lặng. Không có tiếng lách cách thứ hai.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4406,6 +4484,28 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### Đang dịch
+
+Tác giả：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Bài gốc](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102606014692708368.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Chuỗi hoạt hình anime 2D sakuga keyframe đầy kịch tính mô tả Maki Zen'in chuyển từ bản phác thảo storyboard thô sang cảnh chiến đấu hành động đầy đủ màu sắc.
@@ -4834,6 +4934,28 @@ Tổng thể chuyển động gọn gàng, dứt khoát, đầy tính bùng nổ
 
 ## Cổ điển / Cổ điển
 
+<a name="prompt-2102606380863472099"></a>
+
+### Đang dịch
+
+Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Cổ điển / Cổ điển · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102606380863472099.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### Lời nhắc mô tả một video DV cổ điển dài 30 giây về một phụ nữ Hàn Quốc đi dạo ở Seoul, rửa mặt, ăn kẹo mút và chào hỏi hàng xóm.
@@ -4920,6 +5042,28 @@ Truyện tranh / Bảng phân cảnh · Chủ nghĩa tối giản · Nhân vật
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2102586248498196843"></a>
+
+### Đang dịch
+
+Tác giả：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Bài gốc](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102586248498196843.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

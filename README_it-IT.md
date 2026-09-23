@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**214** Prompt · Ultima aggiunta: **2026-09-23**
+**220** Prompt · Ultima aggiunta: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -464,22 +464,100 @@ Traduzione in corso
 
 ## Fermo immagine cinematografico / Still fotografico
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Traduzione in corso
+
+Autore：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Post originale](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102572922674225517.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Traduzione in corso
+
+Autore：[@aiwithaayat](https://x.com/aiwithaayat) · [Post originale](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Gruppo / Coppia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102607673501892691.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Traduzione in corso
+
+Autore：[@AynahhX](https://x.com/AynahhX) · [Post originale](https://x.com/AynahhX/status/2102582169747300545)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102582169747300545.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### In un primo piano, le dita di un adulto posizionano con precisione una pietra nera da go sull'intersezione di una tavola di legno.
 
 Autore：[@studiokagurajp](https://x.com/studiokagurajp) · [Post originale](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** In un primo piano, le dita di un adulto posizionano con precisione una pietra nera da go sull'intersezione di una tavola di legno.
 
 <img src="covers/2102535561278001202.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+SCENA: Tavola da go in legno, 16:9. Primo piano fisso su intersezioni vuote, solo la griglia. Una pietra da go convessa color nero ardesia è tenuta tra le dita di un adulto sui trent'anni. Una semplice ciotola di legno riposa morbida sul bordo lontano. Volto fuori campo. Nessuna scritta sul tabellone. Nessun testo intarsiato. Nessun riflesso di plastica.
+
+AZIONE: Un singolo posizionamento. La pietra nera viene poggiata su una singola intersezione e vi rimane. Le dita si ritirano leggermente e rimangono ferme. Nessuna seconda pietra. Nessuna pietra bianca. Nessuna spazzata del tabellone.
+
+MESSA A FUOCO: Estremamente nitida sul bordo della pietra, sulle venature del legno del punto e sulla pelle del polpastrello. Il resto della tavola è sfocato di uno stop.
+
+FISICA: La pietra ha peso. Fa clic sul legno e vi si assesta. Non fluttua né scivola in posizione. Nessuno scatto magnetico.
+
+LUCE: Luce dalla finestra da sinistra, solo un piccolo riflesso speculare sul legno lucido.
+
+STILE: Cinematografico fotorealistico, Giappone d'epoca, pietra d'ardesia e legno consumato, grana morbida. Niente anime. Nessun testo. Nessun watermark. Nessun logo.
+
+AUDIO: Solo effetti sonori diegetici. Nessuna musica. Nessuna colonna sonora. Nessun canto. Nessun discorso. Nessuna narrazione. Un singolo clic di pietra su legno. Poi silenzio. Nessun secondo clic.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4299,6 +4377,28 @@ Evitare: stile cartone animato, aspetto CGI, pelle di plastica, viso irrealistic
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### Traduzione in corso
+
+Autore：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Post originale](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102606014692708368.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Sequenza anime 2D sakuga di fotogrammi chiave ad alto numero di ottani con Maki Zen'in che passa da bozzetti grezzi di storyboard a un combattimento d'azione a colori.
@@ -4727,6 +4827,28 @@ I movimenti complessivi sono puliti, decisi ed esplosivi, con un ritmo di ripres
 
 ## Retro / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Traduzione in corso
+
+Autore：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Post originale](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retro / Vintage · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102606380863472099.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### Il prompt descrive un video retrò in DV di 30 secondi di una donna coreana che cammina a Seul, si lava la faccia, mangia un lecca-lecca e saluta i vicini.
@@ -4813,6 +4935,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2102586248498196843"></a>
+
+### Traduzione in corso
+
+Autore：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Post originale](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102586248498196843.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

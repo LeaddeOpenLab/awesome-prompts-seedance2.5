@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T04:35:30.610Z",
+  "model": "seedance",
+  "prompt": "A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.",
+  "promptTranslations": {
+    "en": "A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.",
+  "summaryEn": "Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102607673501892691",
+    "canonicalUrl": "https://x.com/aiwithaayat/status/2102607673501892691",
+    "author": {
+      "username": "aiwithaayat",
+      "displayName": "Ayat",
+      "profileUrl": "https://x.com/aiwithaayat"
+    },
+    "publishedAt": "2026-09-23T03:55:08.000Z",
+    "collectedAt": "2026-09-23T04:16:30.023Z",
+    "language": "en",
+    "originalText": "Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. \n\nCreated on seedance 2.0\n\n Prompt\n\nA beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aiwithaayat/status/2102607673501892691",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg",
+        "analysisUrl": "https://x.com/aiwithaayat/status/2102607673501892691"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 149
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/aiwithaayat/status/2102607673501892691",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg",
+  "coverPath": "covers/2102607673501892691.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102607613376811008",
+    "x-post:2102607673501892691"
+  ],
+  "analysis": {
+    "summary": "Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.",
+    "summaryEn": "Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches all aspects: coastal Korean town, tram crossing, boy in leather jacket, girl in trench coat, and eye contact at golden hour."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.",
+    "sourceRange": {
+      "start": 127,
+      "end": 907
+    },
+    "translations": {
+      "zh": "一位留着黑色长直发的漂亮韩国女孩在黄昏时刻漫步在宁静的海滨韩国小镇，身穿时尚的米色风衣，手提手袋。一名身穿深色皮夹克的英俊韩国男孩站在铁道口旁，一辆复古电车缓缓驶过。女孩沿着海滨街道慢慢走向他，温暖的阳光洒在她的脸上。电影感镜头运动，自然的行走动态，逼真的面部表情，柔和的海风和细致的韩国街道风光。以温柔浪漫的氛围、浅景深、暖色调和逼真画质捕捉两人的初次对视。创作一段15秒具有平滑转场、自然光影与情感叙事的唯美电影级爱情故事。",
+      "en": "A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling."
+    },
+    "targetModels": [
+      "seedance"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic romantic video generation featuring a couple crossing paths by a coastal railway.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

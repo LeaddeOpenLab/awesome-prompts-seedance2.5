@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**214** Prompts · Dernier ajout: **2026-09-23**
+**220** Prompts · Dernier ajout: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -464,22 +464,100 @@ Traduction en cours
 
 ## Image cinématographique / Photogramme de film
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Traduction en cours
+
+Auteur：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publication originale](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Image cinématographique / Photogramme de film · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102572922674225517.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Traduction en cours
+
+Auteur：[@aiwithaayat](https://x.com/aiwithaayat) · [Publication originale](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Image cinématographique / Photogramme de film · Personnage · Groupe / Couple · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102607673501892691.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Traduction en cours
+
+Auteur：[@AynahhX](https://x.com/AynahhX) · [Publication originale](https://x.com/AynahhX/status/2102582169747300545)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102582169747300545.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### En gros plan, les doigts d'un adulte posent avec précision une pierre de go noire sur l'intersection d'un plateau en bois.
 
 Auteur：[@studiokagurajp](https://x.com/studiokagurajp) · [Publication originale](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** En gros plan, les doigts d'un adulte posent avec précision une pierre de go noire sur l'intersection d'un plateau en bois.
 
 <img src="covers/2102535561278001202.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+SCÈNE : Goban en bois, 16:9. Gros plan fixe sur des intersections vides, uniquement la grille. Une pierre de go convexe noir ardoise est tenue entre les doigts d'un adulte, trentenaire. Un simple bol en bois repose avec douceur au bord opposé. Visage hors cadre. Aucune inscription sur le plateau. Aucun texte incrusté. Aucun reflet plastique.
+
+ACTION : Un seul placement. La pierre noire est posée sur une unique intersection et y reste. Les doigts se retirent légèrement et s'immobilisent. Pas de deuxième pierre. Pas de pierre blanche. Aucun balayage du plateau.
+
+MISE AU POINT : D'une netteté absolue sur le bord de la pierre, le grain du bois du point et la peau du bout des doigts. Le reste du plateau est un diaphragme plus doux.
+
+PHYSIQUE : La pierre a du poids. Elle claque sur le bois et s'installe. Elle ne flotte pas et ne glisse pas pour se mettre en place. Aucun claquement magnétique.
+
+LUMIÈRE : Lumière venant d'une fenêtre sur la gauche, un petit reflet spéculaire sur le bois poli uniquement.
+
+STYLE : Cinématographique photoréaliste, Japon d'époque, pierre d'ardoise et bois usé, grain doux. Pas d'anime. Aucun texte. Aucun filigrane. Aucun logo.
+
+AUDIO : Effets sonores diégétiques uniquement. Aucune musique. Aucune bande originale. Aucun chant. Aucune parole. Aucune narration. Un seul clic de la pierre sur le bois. Puis le silence. Aucun second clic.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4285,6 +4363,28 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### Traduction en cours
+
+Auteur：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Publication originale](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102606014692708368.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Séquence d'anime 2D sakuga à clés d'animation survoltée mettant en scène Maki Zen'in passant d'esquisses de storyboard brutes à un combat d'action tout en couleurs.
@@ -4713,6 +4813,28 @@ L'ensemble des mouvements est net, tranchant et explosif, avec un rythme de cam�
 
 ## Rétro / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Traduction en cours
+
+Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Rétro / Vintage · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102606380863472099.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### Le prompt décrit une vidéo rétro en DV de 30 secondes d'une femme coréenne marchant dans Séoul, se lavant le visage, mangeant une sucette et saluant des voisins.
@@ -4799,6 +4921,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2102586248498196843"></a>
+
+### Traduction en cours
+
+Auteur：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publication originale](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2102586248498196843.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

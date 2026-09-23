@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**214** Prompts · Última adição: **2026-09-23**
+**220** Prompts · Última adição: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -450,22 +450,100 @@ Tradução em andamento
 
 ## Cinematográfico / Imagem de Filme
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Tradução em andamento
+
+Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicação original](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Cinematográfico / Imagem de Filme · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102572922674225517.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Tradução em andamento
+
+Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicação original](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Cinematográfico / Imagem de Filme · Personagem · Grupo / Casal · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102607673501892691.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Tradução em andamento
+
+Autor：[@AynahhX](https://x.com/AynahhX) · [Publicação original](https://x.com/AynahhX/status/2102582169747300545)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102582169747300545.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### Em close-up, os dedos de um adulto posicionam com precisão uma pedra de go preta na interseção de um tabuleiro de madeira.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Em close-up, os dedos de um adulto posicionam com precisão uma pedra de go preta na interseção de um tabuleiro de madeira.
 
 <img src="covers/2102535561278001202.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+CENA: Tabuleiro de go de madeira, 16:9. Close-up fixo em interseções vazias, apenas a grade. Uma pedra de go convexa em ardósia preta é segurada entre os dedos de um adulto na faixa dos trinta anos. Uma tigela de madeira simples repousa suavemente na borda distante. Rosto fora de quadro. Sem inscrições no tabuleiro. Sem texto embutido. Sem brilho de plástico.
+
+AÇÃO: Um único posicionamento. A pedra preta é colocada sobre uma única interseção e permanece. Os dedos se afastam ligeiramente e param. Nenhuma segunda pedra. Nenhuma pedra branca. Nada de varrer o tabuleiro.
+
+FOCO: Extremamente nítido na borda da pedra, nos veios de madeira do ponto e na pele da ponta do dedo. O restante do tabuleiro está um ponto mais suave.
+
+FÍSICA: A pedra tem peso. Ela estala sobre a madeira e se assenta. Não flutua nem desliza até o lugar. Sem clique magnético.
+
+LUZ: Luz de janela vinda da esquerda, apenas um pequeno reflexo especular na madeira polida.
+
+ESTILO: Cinematográfico fotorrealista, Japão de época, pedra de ardósia e madeira gasta, granulação suave. Sem anime. Sem texto. Sem marcas d'água. Sem logotipos.
+
+ÁUDIO: Apenas efeitos sonoros diegéticos. Sem música. Sem trilha sonora. Sem cantos. Sem falas. Sem narração. Um estalo da pedra na madeira. Depois silêncio. Nenhum segundo estalo.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4293,6 +4371,28 @@ Evite: estilo de desenho animado, aparência de CGI, pele de plástico, rosto ir
 
 ## Anime / Mangá
 
+<a name="prompt-2102606014692708368"></a>
+
+### Tradução em andamento
+
+Autor：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Publicação original](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Mangá · Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102606014692708368.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Sequência de anime 2D sakuga de quadros-chave em alta voltagem apresentando Maki Zen'in em transição de esboços de storyboard para combate de ação em cores plenas.
@@ -4721,6 +4821,28 @@ Toda a ação é limpa, incisiva e explosiva, com ritmo de câmera acelerado; a 
 
 ## Retrô / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Tradução em andamento
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retrô / Vintage · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102606380863472099.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### O prompt descreve um vídeo retrô em DV de 30 segundos de uma mulher coreana caminhando em Seul, lavando o rosto, comendo um pirulito e cumprimentando vizinhos.
@@ -4807,6 +4929,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2102586248498196843"></a>
+
+### Tradução em andamento
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicação original](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2102586248498196843.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**214** Prompts · Zuletzt hinzugefügt: **2026-09-23**
+**220** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -464,22 +464,100 @@ Comic / Storyboard · Fotografie · Charakter · Veröffentlicht
 
 ## Kinematisch / Filmstill
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Übersetzung läuft
+
+Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Originalbeitrag](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Kinematisch / Filmstill · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102572922674225517.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Übersetzung läuft
+
+Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Originalbeitrag](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Kinematisch / Filmstill · Charakter · Gruppe / Paar · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102607673501892691.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Übersetzung läuft
+
+Autor：[@AynahhX](https://x.com/AynahhX) · [Originalbeitrag](https://x.com/AynahhX/status/2102582169747300545)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102582169747300545.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### In einer Nahaufnahme platzieren die Finger eines Erwachsenen präzise einen schwarzen Go-Stein auf dem Schnittpunkt eines hölzernen Go-Bretts.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Originalbeitrag](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** In einer Nahaufnahme platzieren die Finger eines Erwachsenen präzise einen schwarzen Go-Stein auf dem Schnittpunkt eines hölzernen Go-Bretts.
 
 <img src="covers/2102535561278001202.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+SZENE: Go-Brett aus Holz, 16:9. Feste Nahaufnahme auf leere Schnittpunkte, nur das Gitter. Ein schieferfarbener, konvexer schwarzer Go-Stein wird zwischen den Fingern eines Erwachsenen in den Dreißigern gehalten. Eine einfache Holzschale liegt unscharf am entfernten Rand. Gesicht außerhalb des Bildes. Keine Schrift auf dem Brett. Kein eingelegter Text. Kein Plastikglanz.
+
+AKTION: Ein einzelnes Setzen. Der schwarze Stein wird auf einen einzelnen Schnittpunkt gesetzt und bleibt liegen. Die Finger ziehen sich ein wenig zurück und verharren. Kein zweiter Stein. Kein weißer Stein. Kein Wischen über das Brett.
+
+FOKUS: Gestochen scharf auf der Steinkante, der Holzmaserung des Punktes und der Haut der Fingerkuppe. Der Rest des Bretts ist um eine Blendenstufe weicher gestellt.
+
+PHYSIK: Der Stein hat Gewicht. Er klickt auf das Holz und sitzt fest. Er schwebt nicht und rutscht nicht an seinen Platz. Kein magnetisches Einrasten.
+
+LICHT: Fensterlicht von links, nur eine kleine Glanzreflexion auf dem polierten Holz.
+
+STIL: Fotorealistisch filmisch, historisches Japan, Schieferstein und abgenutztes Holz, feine Körnung. Kein Anime. Kein Text. Kein Wasserzeichen. Keine Logos.
+
+AUDIO: Nur diegetische Soundeffekte. Keine Musik. Kein Soundtrack. Kein Gesang. Keine Sprache. Keine Erzählung. Ein einzelnes Steinklicken auf Holz. Dann Stille. Kein zweites Klicken.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4285,6 +4363,28 @@ Vermeiden: Cartoon-Stil, CGI-Look, plastische Haut, unrealistisches Gesicht, une
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### Übersetzung läuft
+
+Autor：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Originalbeitrag](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102606014692708368.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Hochenergetische Sakuga-2D-Anime-Keyframe-Sequenz mit Maki Zen'in beim Übergang von groben Storyboard-Skizzen in Vollfarb-Actionkämpfe.
@@ -4713,6 +4813,28 @@ Die Bewegungen sind sauber, rasant und explosiv, das Kameratempo hoch; die erste
 
 ## Retro / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Übersetzung läuft
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retro / Vintage · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102606380863472099.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### Prompt beschreibt ein 30-sekündiges Retro-DV-Video einer koreanischen Frau, die durch Seoul spaziert, ihr Gesicht wäscht, einen Lutscher isst und Nachbarn grüßt.
@@ -4799,6 +4921,28 @@ Comic / Storyboard · Minimalismus · Charakter · Tier / Kreatur · Veröffentl
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2102586248498196843"></a>
+
+### Übersetzung läuft
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Originalbeitrag](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102586248498196843.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

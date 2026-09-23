@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**214** Prompts · Adição mais recente: **2026-09-23**
+**220** Prompts · Adição mais recente: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -450,22 +450,100 @@ Tradução em curso
 
 ## Cena de Cinema / Fotograma
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Tradução em curso
+
+Autor：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Publicação original](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Cena de Cinema / Fotograma · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102572922674225517.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Tradução em curso
+
+Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicação original](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Cena de Cinema / Fotograma · Personagem · Grupo / Casal · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102607673501892691.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Tradução em curso
+
+Autor：[@AynahhX](https://x.com/AynahhX) · [Publicação original](https://x.com/AynahhX/status/2102582169747300545)
+
+Cena de Cinema / Fotograma · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102582169747300545.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### Em grande plano, os dedos de um adulto colocam com precisão uma pedra de go preta na interseção de um tabuleiro de madeira.
 
 Autor：[@studiokagurajp](https://x.com/studiokagurajp) · [Publicação original](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Em grande plano, os dedos de um adulto colocam com precisão uma pedra de go preta na interseção de um tabuleiro de madeira.
 
 <img src="covers/2102535561278001202.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+CENA: Tabuleiro de go de madeira, 16:9. Grande plano fixo em interseções vazias, apenas a grelha. Uma pedra de go convexa em ardósia preta é segurada entre os dedos de um adulto na casa dos trinta anos. Uma simples taça de madeira repousa suavemente no bordo oposto. Rosto fora de campo. Sem inscrições no tabuleiro. Sem texto embutido. Sem brilho de plástico.
+
+AÇÃO: Um único posicionamento. A pedra preta é colocada sobre uma única interseção e permanece lá. Os dedos afastam-se ligeiramente e param. Nenhuma segunda pedra. Nenhuma pedra branca. Sem varrer o tabuleiro.
+
+FOCO: Extremamente nítido no bordo da pedra, no veio da madeira do ponto e na pele da ponta do dedo. O resto do tabuleiro está um stop mais suave.
+
+FÍSICA: A pedra tem peso. Clica na madeira e assenta. Não flutua nem desliza para o lugar. Sem clique magnético.
+
+LUZ: Luz de janela vinda da esquerda, apenas um pequeno reflexo especular na madeira polida.
+
+ESTILO: Cinematográfico fotorrealista, Japão de época, pedra de ardósia e madeira gasta, grão suave. Sem anime. Sem texto. Sem marcas de água. Sem logótipos.
+
+ÁUDIO: Apenas efeitos sonoros diegéticos. Sem música. Sem banda sonora. Sem canto. Sem falas. Sem narração. Um único clique de pedra sobre madeira. Depois silêncio. Nenhum segundo clique.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4293,6 +4371,28 @@ Evitar: estilo de desenho animado, aspeto de CGI, pele de plástico, rosto irrea
 
 ## Anime / Mangá
 
+<a name="prompt-2102606014692708368"></a>
+
+### Tradução em curso
+
+Autor：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Publicação original](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Mangá · Comida / Bebida · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102606014692708368.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Sequência de anime 2D sakuga de fotogramas-chave de alta voltagem com Maki Zen'in a transitar de esboços de storyboard para combate de ação a cores.
@@ -4721,6 +4821,28 @@ Os movimentos são limpos, vigorosos e explosivos, com um ritmo de câmara rápi
 
 ## Retrô / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Tradução em curso
+
+Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retrô / Vintage · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102606380863472099.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### O prompt descreve um vídeo retro em DV de 30 segundos de uma mulher coreana a caminhar em Seul, a lavar a cara, a comer um chupa-chupa e a cumprimentar vizinhos.
@@ -4807,6 +4929,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2102586248498196843"></a>
+
+### Tradução em curso
+
+Autor：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Publicação original](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2102586248498196843.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

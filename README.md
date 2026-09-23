@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**214** Prompts · Latest addition: **2026-09-23**
+**220** Prompts · Latest addition: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -527,6 +527,72 @@ Do not omit actively mounting the table or intentional interference; do not show
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2102572922674225517"></a>
+
+### Cinematic sequence of a pink-haired girl falling through a glass skyscraper and unleashing golden wing energy.
+
+Author：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Source](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Cinematic / Film Still · Character · Published
+
+**Summary:** Cinematic sequence of a pink-haired girl falling through a glass skyscraper and unleashing golden wing energy.
+
+<img src="covers/2102572922674225517.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Created a dramatic top-down shot of a pink-haired anime-style girl falling through a futuristic glass skyscraper at night, surrounded by reflections, lights, and intense motion blur. The camera rapidly rotates and follows her descent, then cut to a dark close-up where she looks calm and mysterious. Show detailed shots of her pink outfit, clenched hand, and flowing hair. Build tension with cinematic lighting and deep shadows, then transition into a powerful final shot where she flies forward toward the camera with glowing golden eyes, wind blowing through her hair, bright warm light and wings-like energy behind her. Ultra-detailed 3D anime cinematic style, realistic motion, smooth camera movement, dramatic depth of field, high-quality lighting, dynamic action, consistent character design, epic cinematic atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.
+
+Author：[@aiwithaayat](https://x.com/aiwithaayat) · [Source](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Cinematic / Film Still · Character · Group / Couple · Published
+
+**Summary:** Cinematic romantic scene of a Korean girl and boy exchanging glances near a coastal railway crossing at golden hour.
+
+<img src="covers/2102607673501892691.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Cinematic action sequence of Hulk facing off against a giant T-Rex in a dark, rainy tropical jungle.
+
+Author：[@AynahhX](https://x.com/AynahhX) · [Source](https://x.com/AynahhX/status/2102582169747300545)
+
+Cinematic / Film Still · Published
+
+**Summary:** Cinematic action sequence of Hulk facing off against a giant T-Rex in a dark, rainy tropical jungle.
+
+<img src="covers/2102582169747300545.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second cinematic, ultra-photorealistic fantasy action sequence set in a dense tropical jungle during a violent rainstorm. Show Hulk standing alone on a muddy jungle path, surrounded by towering trees, thick mist, and heavy rain → camera slowly moves toward him as his powerful presence fills the frame → suddenly, a gigantic realistic T-Rex emerges from the dark jungle behind him, shaking water from its massive body → Hulk slowly turns around and looks up at the enormous dinosaur → the T-Rex roars aggressively and charges forward → Hulk braces himself as the ground shakes beneath the creature’s footsteps → show a dramatic face-off between the giant dinosaur and Hulk → end with a wide cinematic shot showing both characters standing in the rain, surrounded by mist and destroyed vegetation. Ultra-realistic live-action VFX, highly detailed skin and muscle textures, realistic dinosaur scales, natural creature movement, realistic rain and water splashes, wet muddy ground, atmospheric fog, dramatic storm clouds, volumetric lighting, cinematic depth of field, dynamic camera movement, subtle handheld camera shake, realistic physics, epic scale, dark green and blue cinematic color grading, blockbuster monster-movie atmosphere, seamless transitions, extremely detailed, photorealistic, 4K cinematic quality. No text, subtitles, logos, watermark, or UI.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102535561278001202"></a>
 
@@ -5678,6 +5744,70 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### 30-second anime-style cooking timeline prompt for authentic katsudon preparation.
+
+Author：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Source](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Food / Drink · Published
+
+**Summary:** 30-second anime-style cooking timeline prompt for authentic katsudon preparation.
+
+<img src="covers/2102606014692708368.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
+
+IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
+
+STYLE
+
+High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
+
+TIMELINE
+
+0–2.5s — Prepare Pork Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
+
+2.5–5s — Bread the Pork Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
+
+5–7.5s — Fry Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
+
+7.5–9.5s — Slice Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
+
+9.5–12s — Simmer Dashi & Onion Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
+
+12–14s — Add Tonkatsu Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
+
+14–16.5s — Pour Egg Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
+
+16.5–19s — Set the Egg Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
+
+19–21s — Prepare Rice A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
+
+21–24s — Assemble Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
+
+24–26s — Final Close-Up The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
+
+26–30s — Hero Reveal Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
+
+AUDIO
+
+Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
+
+End with one delicate wind-chime tone during the final reveal.
+
+NEGATIVE
+
+No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### High-octane keyframe sakuga 2D anime sequence featuring Maki Zen'in transitioning from rough storyboard sketches into full-color action combat.
@@ -6867,6 +6997,50 @@ Chinese xianxia style, pure CG visual effects short film, 16:9, multi-shot monta
 
 ## Retro / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Vintage DV home video clip of a young woman drawing a smiley face on a fogged window inside a rainy Seoul apartment in the early morning.
+
+Author：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Source](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retro / Vintage · Character · Published
+
+**Summary:** Vintage DV home video clip of a young woman drawing a smiley face on a fogged window inside a rainy Seoul apartment in the early morning.
+
+<img src="covers/2102606380863472099.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing an oversized maroon hoodie and loose casual pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment during a dark, rainy early morning. A large rain-covered bedroom window overlooking blurred neighboring apartment buildings, wet rooftops and faint city lights. Simple wooden furniture, a small bedside table and a quiet lived-in bedroom.
+
+Lighting & Atmosphere: Deep early-morning blue-hour ambience. Cold blue-gray light coming through the rainy window with a very weak warm glow from a bedside lamp. Dark cloudy sky, muted colors, soft shadows, slightly underexposed interior and a peaceful sleepy atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:03 — WAKING WINDOW: She walks slowly toward the bedroom window, still sleepy, and gently pulls the curtain aside. The dark rainy Seoul morning is revealed.
+
+00:03–00:06 — CONDENSATION: She notices the glass is covered with condensation. She raises one finger and slowly wipes a small clear patch across the fogged window.
+
+00:06–00:09 — LITTLE DRAWING: She absentmindedly draws a tiny simple smiley face in the condensation with her fingertip. She looks at it for a moment with a faint amused smile.
+
+00:09–00:12 — RAIN: She leans closer to the cleared section and watches raindrops running down the glass. The camera gently moves closer, catching the blurred Seoul buildings beyond.
+
+00:12–00:15 — QUIET MOMENT: She rests her forehead lightly against the cool glass for a second, listening to the rain. She gives a tiny peaceful smile as the camera slowly drifts toward the rainy view and cuts.
+
+Audio: Natural location sound only—steady rain against the window, faint wind, distant traffic, subtle room ambience, soft footsteps and quiet fabric movement. No music, narration or added sound effects.
+
+Goal: Feel like a completely ordinary, intimate early-2000s home-video moment. Nothing dramatic happens; the atmosphere comes from the rainy window, condensation, her tiny smile and the quiet early morning. It should feel accidentally captured rather than deliberately performed.
+
+Motion quality: Keep her movements extremely natural and smooth, especially the finger moving through condensation and her slow approach to the window. Camera movement should remain gentle and continuous. No stuttering, judder, frame skipping, duplicated frames or artificial slow motion. The vintage appearance must come from authentic MiniDV image characteristics rather than reduced frame rate.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### Prompt describes a 30-second retro DV video of a Korean woman walking in Seoul, washing her face, eating a lollipop, and greeting neighbors.
@@ -7113,6 +7287,53 @@ Text remains clear and stable while on screen, free of typos, garbled characters
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2102586248498196843"></a>
+
+### 15-second continuous-shot commercial prompt depicting a seamless transition of a model's outfit and environment from casual everyday clothes in an apartment to a couture gown in a dark studio.
+
+Author：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Source](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Fashion Item · Published
+
+**Summary:** 15-second continuous-shot commercial prompt depicting a seamless transition of a model's outfit and environment from casual everyday clothes in an apartment to a couture gown in a dark studio.
+
+<img src="covers/2102586248498196843.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15-second, 16:9 cinematic luxury fashion commercial. Concept: FROM EVERYDAY TO ICON.
+
+Use the FIRST FRAME and FINAL FRAME as strict visual anchors. Keep the EXACT SAME GIRL throughout: identical face, hair color, hair length, facial features, body proportions and identity. One continuous forward walk, one continuous shot, no cuts, no teleportation, no sudden camera changes.
+
+0–4s — EVERYDAY:
+Start from the first-frame reference. A young woman stands in a bright modern apartment wearing a white T-shirt, blue straight-leg jeans and white low-top sneakers. Natural daylight enters through floor-to-ceiling windows. She naturally begins walking forward with calm confidence. Camera follows smoothly using a cinematic 35mm lens, maintaining a full-body or near-full-body composition. Natural expression, no exaggerated smile.
+
+4–8s — MATERIAL TRANSFORMATION:
+As she continues walking through a bright beam of sunlight, the transformation begins gradually. The cotton texture of her white T-shirt becomes progressively finer and more luxurious, naturally evolving toward a silky premium fabric. Her blue jeans gradually develop richer texture and a more sophisticated appearance. The transformation must happen continuously during her movement, never as an instant outfit change.
+
+8–11s — COUTURE EVOLUTION:
+While she keeps walking, the white T-shirt progressively transforms into an elegant black couture top, while the jeans naturally evolve into a flowing black couture skirt. Her white sneakers gradually transform into refined black high heels. Fabric must maintain realistic weight, folds, tension and movement. No flickering, disappearing clothing, clipping or extra limbs.
+
+11–13s — ENVIRONMENT TRANSFORMATION:
+Without cutting, the bright apartment environment gradually evolves around her. Walls, furniture and windows subtly darken and fade into a sophisticated dark fashion studio with soft cinematic lights and delicate atmospheric haze. It should feel like the space is being transformed around her, NOT like she has been teleported.
+
+13–15s — ICONIC HERO:
+She is now fully dressed in a stunning black couture gown and black heels. She reaches the center of the luxury fashion studio and slows to a stop. Camera transitions naturally from tracking to a subtle elegant arc as the gown flows around her. She turns slightly toward camera with a calm, confident fashion-editorial expression.
+
+End with a premium hero composition matching the final-frame reference: dark studio, elegant rim lighting outlining her hair, shoulders and couture silhouette. Camera slowly pulls back and settles into a refined luxury fashion campaign shot.
+
+STYLE:
+Photorealistic luxury fashion campaign, cinematic 35mm photography, premium editorial lighting, realistic skin and fabric texture, sophisticated black-and-white visual evolution, subtle atmospheric haze, shallow depth of field, physically accurate fabric movement, elegant restrained camera choreography.
+
+STRICT CONSISTENCY:
+Same girl, same face, same hair, same body proportions, same identity. One continuous forward walk. Clothing transformation must be gradual and physically believable. Environment transformation must be gradual and seamless. Correct anatomy, two arms, two hands, two legs and realistic feet.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 

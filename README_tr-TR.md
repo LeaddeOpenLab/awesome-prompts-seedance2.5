@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**214** Prompt · Son eklenen: **2026-09-23**
+**220** Prompt · Son eklenen: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -450,22 +450,100 @@ Yazar：[@john87445528](https://x.com/john87445528) · [Orijinal gönderi](https
 
 ## Sinematik / Film Karesi
 
-<a name="prompt-2102535561278001202"></a>
+<a name="prompt-2102572922674225517"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@Aiwithmaha](https://x.com/Aiwithmaha) · [Orijinal gönderi](https://x.com/Aiwithmaha/status/2102572922674225517)
+
+Sinematik / Film Karesi · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102572922674225517.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102607673501892691"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@aiwithaayat](https://x.com/aiwithaayat) · [Orijinal gönderi](https://x.com/aiwithaayat/status/2102607673501892691)
+
+Sinematik / Film Karesi · Karakter · Grup / Çift · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102607673501892691.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102582169747300545"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AynahhX](https://x.com/AynahhX) · [Orijinal gönderi](https://x.com/AynahhX/status/2102582169747300545)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102582169747300545.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102535561278001202"></a>
+
+### Yakın çekimde, bir yetişkinin parmakları ahşap bir go tahtasının kesişim noktasına siyah bir go taşını hassas bir şekilde yerleştiriyor.
 
 Yazar：[@studiokagurajp](https://x.com/studiokagurajp) · [Orijinal gönderi](https://x.com/studiokagurajp/status/2102535561278001202)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yakın çekimde, bir yetişkinin parmakları ahşap bir go tahtasının kesişim noktasına siyah bir go taşını hassas bir şekilde yerleştiriyor.
 
 <img src="covers/2102535561278001202.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+SAHNE: Ahşap go tahtası, 16:9. Boş kesişim noktalarına kilitlenmiş yakın çekim, yalnızca ızgara. Arduvaz siyahı dışbükey bir go taşı, otuzlu yaşlarında bir yetişkinin parmakları arasında tutuluyor. Uzak kenarda sade bir ahşap kase yumuşak bir şekilde duruyor. Yüz kadraj dışında. Tahta üzerinde yazı yok. Kakma metin yok. Plastik parlaklığı yok.
+
+EYLEM: Tek bir yerleştirme. Siyah taş tek bir kesişim noktasına konur ve öylece kalır. Parmaklar biraz geri çekilir ve bekler. İkinci bir taş yok. Beyaz taş yok. Tahtayı süpürmek yok.
+
+ODAK: Taşın kenarı, noktanın ahşap damarları ve parmak ucunun derisi üzerinde jilet gibi keskin. Tahtanın geri kalanı bir stop yumuşak.
+
+FİZİK: Taşın bir ağırlığı var. Ahşaba klik sesiyle oturur ve kalır. Havada durmaz veya yerine doğru kaymaz. Manyetik yapışma yok.
+
+IŞIK: Soldan gelen pencere ışığı, sadece cilalı ahşap üzerinde küçük bir ışıltı yansıması.
+
+STİL: Fotogerçekçi sinematik, dönem Japonyası, arduvaz taşı ve yıpranmış ahşap, yumuşak gren. Anime yok. Metin yok. Filigran yok. Logo yok.
+
+SES: Yalnızca diejetik ses efektleri. Müzik yok. Fon müziği yok. Şarkı söyleme yok. Konuşma yok. Anlatım yok. Ahşap üzerinde tek bir taş klik sesi. Ardından sessizlik. İkinci bir klik yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4293,6 +4371,28 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 
 ## Anime / Manga
 
+<a name="prompt-2102606014692708368"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Orijinal gönderi](https://x.com/Alyssa4aicreate/status/2102606014692708368)
+
+Anime / Manga · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102606014692708368.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101102219340972128"></a>
 
 ### Maki Zen'in'in kaba taslak storyboard çizimlerinden tam renkli aksiyon dövüşüne geçişini sergileyen yüksek tempolu ana kare sakuga 2D anime sekansı.
@@ -4721,6 +4821,28 @@ Tüm hareketler temiz, keskin ve patlayıcı güçtedir, kamera temposu hızlıd
 
 ## Retro / Vintage
 
+<a name="prompt-2102606380863472099"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2102606380863472099)
+
+Retro / Vintage · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102606380863472099.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101515497150025999"></a>
 
 ### İstem, Koreli bir kadının Seul'de yürüdüğü, yüzünü yıkadığı, lolipop yediği ve komşularını selamladığı 30 saniyelik retro bir DV videosunu tarif etmektedir.
@@ -4807,6 +4929,28 @@ Yazar：[@TanLuAI](https://x.com/TanLuAI) · [Orijinal gönderi](https://x.com/T
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2102586248498196843"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MeenakshiYACS](https://x.com/MeenakshiYACS) · [Orijinal gönderi](https://x.com/MeenakshiYACS/status/2102586248498196843)
+
+Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102586248498196843.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2102289833326772324"></a>
 
