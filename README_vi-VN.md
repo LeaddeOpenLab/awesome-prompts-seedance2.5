@@ -539,20 +539,20 @@ Tác giả：[@QAiStudio](https://x.com/QAiStudio) · [Bài gốc](https://x.com
 
 <a name="prompt-2102641743669961207"></a>
 
-### Đang dịch
+### Một lời nhắc mang đậm chất điện ảnh mô tả một phụ nữ châu Á đang chỉnh khăn trùm đầu bên cạnh lò nướng ngoài trời và những cảnh quay macro chi tiết về xiên thịt xèo xèo trên than hồng rực rỡ với ánh sáng ấm áp và khói.
 
 Tác giả：[@Zoyavelle](https://x.com/Zoyavelle) · [Bài gốc](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một lời nhắc mang đậm chất điện ảnh mô tả một phụ nữ châu Á đang chỉnh khăn trùm đầu bên cạnh lò nướng ngoài trời và những cảnh quay macro chi tiết về xiên thịt xèo xèo trên than hồng rực rỡ với ánh sáng ấm áp và khói.
 
 <img src="covers/2102641743669961207.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh quay cận cảnh đậm chất điện ảnh về một người phụ nữ trẻ châu Á mặc áo hoodie đen và quấn khăn trùm đầu màu sẫm, đứng cạnh lò nướng thịt ngoài trời truyền thống. Cô từ từ dùng cả hai tay chỉnh lại tấm vải trên đầu trong khi khói bốc lên xung quanh. Chuyển sang những thước phim macro chi tiết về các miếng thịt nướng mọng nước trên xiên kim loại đặt trên than hồng rực, xèo xèo và tỏa ra làn khói thơm ngào ngạt dày đặc. Cận cảnh thịt được nướng trên ngọn lửa lớn, ánh lửa vàng cam phản chiếu lên thức ăn, khói và hiện tượng méo nhiệt chân thực. Kỹ thuật quay phim ẩm thực siêu chân thực, ánh sáng điện ảnh, độ sâu trường ảnh nông, tông màu ấm áp đầy kịch tính, kết cấu chi tiết cao, chuyển động tự nhiên, vật lý lửa và khói chân thực, 4K, 8K, máy ảnh DSLR chuyên nghiệp, ống kính macro, chuyển động máy quay mượt mà, chân thực như ảnh chụp, bầu không khí đắm chìm.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -523,20 +523,20 @@ Tradução em curso
 
 <a name="prompt-2102641743669961207"></a>
 
-### Tradução em curso
+### Um prompt cinematográfico que retrata uma mulher asiática a ajustar a sua cobertura de cabeça junto a um grelhador ao ar livre e planos macro detalhados de espetos de carne a chiar sobre brasas incandescentes com iluminação quente e fumo.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicação original](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Cena de Cinema / Fotograma · Personagem · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt cinematográfico que retrata uma mulher asiática a ajustar a sua cobertura de cabeça junto a um grelhador ao ar livre e planos macro detalhados de espetos de carne a chiar sobre brasas incandescentes com iluminação quente e fumo.
 
 <img src="covers/2102641743669961207.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um grande plano cinematográfico de uma jovem mulher asiática a usar um hoodie preto com capuz e uma cobertura escura para a cabeça, de pé junto a um grelhador tradicional ao ar livre. Ela ajusta lentamente o tecido na cabeça com ambas as mãos enquanto o fumo se eleva ao seu redor. Corte para planos macro detalhados de pedaços suculentos de carne grelhada em espetos metálicos sobre brasas incandescentes, a chiar e a libertar um fumo aromático espesso. Grande plano da carne a ser grelhada sobre chamas abertas intensas, a luz dourada e alaranjada do fogo a refletir-se na comida, fumo realista e distorção pelo calor. Cinematografia culinária ultrarrealista, iluminação cinematográfica, profundidade de campo reduzida, tons quentes dramáticos, texturas altamente detalhadas, movimento natural, física realista de fogo e fumo, 4K, 8K, câmara DSLR profissional, lente macro, movimento de câmara suave, fotorrealista, atmosfera imersiva.
 ```
 
 [↑ Voltar às categorias](#catalog)

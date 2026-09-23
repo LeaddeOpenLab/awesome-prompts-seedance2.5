@@ -523,20 +523,20 @@ Sinematik / Film Karesi · Karakter · Yayımlandı
 
 <a name="prompt-2102641743669961207"></a>
 
-### Çeviri sürüyor
+### Açık hava ızgarasının yanında baş örtüsünü düzelten Asyalı bir kadını ve sıcak ışıklandırma ile duman eşliğinde kor halindeki kömürler üzerinde cızırdayan et şişlerinin ayrıntılı makro çekimlerini betimleyen sinematik bir prompt.
 
 Yazar：[@Zoyavelle](https://x.com/Zoyavelle) · [Orijinal gönderi](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Sinematik / Film Karesi · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Açık hava ızgarasının yanında baş örtüsünü düzelten Asyalı bir kadını ve sıcak ışıklandırma ile duman eşliğinde kor halindeki kömürler üzerinde cızırdayan et şişlerinin ayrıntılı makro çekimlerini betimleyen sinematik bir prompt.
 
 <img src="covers/2102641743669961207.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Geleneksel bir açık hava barbekü ızgarasının yanında duran, siyah kapüşonlu svetşört ve koyu renkli bir baş örtüsü takmış genç bir Asyalı kadının sinematik yakın çekimi. Etrafında dumanlar yükselirken başındaki örtüyü iki eliyle yavaşça düzeltiyor. Kor halindeki kömürlerin üzerindeki metal şişlerde cızırdayan ve yoğun aromatik dumanlar çıkaran sulu ızgara et parçalarının ayrıntılı makro çekimlerine geçiş. Şiddetli açık alevler üzerinde pişen etin yakın çekimi, yiyeceğin üzerine yansıyan altın-turuncu ateş ışığı, gerçekçi duman ve ısı dalgalanması. Ultra gerçekçi yemek sinematografisi, sinematik aydınlatma, sığ alan derinliği, dramatik sıcak tonlar, son derece ayrıntılı dokular, doğal hareket, gerçekçi ateş ve duman fiziği, 4K, 8K, profesyonel DSLR kamera, makro lens, pürüzsüz kamera hareketi, fotogerçekçi, sürükleyici atmosfer.
 ```
 
 [↑ Kategorilere dön](#catalog)

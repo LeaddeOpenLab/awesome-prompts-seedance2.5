@@ -537,20 +537,20 @@ Traduction en cours
 
 <a name="prompt-2102641743669961207"></a>
 
-### Traduction en cours
+### Un prompt cinématographique illustrant une femme asiatique ajustant son couvre-chef près d'un barbecue en plein air et des plans macro détaillés de brochettes de viande grésillante sur du charbon incandescent avec une lumière chaude et de la fumée.
 
 Auteur：[@Zoyavelle](https://x.com/Zoyavelle) · [Publication originale](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Image cinématographique / Photogramme de film · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt cinématographique illustrant une femme asiatique ajustant son couvre-chef près d'un barbecue en plein air et des plans macro détaillés de brochettes de viande grésillante sur du charbon incandescent avec une lumière chaude et de la fumée.
 
 <img src="covers/2102641743669961207.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un gros plan cinématographique d'une jeune femme asiatique vêtue d'un sweat à capuche noir et d'un couvre-chef sombre, debout à côté d'un barbecue traditionnel en plein air. Elle ajuste lentement le tissu sur sa tête des deux mains tandis que de la fumée s'élève autour d'elle. Coupe vers des prises de vue macro détaillées de morceaux juteux de viande grillée sur des brochettes métalliques au-dessus de braises incandescentes, grésillant et libérant une épaisse fumée aromatique. Gros plan de la viande grillée sur des flammes nues intenses, lueur dorée et orangée du feu se reflétant sur la nourriture, fumée réaliste et distorsion thermique. Cinématographie culinaire ultra-réaliste, éclairage cinématographique, faible profondeur de champ, tons chauds dramatiques, textures très détaillées, mouvement naturel, physique réaliste du feu et de la fumée, 4K, 8K, appareil photo reflex numérique professionnel, objectif macro, mouvement de caméra fluide, photoréaliste, atmosphère immersive.
 ```
 
 [↑ Retour aux catégories](#catalog)

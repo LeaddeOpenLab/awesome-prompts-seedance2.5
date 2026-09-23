@@ -537,20 +537,20 @@ Traduzione in corso
 
 <a name="prompt-2102641743669961207"></a>
 
-### Traduzione in corso
+### Un prompt cinematografico che raffigura una donna asiatica che si sistema il copricapo accanto a una griglia all'aperto e dettagliate riprese macro di spiedini di carne sfrigolante su carboni ardenti con luci calde e fumo.
 
 Autore：[@Zoyavelle](https://x.com/Zoyavelle) · [Post originale](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt cinematografico che raffigura una donna asiatica che si sistema il copricapo accanto a una griglia all'aperto e dettagliate riprese macro di spiedini di carne sfrigolante su carboni ardenti con luci calde e fumo.
 
 <img src="covers/2102641743669961207.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un primo piano cinematografico di una giovane donna asiatica che indossa una felpa nera con cappuccio e un copricapo scuro, in piedi accanto a una griglia da barbecue tradizionale all'aperto. Si sistema lentamente il tessuto sulla testa con entrambe le mani mentre il fumo si alza intorno a lei. Stacco su dettagliate riprese macro di succosi pezzi di carne grigliata su spiedini di metallo sopra carboni ardenti, che sfrigolano e rilasciano un denso fumo aromatico. Primo piano della carne grigliata su fiamme libere intense, bagliori dorati e arancioni del fuoco che si riflettono sul cibo, fumo realistico e distorsione da calore. Cinematografia gastronomica ultra-realistica, illuminazione cinematografica, profondità di campo ridotta, caldi toni drammatici, texture altamente dettagliate, movimento naturale, fisica realistica del fuoco e del fumo, 4K, 8K, fotocamera DSLR professionale, obiettivo macro, movimento di camera fluido, fotorealistico, atmosfera immersiva.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -537,20 +537,20 @@ Kinematisch / Filmstill · Charakter · Veröffentlicht
 
 <a name="prompt-2102641743669961207"></a>
 
-### Übersetzung läuft
+### Ein filmischer Prompt, der eine asiatische Frau darstellt, die ihre Kopfbedeckung neben einem Grill im Freien richtet, sowie detaillierte Makroaufnahmen von brutzelnden Fleischspießen über glühender Holzkohle mit warmer Beleuchtung und Rauch.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Originalbeitrag](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Kinematisch / Filmstill · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein filmischer Prompt, der eine asiatische Frau darstellt, die ihre Kopfbedeckung neben einem Grill im Freien richtet, sowie detaillierte Makroaufnahmen von brutzelnden Fleischspießen über glühender Holzkohle mit warmer Beleuchtung und Rauch.
 
 <img src="covers/2102641743669961207.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine filmische Nahaufnahme einer jungen asiatischen Frau, die einen schwarzen Kapuzenpullover und eine dunkle Kopfbedeckung trägt und neben einem traditionellen Grill im Freien steht. Sie richtet langsam mit beiden Händen das Tuch auf ihrem Kopf, während um sie herum Rauch aufsteigt. Schnitt zu detaillierten Makroaufnahmen von saftigen Stücken gegrillten Fleisches auf Metallspießen über glühender Holzkohle, die brutzeln und dichten aromatischen Rauch freisetzen. Nahaufnahme des Fleisches, das über intensiven offenen Flammen gegrillt wird, golden-oranges Feuerlicht, das sich auf dem Essen spiegelt, realistischer Rauch und Hitzeverzerrung. Ultrarealistische Food-Kinematografie, filmische Beleuchtung, geringe Schärfentiefe, dramatische warme Töne, hochdetaillierte Texturen, natürliche Bewegung, realistische Feuer- und Rauchphysik, 4K, 8K, professionelle DSLR-Kamera, Makroobjektiv, sanfte Kamerabewegung, fotorealistisch, immersive Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -523,20 +523,20 @@ Tradução em andamento
 
 <a name="prompt-2102641743669961207"></a>
 
-### Tradução em andamento
+### Um prompt cinematográfico retratando uma mulher asiática ajustando a cobertura da cabeça ao lado de uma churrasqueira ao ar livre e fotos macro detalhadas de espetos de carne chiando sobre brasas brilhantes com iluminação quente e fumaça.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicação original](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Cinematográfico / Imagem de Filme · Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt cinematográfico retratando uma mulher asiática ajustando a cobertura da cabeça ao lado de uma churrasqueira ao ar livre e fotos macro detalhadas de espetos de carne chiando sobre brasas brilhantes com iluminação quente e fumaça.
 
 <img src="covers/2102641743669961207.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um close-up cinematográfico de uma jovem mulher asiática vestindo um moletom preto com capuz e uma cobertura escura para a cabeça, parada ao lado de uma churrasqueira tradicional ao ar livre. Ela ajusta lentamente o tecido na cabeça com as duas mãos enquanto a fumaça sobe ao redor dela. Corte para fotos macro detalhadas de pedaços suculentos de carne grelhada em espetos de metal sobre brasas brilhantes, chiando e liberando uma espessa fumaça aromática. Close-up da carne sendo grelhada sobre chamas abertas intensas, a luz dourada e alaranjada do fogo refletindo na comida, fumaça realista e distorção de calor. Cinematografia gastronômica ultrarrealista, iluminação cinematográfica, profundidade de campo rasa, tons quentes dramáticos, texturas altamente detalhadas, movimento natural, física realista de fogo e fumaça, 4K, 8K, câmera DSLR profissional, lente macro, movimento de câmera suave, fotorrealista, atmosfera imersiva.
 ```
 
 [↑ Voltar às categorias](#catalog)

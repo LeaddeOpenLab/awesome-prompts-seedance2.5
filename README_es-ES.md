@@ -537,20 +537,20 @@ Traducción en curso
 
 <a name="prompt-2102641743669961207"></a>
 
-### Traducción en curso
+### Un prompt cinematográfico que muestra a una mujer asiática ajustándose una prenda para la cabeza junto a una parrilla al aire libre y detalladas tomas macro de brochetas de carne chisporroteando sobre carbón al rojo vivo con iluminación cálida y humo.
 
 Autor：[@Zoyavelle](https://x.com/Zoyavelle) · [Publicación original](https://x.com/Zoyavelle/status/2102641743669961207)
 
 Cine / Fotograma de película · Personaje · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt cinematográfico que muestra a una mujer asiática ajustándose una prenda para la cabeza junto a una parrilla al aire libre y detalladas tomas macro de brochetas de carne chisporroteando sobre carbón al rojo vivo con iluminación cálida y humo.
 
 <img src="covers/2102641743669961207.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un primer plano cinematográfico de una joven asiática que viste una sudadera con capucha negra y una prenda oscura en la cabeza, de pie junto a una parrilla tradicional para barbacoa al aire libre. Ella se ajusta lentamente la tela de la cabeza con ambas manos mientras el humo se eleva a su alrededor. Corte a detalladas tomas macro de jugosos trozos de carne asada en brochetas de metal sobre carbón al rojo vivo, chisporroteando y desprendiendo un espeso humo aromático. Primer plano de la carne asándose sobre intensas llamas vivas, la luz del fuego dorado anaranjado reflejándose en la comida, humo realista y distorsión por calor. Cinematografía gastronómica ultrarrealista, iluminación cinematográfica, profundidad de campo reducida, dramáticos tonos cálidos, texturas muy detalladas, movimiento natural, física realista del fuego y el humo, 4K, 8K, cámara réflex digital profesional, lente macro, movimiento de cámara suave, fotorrealista, atmósfera envolvente.
 ```
 
 [↑ Volver a categorías](#catalog)
