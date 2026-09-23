@@ -479,20 +479,20 @@ Gece vakti fütüristik bir cam gökdelenden aşağı düşen pembe saçlı anim
 
 <a name="prompt-2102607673501892691"></a>
 
-### Çeviri sürüyor
+### Altın saatte bir kıyı hemzemin geçidinin yakınında bakışan Koreli bir kız ve erkeğin sinematik romantik sahnesi.
 
 Yazar：[@aiwithaayat](https://x.com/aiwithaayat) · [Orijinal gönderi](https://x.com/aiwithaayat/status/2102607673501892691)
 
 Sinematik / Film Karesi · Karakter · Grup / Çift · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Altın saatte bir kıyı hemzemin geçidinin yakınında bakışan Koreli bir kız ve erkeğin sinematik romantik sahnesi.
 
 <img src="covers/2102607673501892691.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzun, düz siyah saçlı güzel bir Koreli kız, altın saatte huzurlu bir Kore sahil kasabasında şık bej bir trençkot giymiş ve bir el çantası taşırken yürüyor. Koyu renk deri ceketli yakışıklı bir Koreli genç, klasik bir tramvay geçerken hemzemin geçidin yakınında duruyor. Kız sahil caddesi boyunca yavaşça ona doğru yaklaşıyor, ılık güneş ışığı yüzünde parlıyor. Sinematik kamera hareketleri, doğal yürüme hareketi, gerçekçi yüz ifadeleri, hafif okyanus esintisi ve ayrıntılı Kore sokak manzaraları. Nazik ve romantik bir atmosfer, sığ alan derinliği, sıcak renk tonlaması ve fotogerçekçi kalite ile ilk göz temaslarını yakalayın. Akıcı geçişler, doğal aydınlatma ve duygusal hikaye anlatımıyla 15 saniyelik güzel, sinematik bir aşk hikayesi yaratın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4463,20 +4463,62 @@ Kaçınılması gerekenler: çizgi film tarzı, CGI görünümü, plastik cilt, 
 
 <a name="prompt-2102606014692708368"></a>
 
-### Çeviri sürüyor
+### Otantik katsudon hazırlığı için 30 saniyelik anime tarzı yemek pişirme zaman çizelgesi istemi.
 
 Yazar：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Orijinal gönderi](https://x.com/Alyssa4aicreate/status/2102606014692708368)
 
 Anime / Manga · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Otantik katsudon hazırlığı için 30 saniyelik anime tarzı yemek pişirme zaman çizelgesi istemi.
 
 <img src="covers/2102606014692708368.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tamamen aşağıdaki metin açıklamasına dayanarak, otantik katsudon hazırlanışını gösteren, 30 saniyelik, hızlı tempolu, sinematik bir Japon anime yemek pişirme videosu oluşturun.
+
+ÖNEMLİ: Hiçbir görsel taslağı (storyboard), eskizi, referans görselini, paneli, notu veya kaynak materyali görüntülemeyin, yeniden oluşturmayın, kopyalamayın, referans almayın veya taklit etmeyin. Yalnızca orijinal anime tarzı animasyon üretin.
+
+TARZ
+
+Yüksek kaliteli Japon anime filmi tarzı, sinematik yaz aydınlatması, ultra ayrıntılı yemek dokuları, gerçekçi yemek pişirme fiziği, görünür buhar ve nem, sığ alan derinliği, makro yakın çekimler, akıcı kamera hareketleri, sıcak Japon mutfağı atmosferi. Hareket, şekil, doku ve kompozisyona dayalı doğal eşleşmeli kesmelerle (match cut) hızlı ve ritmik kurgu.
+
+ZAMAN ÇİZELGESİ
+
+0–2.5 sn — Domuz Etini Hazırlama Kesme tahtası üzerinde kalın bir domuz filetosunu ahşap bir tokmakla döven ellerin yakın çekimi. Et yavaş yavaş düzleşir ve lifleri gevşer. Eşit şekilde tuz ve karabiber serpin. Net ritmik darbeler.
+
+2.5–5 sn — Eti Paneleme Hızlı eşleşmeli kesmeler: eti una bastırın, çırpılmış yumurtaya batırın, ardından iri taneli panko ekmek kırıntılarıyla sıkıca kaplayın. Gerçekçi yumurta damlamasını ve ekmek kırıntılarının yüzeye yapışmasını gösterin.
+
+5–7.5 sn — Kızartma Panelenmiş domuz etini sıcak altın sarısı yağa bırakın. Dış kabuk altın kahverengiye dönüp çıtırlaşırken pirzolanın etrafını yoğun kabarcıklar sarar. Sıcak sinematik aydınlatma ve ayrıntılı yağ hareketi.
+
+7.5–9.5 sn — Dilimleme Kızarmış tonkatsuyu ahşap bir tahtaya yerleştirin. Keskin bir bıçak onu eşit şeritler halinde keser. Çıtır kabuk doğal bir şekilde çatırdar ve hafif buhar çıkaran sulu beyaz domuz etini açığa çıkarır.
+
+9.5–12 sn — Dashi ve Soğanı Ağır Ateşte Pişirme İnce dilimlenmiş soğanlar, sığ bir tavada kehribar rengi dashi içinde hafifçe kaynar. Soğanlar yarı saydam hale gelirken küçük kabarcıklar yükselir. Yemek çubukları onları et suyunun içinde nazikçe hareket ettirir.
+
+12–14 sn — Tonkatsu Ekleme Yemek çubukları kullanarak dilimlenmiş tonkatsuyu kaynayan soğanların üzerine dikkatlice yerleştirin. Buhar yükselirken et suyu çıtır kenarlara işlemeye başlar.
+
+14–16.5 sn — Yumurtayı Dökme Çırpılmış altın sarısı yumurtayı yavaşça tonkatsu ve soğanların üzerine dökün. Yumurta boşluklardan doğal olarak yayılır ve sıcak kenarların etrafında pişmeye başlar.
+
+16.5–19 sn — Yumurtayı Pişirme Kısık ateşte yavaşça kıvam alan yumurtanın yakın çekimi. Kenarlar yumuşak ve altın rengi olurken merkez parlak, hafif cıvık ve titrek kalır. Karıştırmak yok.
+
+19–21 sn — Pirinci Hazırlama Beyaz seramik bir donburi kasesine bolca buharda pişmiş Japon kısa taneli pirinci konur. Pirinç kabarık ve hafif parlak görünür.
+
+21–24 sn — Birleştirme Yumurta ve tonkatsu karışımını tavadan pirincin üzerine dikkatlice kaydırın. Dashi pirince hafifçe işlerken yumurta yumuşak bir dalga halinde doğal olarak yerleşir.
+
+24–26 sn — Son Yakın Çekim Tamamlanan katsudon tezgahta durur. Parlak yumurta, tonkatsu ve pirincin üzerine yavaşça yerleşir, hafifçe titrer. Yavaş sinematik yakınlaşma (push-in).
+
+26–30 sn — Ana Sahne Sunumu Ahşap bir yüzey üzerinde geleneksel mavi-beyaz seramik bir kasede tamamlanmış katsudonu sunun. Altın sarısı yumurta, parlak pirinç üzerindeki çıtır tonkatsuyu kaplar, üzeri taze mitsuba ile süslenmiştir. Kamera, güzel bir anime yemek filmi sonu için kasenin etrafında yavaşça yay çizerken buhar yükselir.
+
+SES
+
+1980'lerden ilham alan canlı Japon city-pop enstrümantal müziği, 110–120 BPM, ince koto ve hafif çan perküsyonu ile. Gerçekçi ASMR yemek pişirme seslerini senkronize edin: tokmak darbeleri, bıçakla dilimleme, kızartma cızırtısı, fokurdayan dashi, yemek çubukları, yumurta dökülmesi, buhar ve yumuşak bir seramik çınlaması.
+
+Son sunum sırasında zarif bir rüzgar çanı sesiyle bitirin.
+
+NEGATİF
+
+Görsel taslak (storyboard), referans görseli, eskiz, paneller, kenarlıklar, sayılar, oklar, notlar, altyazılar, başlıklar, kullanıcı arayüzü (UI), logolar veya metin katmanları olmamalıdır. İlgisiz malzemeler veya yemekler olmamalıdır. Yalnızca katsudon. Yemek, eller, mutfak gereçleri, aydınlatma ve ortam baştan sona görsel olarak tutarlı olmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4910,20 +4952,42 @@ Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](
 
 <a name="prompt-2102606380863472099"></a>
 
-### Çeviri sürüyor
+### Seul'de yağmurlu bir sabah vakti dairede buğulu cama gülen yüz çizen genç bir kadının retro DV ev videosu kesiti.
 
 Yazar：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Orijinal gönderi](https://x.com/iamahmedfaraz66/status/2102606380863472099)
 
 Retro / Vintage · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Seul'de yağmurlu bir sabah vakti dairede buğulu cama gülen yüz çizen genç bir kadının retro DV ev videosu kesiti.
 
 <img src="covers/2102606380863472099.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ana Karakter: 24 yaşında, doğal olarak çekici, gerçekçi bir cilde ve hafif bir makyaja sahip, uzun koyu renk saçları dağınık bir şekilde açık bırakılmış genç Koreli kadın. Üzerinde bol kesim bordo bir kapüşonlu svetşört ve dökümlü günlük bir pantolon var. Bütün video boyunca onun birebir kimliğini, yüz hatlarını, saç modelini, vücut ölçülerini ve görünümünü kesinlikle koruyun.
+
+Konum: Karanlık, yağmurlu bir sabahın erken saatlerinde Seul'de eski ve küçük bir daire. Bulanık komşu apartmanlara, ıslak çatılara ve cılız şehir ışıklarına bakan, yağmurla kaplı büyük bir yatak odası penceresi. Sade ahşap mobilyalar, küçük bir komodin ve sakin, yaşanmışlık hissi veren bir yatak odası.
+
+Aydınlatma ve Atmosfer: Sabahın erken saatlerine özgü koyu mavi saat (blue-hour) ambiyansı. Yağmurlu pencereden süzülen soğuk mavi-gri ışık ve başucu lambasından gelen çok hafif sıcak bir parıltı. Karanlık bulutlu gökyüzü, solgun renkler, yumuşak gölgeler, hafif az pozlanmış (underexposed) iç mekan ve huzurlu, uykulu bir atmosfer.
+
+Tarz: 2000'lerin başlarına ait, kamerayı tutan başka biri tarafından çekilmiş ultra gerçekçi Sony MiniDV ev videosu. Tamamen doğal, anlık ve kurgusuz. Doğal elde taşıma hareketleri, hafif insan sarsıntısı, kusurlu kadrajlama, nazikçe yeniden çerçeveleme, ara sıra yaşanan otomatik odaklama arayışları, hafif pozlama kaymaları, soluk renkler, yumuşak kontrast, otantik DV sıkıştırması, düşük ışıkta ince dijital parazit ve mikrofon hışırtısı. Baştan sona pürüzsüz, kesintisiz, gerçek zamanlı hareket. Takılma, titreme, kare atlama, yinelenen kareler, stop-motion hissi, aşırı hareket bulanıklığı, hız değişiklikleri veya düşük kare hızı görünümü yok. Sabitleme veya modern sinematik hareket yok.
+
+00:00–00:03 — UYANMA PENCERESİ: Hâlâ uykulu bir halde yatak odası penceresine doğru yavaşça yürür ve perdeyi nazikçe yana çeker. Seul'ün karanlık, yağmurlu sabahı açığa çıkar.
+
+00:03–00:06 — BUĞULANMA: Camın buğuyla kaplı olduğunu fark eder. Bir parmağını kaldırır ve buğulu camın üzerinde yavaşça küçük, temiz bir alan açar.
+
+00:06–00:09 — KÜÇÜK ÇİZİM: Dalgın bir şekilde parmak ucuyla buğunun üzerine minik, basit bir gülen yüz çizer. Hafifçe keyiflenmiş bir tebessümle bir an için çizimine bakar.
+
+00:09–00:12 — YAĞMUR: Temizlenen kısma doğru biraz daha yaklaşır ve camdan aşağı süzülen yağmur damlalarını izler. Kamera, arka plandaki bulanık Seul binalarını da yakalayarak nazikçe yakınlaşır.
+
+00:12–00:15 — SAKİN AN: Yağmurun sesini dinleyerek alnını bir saniyeliğine soğuk cama hafifçe yaslar. Kamera yavaşça yağmurlu manzaraya doğru kayıp kesilirken, yüzünde huzurlu, minik bir gülümseme belirir.
+
+Ses: Yalnızca doğal ortam sesi — pencereye vuran aralıksız yağmur, hafif rüzgar, uzaktan gelen trafik sesi, ince oda ambiyansı, yumuşak adımlar ve kumaşın sessiz hışırtısı. Müzik, dış ses veya sonradan eklenmiş ses efektleri yok.
+
+Amaç: 2000'lerin başlarına ait tamamen sıradan, samimi bir ev videosu anı hissi vermek. Dramatik hiçbir şey olmaz; tüm atmosfer yağmurlu pencereden, buğudan, onun minik tebessümünden ve sabahın erken saatlerindeki o sessizlikten doğar. Kasıtlı bir oyunculuktan ziyade tesadüfen yakalanmış gibi hissettirmelidir.
+
+Hareket kalitesi: Hareketlerini son derece doğal ve akıcı tutun, özellikle parmağının buğu üzerindeki hareketini ve pencereye doğru yavaşça yaklaşmasını. Kamera hareketi yumuşak ve kesintisiz kalmalıdır. Takılma, titreme, kare atlama, tekrarlanan kareler veya yapay ağır çekim olmamalıdır. Nostaljik görünüm, düşürülmüş kare hızından değil, gerçek MiniDV görüntü özelliklerinden kaynaklanmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -479,20 +479,20 @@ Cria um plano picado dramático de uma rapariga em estilo anime de cabelo cor-de
 
 <a name="prompt-2102607673501892691"></a>
 
-### Tradução em curso
+### Cena romântica cinematográfica de uma rapariga e um rapaz coreanos a trocar olhares junto a uma passagem de nível costeira na hora dourada.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Publicação original](https://x.com/aiwithaayat/status/2102607673501892691)
 
 Cena de Cinema / Fotograma · Personagem · Grupo / Casal · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena romântica cinematográfica de uma rapariga e um rapaz coreanos a trocar olhares junto a uma passagem de nível costeira na hora dourada.
 
 <img src="covers/2102607673501892691.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma bela rapariga coreana com longos cabelos pretos e lisos caminha por uma pacífica vila costeira coreana durante a hora dourada, vestindo um elegante sobretudo bege e levando uma mala de mão. Um atraente rapaz coreano com um casaco de couro escuro está de pé junto a uma passagem de nível enquanto passa um elétrico vintage. A rapariga aproxima-se lentamente dele ao longo da rua à beira-mar, com a luz quente do sol a brilhar no seu rosto. Movimentos de câmara cinematográficos, caminhar natural, expressões faciais realistas, brisa marítima suave e cenários de rua coreanos detalhados. Capte o seu primeiro contacto visual com uma suave atmosfera romântica, profundidade de campo reduzida, gradação de cor quente e qualidade fotorrealista. Crie uma bela história de amor cinematográfica de 15 segundos com transições suaves, iluminação natural e uma narrativa emocionante.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4463,20 +4463,62 @@ Evitar: estilo de desenho animado, aspeto de CGI, pele de plástico, rosto irrea
 
 <a name="prompt-2102606014692708368"></a>
 
-### Tradução em curso
+### Prompt de cronograma culinário em estilo anime de 30 segundos para a preparação de um autêntico katsudon.
 
 Autor：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Publicação original](https://x.com/Alyssa4aicreate/status/2102606014692708368)
 
 Anime / Mangá · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de cronograma culinário em estilo anime de 30 segundos para a preparação de um autêntico katsudon.
 
 <img src="covers/2102606014692708368.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico de culinária em estilo anime japonês de ritmo acelerado, com 30 segundos de duração, mostrando a preparação de um autêntico katsudon, inteiramente a partir da descrição textual abaixo.
+
+IMPORTANTE: Não exiba, recrie, trace, faça referência ou imite nenhum storyboard, esboço, imagem de referência, painel, anotação ou material de origem. Gere apenas animação original em estilo anime.
+
+ESTILO
+
+Estilo de filme de anime japonês de alta qualidade, iluminação cinematográfica de verão, texturas de comida ultra-detalhadas, física culinária realista, vapor e humidade visíveis, profundidade de campo reduzida, grandes planos macro, movimento suave de câmara, atmosfera acolhedora de cozinha japonesa. Edição rítmica rápida com cortes contínuos naturais (match cuts) baseados em movimento, forma, textura e composição.
+
+CRONOGRAMA
+
+0–2,5s — Preparar a Carne de Porco Grande plano de mãos a bater num lombo de porco espesso com um maço de madeira sobre uma tábua de corte. A carne achata gradualmente e as suas fibras soltam-se. Polvilhe sal e pimenta uniformemente. Impactos rítmicos nítidos.
+
+2,5–5s — Panar a Carne Cortes contínuos rápidos: pressione o porco na farinha, mergulhe no ovo batido e, em seguida, cubra firmemente com pão ralado panko grosso. Mostre o ovo a pingar de forma realista e as migalhas de pão a aderir à superfície.
+
+5–7,5s — Fritar Mergulhe o porco panado no óleo dourado quente. Bolhas intensas envolvem o panado à medida que a crosta fica castanho-dourada e estaladiça. Iluminação cinematográfica quente e movimento detalhado do óleo.
+
+7,5–9,5s — Fatiar Coloque o tonkatsu frito numa tábua de madeira. Uma faca afiada corta-o em tiras uniformes. A crosta estaladiça estala naturalmente, revelando carne de porco branca e suculenta com um vapor suave a libertar-se.
+
+9,5–12s — Cozinhar o Dashi e a Cebola Cebolas finamente fatiadas fervem suavemente em dashi âmbar dentro de uma frigideira rasa. Pequenas bolhas sobem enquanto as cebolas ficam translúcidas. Pauzinhos movem-nas suavemente pelo caldo.
+
+12–14s — Adicionar o Tonkatsu Coloque o tonkatsu fatiado cuidadosamente sobre as cebolas a ferver usando pauzinhos. O caldo começa a ensopar as bordas estaladiças enquanto o vapor sobe.
+
+14–16,5s — Verter o Ovo Verta lentamente o ovo batido dourado sobre o tonkatsu e as cebolas. O ovo espalha-se naturalmente pelos espaços e começa a prender à volta das bordas quentes.
+
+16,5–19s — Cozinhar o Ovo Grande plano do ovo a coagular suavemente em lume brando. As bordas ficam macias e douradas enquanto o centro permanece brilhante, ligeiramente líquido e trémulo. Sem mexer.
+
+19–21s — Preparar o Arroz Uma taça donburi de cerâmica branca recebe uma porção generosa de arroz japonês fumegante de bago curto. O arroz parece fofo e ligeiramente brilhante.
+
+21–24s — Montar Deslize cuidadosamente a mistura de ovo e tonkatsu da frigideira para o arroz. O ovo assenta naturalmente numa onda suave enquanto o dashi é ligeiramente absorvido pelo arroz.
+
+24–26s — Grande Plano Final O katsudon pronto repousa sobre o balcão. O ovo brilhante assenta lentamente sobre o tonkatsu e o arroz, tremendo suavemente. Movimento lento de aproximação cinematográfica (push-in).
+
+26–30s — Revelação Principal Apresente o katsudon finalizado numa taça de cerâmica azul e branca tradicional sobre uma superfície de madeira. O ovo dourado cobre o tonkatsu estaladiço sobre o arroz brilhante, decorado com mitsuba fresca. O vapor sobe enquanto a câmara descreve um arco suave à volta da taça para um belo final de filme gastronómico de anime.
+
+ÁUDIO
+
+Instrumental brilhante de city-pop japonês inspirado nos anos 1980, 110–120 BPM, com koto subtil e percussão leve de sinos. Sincronize sons culinários ASMR realistas: impactos do maço, corte da faca, chiar da fritura, borbulhar do dashi, pauzinhos, ovo a ser vertido, vapor e um suave tilintar de cerâmica.
+
+Termine com um som delicado de sino dos ventos durante a revelação final.
+
+NEGATIVO
+
+Nenhum storyboard, imagem de referência, esboço, painéis, margens, números, setas, anotações, legendas, textos explicativos, interface de utilizador (UI), logótipos ou sobreposições de texto. Nenhum ingrediente ou prato não relacionado. Apenas katsudon. Mantenha a comida, as mãos, os utensílios, a iluminação e o ambiente visualmente consistentes do início ao fim.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4910,20 +4952,42 @@ Tradução em curso
 
 <a name="prompt-2102606380863472099"></a>
 
-### Tradução em curso
+### Excerto de vídeo caseiro retro em DV de uma jovem a desenhar uma carinha sorridente numa janela embaciada num apartamento em Seul, numa manhã chuvosa.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publicação original](https://x.com/iamahmedfaraz66/status/2102606380863472099)
 
 Retrô / Vintage · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Excerto de vídeo caseiro retro em DV de uma jovem a desenhar uma carinha sorridente numa janela embaciada num apartamento em Seul, numa manhã chuvosa.
 
 <img src="covers/2102606380863472099.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Assunto Principal: Jovem mulher coreana, 24 anos, naturalmente atraente, pele realista, maquilhagem mínima, cabelos escuros compridos soltos e descontraídos. A vestir um hoodie oversized bordeaux e calças casuais largas. Preserve exatamente a identidade dela, traços faciais, penteado, proporções corporais e aparência do início ao fim.
+
+Localização: Pequeno apartamento antigo de Seul durante uma madrugada escura e chuvosa. Uma grande janela de quarto coberta pela chuva com vista para edifícios residenciais vizinhos desfocados, telhados molhados e luzes ténues da cidade. Mobília simples de madeira, uma pequena mesinha de cabeceira e um quarto calmo com ar de habitado.
+
+Iluminação e Atmosfera: Profunda ambientação de hora azul ao amanhecer. Luz fria azul-acinzentada a entrar pela janela chuvosa com um brilho quente muito fraco de um candeeiro de cabeceira. Céu nublado escuro, cores suaves, sombras suaves, interior ligeiramente subexposto e uma atmosfera pacífica e sonolenta.
+
+Estilo: Vídeo caseiro ultra-realista em Sony MiniDV do início dos anos 2000, filmado por outra pessoa a segurar a câmara de vídeo. Completamente espontâneo e não encenado. Movimento natural de câmara à mão, tremor humano subtil, enquadramento imperfeito, reenquadramento suave, procura ocasional de foco automático, ligeiras oscilações de exposição, cores desbotadas, contraste suave, compressão DV autêntica, ruído digital subtil de pouca luz e ruído de microfone. Movimento suave, contínuo e em tempo real do princípio ao fim. Sem paragens, vibrações, saltos de fotogramas, fotogramas duplicados, aparência de stop-motion, arrastamento excessivo de movimento, alterações de velocidade ou aspeto de baixa taxa de fotogramas. Sem estabilização ou movimento cinematográfico moderno.
+
+00:00–00:03 — JANELA AO ACORDAR: Ela caminha lentamente em direção à janela do quarto, ainda ensonada, e afasta suavemente a cortina para o lado. A madrugada escura e chuvosa de Seul revela-se.
+
+00:03–00:06 — CONDENSAÇÃO: Ela repara que o vidro está coberto de condensação. Levanta um dedo e limpa lentamente uma pequena mancha transparente no vidro embaciado.
+
+00:06–00:09 — PEQUENO DESENHO: Distraidamente, ela desenha uma carinha sorridente minúscula e simples na condensação com a ponta do dedo. Olha para o desenho por um momento com um ligeiro sorriso divertido.
+
+00:09–00:12 — CHUVA: Ela inclina-se para mais perto da secção limpa e observa as gotas de chuva a escorrer pelo vidro. A câmara aproxima-se suavemente, captando os edifícios desfocados de Seul ao fundo.
+
+00:12–00:15 — MOMENTO DE CALMA: Ela apoia a testa levemente contra o vidro fresco durante um segundo, a escutar a chuva. Esboça um pequeno sorriso pacífico enquanto a câmara desliza lentamente em direção à vista chuvosa e corta.
+
+Áudio: Apenas som natural do local — chuva constante contra a janela, vento ténue, tráfego distante, ambiente subtil da divisão, passos suaves e movimento discreto de tecido. Sem música, narração ou efeitos sonoros adicionados.
+
+Objetivo: Transmitir a sensação de um momento de vídeo caseiro íntimo e completamente comum do início dos anos 2000. Não acontece nada de dramático; a atmosfera provém da janela chuvosa, da condensação, do seu pequeno sorriso e da madrugada tranquila. Deve parecer capturado por acaso e não deliberadamente encenado.
+
+Qualidade de movimento: Mantenha os movimentos dela extremamente naturais e suaves, especialmente o dedo a mover-se pela condensação e a sua aproximação lenta à janela. O movimento da câmara deve permanecer suave e contínuo. Sem paragens, vibrações, saltos de fotogramas, fotogramas duplicados ou câmara lenta artificial. O aspeto vintage deve provir das características autênticas de imagem de MiniDV e não de uma taxa de fotogramas reduzida.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -495,20 +495,20 @@ Tạo một góc quay từ trên xuống đầy kịch tính về một cô gái
 
 <a name="prompt-2102607673501892691"></a>
 
-### Đang dịch
+### Khung cảnh lãng mạn mang chất điện ảnh của một cô gái và chàng trai Hàn Quốc trao nhau ánh nhìn gần đoạn đường sắt giao nhau ven biển trong khung giờ vàng.
 
 Tác giả：[@aiwithaayat](https://x.com/aiwithaayat) · [Bài gốc](https://x.com/aiwithaayat/status/2102607673501892691)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Nhóm / Cặp đôi · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khung cảnh lãng mạn mang chất điện ảnh của một cô gái và chàng trai Hàn Quốc trao nhau ánh nhìn gần đoạn đường sắt giao nhau ven biển trong khung giờ vàng.
 
 <img src="covers/2102607673501892691.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài thẳng mượt bước đi qua một thị trấn ven biển yên bình của Hàn Quốc trong khung giờ vàng, mặc chiếc áo măng tô màu be sành điệu và mang theo một chiếc túi xách. Một chàng trai Hàn Quốc điển trai trong chiếc áo khoác da màu tối đứng gần đoạn đường sắt giao nhau khi một chiếc xe điện cổ điển chạy ngang qua. Cô gái từ từ tiến lại gần anh dọc theo con phố ven biển, ánh nắng ấm áp rạng ngời trên gương mặt cô. Chuyển động máy quay đậm chất điện ảnh, dáng đi tự nhiên, biểu cảm gương mặt chân thực, làn gió biển nhẹ nhàng và khung cảnh đường phố Hàn Quốc chi tiết. Ghi lại khoảnh khắc ánh mắt đầu tiên chạm nhau với bầu không khí lãng mạn dịu dàng, độ sâu trường ảnh nông, chỉnh màu ấm áp và chất lượng chân thực như ảnh chụp. Tạo ra một câu chuyện tình yêu điện ảnh dài 15 giây tuyệt đẹp với những chuyển cảnh mượt mà, ánh sáng tự nhiên và cách kể chuyện đầy cảm xúc.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4544,20 +4544,62 @@ Tránh: phong cách hoạt hình, giao diện CGI, da nhựa, khuôn mặt phi t
 
 <a name="prompt-2102606014692708368"></a>
 
-### Đang dịch
+### Prompt dòng thời gian nấu ăn 30 giây phong cách anime chuẩn bị món katsudon đích thực.
 
 Tác giả：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Bài gốc](https://x.com/Alyssa4aicreate/status/2102606014692708368)
 
 Anime / Manga · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt dòng thời gian nấu ăn 30 giây phong cách anime chuẩn bị món katsudon đích thực.
 
 <img src="covers/2102606014692708368.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video nấu ăn anime Nhật Bản đậm chất điện ảnh, nhịp độ nhanh dài 30 giây thể hiện quá trình chuẩn bị món katsudon chuẩn vị, hoàn toàn từ mô tả văn bản dưới đây.
+
+QUAN TRỌNG: Không hiển thị, tái tạo, vẽ lại, tham khảo hoặc bắt chước bất kỳ storyboard, phác thảo, hình ảnh tham khảo, ô truyện, chú thích hoặc tài liệu nguồn nào. Chỉ tạo hoạt ảnh phong cách anime nguyên bản.
+
+PHONG CÁCH
+
+Phong cách phim anime Nhật Bản chất lượng cao, ánh sáng mùa hè đậm chất điện ảnh, chi tiết kết cấu món ăn cực cao, vật lý nấu nướng chân thực, hơi nước và độ ẩm nhìn thấy rõ, độ sâu trường ảnh nông, cận cảnh macro, chuyển động máy quay mượt mà, bầu không khí bếp Nhật ấm cúng. Cắt dựng theo nhịp điệu nhanh với các cảnh cắt nối (match cut) tự nhiên dựa trên chuyển động, hình dạng, kết cấu và bố cục.
+
+TIMELINE
+
+0–2.5s — Chuẩn bị thịt heo Cận cảnh bàn tay dùng búa gỗ đập miếng thăn heo dày trên thớt. Thịt phẳng dần và các thớ thịt mềm ra. Rắc đều muối và tiêu. Những cú đập giòn giã, nhịp nhàng.
+
+2.5–5s — Lăn bột thịt heo Các cảnh match cut nhanh: ấn miếng thịt heo vào bột mì, nhúng vào trứng đã đánh đều, sau đó phủ chặt vụn bánh mì panko hạt thô. Thể hiện hình ảnh trứng chảy nhỏ giọt chân thực và vụn bánh mì bám chặt trên bề mặt.
+
+5–7.5s — Chiên Thả phần thịt heo đã tẩm bột vào chảo dầu nóng màu vàng óng. Bong bóng sủi mạnh xung quanh miếng thịt khi lớp vỏ chuyển sang màu nâu vàng giòn rụm. Ánh sáng điện ảnh ấm áp và chuyển động chi tiết của dầu ăn.
+
+7.5–9.5s — Cắt Đặt miếng tonkatsu đã chiên lên thớt gỗ. Con dao sắc bén cắt miếng thịt thành từng dải đều nhau. Lớp vỏ giòn nứt ra tự nhiên, để lộ phần thịt heo trắng mọng nước cùng làn hơi nước nhẹ bốc lên.
+
+9.5–12s — Đun dashi & hành tây Hành tây thái mỏng sôi nhẹ trong nước dùng dashi màu hổ phách bên trong một chiếc chảo nông. Những bong bóng nhỏ nổi lên trong khi hành tây dần trở nên trong suốt. Đũa nhẹ nhàng đảo hành tây trong nước dùng.
+
+12–14s — Thêm Tonkatsu Cẩn thận gắp miếng tonkatsu đã cắt đặt lên phần hành tây đang sôi liu riu bằng đũa. Nước dùng bắt đầu ngấm vào các cạnh giòn trong khi hơi nước bốc lên.
+
+14–16.5s — Đổ trứng Từ từ đổ trứng vàng óng đã đánh tan lên trên tonkatsu và hành tây. Trứng lan tỏa tự nhiên qua các kẽ hở và bắt đầu đông lại xung quanh các cạnh nóng.
+
+16.5–19s — Làm chín trứng Cận cảnh trứng nhẹ nhàng đông tụ trên lửa nhỏ. Các mép trở nên mềm mại và có màu vàng trong khi phần trung tâm vẫn bóng mượt, hơi lỏng và rung rinh nhẹ. Không khuấy.
+
+19–21s — Chuẩn bị cơm Bát donburi bằng gốm sứ trắng đón một phần cơm hạt ngắn Nhật Bản nóng hổi đầy đặn. Cơm trông tơi xốp và hơi bóng.
+
+21–24s — Trình bày Cẩn thận trượt hỗn hợp trứng và tonkatsu từ chảo lên mặt cơm. Trứng phủ xuống tự nhiên thành một làn sóng mềm mại trong khi nước dashi thấm nhẹ vào cơm.
+
+24–26s — Cận cảnh cuối Cát katsudon hoàn chỉnh đặt trên quầy bếp. Trứng bóng loáng từ từ phủ trên miếng tonkatsu và cơm, rung rinh nhè nhẹ. Cú đẩy máy chậm rãi đậm chất điện ảnh.
+
+26–30s — Toàn cảnh tâm điểm Trình bày món katsudon hoàn chỉnh trong chiếc bát gốm xanh trắng truyền thống trên bề mặt gỗ. Trứng vàng phủ lên miếng tonkatsu giòn tan trên nền cơm bóng mịn, bên trên rắc lá mitsuba tươi. Hơi nước bốc lên khi máy quay từ từ lượn một đường vòng cung quanh chiếc bát tạo nên đoạn kết phim ẩm thực anime tuyệt đẹp.
+
+ÂM THANH
+
+Nhạc không lời city-pop Nhật Bản tươi sáng lấy cảm hứng từ những năm 1980, nhịp độ 110–120 BPM, điểm xuyết đàn koto tinh tế và nhạc cụ gõ chuông nhẹ nhàng. Đồng bộ hóa âm thanh nấu ăn ASMR chân thực: tiếng búa đập, tiếng dao cắt, tiếng xèo xèo khi chiên, tiếng dashi sôi sủi bọt, tiếng đũa, tiếng đổ trứng, tiếng hơi nước và tiếng va chạm nhẹ của đồ gốm sứ.
+
+Kết thúc bằng một tiếng chuông gió thanh tao trong cảnh tiết lộ cuối cùng.
+
+TIÊU CỰC (NEGATIVE)
+
+Không storyboard, hình ảnh tham khảo, phác thảo, ô panel, khung viền, con số, mũi tên, chú thích, phụ đề, tiêu đề, giao diện UI, logo hoặc lớp phủ văn bản. Không có nguyên liệu hoặc món ăn không liên quan. Chỉ có katsudon. Giữ cho thức ăn, bàn tay, dụng cụ, ánh sáng và môi trường nhất quán về mặt thị giác trong toàn bộ video.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4991,20 +5033,42 @@ Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 
 <a name="prompt-2102606380863472099"></a>
 
-### Đang dịch
+### Đoạn video gia đình phong cách MiniDV cổ điển ghi lại cảnh cô gái trẻ vẽ mặt cười lên cửa sổ mờ sương trong căn hộ ở Seoul vào một buổi sáng sớm mưa gió.
 
 Tác giả：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Bài gốc](https://x.com/iamahmedfaraz66/status/2102606380863472099)
 
 Cổ điển / Cổ điển · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Đoạn video gia đình phong cách MiniDV cổ điển ghi lại cảnh cô gái trẻ vẽ mặt cười lên cửa sổ mờ sương trong căn hộ ở Seoul vào một buổi sáng sớm mưa gió.
 
 <img src="covers/2102606380863472099.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ thể chính: Người phụ nữ trẻ Hàn Quốc, 24 tuổi, cuốn hút tự nhiên, làn da chân thực, trang điểm tối giản, mái tóc dài sẫm màu buông xõa tự nhiên. Mặc áo hoodie quá khổ màu đỏ hạt dẻ và quần thường ngày rộng rãi. Giữ nguyên danh tính, đường nét khuôn mặt, kiểu tóc, tỷ lệ cơ thể và diện mạo của cô xuyên suốt.
+
+Địa điểm: Căn hộ cũ nhỏ ở Seoul vào một buổi sáng sớm mưa gió và u ám. Cửa sổ phòng ngủ lớn phủ đầy nước mưa nhìn ra các tòa nhà chung cư lân cận mờ ảo, những mái nhà ướt đẫm và ánh đèn thành phố le lói. Đồ nội thất bằng gỗ đơn giản, một chiếc bàn đầu giường nhỏ và một phòng ngủ yên tĩnh mang dấu ấn sinh hoạt thường nhật.
+
+Ánh sáng & Không khí: Không gian sâu lắng của khung giờ xanh (blue hour) lúc sáng sớm. Ánh sáng xám xanh lạnh lẽo lọt qua khung cửa sổ đầy mưa cùng ánh sáng ấm áp rất yếu ớt từ chiếc đèn đầu giường. Bầu trời nhiều mây đen, màu sắc trầm tĩnh, bóng đổ mềm mại, nội thất hơi thiếu sáng (underexposed) nhẹ và bầu không khí yên bình, ngái ngủ.
+
+Phong cách: Video gia đình quay bằng máy quay Sony MiniDV đầu thập niên 2000 cực kỳ chân thực do một người khác cầm máy quay ghi lại. Hoàn toàn tự nhiên và không dàn dựng. Chuyển động cầm tay tự nhiên, độ rung lắc nhẹ của người cầm, khung hình không hoàn hảo, chỉnh lại khung hình nhẹ nhàng, thỉnh thoảng dò nét tự động, thay đổi độ sáng nhẹ, màu sắc phai nhạt, độ tương phản dịu, độ nén chuẩn DV đích thực, nhiễu kỹ thuật số trong điều kiện thiếu sáng và tiếng ồn micrô nhẹ. Chuyển động thời gian thực mượt mà liên tục xuyên suốt. Không giật lag, rung lắc khựng, bỏ khung hình, trùng lặp khung hình, diện mạo dạng tĩnh vật (stop-motion), nhòe chuyển động quá mức, thay đổi tốc độ hoặc trông như tốc độ khung hình thấp. Không chống rung hay chuyển động đậm chất điện ảnh hiện đại.
+
+00:00–00:03 — THỨC DẬY BÊN CỬA SỔ: Cô bước chậm rãi về phía cửa sổ phòng ngủ, vẫn còn ngái ngủ, và nhẹ nhàng vén rèm sang một bên. Buổi sáng Seoul mưa u ám hiện ra.
+
+00:03–00:06 — HƠI NƯỚC NGƯNG TỤ: Cô nhận thấy mặt kính bị bao phủ bởi hơi nước ngưng tụ. Cô giơ một ngón tay lên và từ từ lau một khoảng trống nhỏ trên cửa sổ mờ sương.
+
+00:06–00:09 — HÌNH VẼ NHỎ: Cô lơ đãng vẽ một khuôn mặt cười đơn giản, nhỏ nhắn lên lớp hơi sương bằng đầu ngón tay. Cô nhìn nó một lúc với nụ cười thích thú nhẹ nhàng.
+
+00:09–00:12 — MƯA: Cô ghé sát hơn vào phần kính đã lau sạch và ngắm nhìn những hạt mưa lăn dài trên mặt kính. Máy quay nhẹ nhàng di chuyển lại gần hơn, bắt trọn những tòa nhà Seoul mờ ảo phía xa.
+
+00:12–00:15 — KHOẢNH KHẮC YÊN TĨNH: Cô tựa nhẹ trán vào mặt kính mát lạnh trong giây lát, lắng nghe tiếng mưa rơi. Cô nở một nụ cười bình yên thoáng qua khi máy quay từ từ lướt về phía khung cảnh mưa và chuyển cảnh.
+
+Âm thanh: Chỉ có âm thanh tự nhiên tại hiện trường—tiếng mưa đều đặn đập vào cửa sổ, tiếng gió nhẹ, tiếng xe cộ xa xa, không gian phòng tĩnh lặng, tiếng bước chân nhẹ nhàng và âm thanh sột soạt êm ái của vải. Không có âm nhạc, lời tường thuật hay hiệu ứng âm thanh thêm vào.
+
+Mục tiêu: Mang lại cảm giác như một khoảnh khắc video gia đình đầu thập niên 2000 hoàn toàn bình dị, thân mật. Không có gì kịch tính xảy ra; bầu không khí toát lên từ khung cửa sổ đẫm mưa, hơi nước đọng, nụ cười thoáng nhẹ của cô và buổi sáng sớm yên tĩnh. Cảm giác như được ghi lại một cách tình cờ chứ không phải biểu diễn có chủ đích.
+
+Chất lượng chuyển động: Giữ các chuyển động của cô cực kỳ tự nhiên và mượt mà, đặc biệt là ngón tay lướt qua lớp sương ngưng tụ và dáng đi chậm rãi tiến đến bên cửa sổ. Chuyển động của máy quay cần giữ được sự êm ái và liên tục. Không giật hình, khựng hình, bỏ khung hình, trùng lặp khung hình hay chuyển động chậm nhân tạo. Vẻ cổ điển phải bắt nguồn từ các đặc tính hình ảnh MiniDV chân thực chứ không phải từ việc giảm tốc độ khung hình.
 ```
 
 [↑ Về danh mục](#catalog)

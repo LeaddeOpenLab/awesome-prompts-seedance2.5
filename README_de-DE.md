@@ -493,20 +493,20 @@ Erstelle eine dramatische Draufsicht auf ein Mädchen im Anime-Stil mit rosa Haa
 
 <a name="prompt-2102607673501892691"></a>
 
-### Übersetzung läuft
+### Filmische romantische Szene eines koreanischen Mädchens und Jungen, die während der goldenen Stunde an einem Bahnübergang an der Küste Blicke austauschen.
 
 Autor：[@aiwithaayat](https://x.com/aiwithaayat) · [Originalbeitrag](https://x.com/aiwithaayat/status/2102607673501892691)
 
 Kinematisch / Filmstill · Charakter · Gruppe / Paar · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische romantische Szene eines koreanischen Mädchens und Jungen, die während der goldenen Stunde an einem Bahnübergang an der Küste Blicke austauschen.
 
 <img src="covers/2102607673501892691.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein wunderschönes koreanisches Mädchen mit langem, glattem schwarzem Haar spaziert während der goldenen Stunde durch eine friedliche koreanische Küstenstadt, gekleidet in einen stilvollen beigen Trenchcoat und mit einer Handtasche. Ein gutaussehender koreanischer Junge in einer dunklen Lederjacke steht an einem Bahnübergang, während eine historische Straßenbahn vorbeifährt. Das Mädchen nähert sich ihm langsam entlang der Straße am Meer, während warmes Sonnenlicht ihr Gesicht erstrahlen lässt. Kinematografische Kamerabewegungen, natürliche Gehbewegungen, realistische Gesichtsausdrücke, eine sanfte Meeresbrise und detailreiche koreanische Straßenszenen. Fange ihren ersten Blickkontakt in einer sanften romantischen Atmosphäre, mit geringer Schärfentiefe, warmer Farbkorrektur und fotorealistischer Qualität ein. Erstelle eine wunderschöne 15-sekündige filmische Liebesgeschichte mit fließenden Übergängen, natürlicher Beleuchtung und emotionalem Storytelling.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4469,20 +4469,62 @@ Vermeiden: Cartoon-Stil, CGI-Look, plastische Haut, unrealistisches Gesicht, une
 
 <a name="prompt-2102606014692708368"></a>
 
-### Übersetzung läuft
+### 30-sekündiger Anime-Koch-Timeline-Prompt für die authentische Katsudon-Zubereitung.
 
 Autor：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Originalbeitrag](https://x.com/Alyssa4aicreate/status/2102606014692708368)
 
 Anime / Manga · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger Anime-Koch-Timeline-Prompt für die authentische Katsudon-Zubereitung.
 
 <img src="covers/2102606014692708368.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, temporeiches, filmisches japanisches Anime-Kochvideo, das die Zubereitung von authentischem Katsudon zeigt, vollständig basierend auf der folgenden Textbeschreibung.
+
+WICHTIG: Kein Storyboard, keine Skizze, kein Referenzbild, kein Panel, keine Anmerkung und kein Quellmaterial anzeigen, nachbilden, abpausen, referenzieren oder imitieren. Generiere ausschließlich originäre Animation im Anime-Stil.
+
+STIL
+
+Hochwertiger japanischer Anime-Filmstil, filmische Sommerbeleuchtung, ultra-detaillierte Texturen der Speisen, realistische Kochphysik, sichtbarer Dampf und Feuchtigkeit, geringe Tiefenschärfe, Makro-Nahaufnahmen, sanfte Kamerabewegung, warme japanische Küchenatmosphäre. Schneller rhythmischer Schnitt mit natürlichen Match Cuts basierend auf Bewegung, Form, Textur und Komposition.
+
+TIMELINE
+
+0–2,5s — Schweinefleisch vorbereiten Nahaufnahme von Händen, die einen dicken Schweinerücken mit einem Holzhammer auf einem Schneidebrett flach klopfen. Das Fleisch flacht allmählich ab und seine Fasern lockern sich. Gleichmäßig Salz und Pfeffer darüber streuen. Knackige, rhythmische Schläge.
+
+2,5–5s — Schweinefleisch panieren Schnelle Match Cuts: das Schweinefleisch in Mehl drücken, in verquirltes Ei tauchen, dann fest mit groben Panko-Semmelbröseln panieren. Zeige realistisches Abtropfen des Eies und die an der Oberfläche haftenden Semmelbrösel.
+
+5–7,5s — Frittieren Das panierte Schweinefleisch in heißes goldenes Öl gleiten lassen. Intensives Blubbern umgibt das Kotelett, während die Kruste goldbraun und knusprig wird. Warme filmische Beleuchtung und detaillierte Ölbewegung.
+
+7,5–9,5s — Schneiden Das frittierte Tonkatsu auf ein Holzbrett legen. Ein scharfes Messer schneidet es in gleichmäßige Streifen. Die knusprige Kruste bricht natürlich auf und gibt saftiges weißes Schweinefleisch frei, aus dem sanft Dampf aufsteigt.
+
+9,5–12s — Dashi & Zwiebeln köcheln Dünn geschnittene Zwiebeln köcheln sanft in bernsteinfarbenem Dashi in einer flachen Pfanne. Kleine Bläschen steigen auf, während die Zwiebeln glasig werden. Essstäbchen bewegen sie behutsam durch die Brühe.
+
+12–14s — Tonkatsu hinzufügen Das geschnittene Tonkatsu mit Essstäbchen vorsichtig auf die köchelnden Zwiebeln legen. Die Brühe beginnt in die knusprigen Ränder einzuziehen, während Dampf aufsteigt.
+
+14–16,5s — Ei darübergießen Langsam verquirltes goldenes Ei über das Tonkatsu und die Zwiebeln gießen. Das Ei verteilt sich natürlich in den Lücken und beginnt an den heißen Rändern zu stocken.
+
+16,5–19s — Ei stocken lassen Nahaufnahme des Eies, das bei schwacher Hitze sanft stockt. Die Ränder werden weich und golden, während die Mitte glänzend, leicht flüssig und zitternd bleibt. Nicht umrühren.
+
+19–21s — Reis vorbereiten Eine weiße Donburi-Schale aus Keramik erhält einen großzügigen Berg dampfenden japanischen Rundkornreis. Der Reis sieht locker und leicht glänzend aus.
+
+21–24s — Anrichten Die Ei-Tonkatsu-Mischung vorsichtig aus der Pfanne auf den Reis gleiten lassen. Das Ei legt sich natürlich in einer sanften Welle ab, während das Dashi leicht in den Reis einzieht.
+
+24–26s — Finale Nahaufnahme Das fertige Katsudon ruht auf der Theke. Glänzendes Ei legt sich langsam über das Tonkatsu und den Reis und zittert sanft. Langsamer filmischer Push-in.
+
+26–30s — Hero-Präsentation Das fertige Katsudon in einer traditionellen blau-weißen Keramikschale auf einer Holzoberfläche präsentieren. Goldenes Ei bedeckt knuspriges Tonkatsu auf glänzendem Reis, garniert mit frischem Mitsuba. Dampf steigt auf, während die Kamera in einem sanften Bogen um die Schale herumfährt – für ein wunderschönes Anime-Food-Film-Ende.
+
+AUDIO
+
+Helles, von den 1980er-Jahren inspiriertes japanisches City-Pop-Instrumental, 110–120 BPM, mit subtiler Koto und leichter Glockenspiel-Perkussion. Synchronisiere realistische ASMR-Kochgeräusche: Hammerschläge, Messerschnitte, Frittierzischen, blubberndes Dashi, Essstäbchen, eingegossenes Ei, Dampf und ein sanftes Klingen von Keramik.
+
+Ende mit einem zarten Windspielton während der finalen Präsentation.
+
+NEGATIV
+
+Kein Storyboard, kein Referenzbild, keine Skizze, keine Panels, Rahmen, Zahlen, Pfeile, Anmerkungen, Untertitel, Beschriftungen, UI, Logos oder Texteinblendungen. Keine unpassenden Zutaten oder Gerichte. Nur Katsudon. Essen, Hände, Utensilien, Beleuchtung und Umgebung durchgehend visuell konsistent halten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4916,20 +4958,42 @@ Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](http
 
 <a name="prompt-2102606380863472099"></a>
 
-### Übersetzung läuft
+### Vintage-MiniDV-Heimvideo-Ausschnitt einer jungen Frau, die an einem regnerischen frühen Morgen in einer Wohnung in Seoul ein Smiley auf ein beschlagenes Fenster zeichnet.
 
 Autor：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Originalbeitrag](https://x.com/iamahmedfaraz66/status/2102606380863472099)
 
 Retro / Vintage · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vintage-MiniDV-Heimvideo-Ausschnitt einer jungen Frau, die an einem regnerischen frühen Morgen in einer Wohnung in Seoul ein Smiley auf ein beschlagenes Fenster zeichnet.
 
 <img src="covers/2102606380863472099.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hauptmotiv: Junge Koreanerin, 24 Jahre alt, natürlich attraktiv, realistische Haut, minimales Make-up, langes dunkles Haar locker offen getragen. Sie trägt einen übergroßen kastanienbraunen Kapuzenpullover und eine weite Freizeithose. Ihre exakte Identität, Gesichtszüge, Frisur, Körperproportionen und ihr Erscheinungsbild durchgehend beibehalten.
+
+Ort: Kleine alte Wohnung in Seoul an einem dunklen, regnerischen frühen Morgen. Ein großes, regennasses Schlafzimmerfenster mit Blick auf verschwommene benachbarte Wohngebäude, nasse Dächer und schwache Lichter der Stadt. Einfache Holzmöbel, ein kleiner Nachttisch und ein ruhiges, bewohntes Schlafzimmer.
+
+Beleuchtung & Atmosphäre: Tiefe Blaue-Stunde-Stimmung am frühen Morgen. Kaltes blau-graues Licht fällt durch das regnerische Fenster, ergänzt durch den schwachen warmen Schein einer Nachttischlampe. Dunkler bewölkter Himmel, gedämpfte Farben, weiche Schatten, leicht unterbelichteter Innenraum und eine friedliche, schläfrige Atmosphäre.
+
+Stil: Ultrarealistisches Sony MiniDV-Heimvideo aus den frühen 2000er Jahren, gefilmt von einer anderen Person mit einem Camcorder in der Hand. Vollkommen ungezwungen und ungestellt. Natürliche Handkamerabewegung, subtiles menschliches Wackeln, unvollkommene Kadrierung, sanfte Neuausrichtung, gelegentliches Fokussuchen des Autofokus, leichte Belichtungsverschiebungen, verblasste Farben, weicher Kontrast, authentische DV-Kompression, subtiles digitales Rauschen bei schwachem Licht und Mikrofonrauschen. Durchgehend geschmeidige, kontinuierliche Echtzeitbewegung. Kein Stottern, Ruckeln, Auslassen von Einzelbildern, doppelte Einzelbilder, Stop-Motion-Erscheinung, übermäßige Bewegungsunschärfe, Geschwindigkeitsänderungen oder Niedrig-Bildraten-Look. Keine Bildstabilisierung oder moderne filmische Bewegungen.
+
+00:00–00:03 — ERWACHEN AM FENSTER: Sie geht langsam und noch schläfrig auf das Schlafzimmerfenster zu und zieht den Vorhang sanft zur Seite. Der dunkle, regnerische Morgen in Seoul wird sichtbar.
+
+00:03–00:06 — KONDENSWASSER: Sie bemerkt, dass die Scheibe von Kondenswasser beschlagen ist. Sie hebt einen Finger und wischt langsam eine kleine klare Stelle über das beschlagene Fenster.
+
+00:06–00:09 — KLEINE ZEICHNUNG: Geistesabwesend zeichnet sie mit der Fingerspitze ein winziges, einfaches Smiley in das Kondenswasser. Sie betrachtet es einen Moment lang mit einem leisen, amüsierten Lächeln.
+
+00:09–00:12 — REGEN: Sie beugt sich näher an die freigewischte Stelle und beobachtet, wie Regentropfen das Glas hinunterlaufen. Die Kamera bewegt sich sanft näher heran und fängt die verschwommenen Gebäude Seouls im Hintergrund ein.
+
+00:12–00:15 — RUHIGER MOMENT: Sie lehnt ihre Stirn für eine Sekunde sanft an das kühle Glas und lauscht dem Regen. Sie zeigt ein winziges, friedvolles Lächeln, während die Kamera langsam zum regnerischen Ausblick schwenkt und abblendet.
+
+Audio: Nur natürlicher O-Ton: stetiger Regen gegen das Fenster, leichter Wind, entfernter Verkehr, subtile Raumakustik, leise Schritte und sanfte Stoffgeräusche. Keine Musik, keine Erzählung und keine hinzugefügten Soundeffekte.
+
+Ziel: Es soll sich wie ein völlig gewöhnlicher, intimer Heimvideomoment der frühen 2000er Jahre anfühlen. Es passiert nichts Dramatisches; die Atmosphäre entsteht durch das regnerische Fenster, das Kondenswasser, ihr winziges Lächeln und den stillen frühen Morgen. Es soll zufällig festgehalten und keinesfalls inszeniert wirken.
+
+Bewegungsqualität: Ihre Bewegungen extrem natürlich und flüssig halten, insbesondere die Fingerbewegung durch das Kondenswasser und ihr langsames Gehen zum Fenster. Die Kamerabewegung muss sanft und kontinuierlich bleiben. Kein Stottern, Ruckeln, Auslassen von Bildern, Duplizieren von Bildern oder künstliche Zeitlupe. Das Vintage-Erscheinungsbild muss aus authentischen MiniDV-Bildeigenschaften stammen und nicht aus einer reduzierten Bildrate.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

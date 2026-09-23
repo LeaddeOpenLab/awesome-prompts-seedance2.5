@@ -493,20 +493,20 @@ Créez un plan plongeant spectaculaire d'une jeune fille de style anime aux chev
 
 <a name="prompt-2102607673501892691"></a>
 
-### Traduction en cours
+### Scène romantique cinématographique d'une jeune fille et d'un garçon coréens échangeant des regards près d'un passage à niveau côtier pendant l'heure dorée.
 
 Auteur：[@aiwithaayat](https://x.com/aiwithaayat) · [Publication originale](https://x.com/aiwithaayat/status/2102607673501892691)
 
 Image cinématographique / Photogramme de film · Personnage · Groupe / Couple · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène romantique cinématographique d'une jeune fille et d'un garçon coréens échangeant des regards près d'un passage à niveau côtier pendant l'heure dorée.
 
 <img src="covers/2102607673501892691.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une belle jeune fille coréenne aux longs cheveux noirs et lisses se promène dans une paisible ville côtière coréenne pendant l'heure dorée, vêtue d'un élégant trench beige et portant un sac à main. Un beau garçon coréen vêtu d'une veste en cuir sombre se tient près d'un passage à niveau alors qu'un tramway vintage passe. La jeune fille s'approche lentement de lui le long de la rue du bord de mer, la chaude lumière du soleil illuminant son visage. Mouvements de caméra cinématographiques, démarche naturelle, expressions faciales réalistes, douce brise marine et décors détaillés des rues coréennes. Capturez leur premier échange de regards avec une douce atmosphère romantique, une faible profondeur de champ, un étalonnage aux tons chauds et une qualité photoréaliste. Créez une magnifique histoire d'amour cinématographique de 15 secondes avec des transitions fluides, un éclairage naturel et une narration émouvante.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4469,20 +4469,62 @@ Style visuel : Film de vacances de rêve à Bali, esthétique de marque de voyag
 
 <a name="prompt-2102606014692708368"></a>
 
-### Traduction en cours
+### Prompt de chronologie culinaire style anime de 30 secondes pour la préparation d'un authentique katsudon.
 
 Auteur：[@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [Publication originale](https://x.com/Alyssa4aicreate/status/2102606014692708368)
 
 Anime / Manga · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de chronologie culinaire style anime de 30 secondes pour la préparation d'un authentique katsudon.
 
 <img src="covers/2102606014692708368.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo de cuisine cinématique d'anime japonais de 30 secondes au rythme soutenu montrant la préparation d'un authentique katsudon, entièrement à partir de la description textuelle ci-dessous.
+
+IMPORTANT : Ne pas afficher, recréer, décalquer, référencer ou imiter de storyboard, croquis, image de référence, case, annotation ou matériel source. Générez uniquement une animation originale de style anime.
+
+STYLE
+
+Style de film d'anime japonais de haute qualité, éclairage estival cinématique, textures alimentaires ultra-détaillées, physique de cuisson réaliste, vapeur et humidité visibles, faible profondeur de champ, très gros plans macro, mouvements de caméra fluides, atmosphère chaleureuse de cuisine japonaise. Montage rythmé et rapide avec des raccords naturels (match cuts) basés sur le mouvement, la forme, la texture et la composition.
+
+CHRONOLOGIE
+
+0–2,5s — Préparer le porc Gros plan sur des mains martelant une épaisse longe de porc avec un maillet en bois sur une planche à découper. La viande s'aplatit progressivement et ses fibres s'assouplissent. Saupoudrez uniformément de sel et de poivre. Impacts nets et rythmés.
+
+2,5–5s — Paner le porc Raccords rapides : pressez le porc dans la farine, trempez-le dans l'œuf battu, puis enrobez-le fermement de chapelure panko grossière. Montrez l'œuf coulant de manière réaliste et la chapelure adhérant à la surface.
+
+5–7,5s — Frire Plongez le porc pané dans l'huile dorée et chaude. Un bouillonnement intense entoure la côtelette tandis que la croûte devient dorée et croustillante. Éclairage cinématique chaleureux et mouvements d'huile détaillés.
+
+7,5–9,5s — Trancher Déposez le tonkatsu frit sur une planche en bois. Un couteau bien aiguisé le découpe en lamelles régulières. La croûte croustillante craque naturellement, révélant un porc blanc et juteux d'où s'échappe une douce vapeur.
+
+9,5–12s — Mijoter le dashi et l'oignon Des oignons finement émincés mijotent doucement dans un dashi ambré au fond d'une poêle peu profonde. De petites bulles montent tandis que les oignons deviennent translucides. Des baguettes les déplacent délicatement dans le bouillon.
+
+12–14s — Ajouter le tonkatsu Déposez délicatement le tonkatsu tranché sur les oignons frémissants à l'aide de baguettes. Le bouillon commence à imbiber les bords croustillants tandis que la vapeur s'élève.
+
+14–16,5s — Verser l'œuf Versez lentement l'œuf doré battu sur le tonkatsu et les oignons. L'œuf se répartit naturellement dans les interstices et commence à figer autour des bords chauds.
+
+16,5–19s — Cuire l'œuf Gros plan sur l'œuf qui coagule doucement à feu doux. Les bords deviennent souples et dorés tandis que le centre reste brillant, légèrement baveux et tremblotant. Ne pas remuer.
+
+19–21s — Préparer le riz Un bol donburi en céramique blanche reçoit un généreux dôme de riz japonais à grains courts fumant. Le riz a l'air aéré et légèrement brillant.
+
+21–24s — Dresser Faites glisser délicatement le mélange d'œuf et de tonkatsu de la poêle sur le riz. L'œuf se dépose naturellement en une vague souple tandis que le dashi imprègne légèrement le riz.
+
+24–26s — Gros plan final Le katsudon terminé repose sur le comptoir. L'œuf brillant se stabilise lentement sur le tonkatsu et le riz, tremblant doucement. Travelling avant lent et cinématique.
+
+26–30s — Révélation finale Présentez le katsudon terminé dans un bol traditionnel en céramique bleue et blanche sur une surface en bois. L'œuf doré recouvre le tonkatsu croustillant sur le riz brillant, garni de mitsuba frais. La vapeur s'élève tandis que la caméra effectue un arc de cercle lent autour du bol pour une magnifique fin digne d'un film d'animation culinaire.
+
+AUDIO
+
+Morceau instrumental lumineux de city-pop japonaise inspiré des années 1980, 110–120 BPM, avec un koto subtil et de légères percussions de carillons. Synchronisez des sons ASMR de cuisine réalistes : coups de maillet, tranchage au couteau, grésillement de friture, dashi qui bout doucement, baguettes, œuf versé, vapeur et un doux tintement de céramique.
+
+Terminez par une délicate note de carillon éolien lors de la révélation finale.
+
+NÉGATIF
+
+Aucun storyboard, image de référence, croquis, cases, bordures, chiffres, flèches, annotations, sous-titres, légendes, interface utilisateur (UI), logos ou incrustations de texte. Aucun ingrédient ou plat sans rapport. Katsudon uniquement. Maintenez les aliments, les mains, les ustensiles, l'éclairage et l'environnement visuellement cohérents tout au long de la vidéo.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4916,20 +4958,42 @@ Traduction en cours
 
 <a name="prompt-2102606380863472099"></a>
 
-### Traduction en cours
+### Extrait de vidéo de famille vintage sur MiniDV d'une jeune femme dessinant un smiley sur une vitre embuée dans un appartement de Séoul par un matin pluvieux.
 
 Auteur：[@iamahmedfaraz66](https://x.com/iamahmedfaraz66) · [Publication originale](https://x.com/iamahmedfaraz66/status/2102606380863472099)
 
 Rétro / Vintage · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Extrait de vidéo de famille vintage sur MiniDV d'une jeune femme dessinant un smiley sur une vitre embuée dans un appartement de Séoul par un matin pluvieux.
 
 <img src="covers/2102606380863472099.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sujet principal : Jeune femme coréenne, 24 ans, naturellement séduisante, peau réaliste, maquillage minimal, longs cheveux foncés détachés sans apprêt. Vêtue d'un sweat à capuche bordeaux surdimensionné et d'un pantalon décontracté ample. Préserver son identité exacte, ses traits du visage, sa coiffure, ses proportions corporelles et son apparence tout au long de la séquence.
+
+Lieu : Petit appartement ancien de Séoul au petit matin sombre et pluvieux. Une grande fenêtre de chambre couverte de pluie donnant sur des immeubles voisins flous, des toits mouillés et de faibles lumières de la ville. Meubles en bois simples, petite table de chevet et chambre calme et habitée.
+
+Éclairage et ambiance : Ambiance profonde d'heure bleue au petit matin. Lumière froide bleu-gris traversant la fenêtre pluvieuse avec une très faible lueur chaude d'une lampe de chevet. Ciel sombre et nuageux, couleurs douces, ombres subtiles, intérieur légèrement sous-exposé et atmosphère paisible et ensommeillée.
+
+Style : Vidéo amateur ultra-réaliste des débuts des années 2000 sur Sony MiniDV, filmée par une autre personne tenant le caméscope. Complètement naturelle et non mise en scène. Mouvement caméra à l'épaule naturel, légers tremblements humains, cadrage imparfait, légers recadrages, recherche occasionnelle de la mise au point automatique, légères variations d'exposition, couleurs passées, contraste doux, compression DV authentique, bruit numérique subtil en basse lumière et souffle de micro. Mouvement continu et fluide en temps réel du début à la fin. Pas de saccades, pas d'effets de judder, pas de sauts d'images, pas d'images dupliquées, pas d'effet stop-motion, pas de flou de mouvement excessif, pas de changements de vitesse ni d'effet de faible fréquence d'images. Aucune stabilisation ni mouvements cinématiques modernes.
+
+00:00–00:03 — RÉVEIL À LA FENÊTRE : Elle s'avance lentement vers la fenêtre de la chambre, encore endormie, et écarte doucement le rideau. Le matin sombre et pluvieux de Séoul se dévoile.
+
+00:03–00:06 — CONDENSATION : Elle remarque que la vitre est couverte de condensation. Elle lève un doigt et essuie lentement une petite zone nette sur la fenêtre embuée.
+
+00:06–00:09 — PETIT DESSIN : D'un air distrait, elle trace du bout du doigt un tout petit smiley simple dans la condensation. Elle le regarde un instant avec un léger sourire amusé.
+
+00:09–00:12 — PLUIE : Elle se penche plus près de la zone essuyée et regarde les gouttes de pluie couler le long de la vitre. La caméra se rapproche doucement, saisissant les immeubles flous de Séoul à l'extérieur.
+
+00:12–00:15 — MOMENT DE CALME : Elle pose légèrement son front contre la vitre fraîche pendant une seconde, écoutant la pluie. Elle esquisse un minuscule sourire paisible tandis que la caméra dérive lentement vers la vue pluvieuse avant de couper.
+
+Audio : Son d'ambiance naturel uniquement : pluie continue contre la vitre, vent léger, circulation lointaine, ambiance discrète de la pièce, bruits de pas feutrés et froissement léger des vêtements. Aucune musique, narration ou effet sonore ajouté.
+
+Objectif : Donner la sensation d'un moment de vidéo de famille ordinaire et intime du début des années 2000. Rien de dramatique ne se produit ; l'atmosphère provient de la fenêtre pluvieuse, de la condensation, de son petit sourire et du calme du petit matin. La scène doit paraître capturée sur le vif et par accident plutôt que jouée délibérément.
+
+Qualité du mouvement : Conserver des mouvements extrêmement naturels et fluides, en particulier le doigt glissant sur la condensation et sa marche lente vers la fenêtre. Le mouvement de la caméra doit rester doux et continu. Pas de saccades, de vibrations indésirables, de pertes d'images, d'images dupliquées ou de ralentis artificiels. L'aspect vintage doit provenir des caractéristiques d'image authentiques du MiniDV et non d'une fréquence d'images réduite.
 ```
 
 [↑ Retour aux catégories](#catalog)
