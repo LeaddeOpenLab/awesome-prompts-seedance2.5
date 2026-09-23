@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:27:02.893Z",
+  "model": "seedance2.5",
+  "prompt": "Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of delicious handmade steamed chicken momos, entirely from the text description below.\n\nIMPORTANT: Generate only original anime-style animation. Do not display, recreate, trace, reference, imitate, or reproduce any storyboard, sketch, reference image, panel, annotation, or source material.\n\nSTYLE\n\nHigh-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro food close-ups, smooth camera movement, warm cozy kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition. Keep the ingredients, hands, utensils, kitchen, lighting, and food appearance visually consistent throughout.\n\nTIMELINE\n\n0–3s — Prepare the Dough\nClose-up of hands mixing flour with water in a ceramic bowl. The dough gradually comes together into a smooth, soft ball. Knead it gently on a wooden surface until the texture becomes elastic and silky.\n\n3–6s — Prepare Chicken Filling\nQuick cinematic cuts show finely minced chicken mixed with chopped cabbage, spring onion, garlic, ginger, a small amount of soy sauce, sesame oil, salt, and black pepper. Hands gently combine everything into a moist, flavorful filling.\n6–9s — Roll the Wrappers\nDivide the dough into small portions. Roll one piece into a thin, smooth circular wrapper using a wooden rolling pin. The wrapper becomes delicate and slightly translucent around the edges.\n9–13s — Fill & Fold\nPlace a small spoonful of juicy chicken filling in the center of the wrapper. Fold the wrapper around the filling and create neat traditional pleats with the fingertips. Show the momo becoming a beautiful compact crescent-shaped dumpling.\n13–16s — Arrange for Steaming\nSeveral freshly folded chicken momos are carefully placed inside a traditional bamboo steamer lined with parchment. Their smooth white wrappers contrast beautifully with the warm wooden bamboo texture.\n16–20s — Steam\nClose-up of the bamboo steamer as powerful natural steam rises around the momos. The wrappers gradually become soft, glossy, and slightly translucent while the chicken filling cooks inside. Show realistic condensation and tiny water droplets.\n20–23s — Open the Steamer\nLift the bamboo steamer lid in slow motion. A beautiful cloud of steam escapes toward the camera, revealing perfectly cooked, plump chicken momos arranged neatly inside.\n23–26s — Serve\nUse wooden chopsticks to carefully transfer several hot momos onto a small traditional ceramic plate. Add a small bowl of spicy red chili dipping sauce beside them. Steam continues rising naturally.\n26–30s — Hero Reveal\nPresent the finished steamed chicken momos on a beautiful ceramic plate with the chili dipping sauce beside them. The momos have soft glossy wrappers, detailed pleats, and a warm freshly steamed appearance. Steam gently rises as the camera slowly arcs around the plate with a cinematic macro push-in for a satisfying anime food-film ending.\nAUDIO\nBright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: dough kneading, rolling pin movement, gentle chopping, mixing, wrapper folding, bamboo steamer sounds, rising steam, ceramic plate contact, and soft chopstick sounds.\nEnd with one delicate wind-chime tone during the final hero reveal.\nNEGATIVE\nNo storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, watermarks, or text overlays. No unrelated dishes or ingredients. No fried momos, no baked momos, no soup dumplings, no pork, no beef, no seafood. Chicken momos only. Keep the same momo design, wrapper thickness, filling appearance, utensils, hands, kitchen environment, lighting, and visual continuity throughout.",
+  "promptTranslations": {
+    "en": "Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of delicious handmade steamed chicken momos, entirely from the text description below. IMPORTANT: Generate only original anime-style animation. Do not display, recreate, trace, reference, imitate, or reproduce any storyboard, sketch, reference image, panel, annotation, or source material. STYLE High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro food close-ups, smooth camera movement, warm cozy kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition. Keep the ingredients, hands, utensils, kitchen, lighting, and food appearance visually consistent throughout. TIMELINE 0–3s — Prepare the Dough Close-up of hands mixing flour with water in a ceramic bowl. The dough gradually comes together into a smooth, soft ball. Knead it gently on a wooden surface until the texture becomes elastic and silky. 3–6s — Prepare Chicken Filling Quick cinematic cuts show finely minced chicken mixed with chopped cabbage, spring onion, garlic, ginger, a small amount of soy sauce, sesame oil, salt, and black pepper. Hands gently combine everything into a moist, flavorful filling. 6–9s — Roll the Wrappers Divide the dough into small portions. Roll one piece into a thin, smooth circular wrapper using a wooden rolling pin. The wrapper becomes delicate and slightly translucent around the edges. 9–13s — Fill & Fold Place a small spoonful of juicy chicken filling in the center of the wrapper. Fold the wrapper around the filling and create neat traditional pleats with the fingertips. Show the momo becoming a beautiful compact crescent-shaped dumpling. 13–16s — Arrange for Steaming Several freshly folded chicken momos are carefully placed inside a traditional bamboo steamer lined with parchment. Their smooth white wrappers contrast beautifully with the warm wooden bamboo texture. 16–20s — Steam Close-up of the bamboo steamer as powerful natural steam rises around the momos. The wrappers gradually become soft, glossy, and slightly translucent while the chicken filling cooks inside. Show realistic condensation and tiny water droplets. 20–23s — Open the Steamer Lift the bamboo steamer lid in slow motion. A beautiful cloud of steam escapes toward the camera, revealing perfectly cooked, plump chicken momos arranged neatly inside. 23–26s — Serve Use wooden chopsticks to carefully transfer several hot momos onto a small traditional ceramic plate. Add a small bowl of spicy red chili dipping sauce beside them. Steam continues rising naturally. 26–30s — Hero Reveal Present the finished steamed chicken momos on a beautiful ceramic plate with the chili dipping sauce beside them. The momos have soft glossy wrappers, detailed pleats, and a warm freshly steamed appearance. Steam gently rises as the camera slowly arcs around the plate with a cinematic macro push-in for a satisfying anime food-film ending. AUDIO Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: dough kneading, rolling pin movement, gentle chopping, mixing, wrapper folding, bamboo steamer sounds, rising steam, ceramic plate contact, and soft chopstick sounds. End with one delicate wind-chime tone during the final hero reveal. NEGATIVE No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, watermarks, or text overlays. No unrelated dishes or ingredients. No fried momos, no baked momos, no soup dumplings, no pork, no beef, no seafood. Chicken momos only. Keep the same momo design, wrapper thickness, filling appearance, utensils, hands, kitchen environment, lighting, and visual continuity throughout."
+  },
+  "summaryTranslations": {
+    "en": "30-second Japanese anime film style steamed chicken momos complete cooking process video prompt, including storyboard timeline, audiovisual sound effects, and negative constraints."
+  },
+  "translationVersion": 2,
+  "summary": "30秒日式动漫电影风蒸鸡肉馍馍烹饪全流程视频提示词，包含分镜时间轴、视听音效及负面约束。",
+  "summaryEn": "A 30-second anime cooking video prompt for steaming chicken momos with timeline shots and audio specs.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102616914187227595",
+    "canonicalUrl": "https://x.com/SimplyAnnisa/status/2102616914187227595",
+    "author": {
+      "username": "SimplyAnnisa",
+      "displayName": "Anissa",
+      "profileUrl": "https://x.com/SimplyAnnisa"
+    },
+    "publishedAt": "2026-09-23T04:31:51.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "en",
+    "originalText": "Steaming hot momos made with love 😋\n\nMade with seedance 2.5\n\nCreate a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of delicious handmade steamed chicken momos, entirely from the text description below.\n\nIMPORTANT: Generate only original anime-style animation. Do not display, recreate, trace, reference, imitate, or reproduce any storyboard, sketch, reference image, panel, annotation, or source material.\n\nSTYLE\n\nHigh-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro food close-ups, smooth camera movement, warm cozy kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition. Keep the ingredients, hands, utensils, kitchen, lighting, and food appearance visually consistent throughout.\n\nTIMELINE\n\n0–3s — Prepare the Dough\nClose-up of hands mixing flour with water in a ceramic bowl. The dough gradually comes together into a smooth, soft ball. Knead it gently on a wooden surface until the texture becomes elastic and silky.\n\n3–6s — Prepare Chicken Filling\nQuick cinematic cuts show finely minced chicken mixed with chopped cabbage, spring onion, garlic, ginger, a small amount of soy sauce, sesame oil, salt, and black pepper. Hands gently combine everything into a moist, flavorful filling.\n6–9s — Roll the Wrappers\nDivide the dough into small portions. Roll one piece into a thin, smooth circular wrapper using a wooden rolling pin. The wrapper becomes delicate and slightly translucent around the edges.\n9–13s — Fill & Fold\nPlace a small spoonful of juicy chicken filling in the center of the wrapper. Fold the wrapper around the filling and create neat traditional pleats with the fingertips. Show the momo becoming a beautiful compact crescent-shaped dumpling.\n13–16s — Arrange for Steaming\nSeveral freshly folded chicken momos are carefully placed inside a traditional bamboo steamer lined with parchment. Their smooth white wrappers contrast beautifully with the warm wooden bamboo texture.\n16–20s — Steam\nClose-up of the bamboo steamer as powerful natural steam rises around the momos. The wrappers gradually become soft, glossy, and slightly translucent while the chicken filling cooks inside. Show realistic condensation and tiny water droplets.\n20–23s — Open the Steamer\nLift the bamboo steamer lid in slow motion. A beautiful cloud of steam escapes toward the camera, revealing perfectly cooked, plump chicken momos arranged neatly inside.\n23–26s — Serve\nUse wooden chopsticks to carefully transfer several hot momos onto a small traditional ceramic plate. Add a small bowl of spicy red chili dipping sauce beside them. Steam continues rising naturally.\n26–30s — Hero Reveal\nPresent the finished steamed chicken momos on a beautiful ceramic plate with the chili dipping sauce beside them. The momos have soft glossy wrappers, detailed pleats, and a warm freshly steamed appearance. Steam gently rises as the camera slowly arcs around the plate with a cinematic macro push-in for a satisfying anime food-film ending.\nAUDIO\nBright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: dough kneading, rolling pin movement, gentle chopping, mixing, wrapper folding, bamboo steamer sounds, rising steam, ceramic plate contact, and soft chopstick sounds.\nEnd with one delicate wind-chime tone during the final hero reveal.\nNEGATIVE\nNo storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, watermarks, or text overlays. No unrelated dishes or ingredients. No fried momos, no baked momos, no soup dumplings, no pork, no beef, no seafood. Chicken momos only. Keep the same momo design, wrapper thickness, filling appearance, utensils, hands, kitchen environment, lighting, and visual continuity throughout.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SimplyAnnisa/status/2102616914187227595",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102616846742736897/img/xoGix1tDrXYTd-Jw.jpg",
+        "analysisUrl": "https://x.com/SimplyAnnisa/status/2102616914187227595"
+      }
+    ],
+    "metrics": {
+      "likeCount": 53,
+      "repostCount": 10,
+      "replyCount": 40,
+      "quoteCount": 0,
+      "viewCount": 2108
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SimplyAnnisa/status/2102616914187227595",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102616846742736897/img/xoGix1tDrXYTd-Jw.jpg",
+  "coverPath": "covers/2102616914187227595.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102616846742736897",
+    "x-post:2102616914187227595"
+  ],
+  "analysis": {
+    "summary": "30秒日式动漫电影风蒸鸡肉馍馍烹饪全流程视频提示词，包含分镜时间轴、视听音效及负面约束。",
+    "summaryEn": "A 30-second anime cooking video prompt for steaming chicken momos with timeline shots and audio specs.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely matches the timeline: kneading dough, mixing filling, rolling wrapper, pleating, steaming in a bamboo basket, opening the lid, and plating with chili sauce."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of delicious handmade steamed chicken momos, entirely from the text description below.\n\nIMPORTANT: Generate only original anime-style animation. Do not display, recreate, trace, reference, imitate, or reproduce any storyboard, sketch, reference image, panel, annotation, or source material.\n\nSTYLE\n\nHigh-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro food close-ups, smooth camera movement, warm cozy kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition. Keep the ingredients, hands, utensils, kitchen, lighting, and food appearance visually consistent throughout.\n\nTIMELINE\n\n0–3s — Prepare the Dough\nClose-up of hands mixing flour with water in a ceramic bowl. The dough gradually comes together into a smooth, soft ball. Knead it gently on a wooden surface until the texture becomes elastic and silky.\n\n3–6s — Prepare Chicken Filling\nQuick cinematic cuts show finely minced chicken mixed with chopped cabbage, spring onion, garlic, ginger, a small amount of soy sauce, sesame oil, salt, and black pepper. Hands gently combine everything into a moist, flavorful filling.\n6–9s — Roll the Wrappers\nDivide the dough into small portions. Roll one piece into a thin, smooth circular wrapper using a wooden rolling pin. The wrapper becomes delicate and slightly translucent around the edges.\n9–13s — Fill & Fold\nPlace a small spoonful of juicy chicken filling in the center of the wrapper. Fold the wrapper around the filling and create neat traditional pleats with the fingertips. Show the momo becoming a beautiful compact crescent-shaped dumpling.\n13–16s — Arrange for Steaming\nSeveral freshly folded chicken momos are carefully placed inside a traditional bamboo steamer lined with parchment. Their smooth white wrappers contrast beautifully with the warm wooden bamboo texture.\n16–20s — Steam\nClose-up of the bamboo steamer as powerful natural steam rises around the momos. The wrappers gradually become soft, glossy, and slightly translucent while the chicken filling cooks inside. Show realistic condensation and tiny water droplets.\n20–23s — Open the Steamer\nLift the bamboo steamer lid in slow motion. A beautiful cloud of steam escapes toward the camera, revealing perfectly cooked, plump chicken momos arranged neatly inside.\n23–26s — Serve\nUse wooden chopsticks to carefully transfer several hot momos onto a small traditional ceramic plate. Add a small bowl of spicy red chili dipping sauce beside them. Steam continues rising naturally.\n26–30s — Hero Reveal\nPresent the finished steamed chicken momos on a beautiful ceramic plate with the chili dipping sauce beside them. The momos have soft glossy wrappers, detailed pleats, and a warm freshly steamed appearance. Steam gently rises as the camera slowly arcs around the plate with a cinematic macro push-in for a satisfying anime food-film ending.\nAUDIO\nBright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: dough kneading, rolling pin movement, gentle chopping, mixing, wrapper folding, bamboo steamer sounds, rising steam, ceramic plate contact, and soft chopstick sounds.\nEnd with one delicate wind-chime tone during the final hero reveal.\nNEGATIVE\nNo storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, watermarks, or text overlays. No unrelated dishes or ingredients. No fried momos, no baked momos, no soup dumplings, no pork, no beef, no seafood. Chicken momos only. Keep the same momo design, wrapper thickness, filling appearance, utensils, hands, kitchen environment, lighting, and visual continuity throughout.",
+    "sourceRange": {
+      "start": 61,
+      "end": 3994
+    },
+    "translations": {
+      "zh": "制作一段30秒快节奏的日系动漫电影风格烹饪视频，展现手工蒸鸡肉馍馍的制作全过程，包括揉面、拌馅、擀皮、包捏、上笼蒸熟与装盘等细节。",
+      "en": "Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of handmade steamed chicken momos, from dough kneading and filling to steaming and serving."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic food animation video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:27:08.545Z",
+  "model": "seedance2.5",
+  "prompt": "A cinematic close-up of a young Asian woman wearing a black hoodie and a dark head covering, standing beside a traditional outdoor barbecue grill. She slowly adjusts the cloth on her head with both hands while smoke rises around her. Cut to detailed macro shots of juicy pieces of grilled meat on metal skewers over glowing charcoal, sizzling and releasing thick aromatic smoke. Close-up of the meat being grilled over intense open flames, golden-orange firelight reflecting on the food, realistic smoke and heat distortion. Ultra-realistic food cinematography, cinematic lighting, shallow depth of field, dramatic warm tones, highly detailed textures, natural movement, realistic fire and smoke physics, 4K, 8K, professional DSLR camera, macro lens, smooth camera movement, photorealistic, immersive atmosphere.",
+  "promptTranslations": {
+    "en": "A cinematic close-up of a young Asian woman wearing a black hoodie and a dark head covering, standing beside a traditional outdoor barbecue grill. She slowly adjusts the cloth on her head with both hands while smoke rises around her. Cut to detailed macro shots of juicy pieces of grilled meat on metal skewers over glowing charcoal, sizzling and releasing thick aromatic smoke. Close-up of the meat being grilled over intense open flames, golden-orange firelight reflecting on the food, realistic smoke and heat distortion. Ultra-realistic food cinematography, cinematic lighting, shallow depth of field, dramatic warm tones, highly detailed textures, natural movement, realistic fire and smoke physics, 4K, 8K, professional DSLR camera, macro lens, smooth camera movement, photorealistic, immersive atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "A cinematic prompt depicting an Asian woman adjusting her head covering beside an outdoor grill and detailed macro shots of sizzling meat skewers over glowing charcoal with warm lighting and smoke."
+  },
+  "translationVersion": 2,
+  "summary": "A cinematic prompt depicting an Asian woman adjusting her head covering beside an outdoor grill and detailed macro shots of sizzling meat skewers over glowing charcoal with warm lighting and smoke.",
+  "summaryEn": "A cinematic prompt depicting an Asian woman adjusting her head covering beside an outdoor grill and detailed macro shots of sizzling meat skewers over glowing charcoal with warm lighting and smoke.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102641743669961207",
+    "canonicalUrl": "https://x.com/Zoyavelle/status/2102641743669961207",
+    "author": {
+      "username": "Zoyavelle",
+      "displayName": "Zoya",
+      "profileUrl": "https://x.com/Zoyavelle"
+    },
+    "publishedAt": "2026-09-23T06:10:31.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "en",
+    "originalText": "Made with seedance 2.5\n\nPrompt:\n\nA cinematic close-up of a young Asian woman wearing a black hoodie and a dark head covering, standing beside a traditional outdoor barbecue grill. She slowly adjusts the cloth on her head with both hands while smoke rises around her. Cut to detailed macro shots of juicy pieces of grilled meat on metal skewers over glowing charcoal, sizzling and releasing thick aromatic smoke. Close-up of the meat being grilled over intense open flames, golden-orange firelight reflecting on the food, realistic smoke and heat distortion. Ultra-realistic food cinematography, cinematic lighting, shallow depth of field, dramatic warm tones, highly detailed textures, natural movement, realistic fire and smoke physics, 4K, 8K, professional DSLR camera, macro lens, smooth camera movement, photorealistic, immersive atmosphere.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zoyavelle/status/2102641743669961207",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102641668713541632/img/4kMQH96mZ_LnIjLM.jpg",
+        "analysisUrl": "https://x.com/Zoyavelle/status/2102641743669961207"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 2,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 281
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zoyavelle/status/2102641743669961207",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102641668713541632/img/4kMQH96mZ_LnIjLM.jpg",
+  "coverPath": "covers/2102641743669961207.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102641668713541632",
+    "x-post:2102641743669961207"
+  ],
+  "analysis": {
+    "summary": "A cinematic prompt depicting an Asian woman adjusting her head covering beside an outdoor grill and detailed macro shots of sizzling meat skewers over glowing charcoal with warm lighting and smoke.",
+    "summaryEn": "A cinematic prompt depicting an Asian woman adjusting her head covering beside an outdoor grill and detailed macro shots of sizzling meat skewers over glowing charcoal with warm lighting and smoke.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the woman adjusting her head covering beside smoke and cuts between detailed macro shots of meat skewers grilling over glowing coals and flames with rich warm lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic close-up of a young Asian woman wearing a black hoodie and a dark head covering, standing beside a traditional outdoor barbecue grill. She slowly adjusts the cloth on her head with both hands while smoke rises around her. Cut to detailed macro shots of juicy pieces of grilled meat on metal skewers over glowing charcoal, sizzling and releasing thick aromatic smoke. Close-up of the meat being grilled over intense open flames, golden-orange firelight reflecting on the food, realistic smoke and heat distortion. Ultra-realistic food cinematography, cinematic lighting, shallow depth of field, dramatic warm tones, highly detailed textures, natural movement, realistic fire and smoke physics, 4K, 8K, professional DSLR camera, macro lens, smooth camera movement, photorealistic, immersive atmosphere.",
+    "sourceRange": {
+      "start": 33,
+      "end": 845
+    },
+    "translations": {
+      "zh": "一名身穿黑色连帽衫、头戴深色头巾的年轻亚裔女性的电影感特写，她站在传统的户外烧烤架旁。她用双手慢慢整理头上的布巾，周围升起阵阵烟雾。切换到炭火上金属烤串鲜美烤肉的精致微距特写，滋滋作响并散发浓郁香气的烟雾。烤肉在强烈的明火上翻烤的特写，金橙色火光映在食物上，真实的烟雾与热浪扭曲。超逼真美食电影摄影，电影级光影，浅景深，戏剧性的暖色调，高度细腻的质感，自然的动作，逼真的火焰与烟雾物理效果，4K，8K，专业单反相机，微距镜头，流畅运镜，逼真质感，身临其境的氛围。",
+      "en": "A cinematic close-up of a young Asian woman wearing a black hoodie and a dark head covering, standing beside a traditional outdoor barbecue grill. She slowly adjusts the cloth on her head with both hands while smoke rises around her. Cut to detailed macro shots of juicy pieces of grilled meat on metal skewers over glowing charcoal, sizzling and releasing thick aromatic smoke. Close-up of the meat being grilled over intense open flames, golden-orange firelight reflecting on the food, realistic smoke and heat distortion. Ultra-realistic food cinematography, cinematic lighting, shallow depth of field, dramatic warm tones, highly detailed textures, natural movement, realistic fire and smoke physics, 4K, 8K, professional DSLR camera, macro lens, smooth camera movement, photorealistic, immersive atmosphere."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic food and lifestyle video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
