@@ -559,20 +559,52 @@ Traduzione in corso
 
 <a name="prompt-2102616914187227595"></a>
 
-### Traduzione in corso
+### Prompt video di 30 secondi sull'intero processo di preparazione dei momo di pollo al vapore in stile film anime giapponese, con timeline dettagliata, effetti audiovisivi e vincoli negativi.
 
 Autore：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Post originale](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Anime / Manga · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video di 30 secondi sull'intero processo di preparazione dei momo di pollo al vapore in stile film anime giapponese, con timeline dettagliata, effetti audiovisivi e vincoli negativi.
 
 <img src="covers/2102616914187227595.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico anime giapponese di cucina di 30 secondi dal ritmo incalzante che mostri la preparazione di deliziosi momo di pollo al vapore fatti a mano, interamente a partire dalla descrizione testuale qui sotto.
+
+IMPORTANTE: genera esclusivamente animazione originale in stile anime. Non mostrare, ricreare, ricalcare, usare come riferimento, imitare o riprodurre storyboard, bozzetti, immagini di riferimento, vignette, annotazioni o materiale sorgente.
+
+STILE
+Stile da film anime giapponese di alta qualità, illuminazione cinematografica estiva, texture del cibo ultra-dettagliate, fisica di cottura realistica, vapore e umidità visibili, profondità di campo ridotta, primi piani macro del cibo, movimenti di camera fluidi, atmosfera di cucina calda e accogliente. Montaggio ritmico veloce con match cut naturali basati su movimento, forma, consistenza e composizione. Mantieni ingredienti, mani, utensili, cucina, illuminazione e aspetto del cibo visivamente coerenti dall'inizio alla fine.
+
+TIMELINE
+
+0–3s — Preparare l'impasto
+Primo piano di mani che mescolano farina e acqua in una ciotola di ceramica. L'impasto prende gradualmente forma creando una palla liscia e morbida. Impastala delicatamente su una superficie di legno finché la consistenza non diventa elastica e setosa.
+
+3–6s — Preparare il ripieno di pollo
+Rapidi stacchi cinematografici mostrano pollo macinato finemente unito a cavolo tritato, cipollotto, aglio, zenzero, una piccola quantità di salsa di soia, olio di sesamo, sale e pepe nero. Delle mani amalgamano delicatamente il tutto ottenendo un ripieno succoso e saporito.
+6–9s — Stendere i dischi di pasta
+Dividi l'impasto in piccole porzioni. Stendi un pezzo con un mattarello di legno fino a formare un disco sottile, liscio e circolare. Il disco diventa delicato e leggermente traslucido lungo i bordi.
+9–13s — Riempire e piegare
+Posiziona una piccola cucchiaiata di succoso ripieno di pollo al centro del disco di pasta. Richiudi la pasta attorno al ripieno creando pieghe tradizionali precise con la punta delle dita. Mostra il momo che si trasforma in un bellissimo e compatto raviolo a forma di mezzaluna.
+13–16s — Disporre per la cottura a vapore
+Diversi momo di pollo appena chiusi vengono adagiati con cura all'interno di una tradizionale vaporiera di bambù foderata con carta forno. I loro morbidi involucri bianchi contrastano splendidamente con la calda texture del legno di bambù.
+16–20s — Cuocere a vapore
+Primo piano della vaporiera di bambù mentre un denso vapore naturale sale attorno ai momo. Gli involucri diventano gradualmente morbidi, lucidi e leggermente traslucidi mentre il ripieno di pollo cuoce all'interno. Mostra condensa realistica e minuscole goccioline d'acqua.
+20–23s — Aprire la vaporiera
+Solleva il coperchio della vaporiera di bambù al rallentatore. Una magnifica nuvola di vapore fuoriesce verso la telecamera, svelando momo di pollo perfettamente cotti, gonfi e disposti con cura all'interno.
+23–26s — Servire
+Usa bacchette di legno per trasferire con cura diversi momo caldi su un piattino tradizionale di ceramica. Aggiungi accanto una ciotolina di salsa piccante al peperoncino rosso. Il vapore continua a salire naturalmente.
+26–30s — Hero Reveal
+Presenta i momo di pollo al vapore finiti su un bel piatto di ceramica con la salsa al peperoncino a fianco. I momo hanno involucri morbidi e lucidi, pieghe dettagliate e un aspetto caldo, appena cotto a vapore. Il vapore sale dolcemente mentre la telecamera compie un lento arco attorno al piatto con una macro spinta cinematografica in avanti per un finale da film anime culinario estremamente soddisfacente.
+AUDIO
+Brillante brano strumentale city-pop giapponese ispirato agli anni '80, 110–120 BPM, con sottile koto e leggere percussioni di campanelli. Sincronizza suoni di cucina ASMR realistici: impasto della farina, movimento del mattarello, taglio delicato, mescolamento, piegatura della pasta, suoni della vaporiera di bambù, vapore che sale, contatto con il piatto di ceramica e il tocco leggero delle bacchette.
+Concludi con un delicato rintocco di scacciapensieri durante l'hero reveal finale.
+NEGATIVO
+Nessuno storyboard, immagine di riferimento, bozzetto, vignette, bordi, numeri, frecce, annotazioni, sottotitoli, didascalie, interfaccia utente (UI), loghi, watermark o testi in sovrimpressione. Nessun piatto o ingrediente non correlato. Niente momo fritti, niente momo al forno, niente dumpling in brodo, niente maiale, niente manzo, niente frutti di mare. Solo momo di pollo. Mantieni lo stesso design del momo, lo stesso spessore della pasta, l'aspetto del ripieno, gli utensili, le mani, l'ambiente della cucina, l'illuminazione e la continuità visiva per tutta la durata.
 ```
 
 [↑ Torna alle categorie](#catalog)

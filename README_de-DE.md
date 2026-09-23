@@ -559,20 +559,52 @@ Kinematisch / Filmstill · Charakter · Essen / Trinken · Veröffentlicht
 
 <a name="prompt-2102616914187227595"></a>
 
-### Übersetzung läuft
+### 30-Sekunden-Video-Prompt für den kompletten Kochprozess gedämpfter Hähnchen-Momos im japanischen Anime-Filmstil, einschließlich Storyboard-Zeitachse, audiovisueller Soundeffekte und negativer Einschränkungen.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Originalbeitrag](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Comic / Storyboard · Kinematisch / Filmstill · Anime / Manga · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-Sekunden-Video-Prompt für den kompletten Kochprozess gedämpfter Hähnchen-Momos im japanischen Anime-Filmstil, einschließlich Storyboard-Zeitachse, audiovisueller Soundeffekte und negativer Einschränkungen.
 
 <img src="covers/2102616914187227595.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 30-sekündiges, temporeiches, filmisches japanisches Anime-Kochvideo, das die Zubereitung köstlicher handgemachter gedämpfter Hähnchen-Momos zeigt, vollständig basierend auf der folgenden Textbeschreibung.
+
+WICHTIG: Generiere ausschließlich originale Animationen im Anime-Stil. Zeige, rekonstruiere, pausiere, referenziere, imitiere oder reproduziere keinerlei Storyboards, Skizzen, Referenzbilder, Panels, Anmerkungen oder Quellmaterial.
+
+STIL
+Hochwertiger japanischer Anime-Filmstil, filmische Sommerbeleuchtung, extrem detaillierte Texturen des Essens, realistische Kochphysik, sichtbarer Dampf und Feuchtigkeit, geringe Schärfentiefe, Makro-Nahaufnahmen von Speisen, sanfte Kamerabewegungen, warme, gemütliche Küchenatmosphäre. Schneller rhythmischer Schnitt mit natürlichen Match-Cuts basierend auf Bewegung, Form, Textur und Komposition. Halte Zutaten, Hände, Utensilien, Küche, Beleuchtung und das Erscheinungsbild der Speisen durchgehend visuell konsistent.
+
+ZEITACHSE
+
+0–3s — Teig zubereiten
+Nahaufnahme von Händen, die in einer Keramikschüssel Mehl mit Wasser vermengen. Der Teig fügt sich nach und nach zu einer glatten, weichen Kugel zusammen. Sanft auf einer Holzoberfläche kneten, bis die Textur elastisch und seidig wird.
+
+3–6s — Hähnchenfüllung zubereiten
+Schnelle filmische Schnitte zeigen fein gehacktes Hähnchenfleisch, vermengt mit gehacktem Kohl, Frühlingszwiebeln, Knoblauch, Ingwer, etwas Sojasauce, Sesamöl, Salz und schwarzem Pfeffer. Hände vermengen alles behutsam zu einer saftigen, aromatischen Füllung.
+6–9s — Teigblätter ausrollen
+Den Teig in kleine Portionen teilen. Ein Stück mit einem Nudelholz aus Holz zu einem dünnen, glatten, kreisrunden Teigblatt ausrollen. Das Teigblatt wird an den Rändern zart und leicht durchscheinend.
+9–13s — Füllen & Falten
+Einen kleinen Löffel saftige Hähnchenfüllung in die Mitte des Teigblatts geben. Das Teigblatt um die Füllung falten und mit den Fingerspitzen saubere traditionelle Falten formen. Zeigen, wie der Momo zu einer wunderschönen, kompakten, halbmondförmigen Teigtasche wird.
+13–16s — Zum Dämpfen anrichten
+Mehrere frisch gefaltete Hähnchen-Momos werden vorsichtig in einen traditionellen Bambusdämpfer gelegt, der mit Backpapier ausgelegt ist. Ihre glatten weißen Hüllen bilden einen wunderschönen Kontrast zur warmen Holzstruktur des Bambus.
+16–20s — Dämpfen
+Nahaufnahme des Bambusdämpfers, während kraftvoller natürlicher Dampf um die Momos aufsteigt. Die Hüllen werden allmählich weich, glänzend und leicht durchscheinend, während die Hähnchenfüllung im Inneren gart. Realistische Kondensation und winzige Wassertropfen zeigen.
+20–23s — Den Dämpfer öffnen
+Den Deckel des Bambusdämpfers in Zeitlupe anheben. Eine wunderschöne Dampfwolke entweicht in Richtung Kamera und gibt den Blick auf perfekt gegarte, pralle Hähnchen-Momos frei, die ordentlich im Inneren aufgereiht sind.
+23–26s — Servieren
+Mit Holzstäbchen vorsichtig mehrere heiße Momos auf einen kleinen traditionellen Keramikteller heben. Eine kleine Schale mit scharfer roter Chili-Dipsauce daneben platzieren. Der Dampf steigt weiterhin natürlich auf.
+26–30s — Hero Reveal
+Die fertigen gedämpften Hähnchen-Momos auf einem wunderschönen Keramikteller mit der Chili-Dipsauce daneben präsentieren. Die Momos haben weiche, glänzende Hüllen, detaillierte Falten und ein warmes, frisch gedämpftes Aussehen. Sanft steigt Dampf auf, während die Kamera in einem langsamen Bogen um den Teller schwenkt und mit einer filmischen Makro-Heranfahrt für ein befriedigendes Anime-Food-Film-Ende sorgt.
+AUDIO
+Helles, von den 1980er-Jahren inspiriertes japanisches City-Pop-Instrumental, 110–120 BPM, mit subtiler Koto und leichter Glockenspiel-Perkussion. Realistische ASMR-Kochgeräusche synchronisieren: Teigkneten, Bewegung des Nudelholzes, sanftes Hacken, Mischen, Falten der Hüllen, Geräusche des Bambusdämpfers, aufsteigender Dampf, Kontakt mit dem Keramikteller und sanfte Stäbchengeräusche.
+Mit einem zarten Windspielton während des finalen Hero Reveals abschließen.
+NEGATIV
+Kein Storyboard, Referenzbild, Skizze, Panels, Rahmen, Zahlen, Pfeile, Anmerkungen, Untertitel, Bildunterschriften, Benutzeroberfläche (UI), Logos, Wasserzeichen oder Texteinblendungen. Keine unpassenden Gerichte oder Zutaten. Keine frittierten Momos, keine gebackenen Momos, keine Suppen-Dumplings, kein Schweinefleisch, kein Rindfleisch, keine Meeresfrüchte. Ausschließlich Hähnchen-Momos. Das gleiche Momo-Design, die gleiche Teigblattdicke, das gleiche Aussehen der Füllung, die gleichen Utensilien, Hände, Küchenumgebung, Beleuchtung und visuelle Kontinuität durchgehend beibehalten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

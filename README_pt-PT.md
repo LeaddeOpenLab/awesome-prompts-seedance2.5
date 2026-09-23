@@ -545,20 +545,53 @@ Tradução em curso
 
 <a name="prompt-2102616914187227595"></a>
 
-### Tradução em curso
+### Prompt de vídeo de 30 segundos no estilo de filme de anime japonês sobre o processo completo de preparação de momos de frango a vapor, contendo cronograma de planos, efeitos audiovisuais e restrições negativas.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publicação original](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Banda desenhada / Storyboard · Cena de Cinema / Fotograma · Anime / Mangá · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo de 30 segundos no estilo de filme de anime japonês sobre o processo completo de preparação de momos de frango a vapor, contendo cronograma de planos, efeitos audiovisuais e restrições negativas.
 
 <img src="covers/2102616914187227595.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico de culinária em anime japonês de 30 segundos, em ritmo acelerado, mostrando a preparação de deliciosos momos de frango cozidos a vapor feitos à mão, inteiramente a partir da descrição de texto abaixo.
+
+IMPORTANTE: Gere apenas animação original no estilo anime. Não exiba, recrie, trace, faça referência, imite ou reproduza nenhum storyboard, esboço, imagem de referência, painel, anotação ou material de origem.
+
+ESTILO
+
+Estilo de filme de anime japonês de alta qualidade, iluminação cinematográfica de verão, texturas de comida ultradetalhadas, física realista de culinária, vapor e humidade visíveis, profundidade de campo reduzida, grandes planos macro de comida, movimento suave de câmara, atmosfera de cozinha calorosa e acolhedora. Edição rápida e rítmica com cortes combinados naturais baseados em movimento, formato, textura e composição. Mantenha os ingredientes, mãos, utensílios, cozinha, iluminação e o aspeto da comida visualmente consistentes do início ao fim.
+
+CRONOGRAMA
+
+0–3s — Preparar a Massa
+Grande plano de mãos a misturar farinha com água numa taça de cerâmica. A massa gradualmente ganha forma até criar uma bola lisa e macia. Amasse-a suavemente sobre uma superfície de madeira até que a textura fique elástica e sedosa.
+
+3–6s — Preparar o Recheio de Frango
+Cortes cinematográficos rápidos mostram frango finamente picado misturado com couve picada, cebolinho, alho, gengibre, uma pequena quantidade de molho de soja, óleo de sésamo, sal e pimenta-preta. Mãos misturam tudo suavemente até formar um recheio húmido e saboroso.
+6–9s — Estender as Massas
+Divida a massa em pequenas porções. Estenda uma porção num disco fino e liso utilizando um rolo de massa de madeira. A massa fica delicada e ligeiramente translúcida nas bordas.
+9–13s — Rechear e Dobrar
+Coloque uma pequena colherada do recheio suculento de frango no centro da massa. Dobre a massa em redor do recheio e faça pregas tradicionais e cuidadas com a ponta dos dedos. Mostre o momo a transformar-se num belo pastel compacto em forma de meia-lua.
+13–16s — Dispor para Cozer a Vapor
+Vários momos de frango acabados de dobrar são cuidadosamente colocados no interior de uma cesta tradicional de bambu forrada com papel vegetal. As suas massas brancas e lisas contrastam lindamente com a textura quente de madeira de bambu.
+16–20s — Cozer a Vapor
+Grande plano da cesta de bambu enquanto um vapor forte e natural se liberta em redor dos momos. As massas ficam gradualmente macias, brilhantes e ligeiramente translúcidas enquanto o recheio de frango coze no interior. Mostre condensação realista e minúsculas gotículas de água.
+20–23s — Abrir a Cesta de Vapor
+Levante a tampa da cesta de bambu em câmara lenta. Uma bela nuvem de vapor escapa em direção à câmara, revelando momos de frango perfeitamente cozinhados e carnudos, dispostos ordenadamente no seu interior.
+23–26s — Servir
+Use pauzinhos de madeira para transferir cuidadosamente vários momos quentes para um pequeno prato de cerâmica tradicional. Adicione uma pequena taça de molho picante de malagueta vermelha ao lado dos mesmos. O vapor continua a subir naturalmente.
+26–30s — Revelação Principal
+Apresente os momos de frango cozidos a vapor finalizados num belo prato de cerâmica com o molho de malagueta ao lado. Os momos têm massas macias e brilhantes, pregas detalhadas e um aspeto quente de recém-saídos do vapor. O vapor sobe suavemente enquanto a câmara descreve lentamente um arco em redor do prato com uma aproximação macro cinematográfica para um desfecho satisfatório de filme de comida em anime.
+ÁUDIO
+Instrumental alegre de city pop japonês inspirado nos anos 1980, 110–120 BPM, com koto subtil e leve percussão de carrilhão. Sincronize sons realistas de ASMR de culinária: amassar da massa, movimento do rolo, corte suave, mistura, dobra da massa, sons da cesta de bambu, vapor a subir, contacto com prato de cerâmica e sons suaves de pauzinhos.
+Termine com um tom delicado de sino dos ventos durante a revelação principal final.
+NEGATIVO
+Sem storyboard, imagem de referência, esboço, painéis, molduras, números, setas, anotações, legendas, subtítulos, interface de utilizador, logótipos, marcas de água ou sobreposições de texto. Sem pratos ou ingredientes não relacionados. Sem momos fritos, sem momos assados, sem dumplings de sopa, sem carne de porco, sem carne de vaca, sem marisco. Apenas momos de frango. Mantenha o mesmo design dos momos, espessura da massa, aspeto do recheio, utensílios, mãos, ambiente da cozinha, iluminação e continuidade visual do início ao fim.
 ```
 
 [↑ Voltar às categorias](#catalog)

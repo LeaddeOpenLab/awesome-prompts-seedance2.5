@@ -561,20 +561,53 @@ Tác giả：[@Zoyavelle](https://x.com/Zoyavelle) · [Bài gốc](https://x.com
 
 <a name="prompt-2102616914187227595"></a>
 
-### Đang dịch
+### Prompt video 30 giây quy trình nấu món bánh momo gà hấp phong cách phim anime Nhật Bản, bao gồm dòng thời gian phân cảnh, âm thanh nghe nhìn và các ràng buộc loại trừ.
 
 Tác giả：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Bài gốc](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Anime / Manga · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt video 30 giây quy trình nấu món bánh momo gà hấp phong cách phim anime Nhật Bản, bao gồm dòng thời gian phân cảnh, âm thanh nghe nhìn và các ràng buộc loại trừ.
 
 <img src="covers/2102616914187227595.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video nấu ăn phong cách anime điện ảnh Nhật Bản dài 30 giây với nhịp độ nhanh, thể hiện quá trình làm món bánh bao momo thịt gà hấp thủ công thơm ngon, hoàn toàn dựa trên mô tả văn bản dưới đây.
+
+QUAN TRỌNG: Chỉ tạo hoạt hình phong cách anime nguyên bản. Không hiển thị, tái tạo, vẽ đè, tham chiếu, bắt chước hoặc sao chép bất kỳ bảng phân cảnh (storyboard), bản phác thảo, hình ảnh tham chiếu, khung tranh, chú thích hoặc tài liệu nguồn nào.
+
+PHONG CÁCH
+
+Phong cách phim anime Nhật Bản chất lượng cao, ánh sáng mùa hè đậm chất điện ảnh, kết cấu món ăn siêu chi tiết, vật lý nấu nướng chân thực, hơi nước và độ ẩm nhìn thấy rõ, độ sâu trường ảnh nông, cận cảnh thức ăn dạng macro, chuyển động máy quay mượt mà, không khí nhà bếp ấm cúng. Dựng phim nhịp độ nhanh với các cú cắt match cut tự nhiên dựa trên chuyển động, hình dáng, kết cấu và bố cục. Giữ cho nguyên liệu, bàn tay, dụng cụ, căn bếp, ánh sáng và diện mạo món ăn luôn nhất quán về mặt thị giác xuyên suốt video.
+
+TIMELINE
+
+0–3 giây — Chuẩn bị bột
+Cận cảnh đôi bàn tay đang nhào bột mì với nước trong một chiếc bát gốm. Khối bột dần kết dính lại thành một khối tròn mềm mịn. Nhào bột nhẹ nhàng trên mặt bàn gỗ cho đến khi kết cấu trở nên đàn hồi và mịn màng như lụa.
+
+3–6 giây — Chuẩn bị nhân gà
+Những cảnh cắt nhanh đậm chất điện ảnh thể hiện thịt gà băm nhuyễn được trộn cùng bắp cải thái nhỏ, hành lá, tỏi, gừng, một ít nước tương, dầu mè, muối và tiêu đen. Đôi tay nhẹ nhàng trộn đều mọi thứ thành phần nhân ẩm mềm và đậm đà hương vị.
+6–9 giây — Cán vỏ bánh
+Chia bột thành các phần nhỏ. Dùng cây cán bột bằng gỗ cán một phần bột thành vỏ bánh hình tròn mỏng, mịn. Vỏ bánh trở nên mỏng manh và hơi trong suốt ở các phần mép.
+9–13 giây — Cho nhân và gói bánh
+Đặt một thìa nhỏ nhân gà mọng nước vào giữa vỏ bánh. Gấp vỏ bánh quanh phần nhân và dùng đầu ngón tay tạo những nếp gấp truyền thống gọn gàng. Thể hiện chiếc momo dần trở thành một chiếc bánh bao hình trăng khuyết nhỏ nhắn, đẹp mắt.
+13–16 giây — Sắp xếp để hấp
+Vài chiếc bánh momo gà vừa mới gói xong được xếp cẩn thận vào bên trong xửng hấp bằng tre truyền thống có lót giấy nến. Lớp vỏ trắng mịn màng của chúng tương phản tuyệt đẹp với kết cấu ấm áp của nan tre.
+16–20 giây — Hấp bánh
+Cận cảnh xửng hấp tre khi làn hơi nước tự nhiên bốc lên cuồn cuộn xung quanh những chiếc momo. Vỏ bánh dần trở nên mềm mại, bóng bẩy và hơi trong mờ khi phần nhân gà bên trong chín dần. Thể hiện sự ngưng tụ hơi nước và những giọt nước li ti một cách chân thực.
+20–23 giây — Mở xửng hấp
+Nhấc nắp xửng hấp tre lên theo hiệu ứng chuyển động chậm (slow motion). Một làn hơi nước tuyệt đẹp tỏa ra về phía máy quay, để lộ những chiếc momo gà căng mọng, chín hoàn hảo được xếp ngay ngắn bên trong.
+23–26 giây — Bày đĩa
+Dùng đũa gỗ cẩn thận gắp vài chiếc momo nóng hổi ra một chiếc đĩa gốm truyền thống nhỏ. Đặt một bát nhỏ nước chấm ớt đỏ cay nồng bên cạnh. Hơi nước vẫn tiếp tục bốc lên một cách tự nhiên.
+26–30 giây — Cảnh quay đắt giá (Hero Reveal)
+Trình bày món momo gà hấp hoàn thiện trên chiếc đĩa gốm tuyệt đẹp cùng với bát nước chấm ớt bên cạnh. Những chiếc momo có lớp vỏ mềm bóng, các nếp gấp chi tiết và vẻ ngoài ấm nóng như vừa mới ra lò. Hơi nước nhẹ nhàng bốc lên khi máy quay từ từ lượn một đường vòng quanh đĩa kết hợp cú đẩy máy macro điện ảnh, mang lại đoạn kết mãn nhãn cho thước phim ẩm thực anime.
+ÂM THANH
+Bản hòa tấu city-pop Nhật Bản tươi sáng lấy cảm hứng từ thập niên 1980, nhịp độ 110–120 BPM, kết hợp tinh tế cùng đàn koto và bộ gõ chuông nhẹ nhàng. Đồng bộ các âm thanh nấu ăn ASMR chân thực: tiếng nhào bột, chuyển động của cây cán bột, tiếng băm thái nhẹ nhàng, tiếng trộn nguyên liệu, tiếng gấp vỏ bánh, âm thanh của xửng tre, tiếng hơi nước bốc lên, tiếng tiếp xúc với đĩa gốm và âm thanh va chạm nhẹ của đũa.
+Kết thúc bằng một tiếng chuông gió thanh tao duy nhất trong cảnh quay đắt giá cuối cùng.
+YÊU CẦU LOẠI TRỪ (NEGATIVE)
+Không có storyboard, hình ảnh tham chiếu, bản phác thảo, khung tranh, viền, con số, mũi tên, chú thích, phụ đề, lời chú thích, UI, logo, hình mờ hay chữ chèn đè. Không có món ăn hoặc nguyên liệu không liên quan. Không có momo chiên, không có momo nướng, không có tiểu long bao (soup dumplings), không có thịt lợn, không có thịt bò, không có hải sản. Chỉ duy nhất momo thịt gà. Giữ nguyên thiết kế momo, độ dày vỏ bánh, hình thức phần nhân, dụng cụ, bàn tay, bối cảnh nhà bếp, ánh sáng và tính liên tục về mặt thị giác xuyên suốt.
 ```
 
 [↑ Về danh mục](#catalog)

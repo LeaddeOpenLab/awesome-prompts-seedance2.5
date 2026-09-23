@@ -559,20 +559,53 @@ Traducción en curso
 
 <a name="prompt-2102616914187227595"></a>
 
-### Traducción en curso
+### Prompt de video de 30 segundos del proceso completo de cocina de momos de pollo al vapor con estilo de película de anime japonés, que incluye cronograma de tomas, efectos visuales y de audio, y restricciones negativas.
 
 Autor：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publicación original](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Cómic / Guion gráfico · Cine / Fotograma · Anime / Manga · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video de 30 segundos del proceso completo de cocina de momos de pollo al vapor con estilo de película de anime japonés, que incluye cronograma de tomas, efectos visuales y de audio, y restricciones negativas.
 
 <img src="covers/2102616914187227595.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinemático de anime japonés de ritmo rápido de 30 segundos sobre cocina que muestre la preparación de deliciosos momos de pollo al vapor hechos a mano, totalmente a partir de la siguiente descripción de texto.
+
+IMPORTANTE: Genera únicamente animación original en estilo anime. No muestres, recrees, calques, tomes como referencia, imites ni reproduzcas ningún guion gráfico (storyboard), boceto, imagen de referencia, viñeta, anotación o material de origen.
+
+ESTILO
+
+Estilo de película de anime japonés de alta calidad, iluminación cinemática de verano, texturas de comida ultra detalladas, física de cocina realista, vapor y humedad visibles, profundidad de campo reducida, primeros planos macro de la comida, movimiento de cámara suave, ambiente de cocina cálido y acogedor. Edición rítmica rápida con cortes por coincidencia (match cuts) naturales basados en movimiento, forma, textura y composición. Mantén los ingredientes, manos, utensilios, cocina, iluminación y aspecto de la comida visualmente consistentes en todo momento.
+
+CRONOGRAMA
+
+0–3s — Preparar la masa
+Primer plano de manos mezclando harina con agua en un tazón de cerámica. La masa se une gradualmente formando una bola suave y homogénea. Amásala suavemente sobre una superficie de madera hasta que la textura se vuelva elástica y sedosa.
+
+3–6s — Preparar el relleno de pollo
+Cortes cinemáticos rápidos muestran pollo finamente picado mezclado con col picada, cebollín, ajo, jengibre, una pequeña cantidad de salsa de soya, aceite de sésamo, sal y pimienta negra. Las manos combinan todo suavemente para formar un relleno jugoso y sabroso.
+6–9s — Estirar las envolturas
+Divide la masa en porciones pequeñas. Extiende una pieza con un rodillo de madera hasta obtener una envoltura circular, delgada y lisa. La envoltura se vuelve delicada y ligeramente translúcida en los bordes.
+9–13s — Rellenar y doblar
+Coloca una pequeña cucharada de jugoso relleno de pollo en el centro de la envoltura. Dobla la envoltura alrededor del relleno y crea pliegues tradicionales prolijos con las yemas de los dedos. Muestra cómo el momo se convierte en una hermosa empanadilla compacta en forma de media luna.
+13–16s — Disponer para cocinar al vapor
+Varios momos de pollo recién doblados se colocan cuidadosamente dentro de una vaporera tradicional de bambú forrada con papel vegetal. Sus suaves envolturas blancas contrastan hermosamente con la cálida textura de la madera de bambú.
+16–20s — Cocinar al vapor
+Primer plano de la vaporera de bambú mientras un potente vapor natural se eleva alrededor de los momos. Las envolturas se vuelven gradualmente suaves, brillantes y ligeramente translúcidas mientras el relleno de pollo se cocina en el interior. Muestra una condensación realista y diminutas gotas de agua.
+20–23s — Abrir la vaporera
+Levanta la tapa de la vaporera de bambú en cámara lenta. Una hermosa nube de vapor escapa hacia la cámara, revelando momos de pollo perfectamente cocidos y regordetes, dispuestos ordenadamente en el interior.
+23–26s — Servir
+Usa palillos de madera para transferir cuidadosamente varios momos calientes a un pequeño plato tradicional de cerámica. Añade un tazón pequeño de salsa picante de chile rojo a su lado. El vapor sigue subiendo de forma natural.
+26–30s — Revelación principal (Hero Reveal)
+Presenta los momos de pollo al vapor terminados en un hermoso plato de cerámica con la salsa de chile al lado. Los momos tienen envolturas suaves y brillantes, pliegues detallados y un aspecto cálido de recién salidos del vapor. El vapor se eleva suavemente mientras la cámara se desplaza lentamente en arco alrededor del plato con un acercamiento macro cinemático para un final satisfactorio de película de anime gastronómico.
+AUDIO
+Instrumental brillante de city-pop japonés inspirado en los años 80, 110–120 BPM, con sutil koto y ligera percusión de campanillas. Sincroniza sonidos realistas de cocina tipo ASMR: amasado de la masa, movimiento del rodillo, picado suave, mezcla, plegado de envolturas, sonidos de la vaporera de bambú, vapor ascendente, contacto con el plato de cerámica y sonidos suaves de palillos.
+Termina con un delicado tono de campanilla de viento durante la revelación principal final.
+NEGATIVO
+Sin guion gráfico (storyboard), imagen de referencia, boceto, viñetas, bordes, números, flechas, anotaciones, subtítulos, letreros, interfaz de usuario (UI), logotipos, marcas de agua ni textos superpuestos. Sin platos ni ingredientes no relacionados. Sin momos fritos, sin momos horneados, sin dumplings de sopa, sin cerdo, sin res, sin mariscos. Solo momos de pollo. Mantén el mismo diseño de momo, grosor de la envoltura, apariencia del relleno, utensilios, manos, entorno de cocina, iluminación y continuidad visual en todo momento.
 ```
 
 [↑ Volver a categorías](#catalog)

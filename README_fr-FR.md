@@ -559,20 +559,52 @@ Traduction en cours
 
 <a name="prompt-2102616914187227595"></a>
 
-### Traduction en cours
+### Prompt de vidéo de 30 secondes détaillant tout le processus de préparation de momos au poulet cuits à la vapeur dans un style de film d'anime japonais, comprenant la chronologie des plans, les effets audiovisuels et les contraintes négatives.
 
 Auteur：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Publication originale](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Anime / Manga · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo de 30 secondes détaillant tout le processus de préparation de momos au poulet cuits à la vapeur dans un style de film d'anime japonais, comprenant la chronologie des plans, les effets audiovisuels et les contraintes négatives.
 
 <img src="covers/2102616914187227595.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo cinématique de cuisine d'anime japonais au rythme rapide de 30 secondes montrant la préparation de délicieux momos au poulet faits main cuits à la vapeur, entièrement à partir de la description textuelle ci-dessous.
+
+IMPORTANT : Générez uniquement une animation originale de style anime. N'affichez, ne recréez, ne décalquez, ne référencez, n'imitez ni ne reproduisez aucun storyboard, croquis, image de référence, case, annotation ou matériel source.
+
+STYLE
+Style de film d'anime japonais de haute qualité, éclairage estival cinématographique, textures culinaires ultra-détaillées, physique de cuisson réaliste, vapeur et humidité visibles, faible profondeur de champ, gros plans macro sur la nourriture, mouvements de caméra fluides, atmosphère de cuisine chaleureuse et confortable. Montage rythmique rapide avec des raccords naturels (match cuts) basés sur le mouvement, la forme, la texture et la composition. Conservez une cohérence visuelle parfaite tout au long de la vidéo pour les ingrédients, les mains, les ustensiles, la cuisine, l'éclairage et l'aspect de la nourriture.
+
+CHRONOLOGIE
+
+0–3s — Préparer la pâte
+Gros plan sur des mains mélangeant de la farine et de l'eau dans un bol en céramique. La pâte s'amalgame progressivement en une boule lisse et souple. Pétrissez-la délicatement sur une surface en bois jusqu'à ce que la texture devienne élastique et soyeuse.
+
+3–6s — Préparer la farce au poulet
+Des plans cinématiques rapides montrent du poulet finement haché mélangé à du chou émincé, des oignons verts, de l'ail, du gingembre, un filet de sauce soja, de l'huile de sésame, du sel et du poivre noir. Des mains mélangent doucement le tout pour former une farce juteuse et savoureuse.
+6–9s — Étaler les disques de pâte
+Divisez la pâte en petites portions. Étalez un morceau à l'aide d'un rouleau à pâtisserie en bois pour obtenir un disque fin, lisse et circulaire. Le disque devient délicat et légèrement translucide sur les bords.
+9–13s — Garnir & plier
+Déposez une petite cuillerée de farce juteuse au poulet au centre du disque de pâte. Repliez la pâte autour de la farce et formez des plis traditionnels soignés du bout des doigts. Montrez le momo devenant un magnifique ravioli compact en forme de croissant.
+13–16s — Disposer pour la cuisson à la vapeur
+Plusieurs momos au poulet fraîchement pliés sont soigneusement disposés dans un panier vapeur traditionnel en bambou tapissé de papier sulfurisé. Leurs enveloppes blanches et lisses contrastent magnifiquement avec la texture chaleureuse du bois de bambou.
+16–20s — Cuisson vapeur
+Gros plan sur le cuiseur en bambou tandis qu'une vapeur naturelle intense s'élève autour des momos. La pâte devient progressivement souple, brillante et légèrement translucide pendant que la farce au poulet cuit à l'intérieur. Montrez une condensation réaliste et de minuscules gouttelettes d'eau.
+20–23s — Ouvrir le cuiseur
+Soulevez le couvercle du cuiseur en bambou au ralenti. Un superbe nuage de vapeur s'échappe vers la caméra, révélant des momos au poulet parfaitement cuits, charnus et soigneusement disposés à l'intérieur.
+23–26s — Servir
+Utilisez des baguettes en bois pour transférer délicatement plusieurs momos chauds sur une petite assiette traditionnelle en céramique. Déposez un petit bol de sauce pimentée rouge à côté. La vapeur continue de s'élever naturellement.
+26–30s — Présentation finale (Hero Reveal)
+Présentez les momos au poulet cuits à la vapeur terminés sur une belle assiette en céramique, accompagnés de la sauce au piment. Les momos ont une pâte souple et brillante, des plis détaillés et une apparence chaude de cuisson fraîche. La vapeur s'élève doucement tandis que la caméra effectue un lent travelling circulaire autour de l'assiette avec un zoom macro cinématique pour une fin gourmande et gratifiante digne d'un film d'anime.
+AUDIO
+Morceau instrumental lumineux de city-pop japonaise inspiré des années 1980, 110–120 BPM, avec un koto subtil et de légères percussions de carillons. Synchronisez des sons réalistes de cuisine ASMR : pétrissage de la pâte, mouvement du rouleau, découpe délicate, mélange, pliage de la pâte, bruits du panier en bambou, vapeur montante, tintement de l'assiette en céramique et bruits doux des baguettes.
+Terminez par un son délicat de carillon éolien lors de la révélation finale.
+NÉGATIF
+Aucun storyboard, image de référence, croquis, cases, bordures, chiffres, flèches, annotations, sous-titres, légendes, interface utilisateur (UI), logos, filigranes ou incrustations de texte. Aucun plat ou ingrédient sans rapport. Pas de momos frits, pas de momos au four, pas de raviolis de type soupe (xiao long bao), pas de porc, pas de bœuf, pas de fruits de mer. Uniquement des momos au poulet. Conservez le même design de momo, la même épaisseur de pâte, le même aspect de farce, les mêmes ustensiles, mains, environnement de cuisine, éclairage et continuité visuelle du début à la fin.
 ```
 
 [↑ Retour aux catégories](#catalog)

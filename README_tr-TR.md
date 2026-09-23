@@ -545,20 +545,53 @@ Sinematik / Film Karesi · Karakter · Yiyecek / İçecek · Yayımlandı
 
 <a name="prompt-2102616914187227595"></a>
 
-### Çeviri sürüyor
+### Bölüm zaman çizelgesi, görsel-işitsel ses efektleri ve negatif kısıtlamaları içeren, buharda tavuklu momo pişirme sürecinin tamamını gösteren 30 saniyelik Japon anime filmi tarzı video istemi.
 
 Yazar：[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [Orijinal gönderi](https://x.com/SimplyAnnisa/status/2102616914187227595)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Anime / Manga · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bölüm zaman çizelgesi, görsel-işitsel ses efektleri ve negatif kısıtlamaları içeren, buharda tavuklu momo pişirme sürecinin tamamını gösteren 30 saniyelik Japon anime filmi tarzı video istemi.
 
 <img src="covers/2102616914187227595.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tamamen aşağıdaki metin açıklamasına dayanarak, lezzetli el yapımı buharda pişmiş tavuklu momoların hazırlanışını gösteren, 30 saniyelik, hızlı tempolu, sinematik bir Japon animesi yemek pişirme videosu oluşturun.
+
+ÖNEMLİ: Yalnızca orijinal anime tarzı animasyon oluşturun. Herhangi bir görsel taslak (storyboard), eskiz, referans görsel, kare, not veya kaynak materyali göstermeyin, yeniden oluşturmayın, üzerinden çizmeyin, referans almayın, taklit etmeyin veya kopyalamayın.
+
+STİL
+
+Yüksek kaliteli Japon anime filmi stili, sinematik yaz ışığı, son derece ayrıntılı yemek dokuları, gerçekçi yemek pişirme fizikleri, görünür buhar ve nem, sığ alan derinliği, makro yemek yakın çekimleri, akıcı kamera hareketleri, sıcak ve samimi mutfak atmosferi. Hareket, şekil, doku ve kompozisyona dayalı doğal eşleşmeli kesmelerle (match cuts) hızlı ve ritmik kurgu. Malzemelerin, ellerin, mutfak gereçlerinin, mutfağın, aydınlatmanın ve yemek görünümünün video boyunca görsel olarak tutarlı kalmasını sağlayın.
+
+ZAMAN ÇİZELGESİ
+
+0–3 sn — Hamuru Hazırlama
+Seramik bir kapta un ile suyu karıştıran ellerin yakın çekimi. Hamur yavaş yavaş pürüzsüz, yumuşak bir beze haline gelir. Dokusu elastik ve ipeksi olana kadar ahşap bir yüzey üzerinde nazikçe yoğurun.
+
+3–6 sn — Tavuk Harcını Hazırlama
+Hızlı sinematik kesmeler; ince kıyılmış tavuğun doğranmış lahana, taze soğan, sarımsak, zencefil, az miktarda soya sosu, susam yağı, tuz ve karabiberle karıştırılmasını gösterir. Eller her şeyi nazikçe birleştirerek nemli ve lezzetli bir harç haline getirir.
+6–9 sn — Hamurları Açma
+Hamuru küçük bezelere ayırın. Ahşap bir oklava kullanarak bir parçayı ince, pürüzsüz, yuvarlak bir yufka şeklinde açın. Hamur narin ve kenarları hafif yarı saydam hale gelir.
+9–13 sn — Doldurma ve Katlama
+Sulu tavuk harcından küçük bir kaşık dolusunu hamurun ortasına yerleştirin. Hamuru harcın etrafına katlayın ve parmak uçlarıyla düzgün, geleneksel pileler oluşturun. Momonun hilal şeklinde güzel ve kompakt bir mantıya dönüşmesini gösterin.
+13–16 sn — Buharda Pişirme İçin Dizme
+Yeni katlanmış birkaç tavuklu momo, pişirme kâğıdı serilmiş geleneksel bir bambu buharlığın içine özenle yerleştirilir. Pürüzsüz beyaz hamurları, sıcak ahşap bambu dokusuyla güzel bir tezat oluşturur.
+16–20 sn — Buharda Pişirme
+Momoların etrafından güçlü ve doğal bir buhar yükselirken bambu buharlığın yakın çekimi. Tavuk harcı içeride pişerken hamurlar yavaş yavaş yumuşar, parlaklaşır ve hafif yarı saydam hale gelir. Gerçekçi yoğuşmayı ve minik su damlacıklarını gösterin.
+20–23 sn — Buharlığı Açma
+Bambu buharlığın kapağını ağır çekimde kaldırın. Güzel bir buhar bulutu kameraya doğru yayılır ve içeride düzenli bir şekilde dizilmiş, kusursuzca pişmiş, dolgun tavuklu momoları gözler önüne serer.
+23–26 sn — Servis
+Tahta yemek çubukları (chopstick) kullanarak sıcak momolardan birkaçını küçük, geleneksel bir seramik tabağa dikkatlice aktarın. Yanlarına küçük bir kâse acı kırmızı biberli dip sos ekleyin. Buhar doğal bir şekilde yükselmeye devam eder.
+26–30 sn — Ana Görsel Tanıtımı (Hero Reveal)
+Tamamlanmış buharda tavuklu momoları, yanındaki acı biberli sosla birlikte güzel bir seramik tabakta sunun. Momolar yumuşak, parlak hamurlara, ayrıntılı pilelere ve sıcak, taze buharda pişmiş bir görünüme sahiptir. Doyurucu bir anime yemek-filmi kapanışı için kamera tabağın etrafında sinematik bir makro yaklaştırmayla yavaşça kavis çizerken buhar hafifçe yükselir.
+SES
+110–120 BPM, hafif koto ve hafif çan perküsyonu içeren, 1980'lerden ilham alan neşeli Japon city-pop enstrümantali. Gerçekçi ASMR yemek pişirme seslerini senkronize edin: hamur yoğurma, oklava hareketi, nazik doğrama, karıştırma, hamur katlama, bambu buharlık sesleri, yükselen buhar, seramik tabak teması ve yumuşak yemek çubuğu sesleri.
+Son ana görsel tanıtımı sırasında tek bir zarif rüzgâr çanı sesiyle bitirin.
+NEGATİF
+Görsel taslak (storyboard), referans görsel, eskiz, paneller, kenarlıklar, sayılar, oklar, açıklamalar, alt yazılar, başlıklar, kullanıcı arayüzü (UI), logolar, filigranlar veya metin katmanları olmasın. İlgisiz yemekler veya malzemeler olmasın. Kızarmış momo yok, fırınlanmış momo yok, çorba mantısı (soup dumpling) yok, domuz eti yok, sığır eti yok, deniz ürünü yok. Yalnızca tavuklu momo. Baştan sona aynı momo tasarımını, hamur kalınlığını, harç görünümünü, mutfak gereçlerini, elleri, mutfak ortamını, aydınlatmayı ve görsel sürekliliği koruyun.
 ```
 
 [↑ Kategorilere dön](#catalog)
