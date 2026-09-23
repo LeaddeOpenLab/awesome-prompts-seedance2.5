@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:29:44.059Z",
+  "model": "seedance2.5",
+  "prompt": "SCENE: Wooden go board, 16:9. Locked close-up on empty intersections, grid only. A slate-black convex go stone is held between adult fingers, thirties. A simple wooden bowl sits soft at the far edge. Face out of frame. No writing on the board. No inlay text. No plastic shine.\n\nACTION: One placement. The black stone is set on a single intersection and stays. The fingers withdraw a little and hold. No second stone. No white stone. No sweeping the board.\n\nFOCUS: Tack-sharp on the stone edge, the wood grain of the point, and the fingertip skin. The rest of the board is one stop soft.\n\nPHYSICS: The stone has weight. It clicks onto the wood and sits. It does not hover or slide into place. No magnet snap.\n\nLIGHT: Window light from the left, a small specular on the polished wood only.\n\nSTYLE: Photoreal cinematic, period Japan, slate stone and worn wood, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One stone click on wood. Then quiet. No second click.",
+  "promptTranslations": {
+    "en": "SCENE: Wooden go board, 16:9. Locked close-up on empty intersections, grid only. A slate-black convex go stone is held between adult fingers, thirties. A simple wooden bowl sits soft at the far edge. Face out of frame. No writing on the board. No inlay text. No plastic shine.\\n\\nACTION: One placement. The black stone is set on a single intersection and stays. The fingers withdraw a little and hold. No second stone. No white stone. No sweeping the board.\\n\\nFOCUS: Tack-sharp on the stone edge, the wood grain of the point, and the fingertip skin. The rest of the board is one stop soft.\\n\\nPHYSICS: The stone has weight. It clicks onto the wood and sits. It does not hover or slide into place. No magnet snap.\\n\\nLIGHT: Window light from the left, a small specular on the polished wood only.\\n\\nSTYLE: Photoreal cinematic, period Japan, slate stone and worn wood, soft grain. No anime. No text. No watermark. No logos.\\n\\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One stone click on wood. Then quiet. No second click."
+  },
+  "summaryTranslations": {
+    "en": "In a close-up shot, an adult's fingers precisely place a black Go stone onto an intersection of a wooden Go board."
+  },
+  "translationVersion": 2,
+  "summary": "特写镜头下，成年人的手指将一枚黑色围棋子精准放置在木质棋盘交叉点上。",
+  "summaryEn": "Close-up of adult fingers placing a black Go stone firmly onto a wooden board intersection.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102535561278001202",
+    "canonicalUrl": "https://x.com/studiokagurajp/status/2102535561278001202",
+    "author": {
+      "username": "studiokagurajp",
+      "displayName": "KAGURA | AI映像スタジオ運営",
+      "profileUrl": "https://x.com/studiokagurajp"
+    },
+    "publishedAt": "2026-09-22T23:08:35.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "ja",
+    "originalText": "I didn't film this. I wrote the weight.\n撮影していません。この石の重さを書きました。\n\nThe first version touched the board like it had no mass. I stopped describing the room and gave the stone one job: land on one intersection, then stay there.\n\n最初は盤に触れているのに、重さがありませんでした。部屋の説明を減らして、「交点に一つ置いて、そのまま止まる」だけを書きました。\n\nPROMPT (worked, as-is):\nSCENE: Wooden go board, 16:9. Locked close-up on empty intersections, grid only. A slate-black convex go stone is held between adult fingers, thirties. A simple wooden bowl sits soft at the far edge. Face out of frame. No writing on the board. No inlay text. No plastic shine.\n\nACTION: One placement. The black stone is set on a single intersection and stays. The fingers withdraw a little and hold. No second stone. No white stone. No sweeping the board.\n\nFOCUS: Tack-sharp on the stone edge, the wood grain of the point, and the fingertip skin. The rest of the board is one stop soft.\n\nPHYSICS: The stone has weight. It clicks onto the wood and sits. It does not hover or slide into place. No magnet snap.\n\nLIGHT: Window light from the left, a small specular on the polished wood only.\n\nSTYLE: Photoreal cinematic, period Japan, slate stone and worn wood, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One stone click on wood. Then quiet. No second click.\n\nModel: Seedance 2.5 @ Higgsfield / 1080p / 10s / Sound On / no Start frame\nCost & time: Not logged for this take.\n\nKeep the verb small. The contact will do the rest.\n動詞を小さくすると、接地が残ります。\n\nIf you use it, save the prompt before changing the subject.\n使うなら、被写体を変える前にこのまま保存してください。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/studiokagurajp/status/2102535561278001202",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102535499688906753/pu/img/MYDwQgoZAACBRXUg.jpg",
+        "analysisUrl": "https://x.com/studiokagurajp/status/2102535561278001202"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/studiokagurajp/status/2102535561278001202",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102535499688906753/pu/img/MYDwQgoZAACBRXUg.jpg",
+  "coverPath": "covers/2102535561278001202.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102535499688906753",
+    "x-post:2102535561278001202"
+  ],
+  "analysis": {
+    "summary": "特写镜头下，成年人的手指将一枚黑色围棋子精准放置在木质棋盘交叉点上。",
+    "summaryEn": "Close-up of adult fingers placing a black Go stone firmly onto a wooden board intersection.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the close-up shot of fingers placing a black Go stone onto a wooden board with matching lighting, physics, and texture."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SCENE: Wooden go board, 16:9. Locked close-up on empty intersections, grid only. A slate-black convex go stone is held between adult fingers, thirties. A simple wooden bowl sits soft at the far edge. Face out of frame. No writing on the board. No inlay text. No plastic shine.\n\nACTION: One placement. The black stone is set on a single intersection and stays. The fingers withdraw a little and hold. No second stone. No white stone. No sweeping the board.\n\nFOCUS: Tack-sharp on the stone edge, the wood grain of the point, and the fingertip skin. The rest of the board is one stop soft.\n\nPHYSICS: The stone has weight. It clicks onto the wood and sits. It does not hover or slide into place. No magnet snap.\n\nLIGHT: Window light from the left, a small specular on the polished wood only.\n\nSTYLE: Photoreal cinematic, period Japan, slate stone and worn wood, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One stone click on wood. Then quiet. No second click.",
+    "sourceRange": {
+      "start": 312,
+      "end": 1362
+    },
+    "translations": {
+      "zh": "场景：木质围棋盘，16:9。定焦特写空白交叉点与网格。三十多岁成年人的手指夹着一枚石板黑双凸围棋子。远端边缘放置简朴木制棋罐。面部出画。棋盘无文字或反光。\n动作：单次落子。黑子置于单一交叉点后静止，手指微缩停滞。无第二子或扫盘动作。\n对焦：精准对焦于棋子边缘、落点木纹及指尖皮肤，其余区域柔化一档。\n物理：棋子具重量感，叩击木面后稳坐，无悬浮、滑动或吸附感。\n光影：左侧窗光，仅抛光木面泛起微弱高光。\n风格：写实电影感，日本历史风，石子与磨损木材，轻微颗粒感。\n音频：仅环境拟音，单次落子脆响，随后寂静。",
+      "en": "SCENE: Wooden go board, 16:9. Locked close-up on empty intersections, grid only. A slate-black convex go stone is held between adult fingers, thirties. A simple wooden bowl sits soft at the far edge. Face out of frame. No writing on the board. No inlay text. No plastic shine.\n\nACTION: One placement. The black stone is set on a single intersection and stays. The fingers withdraw a little and hold. No second stone. No white stone. No sweeping the board.\n\nFOCUS: Tack-sharp on the stone edge, the wood grain of the point, and the fingertip skin. The rest of the board is one stop soft.\n\nPHYSICS: The stone has weight. It clicks onto the wood and sits. It does not hover or slide into place. No magnet snap.\n\nLIGHT: Window light from the left, a small specular on the polished wood only.\n\nSTYLE: Photoreal cinematic, period Japan, slate stone and worn wood, soft grain. No anime. No text. No watermark. No logos.\n\nAUDIO: Diegetic SFX only. No music. No score. No singing. No speech. No narration. One stone click on wood. Then quiet. No second click."
+    },
+    "targetModels": [
+      "seedance2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "cinematic-scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
